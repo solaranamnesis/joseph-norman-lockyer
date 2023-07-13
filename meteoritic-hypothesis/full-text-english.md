@@ -301,4 +301,183 @@ This brings us to consider the chemistry of these messengers from the celestial 
 
 # Chapter 3. The Chemistry of Meteorites.
 
+We have seen that the main difference between the specimens of these bodies which have been collected is that some of them are mainly iron, some of them are mainly stone; and that there is a passage between these two conditions represented by falls in which we have a paste of iron including stony fragments.
+
+We have now to enter into some points connected with their chemical constitution somewhat more in detail.
+
+Of the chemical elements which are at present recognised as such, about one-fourth are found by chemical analysis to exist in meteorites. These, according to the tables given by Maskelyne,* Fletcher,* Smith, and others are as follows.
+
+*) _Nature_, vol. 12. p. 505.
+
+*) _Introduction to Study of Meteorites_, p. 30.
+
+Those that occur most constantly are ---
+
+Hydrogen  
+Calcium  
+Iron  
+Aluminium  
+Nickel  
+Carbon  
+Magnesium  
+Oxygen  
+Manganese  
+Sulphur  
+Cobalt  
+Silicon  
+Copper*  
+Phosphorus  
+
+*) With regard to the presence of cobalt and copper, Dr. L. Smith says (_Mineralogy and Chemistry_, p. 352): "In every analysis that I have made of meteoric irons (over one hundred different specimens) cobalt has been invariably found, along with a minute quantity of copper." --- Flight, _History of Meteorites_, p. 164.
+
+while the following occur less frequently or in smaller quantities:---
+
+Lithium  
+Chromium Sodium  
+Tin Potassium  
+Arsenic Strontium  
+Antimony Titanium  
+Chlorine Nitrogen  
+
+Of these elementary bodies only hydrogen, nitrogen, and carbon occur in an elementary condition. Hydrogen and nitrogen are asserted to be occluded as gases in the stones. Carbon exists both in the form of graphite and diamond.
+
+From the above lists it will be seen that among the elements most common in meteorites are recognised many which have a very wide distribution and exist in great quantities in the surface and envelopes of our planet. But this is true only of the elements.
+
+Many mineral compounds terrestrially common are absent; perhaps the most striking case of all is the absolute absence of free quartz whether crystallised or not from meteorites, while terrestrially it is the most prevalent compound known, and enters into the composition of such common rocks as trachyte, felsite, syenite, gneiss, and granite.
+
+Again, many of the chemical combinations met with are unknown to terrestrial mineralogy. The chemical compounds found in meteorites which are new to our mineralogy may be briefly referred to. Some are combinations with sulphur, as follows ---
+
+Sulphur + Iron = Troilite;  
+Sulphur + Calcium = Oldhamite;  
+Sulphur + (Calcium, Titanium) = Osbornite;  
+Sulphur + (Iron, Chromium) = Daubréelite.  
+
+Phosphides of iron and nickel, forming varieties of so-called schreibersite, are met with.
+
+It has already been stated that carbon in some form or other exists in most meteorites. Some of them are partly composed of this element compounded with hydrogen and oxygen. In this case it exists as a white or a yellowish crystallisable matter, soluble in ether and partly so in alcohol, and exhibiting the characters and the composition of one or more hydrocarbonaceous bodies with high melting-points.
+
+The meteorites of Alais and Cold Bokkeweld are instances of this group. The former is of a black colour both internally and externally, is combustible, and contains sulphates of magnesium, calcium, sodium, and potassium, which are all soluble in water. The latter, after being experimented upon, left a residue which gave out a very bituminous smell; this substance was yellow, and it was found that it was only another form of carbon in a state of intimate mixture, amounting to about 1.67 per cent.
+
+Some carbonaceous stones are dark gray in colour, have little lustre, and are soft; they contain no visible meteoric iron, but an abundance of light gray rounded bodies, among which are occasionally some with a dull metallic lustre and of a greenish-yellow colour, and others of a dark gray compact substance and of earthy character.*
+
+*) Flight, _op. cit._ p. 211.
+
+Various alloys of nickel and iron also occur; those which play the most important part have, according to Meunier, the following composition:---
+
+|Density.|Formula.  
+Tænite|7.380|Fe6Ni  
+Plessite|7.850|Fe10Ni  
+Kamacite|7.652|Fe14Ni  
+Braunine|(?)|Fe16Ni  
+
+Among other minerals we may name ---
+
+Lawrencite, protochloride of iron;  
+Maskelynite, with the composition of labradorite;  
+Silica (as asmanite).
+
+We now come to the common ground.
+
+The following compounds are identical in composition and crystallographic character with minerals found on our globe:---
+
+Magnetic pyrites|Fe7S8  Magnetite|Fe3O4  Chromite|(Fe,Cr)3O4  Silicates, _viz._ ---  Olivine varieties.  Enstatite and bronzite.  Diopside and augite.  Anorthite and labradorite.  Breunnerite.
+
+Among gaseous compounds, the oxides of carbon have been detected in many meteorites, and it is asserted that these gases have been occluded by them in the same manner as the elementary gases hydrogen and nitrogen.
+
+In the "irons" we deal chiefly with nickel-iron, magnesium, manganese, and copper, as metals.
+
+In the "stones" we deal with combinations of magnesium, iron, oxygen, and silicon. One of the most usual substances is called olivine, and sometimes the olivine is in a slightly changed form, in which the quantity of iron is increased, and we get bronzite. Nickel-iron, manganese, and other substances are also found in the stones.
+
+Chemical analysis of the irons has established in them, taken as a whole, the existence of the following mineral species:---
+
+1\. The general metallic mass, which consists of certain alloys, in which iron and nickel predominate to such an extent that the term nickel-iron is by common consent applied to it.
+
+The nickel-iron is an alloy or compound special to meteorites, and the irons are chiefly composed of it. The tracery to which I have referred, observed on the metallic surface treated with acids, was discovered by Widmanstätten. The figures are caused by the crystallisation of the mass: with the iron and nickel magnesium is always associated, _so that we get magnesium in all meteoritic irons_ as well as in the stones.
+
+2\. Compounds of iron and carbon, principally campbelline and chalypite (Fe2C).
+
+3\. Troilite (FeNi)7S8, generally appearing as kidney-shaped masses.
+
+4\. Schreibersite (Fe4Ni2P).
+
+5\. Graphite.
+
+6\. Stony grains, generally magnesium and iron silicates.
+
+7\. Occluded gases.
+
+8\. The crust or varnish. This has been found to be due entirely to the oxidation of the metal. The formula of the crust of the Toluca meteorite, according to Meunier, is Fe2O3(FeNi)O.
+
+The quantities of occluded gases vary considerably. Hydrogen is the first to come out when a vacuum is produced, and in the cold --- that is, when the tube containing the meteorite is not heated.
+
+Thus, Graham found in the Lenarto meteorite, and in a comparative experiment with clean horse-shoe nails made of iron* ---
+
+*) Graham, _Chemical and Physical Researches_, p. 283.
+
+|Meteorite.|Nails.  Hydrogen|85.68|35.0  Carbonic oxide|4.46|50.3  Carbonic acid|...|7.7  Nitrogen|9.86|7.0  |100.00|100.00
+
+Mallet subsequently found in the meteorite picked up in Augusta County* ---
+
+*) _Chemical News_, 21st June 1872.
+
+Hydrogen|85.68  Carbonic oxide|4.46  Nitrogen|9.86
+
+Dr. A. Wright subsequently determined the composition of the gases given off at different temperatures, using the Iowa meteorite. The results were as follows ---
+
+|Hydrogen.|Carbonic Oxide.|Carbonic Acid.|Nitrogen.  Cold|49|14|35|...  At 100° C.|4.54|0 (?)|95.46|...  At 200° C.|5.86|1.82|92.32|...  Red heat.|87.53|0|5.56|6
+
+As regards the so-called occluded gases, iron and stony meteorites, according to Wright, show a marked distinction. While the gases of the Lenarto iron contained 85.68 per cent of hydrogen, those obtained from cosmical masses of the stony kind, such as the Iowa meteorite, are characterised by the presence of carbonic acid, which constitutes nine-tenths of the gas evolved at the temperature of boiling water, and about one-half of that given off at a low red heat.
+
+This view of Wright's has been called in question by Mallet, who refers to his examination of the gases of the iron of Augusta County, Virginia, where the ratio of the oxides of carbon to hydrogen is 4.3, and to his having pointed out in 1872 that hydrogen could no longer be regarded as the characteristic gaseous ingredient of meteoric iron.*
+
+*) Flight, _op. cit._ p. 80.
+
+In the siderites the iron varies from 80 to 98 per cent, and the nickel from 6 to 10 per cent. Sometimes the nickel is found in larger quantities, as in the iron of d'Octibbeha County, Mississippi, found in the year 1854, which contained as much as 59 per cent, while the iron was only 37 per cent.
+
+There is a singular circumstance connected with the varnish of stony meteorites which was observed by Reinsch in the meteorite of Krähenberg. The grains of metallic iron and troilite contained in the varnish show no signs of oxidation. In the meteorite of Morbihan, also, grains of nickel-iron project not only through the smooth inner but also the rough outer crust. It has been suggested that the surface of these meteorites was vitrified before it entered our air, or at all events those lower strata of it in which oxygen is abundant.*
+
+*) _Ib._, _Geological Magazine_, January 1875.
+
+In many cases minute chemical analysis has been most useful in showing that meteorites which have been found in different localities really belong to the same fall.
+
+Professor Nordenskjöld, on examining the Ställdalen meteorites (Sweden, 28th June 1876), found that they resembled some eight or nine others which he had before examined, although they were entirely unconnected as regards their date of appearance; and that together they would form a well-marked group, which, he observes, will probably be found to be only one among many similar groups of aërolites which will hereafter be detected.
+
+Dr. Laurence Smith, from the presence of Daubréelite, inferred a common origin for two meteorites which fell four years apart.*
+
+*) Professor A. S. Herschel, _Monthly Notices_, R. A. S., 1878, p. 219.
+
+The following short table brings together in a compact form the chief substances met with in meteorites. It will indicate the cause of the continued reference to the spectra of magnesium, iron, manganese, and carbon in what follows ---
+
+_Siderites._  
+Nickel-iron, manganese, copper.  
+Troilite.  Graphite.  
+Schreibersite = iron and nickel phosphide, with which magnesium is always associated.  
+Daubréelite = iron and chromium sulphide.  
+
+_Siderolites._  
+_Chondritic_ ---  
+α\. Non-Carbonaceous ---  
+Olivine = chrysolite = peridot = (MgFe)2O4Si = SiO2 41.3, MgO 50.9, FeO 7.7.  
+Enstatite MgO3Si = SiO2 60, MgO 40.  
+Bronzite = enstatite, in which some magnesium is replaced by iron.  
+Nickel-iron, manganese.  
+Troilite.  
+Chromite = iron protoxide 32, chromium sesquioxide 68, + aluminium and magnesium.  
+Augite = pyroxene, SiO2, 55, CaO 23, MgO 16, MnO 0.5, FeO 4.  
+Silicate of calcium, sodium, and aluminium.  
+β\. Carbonaceous ---  
+Carbon in combination with H and O.  
+Sulphates of Mg, Ca, Na, and K.  
+_Non-chondritic_ ---  
+Troilite.  
+Olivine.  
+Enstatite.  
+Bronzite.  
+Augite.  
+Anorthite.  
+
+# Part 2. The Spectroscopy of Meteorites.
+
+## Chapter 4. Experiments on the Spectra of Metals found in Meteorites.
+
 ...
