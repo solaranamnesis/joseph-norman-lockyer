@@ -380,7 +380,15 @@ We now come to the common ground.
 
 The following compounds are identical in composition and crystallographic character with minerals found on our globe:---
 
-Magnetic pyrites|Fe7S8  Magnetite|Fe3O4  Chromite|(Fe,Cr)3O4  Silicates, _viz._ ---  Olivine varieties.  Enstatite and bronzite.  Diopside and augite.  Anorthite and labradorite.  Breunnerite.
+Magnetic pyrites|Fe7S8  
+Magnetite|Fe3O4  
+Chromite|(Fe,Cr)3O4  
+Silicates, _viz._ ---  
+Olivine varieties.  
+Enstatite and bronzite.  
+Diopside and augite.  
+Anorthite and labradorite.  
+Breunnerite.
 
 Among gaseous compounds, the oxides of carbon have been detected in many meteorites, and it is asserted that these gases have been occluded by them in the same manner as the elementary gases hydrogen and nitrogen.
 
@@ -420,11 +428,17 @@ Mallet subsequently found in the meteorite picked up in Augusta County* ---
 
 *) _Chemical News_, 21st June 1872.
 
-Hydrogen|85.68  Carbonic oxide|4.46  Nitrogen|9.86
+Hydrogen|85.68  
+Carbonic oxide|4.46  
+Nitrogen|9.86
 
 Dr. A. Wright subsequently determined the composition of the gases given off at different temperatures, using the Iowa meteorite. The results were as follows ---
 
-|Hydrogen.|Carbonic Oxide.|Carbonic Acid.|Nitrogen.  Cold|49|14|35|...  At 100° C.|4.54|0 (?)|95.46|...  At 200° C.|5.86|1.82|92.32|...  Red heat.|87.53|0|5.56|6
+|Hydrogen.|Carbonic Oxide.|Carbonic Acid.|Nitrogen.  
+Cold|49|14|35|...  
+At 100° C.|4.54|0 (?)|95.46|...  
+At 200° C.|5.86|1.82|92.32|...  
+Red heat.|87.53|0|5.56|6
 
 As regards the so-called occluded gases, iron and stony meteorites, according to Wright, show a marked distinction. While the gases of the Lenarto iron contained 85.68 per cent of hydrogen, those obtained from cosmical masses of the stony kind, such as the Iowa meteorite, are characterised by the presence of carbonic acid, which constitutes nine-tenths of the gas evolved at the temperature of boiling water, and about one-half of that given off at a low red heat.
 
