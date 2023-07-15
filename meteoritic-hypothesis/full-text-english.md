@@ -937,6 +937,8 @@ Although this coincidence is rather striking, it must be remembered that there a
 
 Capron remarks that "if the violet pole glow spectrum is to represent the aurora spectrum, it must be under conditions different from those by which it obtains in dry-air vacuum tubes or flasks at ordinary temperatures" (_Auroræ_, p. 126).
 
+[Fig. 13. --- Diagram showing that the Aurora Spectrum is not a Spectrum of Nitrogen or Oxygen.]()
+
 There can, therefore, be little doubt that the aurora spectrum has nothing in common with the negative pole spectrum of nitrogen, and that the three close coincidences noted by Ångström are merely accidental.
 
 With regard to Ångström's remark that Vogel's theory that the aurora spectrum is a spectrum of air under unknown conditions is inadmissible, we now know that gas spectra are not so invariable as Ångström supposed; but still we have no right to assume that any particular change is possible until we can prove it experimentally, or at the very least, prove an approach to such a change. If we assume that any change may take place in any spectrum, we upset the whole basis of spectrum analysis.
