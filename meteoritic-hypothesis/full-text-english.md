@@ -766,4 +766,265 @@ The main conclusions are ---
 
 ## Chapter 7. Identity of Origin of Luminous Meteors and Falling Stars with Meteorites.
 
+It is very fortunate for science that many of the meteorites so carefully preserved in our museums _have been seen to fall_. This being so we possess full accounts of the accompanying phenomena and effects.
+
+These comprise the most vivid luminosity; visible and audible explosions, in some cases heard over thousands of square miles of country, and, at times, a long train in the sky sometimes remaining visible for hours and indicating the path of the meteor.
+
+Now, precisely similar effects have been noted when nothing has reached the earth's surface; and in the thousands of records of the phenomena presented by luminous meteors, fire-balls, bolides, and shooting or falling stars as they have been variously called, we have the links which connect in the most complete manner the falls of actual irons and stones from heaven with the tiniest trail of a shooting or falling star, _une étoile qui file, qui file, et disparaît_.
+
+The heavy masses fall by virtue of their substance and compactness resisting the friction of the air, the smaller bodies are at once burnt up and fill the upper regions of the earth's atmosphere with meteoritic dust.
+
+The difference is only one of size, and on this ground I employ the word meteorite in this book to define the smallest as well as the largest masses.
+
+As we have seen, the weights of meteorites which have actually fallen vary between many tons and a few ounces, the latter being, in all probability, fragments shattered by the explosion. In the case of some shooting-stars the actual weight involved has been estimated by Professor Herschel as low as _two grains_. In telescopic shooting-stars the weight must be very much less than this, not one out of twenty estimated by him exceeding a pound.
+
+It may appear impossible that such atoms should produce the brilliant effects observed, but Professor Herschel has calculated that a single grain moving at the rate of 30 miles a second represents a dynamical energy of 55,675 foot-pounds. This energy is converted by the resistance of our grosser air into heat, as the motion of a projectile is converted into heat by its impact on the target;* and hence the combustion of the matter of the meteorite, and perhaps even the incandescence of the air through which it rushes with such considerable velocity. This luminosity often commences at a height of about 80 miles, and sometimes even higher, in regions where the atmosphere must be excessively rare.
+
+*) The particles of iron in a large projectile, after impact, which is accompanied by a flash of light, are usually brought to a dark blue colour, which would correspond to about 555° F., but the momentary heat imparted is certainly greater than this.
+
+Could these little bodies pierce our envelope as readily as do their larger kindred, the meteoritic stones and meteoritic irons, we should certainly have the advantage of placing them in our museums; but, on the other hand, the bombardment --- the _feu de ciel_ --- might be one to which the _feu d'enfer_ of all terrestrial artillery would be, in the gross total of results, as mere child's play.
+
+But the identity of the concomitant phenomena is by no means the only line of evidence demonstrating the connection now in question.
+
+_Proof afforded by the Spectra of Meteors and Shooting-Stars._
+
+The spectral appearances observed with meteors, fire-balls, and shooting-stars, which explode and produce luminous effects, are entirely in harmony with those observations on the spectra of meteorites to which I have referred.
+
+The observations, so far as they have gone, have given decided indications of magnesium, sodium, lithium, potassium, and of the carbon flutings seen in comets.
+
+Professor Herschel and Herr Konkoly have both noticed that in the generality of cases the lines of magnesium (one of the constituents of the olivine) show themselves first in the ordinary meteor or falling star, and the beautiful green light, which is so often associated with these falling bodies, is due to the incandescence of the vapour of magnesium.
+
+The following quotations from Konkoly and Professor Herschel are among the authorities which may be cited for the above statement:---
+
+On 12th, 13th, and 14th August I observed a number of meteors with the spectroscope; amongst others, on the 12th, a yellow fire-ball with a fine train, which came directly from the Perseid radiant. In the head of this meteor the lines of lithium were clearly seen by the side of the sodium line. On 13th August, at 10h. 46m. 10s., I observed in the north-east a magnificent fire-ball of emerald-green colour, as bright as Jupiter, with a very slow motion. The nucleus at the first moment only showed a very bright continuous spectrum with the sodium line; but a second after I perceived the magnesium line, and I think I am not mistaken in saying those of copper also. Besides that, the spectrum showed two very faint red lines.*
+
+*) Konkoly, _Observatory_, vol. 3. p. 157.
+
+A few of the green "Leonid" streaks were noticed in November (1866) to be, to all appearances, monochromatic, or quite undispersed by vision through the refracting prisms; from which we may at least very probably infer (by later discoveries with the meteor-spectroscope) that the prominent green line of magnesium forms the principal constituent element of their greenish light.*
+
+*) Professor Herschel, letter to _Nature_, vol. 24. p. 507.
+
+Again, later on in the same letter, Professor Herschel mentions Konkoly's observation of the bright _b_ line of magnesium, in addition to the yellow sodium line, in a meteor on 26th July 1873. I again quote from Professor Herschel ---
+
+On the morning of 13th October in the same year, Herr von Konkoly again observed with Browning's meteor-spectroscope the long-enduring streak of a large fire-ball, which was visible to the north-east of O'Gyalla. It exhibited the yellow sodium line and the green line of magnesium very finely, besides other spectral lines in the red and green. Examining these latter lines closely with a star-spectroscope attached to an equatorial telescope, Herr von Konkoly succeeded in identifying them by direct comparison with the lines in an electric Geissler-tube of marsh-gas. They were visible in the star-spectroscope for eleven minutes, after which the sodium and magnesium lines still continued to be very brightly observable through the meteor-spectroscope.*
+
+*) Herschel, letter to _Nature_, vol. 24. p. 507. See also _Astr. Nach._, No. 2014.
+
+Another series of observations* gives continuous spectra for the nucleus, and two trains with sodium, and a third with sodium and a predominant green band, which was doubtless _b_ of magnesium, the meteor itself being of emerald-green colour.
+
+*) _Monthly Notices_, vol. 23. p. 575.
+
+In cases where the temperature has been higher, the bright line spectrum of iron has been associated with the bright lines of magnesium in the spectrum of the falling star, so that the two substances which are among the chief constituents of stones and irons --- precisely the two substances which we should expect to find --- are actually those which have been observed. The two lines which Konkoly supposes to be probably due to copper will, I expect, be found to be iron lines when other observations are made of the spectra of meteors.
+
+These spectral appearances are naturally associated with colours, and again we find that the colours of the trail, when meteorites have fallen, closely resemble those observed when no fall has been observed. Green is a tolerably common colour, especially in slow-moving fire-balls about equal to Venus in lustre. These generally leave a short trail of red sparks.
+
+About 10 per cent of all shooting-stars show a distinct colour, the most usual being orange or red, the slow-moving ones generally being red. The larger ones, or those with the longest trails, often turn from orange to bluish-white, like burning magnesium. Sometimes the change is very sudden and startling.*
+
+*) Corder, _Monthly Notices_, vol. 40, p. 133.
+
+A purple or mauve tint, like that given by copper, is sometimes remarked.
+
+_Proof afforded by Similar Velocities._
+
+Again, the meteorites, as we have seen, enter our atmosphere with very different velocities. The same thing happens with falling stars, which on this account have been divided into three classes as follows ---
+
+Class 1. Swift, streak-leaving meteors.  
+Class 2. Slow, with trains of sparks.  
+Class 3. Small, quick, short-pathed, sometimes with streaks.
+
+It has also been determined that the luminous effect which is common to the fall of a meteorite or the appearance of a shooting-star begins at relatively different heights. In fact, we have in meteorites, large fire-balls, and shooting-stars, a progression both with regard to the height at which they become visible and the nearness to the earth at which their luminosity is extinguished.
+
+The actual determination of these heights was commenced by two Göttingen students --- Brandes and Benzenberg --- in 1798, at the suggestion of Chladni, with the result that the upper reaches of the earth's atmosphere were found to be pierced by bodies entering it with planetary velocities.
+
+Professors Herschel and Newton were the first to discuss the data accumulated on this subject,* while, as early as 1864, Father Secchi made use of the electric telegraph in securing simultaneous observations.* The results of these combined inquiries may be thus shown in the case of shooting-stars ---
+
+|Beginning. Height in miles.|End. Height in miles.|Authority.  
+Europe and America, 1798-1863|70.1|54.2|H.  
+Europe and America, 1798-1863|73.5|50.6|N.  
+Italy, 1864|74.6|49.7|S.  
+Average|72.7|51.5|
+
+*) Herschel, B. A. Report, 1863, p. 328; Newton, _Silliman's Journal_, second series, vol. 37., July 1864.
+
+*) _Bull. Meteor._ vol. 3. p. 67.
+
+In Herschel's values fire-balls are excluded, and hence the limits are narrower.* Fire-balls often arrive within 20 miles of the earth's surface, and then the concussion is of nearly the same intensity whether stones fall or not. Denning finds the average beginning-heights of meteors generally is 76.4 miles (from 683 computed paths), and the average end-heights 50.8 miles (from 756 computed paths). The usual end-height of ordinary shooting-stars is 54 miles, and of fire-balls 30 miles.*
+
+*) _Monthly Notices_, vol. 25. p. 159.
+
+*) _Journal_, Liverpool Astr. Soc., vol. 7. p. 128.
+
+Such determinations as these, when the observations can be depended upon, can be made with the greatest nicety and by graphical methods. One of the earliest employed --- a description of which will give a fair idea of the investigation --- is due to Colonel Laussedat.*
+
+*) _Comptes Rendus_, vol. 58. p. 1100, 1864.
+
+The observations stating the path of each meteor among the stars having been obtained, a 12-inch celestial globe is "rectified" in the usual manner for the place and time. In this way we get first the azimuth and altitude of the beginning and end of each trail. This is done for every place at which the same meteor is observed.
+
+The results are then plotted on a large scale map, on which the latitudes and longitudes of the places of observation and the distances between them can be determined. The altitudes and distances permit the heights at the intersection of the lines of sight to be at once found, and the agreement or disagreement of the observations can be noticed, thus allowing inaccurate observations to be rejected.
+
+By utilising such observations as these, it is possible not only to determine the heights of meteors, but also to discover the special places on the earth over which they are visible, as well as the velocity with which they traverse the atmosphere. The lowest velocity determined up to the present time is something like 2 miles per second; the maximum is something like 50 miles a second; but we may say that the average rate of movement is 30 miles a second, which is about 150 times faster than a shell leaving one of our most powerful guns.
+
+## Chapter 8. The Aurora a Phenomenon produced by the Dust of Meteors and Falling Stars.
+
+I have already stated that Professor Newton and others have calculated that not less than 20,000,000 of meteorites, each large enough to present us with the phenomenon of a shooting-star visible to the naked eye, enter our atmosphere daily. If this be conceded, the outer parts of our atmosphere must be constantly charged with meteoritic dust, whether oxidised or not, in a state of suspension, while it is possible that the earth encounters particles finer than that which produces the phenomena of falling stars. This being so, if we can trace this dust in the air, or after it has fallen, or both --- if chemical examination shows it to be identical with that of meteorites --- we shall be supplied with another argument which can be used in support of the fact that the bodies which produce the dust are meteoritic in their origin.
+
+It is natural to suppose that meteors in their passage through the air break into fragments; that incandescent particles of their constituents, including nickel-iron, manganese, and the various silicates, are thrown off; and that these, or the products of their combustion, eventually fall to the surface as almost impalpable dust, among which must be magnetic oxide of iron more or less completely fused. The luminous trains of falling stars are probably due to the combustion of these innumerable particles, resembling the sparks which fly from a ribbon of iron burnt in oxygen, or the particles of the same metal thrown off when striking a flint. It is known that such particles in burning take a spherical form, and are surrounded by a layer of black magnetic oxide.
+
+How are we to trace this dust in the air? It is well known that at times the air is electrically illuminated, not only by the flashes of lightning which pass along its lower levels, but by so-called "auroral" displays in its higher reaches, and the only means open to us of determining the presence or absence of this dust in the higher regions of the air is by observations of the atmosphere containing it when it is rendered luminous by electrical discharges. It is clear that in such a case as this the spectroscope is the only chemical aid applicable, and it has long been recognised that the spectrum observed is _not_ the spectrum of the constituents of the atmosphere, as we can study it in our laboratories.
+
+It becomes necessary, therefore, to make a thorough investigation of the spectrum of the aurora borealis from the point of view that meteoritic dust, if it exists, is likely to assert itself in any electrical excitation of the atmosphere.
+
+It is now many years since the idea was first thrown out that the aurora was in some way connected with shooting-stars. The connection was first suggested by Olmsted in 1833.* In M. Zenger's catalogue of aurorae observed from 1800 to 1877, he shows an apparent connection between the brightest displays and the appearance of large numbers of shooting-stars. M. Denza remarked the same connection on 27th November 1872, and that he had noticed it before. Admiral Wrangel, as quoted by Humboldt, observed that in the aurorae so constantly seen on the Siberian coast, the passage of a meteor never failed to extend the luminosity to parts of the sky previously dark.
+
+*) _Silliman's Journal_, vols. 35., 36.
+
+In spite of these ideas, even after the chemical nature of shooting-stars was known, observers have in the main contented themselves with making comparisons of the aurora spectrum with the spectrum of air under different conditions of temperature and pressure.
+
+It has never been possible, however, to reconcile the aurora spectrum with any known spectrum of air. Some observers are of opinion that the lines seen in the aurora coincide with air-lines, but have different intensities, and attempt to overcome this difficulty by assuming that the aurora spectrum is produced under conditions which we are unable to imitate in our laboratories.
+
+It is necessary to state that the existing observations of aurora spectra show such great differences of wave-length for what are probably the same lines, that it is somewhat difficult to assign origins for the lines. These discrepancies occur not only in the measures made by different observers, but in those made at different periods by the same observer. Further, the individual observations are seldom recorded, but in place of them are given the means of several observations, and in some cases the means have been obtained by grouping together lines which are very far apart. At best, therefore, it is only possible to suggest the probable origin of the lines and bands seen.
+
+_Ångström's First Observations._
+
+The spectroscope was employed in investigating the nature of the aurora spectrum by Ångström in 1867.* He found that the light was almost perfectly monochromatic, the spectrum consisting mainly of a yellow-green line at a wave-length given by him as 5567. With a wide slit other faint bands were visible.
+
+*) _Le Spectre Normal du Soleil_, p. 41.
+
+The note is so short that I give it in full; translated it reads thus ---
+
+1868. --- From the time of Franklin's memorable observations on electricity up to the present there has been such a perfect agreement between the actions of this natural force and those of frictional electricity, that it was easy to foresee that the spectrum of lightning must be the same as that produced by the ordinary electric discharge in air. The observations made by M. Kundt have perfectly proved this. The two phenomena of the aurora borealis and of terrestrial magnetism being so closely connected with each other, that the appearance of the aurora is always accompanied by disturbances of the magnetic needle, it might be supposed that the aurora borealis was only an electric flash, which is, however, not the case. During the winter of 1867-68 I was able several times to observe the spectrum of the luminous arc which borders the dark segment, and is always present in faint auroræ. Its light was almost monochromatic, and consisted of one bright line, on the left of a group of calcium lines. I determined the wave-length of the line, which was equal to λ = 5567. Beyond this line, the intensity of which is relatively great, I observed also, by increasing the width of the slit, traces of three very faint bands which extended almost to F. On one occasion only, where the luminous arc was agitated by undulations which changed its form, I saw the regions in question lighted momentarily by some faint spectral lines; but considering the lack of intensity of the rays, it may still be said that the light of the luminous arc is sensibly monochromatic.
+
+Here is a circumstance which gives this observation on the spectrum of the aurora borealis a greater and even cosmic importance. During a week of the month of March 1867 I succeeded in observing the same spectral line in the zodiacal light, which had then an extraordinary intensity for the latitude of Upsala. At last, during a starlight night, the whole heavens being in a manner phosphorescent, I found traces of it even in the faint light emitted from all parts of the firmament. A very remarkable fact is that the line in question coincides with none of the known lines in the spectra of simple or compound gases, at least so far as I have studied them at present. It follows from what I have said that an intense aurora borealis, such as may be observed above the polar circle, will probably give a more complicated spectrum than that which I saw. Supposing that to be the fact, it may be hoped that in the future it will be possible to explain more easily the origin of the lines found and the nature of the phenomenon itself. Not being able to give this explanation at present, I propose to turn to it another time.
+
+_Zöllner's View._
+
+In the _Report to the Royal Saxon Academy of Sciences_, October 1871, Zöllner expressed the opinion that the temperature of the incandescent gas of the aurora must be very low. He affirmed that the spectrum does not correspond with that of any known substance, and suggests, therefore, that it may be one given by air under some peculiar condition which cannot be experimentally reproduced. (A translation of Zöllner's paper is given in the _Philosophical Magazine_, vol. 41. p. 122.)
+
+_Vogel's Views._
+
+Vogel also makes the same affirmation, and comes to the same conclusion as Zöllner, namely, that the spectrum of the aurora is one which cannot be artificially produced. He suggests that it may be the integrated spectrum of several layers which exists under different conditions (_Reports of the Royal Saxony Academy of Sciences_, 1871).* He points out that the characteristic line in the aurora spectrum observed by Ångström is coincident with a very faint line of nitrogen. That this line should appear in the aurora spectrum with enhanced intensity he regards as quite consistent with the known variability of gas spectra under various conditions of temperature and pressure. He also points out the possible coincidence of one of the lines with a line in the negative pole spectrum of nitrogen at wave-length 5224, of another with an oxygen line at 5189, and of another with the strong nitrogen line 5004. The red line in the spectrum he regards as having the same origin as the group of lines in the spectrum of nitrogen which extends from 6213 to 6620, and brightens towards the violet end, the change in appearance being due to the faintness of the aurora. This, however, is not likely to be the case, as the red line has been seen both bright and sharp (R. H. Proctor, "Aurora," _Encyclopaedia Britannica_).
+
+*) A translation of Vogel's paper is given by Capron, _Auroræ_, p. 194.
+
+In the same paper, Vogel shows the close coincidences between the aurora lines and lines in the spectrum of iron, but considers it more in accordance with probability to regard the aurora spectrum as a modification of the spectrum of atmospheric air.
+
+_Ångström's further Observations and Conclusions._
+
+In a later paper (_Nature_, vol. 10. p. 210), Ångström arrives at conclusions which may be thus briefly stated ---
+
+1\. That the aurora has two different spectra, one consisting of the characteristic line, and the other of the fainter lines.
+
+2\. That the coincidences of the bright green line with a faint line in the spectrum of air, as determined by Dr. Vogel, is purely accidental, and also that there is no coincidence of any importance with any member of the hydrocarbon group in which it falls.
+
+3\. That the bright line is probably due to fluorescence or phosphorescence.
+
+4\. That Vogel's theory of unknown conditions of temperature and pressure being competent to produce the change from the ordinary experimental spectrum of air to that given by the aurora is inadmissible.  (Ångström regarded the spectrum of a gas as invariable.)
+
+5\. That moisture may be neglected in considering the nature of the aurora spectrum.
+
+He describes an experiment on a glow equivalent to the glow of the negative pole of an air vacuum-tube, in which the spectrum obtained showed close coincidences with three faint lines in the aurora spectrum. A layer of phosphoric anhydride is spread over the bottom of a flask fitted with platinum wires; after exhaustion with an air-pump, the current from an induction coil is passed between the two platinums. The flask then becomes filled with a violet light like that which, under ordinary conditions, only appears at the negative pole. The spectrum of this light shows the following close coincidences with that of the aurora:---
+
+Auroræ Barker|431|470.5|...  
+Auroræ Vogel|...|469.4|523.3  
+Auroræ Ångström|...|472.0|521.0  
+Auroræ Lemström|426.2|469.4|523.5  
+Means|428.6|470.3|522.6  
+Violet Light|427.2|470.7|522.7 
+
+Although this coincidence is rather striking, it must be remembered that there are other strong bands in the spectrum of the negative pole which do not appear in aurora spectra. As mapped by Hasselberg, the spectrum of the negative pole consists of a series of bright flutings shaded off towards the violet, the brightest edges of them being at wave-lengths 419.8, 423.6, 427.8, 451.5, 455.4, 459.9, 465.1, 470.8, all these are of equal intensities* (see Fig. 13).
+
+*) _Mémoires de l'Academic Impériale des Sciences de St. Pétersburg_, Series 7., vol. 32. No. 15.
+
+Capron remarks that "if the violet pole glow spectrum is to represent the aurora spectrum, it must be under conditions different from those by which it obtains in dry-air vacuum tubes or flasks at ordinary temperatures" (_Auroræ_, p. 126).
+
+There can, therefore, be little doubt that the aurora spectrum has nothing in common with the negative pole spectrum of nitrogen, and that the three close coincidences noted by Ångström are merely accidental.
+
+With regard to Ångström's remark that Vogel's theory that the aurora spectrum is a spectrum of air under unknown conditions is inadmissible, we now know that gas spectra are not so invariable as Ångström supposed; but still we have no right to assume that any particular change is possible until we can prove it experimentally, or at the very least, prove an approach to such a change. If we assume that any change may take place in any spectrum, we upset the whole basis of spectrum analysis.
+
+_Comparison of the Aurora Spectrum with the Negative Pole Spectrum of Oxygen._
+
+The negative pole spectrum of oxygen, as mapped by Schuster (_Phil. Trans._ Part 1., 1879), consists of four broad bands, the two brightest having the following positions:---
+
+5205.0 Brightest part 5255  
+5292.5 Brightest part 5255
+
+5552.8 Brightest part 5586  
+5629.6 Brightest part 5586
+
+Under great dispersion, these bands break up into series of lines. The proximity of the brightest part of one band (5586) to the aurora line is notable, but considering that the aurora line is always sharp, Schuster concludes that there is no connection between the spectrum of the aurora and that of the negative pole glow of oxygen (quoted by Capron, _Auroræ_, p. 130).
+
+_Comparison with the Spectrum of Hydrogen._
+
+Similarly, all attempts to identify the spectrum of the aurora with that of hydrogen, another constituent of our atmosphere (in the form of water vapour), have failed. On this point Capron remarks: "No principal line and one subsidiary line only,* actually coincide with the aurora spectrum, this last being that to which Dr. Vogel assigns an identical wave-length, viz. 5189" (_Auroræ_, p. 109).
+
+*) The subsidiary lines of hydrogen constitute what I have elsewhere described as the structure spectrum of hydrogen.
+
+That this coincidence is of no importance is obvious when it is remembered that there are a great number of such lines in the spectrum of hydrogen, and that no experiments have been recorded indicating that this line is more persistent than the others.
+
+_Comparison with the Spectrum of Phosphoretted Hydrogen._
+
+Next in importance to comparisons of the aurora spectrum with air spectra is the comparison with the flame of phosphoretted hydrogen, in connection with Ångström's suggestion that the characteristic green line may be due to phosphorescence or fluorescence. The spectrum of phosphoretted hydrogen consists of several bands, the centres of the four brightest being at 526.3, 510.6, 560.5, and 599.4 (Lecoq de Boisbaudran, _Spectres Lumineux_, p. 189). These bands brighten when the flame is artificially cooled, especially the less refrangible ones.
+
+On this subject Capron says ---
+
+Having regard to the near proximity of the phosphoretted hydrogen band to the bright aurora line, to the circumstance of this band brightening by reduction of temperature (a phenomenon probably connected with ozone), to the peculiar brightening of one line in the green in the "aurora" and "phosphorescent" tubes (the phosphorescent tubes probably containing O), and to the observed circumstance that the electric discharge has a phosphorescent or fluorescent afterglow (isolated, I believe, by Faraday), I feel there is strong evidence in favour of such an origin to the principal aurora line, if not to the red line as well (_Auroræ_, p. 126).
+
+But the mere fact of one of the phosphoretted hydrogen bands, and that only the third in order of brightness, falling near the characteristic aurora line cannot be supposed to be anything more than accidental, unless the absence of the two brightest bands can be explained. As this cannot be done, the suggestion may be disregarded.
+
+The information given about the green line seen in the phosphorescent tube by Capron is sufficient for any conclusions to be arrived at.
+
+_Groeneman's Meteoric Dust Theory._
+
+So far we have had chiefly to deal with theories in which the aurora spectrum is regarded as being inseparable from that of atmospheric air, but we have next to consider one which, if true, would give a totally different origin.
+
+In 1874 Groeneman (_Ast. Nach._ No. 2010) resuscitated the theory of Olmsted that the aurora has its origin in the fall of incandescent meteoric dust.* The iron particles are regarded as being competent to produce the magnetic phenomena which accompany auroræ. This theory was not received very favourably, because it left the spectroscopic phenomena as far from a solution as ever. Thus Capron remarks (_Auroræ_, p. 170) that "if auroræ were composed of incandescent glowing meteors, it would be reasonable to expect to find in the spectrum the lines of iron, a metal constituting so prominently the composition of meteorites. No connection between the iron and the aurora spectrum is, however, proved, though it may be suspected. The iron spectrum contains so many lines that some may, as a mere accidental circumstance, closely agree with the aurora lines." Yogel also considers that we are not entitled to regard the close coincidences of the aurora lines with some of the iron lines as complete evidence of iron vapour, until we have succeeded in showing by experiments that the relative intensities of the iron lines are subject to great changes, and in this way accounting for the appearance of faint lines in the aurora spectrum, or, on the other hand, for the absence of the strongest lines. I shall show subsequently what experiments have now conclusively proved the presence of iron.
+
+*) This theory was subsequently discussed in an appendix to the _Memorie della, Societa degli Spectroscopisti Italiani_, 1878.
+
+_Mr. Capron's Conclusions._
+
+In reviewing the theories suggested up to 1879, to explain the origin of aurorse, Mr. Eand Capron makes the following statement: ---
+
+As the general result of spectrum work on the aurora up to the present time, we seem to have quite failed in finding any spectrum which, as to position, intensity, and general character of lines, well coincides with that of the aurora. Indeed, we may say we do not find any spectrum so nearly allied to portions even of the aurora spectrum as to lead us to conclude that we have discovered the true nature of one spectrum of the aurora (supposing it to comprise, as some consider, two or more). The whole subject may be characterised as still a scientific mystery (_Auroræ_, p. 171).
+
+_Lemström's Observations._
+
+The next contribution to our knowledge of aurora spectra of any importance is that of Lemström's (_L'Aurore Boréale_, 1886). All previous observers who attempted to identify the spectrum of the aurora with that of atmospheric air failed to do so, but Lemström asserts (p. 158) that the twelve lines which have been recorded in aurora spectra are nearly all seen in the spectrum of a Geissler-tube containing the same gases as those constituting our atmosphere. The differences in the relative intensities he believes to be due to conditions of temperature and pressure.* Although the auroral line (wave-length 557) does not agree perfectly with the line at 558 seen in the spectrum given by his _appareil de l'aurore boréale_ (air vacuum-tubes illuminated by sparks from a Holtz machine), he regards the atmospheric origin of the aurora spectrum as completely demonstrated. He states (p. 138) that the characteristic line of the aurora spectrum is always seen in the light produced by the discharge of an electric current (by means of his _appareil d'écoulement_) from the top of a mountain. He gives a table of auroral lines compared with the lines in the spectra of rarefied air, as observed by himself, and by Vogel and Sundell under other conditions. The air lines recorded by Vogel nearly all coincide with lines recorded as oxygen lines by Schuster (_Phil. Trans._ Part 1. 1879); but it is important to note that some of the strongest lines mapped by Schuster are absent from Vogel's list (see Fig. 13). So that, even if we allow that some of the aurora lines fall near lines of oxygen, the absence of the brightest oxygen lines from the spectrum is sufficient evidence for us to safely conclude that we are not dealing with the line spectrum of oxygen. We have previously seen that it is not the negative pole spectrum of oxygen.
+
+*) "Si l'on se demande pourquoi on ne voit point dans l'aurore polaire toutes les raies existant dans ces gaz, l'experience répond que les raies des gaz changent selon la température et la pression de ces gaz" (_L'Aurore Boréale_, p. 158).
+
+In the same table (_L'Aurore Boréale_, p. 92), the aurora lines are compared with some of the lines or bands observed in the spectrum of rarefied air by Lemström. The air lines which he gives all agree in position with some of the nitrogen flutings mapped by Hasselberg (_Mémoires de l'Académie Impériale de St. Pétersbourg_, Series 7., vol. 32., No. 15). One of them is at wave-length 558, and this he believes to be coincident with the aurora line 557. The intensity of the line is not given, but Hasselberg gives it as a comparatively feeble fluting at 557 (see Fig. 13). Considering the absence of the brightest nitrogen flutings from the spectrum of the aurora, the supposed coincidences between some of Lemström's rarefied air lines and lines in the aurora spectrum, which are far from perfection, may be disregarded.
+
+The same objections apply to the lines in the rarefied air spectrum which have been recorded by Sundell; those which fall anywhere near lines in the aurora are comparatively faint flutings or lines in the spectrum of nitrogen; at all events, flutings of the same or greater intensities are absent, and there is no evidence to show that the coincident ones retain their brightness as the others fade.
+
+Lemström thus leaves the origin of the aurora spectrum as uncertain as ever. There is no evidence to show that it is a spectrum of air, or, indeed, of any other gas. If it be a spectrum of air, it is one which has never been obtained experimentally, and one which can only be put forward by making unphilosophical assumptions and carefully avoiding experiments.
+
+_Gyllenskiöld's Observations and Conclusions._
+
+Still later observations of the aurora which have been published are those made at Cape Thorsden by M. Carlheim-Gyllenskiöld.* Two lists of lines are given, one from observations made with a Hofmann spectroscope, and the other from observations made with a Wrede spectroscope. The lines in the first list extend from blue to red, and those in the second list from green to violet. The individual observations of different aurorse with the lines observed in each are given. 36 auroræ are recorded in which only 1 line was visible, 15 in which there were only 2 lines, 6 with 3 lines, 15 with 4 lines, 5 with 6 lines, 4 with 7 lines, 1 with 8, 1 with 9, and 1 with 10 lines, so that altogether no less than 84 observations are recorded.
+
+*) _Observations faites au Cap Thorsden, Spitzberg, par V Expédition Suédoise_, vol. 2. p. 1. _Aurora Borealis_, par Carlheim-Gyllenskiöld.
+
+The total number of lines seen was 32.  Gyllenskiöld's main conclusions are ---
+
+1\. That 16 of the aurora lines nearly coincide with air lines, 8 with the positive pole spectrum of nitrogen, 4 with the negative pole spectrum of nitrogen, and 3 with lines of hydrogen.
+
+2\. That the aurora spectrum greatly resembles that of lightning, and he regards it as consisting of several superposed spectra.  The variable character of the spectrum is accounted for by the absence sometimes of one, sometimes of another, of these elementary spectra.
+
+3\. That the brightness of the aurora does not depend upon the energy of the electrical discharge which produces it, but upon some cause with which we are not acquainted.
+
+4\. Two kinds of auroræ are distinguished, --- red and yellow. In the former, the positive pole spectrum of nitrogen is predominant, while in the latter the negative pole spectrum is predominant. Laboratory experiments have shown that the positive pole spectrum of nitrogen is given by dense moist air, while the negative pole spectrum is given by rarefied dry air; and Gyllenskiöld suggests that the yellow auroræ are formed in the higher parts of the atmosphere, and the red ones in the lower layers.
+
+5\. That the observations bear out Ångström's suggestion that some of the bands belong to the negative pole spectrum of nitrogen. He says: "Nos observations confirment done l'opinion d'Ångström, que les bandes faiblement lumineuses de l'aurore boréale appartiennent au spectre du pôle negatif; auxquelles les bandes et les lignes de l'azote se joignent dans certains cas." He observes that the characteristic line of the aurora appears in company with the negative pole spectrum, and says it is probable that some of the more refrangible bands of the positive pole spectrum also appear at the same time. Both the positive and negative pole spectra are very rich in violet and ultra-violet rays, and Gyllenskiöld's observations support Ångström's view, that the characteristic line is due to the fluorescence of oxygen produced by the violet light of the negative pole.
+
+This fluorescence, however, cannot be reproduced in experiments with Geissler-tubes, and M. Gyllenskiöld concludes that the origin of the characteristic line still remains unexplained, but he suggests that its origin may eventually be discovered by investigation of the fluorescent spectra of various chemical substances.
+
+The characteristic aurora line therefore remains unexplained by M. Gyllenskiöld. As regards the remaining lines, he states that sixteen nearly coincide with air lines, but it is important to note that these are not the sixteen strongest air lines. Some of the lines fall near to bands in the positive pole spectrum of nitrogen, as Gyllenskiöld points out; but equally strong or stronger bands are not seen in the aurora, so that the coincidences are only accidental. The same applies to the bands in the negative pole spectrum.
+
+Like Lemström, then, Gyllenskiöld makes no advance as regards the origin of the spectrum of the aurora, but at the same time it is only fair to acknowledge the value of the observations. With regard to the third conclusion, my work suggestst hat the brightness of the aurora may depend upon the varying quantities of meteoritic dust in the atmosphere at different times.
+
+I have next to refer to my own observations and comparisons.
+
+## Chapter 9. Some Experiments and a further Discussion.
+
 ...
