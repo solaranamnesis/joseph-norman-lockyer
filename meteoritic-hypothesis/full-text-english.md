@@ -508,11 +508,11 @@ A small portion of the substance to be examined is then supported in a pair of f
 
 The following table shows the positions of the principal lines, bands, and flutings seen in the spectrum of each of the metals examined, at the two temperatures indicated, arranged roughly in the order of their intensities.
 
-It should here be stated that as some of the researches have had to deal with feeble illumination small dispersion has been of necessity employed; and to make the observations along the several lines comparable, a one-prism spectroscope was in the first instance used throughout. Hence the wave-lengths given are in all cases only approximate. With this proviso the lines observed have been as follows |||
+It should here be stated that as some of the researches have had to deal with feeble illumination small dispersion has been of necessity employed; and to make the observations along the several lines comparable, a one-prism spectroscope was in the first instance used throughout. Hence the wave-lengths given are in all cases only approximate. With this proviso the lines observed have been as follows ---
 
 [TABLE]
 
-[Fig. 3. ||| Spectra of Metals at the Temperature of the Oxy-Coal-Gas Blowpipe.]()
+[Fig. 3. --- Spectra of Metals at the Temperature of the Oxy-Coal-Gas Blowpipe.]()
 
 All the flutings, with the exception of those seen in the case of magnesium, have their maxima towards the blue, and shade off towards the red end of the spectrum.
 
@@ -524,7 +524,7 @@ Fig. 4 is a map of a few of the more important elements which enter into our dis
 
 A glance at the map shows that if there are any indications of magnesium, for instance, in bodies at low temperatures, the fluting at wave-length 500 will be seen, possibly without the other fluting or lines. The first indication of manganese will be the fluting at 558, and so on.
 
-[Fig. 4. ||| Spectra of Metals showing the Changes brought about by Change of Temperature.]()
+[Fig. 4. --- Spectra of Metals showing the Changes brought about by Change of Temperature.]()
 
 _Experiments upon the Luminous Phenomena of the various Metals volatilised in the Bunsen Burner and the Oxy-coal-gas Blowpipe Flame as compared with the Phenomena seen at higher Temperatures._
 
@@ -534,7 +534,7 @@ It is important to know whether at low temperatures the phenomena presented by t
 
 The main conclusions are that certain lines, bands, and flutings are seen in the Bunsen burner, that a larger number is seen in the flame, but that the total number seen in the burner and flame is relatively small as compared with the lines seen in the spectra at higher temperatures.
 
-The order of visibility in the Bunsen is, roughly |||
+The order of visibility in the Bunsen is, roughly ---
 
 _Lines_  
 Sodium  
@@ -556,7 +556,7 @@ _Flutings_
 Magnesium  
 Manganese  
 
-All the observations both of Bunsen and oxyhydrogen flame may be condensed as follows |||
+All the observations both of Bunsen and oxyhydrogen flame may be condensed as follows ---
 
 _In metals of the alkalies_  
 Sodium  
@@ -612,7 +612,7 @@ In a paper which I communicated to the Royal Society in 1879* I described the re
 
 *) _Roy. Soc. Proc._ vol. 30. p. 27.
 
-[Fig. 5. ||| Changes in the Spectrum of Magnesium. 1. Arc Spectrum. 2. Flame Spectrum.]()
+[Fig. 5. --- Changes in the Spectrum of Magnesium. 1. Arc Spectrum. 2. Flame Spectrum.]()
 
 In the Bunsen, as ordinarily employed, the fluting at 500 far eclipses the other parts of the spectrum in brilliancy, and at this temperature I have also photographed a close triplet in the ultraviolet at wave-length 373.
 
@@ -634,7 +634,7 @@ When a strong electric current is passed between carbon poles, the gases in the 
 
 The spectrum of a gas rendered incandescent by an electric current may be obtained in several ways. We may either use a short spark and pass it through the gas at ordinary pressure, or we may enclose the gas in a glass tube fitted with platinum points, connected at one end to a Sprengel pump so that a vacuum can be produced, and at the other end with an apparatus for generating the gas. At reduced pressures, when there is but little of the gas to be rendered incandescent, very long sparks can be made to pass; in my own investigations I have employed tubes of various lengths, the distance between the platinum points varying from about 1/16 of an inch to 6 feet. In all these experiments it is desirable to use what are called end-on tubes, so that the light throughout the length of the tube may be made to fall on the slit of the spectroscope. A form of tube which I have found to be very convenient is shown in Fig. 6. This permits of discharges of various kinds being passed through the same gas without the necessity of changing the tube each time, a change in the pressure, at the most, being all that is required for a change of spark. It will be noted that the tube is partly a capillary tube and partly one with a wide bore; this is very important, as with the same length of spark the temperature is greater in the capillary tube. Simpler forms of end-on tubes have also been employed. In working with a tube of this description, it is best to place it at a distance of about 2 feet from the slit, in the same line as the collimator of the spectroscope, and to focus the light on the slit by interposing a lens of suitable focal length.
 
-[Fig. 6. ||| End-on Tube.]()
+[Fig. 6. --- End-on Tube.]()
 
 In these experiments all the joints between the tubes are made air-tight by surrounding the short indiarubber tubes joining them with mercury or glycerine.
 
@@ -656,13 +656,13 @@ Besides these flutings there is another at wave-length 431, which is special to 
 
 But even now we have not considered all the flutings of carbon. There are others about which there is room for difference of opinion. These, some ascribe to cyanogen, while I still attribute them to slightly different groupings of the carbon molecules, and these it has been found convenient to call carbon B, to distinguish them from the flutings previously mentioned, which have been called carbon A. These and their relation to temperature are shown in Fig. 7. The principal line of carbon is in the blue part of the spectrum at wave-length 4266. The diagram shows the passage from the line stage to the other stages, first to the ultra-violet group, and then to the less refrangible group. It will be seen that at one temperature both lines and flutings are present. While the blue line gradually thins out, the ultra-violet flutings appear first and grow in intensity. As these increase, the blue flutings become visible, and further, as the latter augment and the line disappears, the ultra-violet flutings die out altogether.
 
-[Fig. 7. ||| Part of the Spectrum of Carbon B.]()
+[Fig. 7. --- Part of the Spectrum of Carbon B.]()
 
 There is one other point which is of great importance. This is the variation in the appearance of the blue band beginning at 474. Under some conditions the maximum luminosity of this band is not at 474, but at 468, whilst under other conditions the band is almost uniform from 474 to 461. This is shown in Fig. 8, which is engraved from a photograph of the spectrum of alcohol vapour at three temperatures, the top one being at the highest and the bottom one the lowest temperature.
 
 When we come to study the spectra of those celestial bodies in which carbon appears, we shall see the importance of this; if we had not this evidence, we should not be in a position to assign the same origin to two apparently different bands.
 
-[Fig. 8. ||| Change in the Appearances presented by the Band at 474.]()
+[Fig. 8. --- Change in the Appearances presented by the Band at 474.]()
 
 In what has been said the red end of the spectra has been left out of consideration; it is sufficient to state here that in this region are chiefly found those appearances _special_ to each compound.
 
@@ -682,7 +682,7 @@ The brightest part of the spectrum is then that near D; in the blue-green we hav
 
 _Meteoritic Glows_
 
-A great many investigations of the low temperature spectra of meteorites have been already made, and one method of investigation has been the following:|||
+A great many investigations of the low temperature spectra of meteorites have been already made, and one method of investigation has been the following:---
 
 A small fragment of any particular meteorite, or still better some dust, is inserted in an end-on tube, such as I have already described; this is placed in front of a spectroscope, so that a spectroscopic record of the luminosity may be obtained. The tube is at the same time connected with a Sprengel pump, in order to obtain a vacuum; it is supplied with poles, and thus an electric current may be sent through it. Supposing that such bodies as meteorites exist in free space, we must understand that they are situated practically in a vacuum, so that it is perfectly fair to begin the laboratory work by getting a vacuum as nearly as possible. The next thing to do is to try the effect of the lowest temperature, and for that purpose the central part of the tube containing the little fragments is heated by a Bunsen burner.
 
@@ -704,17 +704,17 @@ _Spectra of Meteorites in the Oxy-Coal-Gas Flame._
 
 From such a method of research as the above we can pass to one in which, by means of the oxy-coal-gas flame, the spectrum of any vapour given off, provided any vapour _is_ given off at a still higher temperature, can be observed. Many meteorites have been examined in this way, and the main result is that, in the case of an "iron," the first substance to make its appearance is manganese, and the next substance to become obvious is iron.
 
-[Fig. 9a. ||| Arrangement of Apparatus for observing the Oxy-Coal-Gas Flame Spectra of Meteorites.]()
+[Fig. 9a. --- Arrangement of Apparatus for observing the Oxy-Coal-Gas Flame Spectra of Meteorites.]()
 
-Here a very important remark must be made. The substance which will give us the predominant spectrum at lowest temperature must be that substance the volatility of which, at that temperature, is greatest. If, however complicated the chemical constitution of one of these meteorites may be, there is one substance which volatilises out of it more readily than another at a low temperature, that substance will be the first to give us its characteristic spectrum at that temperature ||| and in fact we may get the spectrum of that substance alone, although its percentage in the meteorite may be extremely small. It is therefore an important result to find that, in meteorites in which the quantity of iron is very considerable, it is always the manganese that makes itself visible first, because its volatility is greater than that of iron. The point to bear in mind is that when we pass to the temperature of the oxy-coal-gas flame we get predominant evidence of the existence of manganese, and afterwards of iron.
+Here a very important remark must be made. The substance which will give us the predominant spectrum at lowest temperature must be that substance the volatility of which, at that temperature, is greatest. If, however complicated the chemical constitution of one of these meteorites may be, there is one substance which volatilises out of it more readily than another at a low temperature, that substance will be the first to give us its characteristic spectrum at that temperature --- and in fact we may get the spectrum of that substance alone, although its percentage in the meteorite may be extremely small. It is therefore an important result to find that, in meteorites in which the quantity of iron is very considerable, it is always the manganese that makes itself visible first, because its volatility is greater than that of iron. The point to bear in mind is that when we pass to the temperature of the oxy-coal-gas flame we get predominant evidence of the existence of manganese, and afterwards of iron.
 
 The observations gave in all only about ten or a dozen lines belonging to the metals magnesium, iron, sodium, lithium and potassium, and two flutings, one of manganese and one of iron.
 
-Many diagrams of such observations of the oxy-coal-gas flame-spectrum of meteorites and of olivine have been constructed, and not only the spectra of the flame but also of the "glow," ||| glow being the name given to the luminosity produced in the tube under the conditions stated. There are some points of similarity, and other points of difference. One of the results which is most constant is the appearance of the line at 500; this seems to run through all the observations until we come to deal with such meteorites as the Limerick and Nejed. On the other hand, some lines and flutings do not make their appearance generally.
+Many diagrams of such observations of the oxy-coal-gas flame-spectrum of meteorites and of olivine have been constructed, and not only the spectra of the flame but also of the "glow," --- glow being the name given to the luminosity produced in the tube under the conditions stated. There are some points of similarity, and other points of difference. One of the results which is most constant is the appearance of the line at 500; this seems to run through all the observations until we come to deal with such meteorites as the Limerick and Nejed. On the other hand, some lines and flutings do not make their appearance generally.
 
 _Spectra of Meteorites in the Electric Arc._
 
-If we wish to extend our inquiry into the action of a still higher temperature we can use the electric arc; that also has been done. For this purpose specimens of iron meteorites have been cut into poles, the spectra of which have been observed and photographed, so that the vapours produced have been the vapours of the pure iron meteorites; had a small portion of a meteorite been placed on an impure carbon pole, the impurities of the carbon would have been observed and photographed with the pure vapours of the meteorites. In addition to this method ||| in the case of the stony meteorites ||| the lower pole, after its spectrum has been well studied, has been utilised in this way; the upper pole remaining constant as an iron pole, pretty large particles of various stony meteorites have been inserted into the lower pole, and the added result carefully recorded. Further, composite photographs of the spectra of many meteorites have been obtained. Half a dozen different stony meteorites were successively rendered incandescent by their insertion into the lower pole during the exposure of a single photographic plate.
+If we wish to extend our inquiry into the action of a still higher temperature we can use the electric arc; that also has been done. For this purpose specimens of iron meteorites have been cut into poles, the spectra of which have been observed and photographed, so that the vapours produced have been the vapours of the pure iron meteorites; had a small portion of a meteorite been placed on an impure carbon pole, the impurities of the carbon would have been observed and photographed with the pure vapours of the meteorites. In addition to this method --- in the case of the stony meteorites --- the lower pole, after its spectrum has been well studied, has been utilised in this way; the upper pole remaining constant as an iron pole, pretty large particles of various stony meteorites have been inserted into the lower pole, and the added result carefully recorded. Further, composite photographs of the spectra of many meteorites have been obtained. Half a dozen different stony meteorites were successively rendered incandescent by their insertion into the lower pole during the exposure of a single photographic plate.
 
 It is obvious that if we can get detailed information on such points as these, and provided there are meteorites in space of the temperatures at which we are able to determine their spectra in the laboratory, such data should be of extreme value, for at present we know of no reason why the spectra should differ according to locality.
 
@@ -724,7 +724,7 @@ At this temperature there are so many lines visible that it is most satisfactory
 
 A photograph of the spectrum of the Obernkirchen meteorite, taken in this way, shows no less than 378 lines, of which 348 are due to iron. This latter fact is ascertained from a comparison of the spectrum of the meteorite with that of very pure iron, which was kindly supplied to me by Professor Roberts-Austen, of the Royal Mint, taken under exactly the same conditions. Besides the iron lines, the photograph also shows 16 lines of nickel, 3 of chromium, 1 of cobalt, 4 of manganese, 2 of titanium, and four unknown lines. It is also worth noting that this particular meteorite shows practically no sodium, although the nickel line, between the two D lines, is pretty bright.
 
-[Fig. 10. ||| Arrangement of Apparatus for observing the Spark Spectra of Meteorites.]()
+[Fig. 10. --- Arrangement of Apparatus for observing the Spark Spectra of Meteorites.]()
 
 _Spectra of Meteorites in Quantity Spark without Jar._
 
@@ -738,7 +738,7 @@ The observations under these conditions give in all about twenty lines belonging
 
 _Spectra of Meteorites at the Temperature of the Jar Spark._
 
-At the temperature of the jar spark a very great number of lines is visible, and, up to the present, it has not been possible to make complete observations of meteoritic spectra under these conditions. These high temperature spectra, however, are not of so much importance to us in the present inquiry as those at low temperatures, for the reason that once we have obtained evidence of the composition of meteorites ||| that is to say, of their spectroscopic composition ||| we can also tell approximately what lines will be visible in the jar spark.
+At the temperature of the jar spark a very great number of lines is visible, and, up to the present, it has not been possible to make complete observations of meteoritic spectra under these conditions. These high temperature spectra, however, are not of so much importance to us in the present inquiry as those at low temperatures, for the reason that once we have obtained evidence of the composition of meteorites --- that is to say, of their spectroscopic composition --- we can also tell approximately what lines will be visible in the jar spark.
 
 All the observations recorded, with the exception of a few of the preliminary ones, have been made on undoubted meteorites, fragments of which have been, in the kindest manner, placed at my disposal by the Trustees of the British Museum.
 
@@ -748,11 +748,11 @@ _Comparisons of the foregoing Observations among themselves._
 
 The discussions have taken, in the first instance, the form of comparisons of the different phenomena observed, and for this purpose all the observations of flutings and of bright lines have been carefully mapped, all records having been brought to a common scale.
 
-The following are among the comparisons already dealt with:|||
+The following are among the comparisons already dealt with:---
 
 1\. The spectra of meteorites observed under the various conditions, chiefly considering magnesium, iron, and manganese, with the bright lines observed at low temperatures.
 
-The main conclusions are |||
+The main conclusions are ---
 
 1\. That only the lowest temperature lines of Magnesium, Sodium, Iron, Chromium, Manganese, Strontium, Calcium, Barium, Potassium, Lead, Bismuth, and Nickel are seen in the meteorites under the various conditions. They are not all visible in one meteorite or under one particular condition; the details of individual observations are fully recorded in Figs. 11 and 12.
 
