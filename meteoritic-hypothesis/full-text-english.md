@@ -1029,4 +1029,380 @@ I have next to refer to my own observations and comparisons.
 
 ## Chapter 9. Some Experiments and a further Discussion.
 
+In order to demonstrate that the aurora spectrum does not coincide with the vacuum-tube spectrum of air, I have made a series of observations of an end-on air vacuum-tube, about 5 feet long and 2 inches in diameter. The tube was arranged as in Fig. 14, one end being connected with the Sprengel punip, and the other with a piece of glass tube, by means of mercury joints. The latter tube was connected with a hand air-pump to save time in exhausting. After partial exhaustion the tube was sealed off with a blowpipe, and the exhaustion completed with the Sprengel. The slit of the spectroscope was placed close to the bulb at the end of the tube (Fig. 14). The diagram also shows a Geissler-tube arranged for comparison.
+
+When the spark first passed only a few of the strongest nitrogen flutings in the violet were visible, but as the pressure was reduced, the spectrum gradually extended towards the red. A line of oxygen at 5320 was visible in the early stages, but it afterwards disappeared. At the most luminous stage, nothing but nitrogen flutings were visible. After a time these flutings became dim, and low temperature flutings of carbon appeared. Then the F line of hydrogen appeared, and a little later the C line. Later still, the hydrogen line at G also appeared. With the further dimming of the nitrogen flutings, an oxygen line at 471 brightened, being sometimes as bright as the F line, and brighter than the carbon flutings. The whole spectrum then became very faint, but as the line at 471 dimmed, another oxygen line at 465 appeared.  Ultimately, the glow was so faint that only a few of the nitrogen flutings were visible.
+
+The sequence of the various flutings and lines is shown in Fig. 15. Below the various air spectra the principal lines of the aurora spectrum are given for comparison. It will be seen at a glance that there are no coincidences with the most persistent flutings, which are all that need be considered.
+
+[Fig. 14. --- Large end-on Vacuum-Tube, arranged for an Observation of the Spectrum of Air at varying Pressures.]()
+
+Excluding for the present Gyllenskiöld's observations, the general results arrived at may now be tabulated. I should add that since I communicated to the Royal Society in 1888 some of the results embodied in the table, a further inquiry has suggested that the lines F and G of hydrogen (λ 486 and 434) have been really seen, as well as those of the substances indicated in the map given in Fig. 16.
+
+[TABLE]
+
+[Fig. 15. --- Map showing the Sequence of Spectra in a Large Air-Vacuum Tube as the Pressure is reduced.]()
+
+The chemical substances indicated, it will be seen, are precisely those constituents of meteorites which are volatilised at the lowest temperatures, namely, manganese, magnesium, and lead. Besides these there are probably hydrogen and hydrocarbon, besides possibly other compounds of carbon which, when rendered incandescent, give the carbon flutings.
+
+In discussing the meteoritic dust theory, as first enunciated by Olmstead during the display of 1833, spectroscopists lost sight of the importance of considering the volatility of the meteoritic constituents, instead of their quantities. Iron exists in great quantity in meteorites, and was naturally the first thing to be expected in the aurora spectrum, supposing it to be a meteoritic phenomenon. But, as I have already pointed out (p. 50), experiments on the luminous phenomena seen at low temperatures show that if magnesium, manganese, and lead are present in meteorites, they will be indicated in the spectrum before the iron.
+
+The aurora being a low temperature phenomenon, we should indeed expect to find in its spectrum lines and remnants of flutings seen in the spectra of meteorites at low temperatures if its origin were in any way meteoritic.
+
+The characteristic line of the aurora is very probably the remnant of the brightest manganese fluting at 558.* Ångström gave the wave-length of the line as 5567, and since then many observers have given the same wave-length for it, but probably without making independent determinations. Piazzi Smyth, however, gives it as 558, which agrees exactly with the bright edge of the manganese fluting. R. H. Proctor also gives the line as less refrangible than Ångström does. He says: "My own measures give me a wave-length very slightly greater than those of Winlock and Ångström.*
+
+*) While this book is passing through the press, Dr. Huggins has called this suggestion in question.
+
+*) _Nature_, vol. 3. p. 468.
+
+ Gyllenskiöld's measures with the Wrede spectroscope also give 5580 as the wave-length of the characteristic line. I feel justified, therefore, in disregarding the difference between the wave-length of the edge of the manganese fluting and the generally accepted wave-length of the aurora line.
+
+The line of manganese at 540, which is seen also with the flutings, has been recorded in the aurora by Vogel.
+
+The remnants of the two magnesium flutings at wave-lengths 500 and 521 are also seen as lines in the aurora. In addition to these, there is sometimes the lead fluting at 546, and probably also the green, line of thallium at 535, as indicated in the tables.
+
+Four lines in the aurora spectrum are probably due to carbon. The first is at 516.5, the brightest fluting seen in the spectrum of a Bunsen burner; I have previously described this as a high-temperature fluting, but the term is only relative. The second is the low-temperature fluting at 483, which has been recorded by several observers. There is probably also the high-temperature carbon group beginning at 474, the maximum light of which is about 469. Vogel records it as a band extending from 463 to 469, and Lemström as 469 to 471. These observations, therefore, justify us in regarding this as a band, and if we take the readings of the other observers as the wave-lengths of the part of maximum brightness, we get the mean reading of the maximum as 467.5. This agrees as well as can be expected with the true wave-length of the maximum, 468. The hydrocarbon fluting at 431 has probably also been seen.
+
+Fig. 16 shows how the aurora spectrum can be built up from the lowest temperature spectra of manganese, magnesium, lead, and thallium, and the brightest flutings of carbon. When the temperature is increased iron (615) sometimes flashes in.
+
+_Further Discussion of Gyllenskiöld's Observations._
+
+If, in discussing Gyllenskiöld's observations, we limit ourselves to those cases in which not more than four lines were recorded, we find that with a few exceptions, the lines seen were lines which are brightest in the spectra of meteorites at low temperatures. It might at first sight be expected that when only a few lines are seen, they ought to be the same in every case. There are variations, however, which in all probability are due to differences in composition of different groups of meteorites.
+
+The following tables contain all the observations in which not more than four lines were recorded. The probable origin of each line is also stated.  Some of the lines have been arranged in different columns, as the discussion has suggested.
+
+[Fig. 16. --- Map showing probable Origin of the Spectrum of the Aurora.]()
+
+[TABLE]
+
+[TABLE]
+
+It will be observed that the characteristic line was seen alone eight times by Gyllenskiöld out of the thirty-eight observations recorded in the first table.
+
+Out of the total number of seventy-six observations in the tables, the line of manganese at wave-length 540, which is seen in the spectra of many of the "bright line stars," was seen alone on two occasions, and six times in company with other lines.
+
+The first fluting of lead, at wave-length 546, occurs alone three times, is twice associated with the thallium line, and occurs six times along with other lines.
+
+The remnant of the magnesium fluting at 500 occurs alone only once, but that at 521 occurs alone six times.
+
+The first fluting of carbon, at 517, occurs alone three times, and twice in company with other lines. The carbon band extending from 468 to 474 occurs alone four times, and six times with other lines. The low temperature fluting of carbon at 483 only occurs once, and is then alone. The first iron line at 579 occurs alone twice, and six times along with other lines. When we get iron apparently without manganese 558 it is probably due to masking of 558 by continuous spectrum. The green line of iron at 527 occurs alone seven times, and thirteen times in company with other lines.
+
+The thallium line appears alone only once, but in company with other lines it appears fifteen times.
+
+There are only six lines for which no origins can at present be suggested. The discrepancies between the readings of the same lines at different times are so great that a few outstanding lines are only to be expected.
+
+It now remains for future observers to determine by direct comparisons whether the coincidences suggested are real, or merely accidental approximations.
+
+_The Norwegian Observations._
+
+The Report of the Norwegian Polar Station at Bossekop in Alten, in connection with the International Polar Investigation (1882-1883), gives the results of a few interesting observations of the aurora spectrum. Herr Krafft states that in general only the characteristic aurora line (558) is seen, even in strong auroræ. The red line occasionally appears very conspicuously, but only in flashes.
+
+The wave-lengths obtained for the aurora line were 5595, 5586, and 5587. Unlike most observations, these place the aurora line on the less refrangible side of the manganese fluting. Hence, we have an additional reason for neglecting the difference between the wave-length of the brightest edge of the manganese fluting, and the commonly accepted wave-length of the aurora line, as given by Ångström.
+
+On account of the rapid flashing-up and disappearance of the red line only one measurement could be made, and the wavelength obtained was 6205. If this reading be reduced in the same proportion as those of the green line, a wave-length is obtained which agrees almost perfectly with that of the brightest edge of the iron fluting.*
+
+*) These observations were not available to me before the preceding maps, Figs. 15, 16, were made, so that the iron line has been omitted from them.
+
+These observations are the latest which have been published, and were obviously made with a full knowledge of all previous work, so that their importance must be strongly insisted upon.
+
+It is fair to assume that the red line is due to iron, because we know that the effect of a slight increase in the intensity of the discharge which produces an aurora in which only the manganese fluting is visible would be to bring out the iron vapour. Hence in an aurora in which the green line is constant, and the red line is only intermittently visible, there must be a discharge in which there are sudden fluctuations in intensity, and a simple cause of the reddening of the aurora is now before us.
+
+_The Spectrum of Lightning._
+
+If the origin of the auroral spectrum is really that which I have assigned to it, in lightning in which the electric action is feeble we ought to again meet with some of the lines indicating higher temperatures.
+
+Dr. Schuster made a series of observations on the spectrum of lightning in Colorado in 1878. The region of the spectrum dealt with extended from wave-length 500 to 580, and the following lines were observed:---
+
+559.2  
+533.4  
+518.2  
+516.0 
+
+There can be little doubt that the first line on the list is the remnant of the manganese fluting at 558, the same as seen in auroræ. The second is in all probability the thallium line at wave-length 535, the third is probably _b_ (518.3), and the fourth the edge of the carbon fluting at 516.
+
+The lines at 559.2 and 516 were only seen on one occasion.
+
+These observations are of very great importance, inasmuch as they appear to indicate that the difference between the spectrum of feeble or diffused lightning and the spectrum of aurora is due to a difference of temperature only.
+
+Not only can we thus trace the difference in the spectrum as we pass from aurora to lightning, but just as we can trace the effects of gradually increasing temperatures on the spectrum of the aurora, we can trace the changes due to variations in the intensities of lightning discharges, as I shall now proceed to indicate.
+
+The spectrum of lightning as observed by Schuster in Colorado was obviously one produced by a comparatively feeble discharge. It differs from what may be conveniently called a "high temperature aurora" only in having the magnesium fluting at 500 replaced by _b_. It is important to note, however, that the difference in the number of lines often seen in auroræ and in lightning is in all probability due to the instantaneous character of the latter.
+
+As we pass to the spectrum of such a discharge as Vogel observed in September 1871, the 500 line of nitrogen makes its appearance, and the manganese fluting at 558 disappears. Vogel's complete list of lines is as follows (Poggendorff's _Annalen der Physik_, band 143. p. 654) ---
+
+534.1  
+518.4  
+500.2  
+486.0  
+467.3, broad band  
+to 458.3
+
+The band seen by Yogel in the blue was in all probability the carbon band; this is the most visible of the carbon bands in consequence of the absence of continuous spectrum in the blue.
+
+The last stage in the spectrum of lightning seems to be that in which the brightest lines in the spectrum consist entirely of lines of nitrogen. Such a spectrum has been observed by Colonel John Herschel, the following lines being recorded:---
+
+569.7  
+500.9  
+463.6 
+
+These are the three strongest lines of nitrogen, the wave-lengths of which, according to Thalén, are ---
+
+567.8 double line  
+566.6 double line  
+
+500.5 double line  
+500.2 double line  
+
+463.1 
+
+We have, therefore, an almost complete sequence of electrical discharges through our atmosphere, from discharges so feeble that we only see the 500 fluting of magnesium, or the first fluting of manganese in their spectra, to those in which the brightest lines of nitrogen, characteristic of intense discharges, are the brightest lines visible.
+
+In experiments with large air vacuum tubes the _lines_ of nitrogen are never seen, and it is extremely improbable, therefore, that they would occur in weak discharges through a space which is much less confined. Hence, when the line at 500 is seen in conjunction with the fluting of manganese, it is in all probability due to magnesium and not to nitrogen.
+
+The forked lightning discharge can be imitated by a jar spark, or by the spark from an electrical machine, and the brightest lines in the spectra, as we have seen, are identical.
+
+[Fig. 17. --- Map showing the Sequence of Spectra in Electrical Discharges of gradually increasing Intensities through the Atmosphere, the feebler Discharges taking place in the rarefied Regions impregnated with Meteoritic Dust. (The thick white horizontal line indicates that no observations were made in that region.)]()
+
+Fig. 17 shows the various spectra of air charged with meteoritic dust when illuminated by electrical discharges of gradually increasing intensities. The lowest temperature of all gives the Mn fluting at 558. With the first increase in intensity the iron fluting (615) is at times momentarily added, then magnesium, lead, thallium, and carbon until there is a complete spectrum. The next stage of increasing intensity is that observed by Schuster, in which magnesium is represented by _b_. Then comes Vogel's spectrum, entirely without manganese, but with _b_, Thallium (535), Hydrogen (F, 486), Carbon band (468-474), and Nitrogen (500). Schuster did not make observations beyond 500, so that the continuity in that region is apparently broken.
+
+It is possible that the broad band in the blue observed by Vogel was the group of nitrogen lines, the brightest of which is at 463; but in that case it is difficult to understand why a decided maximum was not recorded. Finally, we have the spectrum observed by Colonel Herschel, in which those nitrogen lines appear brighter than all the rest, exactly as they appear in an intense spark discharge in our laboratories.
+
+I think it will be granted that, after what has preceded, there is strong evidence of an intimate relation between the spectrum of the aurora and the spectra of meteorites, which leads to the conclusion that the upper reaches of the atmosphere contain particles of magnesium, manganese, iron, and carbon.
+
+The natural origin is the dust of those bodies which are continually entering those regions, and hence the proof afforded by the spectroscopic observation of shooting-stars, that they are identical in chemical composition with meteorites, is strengthened by these auroral observations; while, on the other hand, the origin of the auroral spectrum receives a new explanation. Certainly the coincidence is such as to justify us in regarding meteoritic dust as the origin of the spectrum until a better and more probable origin is demonstrated.
+
+How this view will meet the periodicity and geographical distribution of auroræ remains to be investigated; the question may be asked whether the earth sometimes meets greater quantities of aurora-producing matter revolving round the sun than at other times, and whether the periodicity may be explained in this way.
+
+_The Aurora and the Zodiacal Light._
+
+Since the shooting-star ignition level lies between 75 and 50 miles in height, and auroræ have been seen at heights of over 100 miles, it seems probable that the matter which reaches the earth from space is in the main of three degrees of fineness, and gives evidences of its existence at three different heights. The finest furnishes materials for auroral displays at heights reaching to 130 miles,* the mean fineness ignites at a height of 75 miles, and gives rise to the appearance of falling stars, till a height of 50 miles is reached, when it is all consumed; the coarsest of all at times reaches the surface itself as meteoritic irons or stones.
+
+*) Capron and Herschel, "On the Auroral Beam of November 17, 1882" (_Phil. Mag._, May 1883). Professor Herschel, from measurements made 1863-1867, determined the height of long white stationary auroral arches to be close upon 100 miles.  Herr Sophas Trimholt (_Nature_, vol. 27. p. 290) gives 90 miles, and Baron Nordenskjöld (_Scientific Work of the "Vega" Expedition_, Part 1. pp. 401-450) gives 115 miles. Professor Herschel has also referred me to measurements of auroral arches by Dr. Dalton (_Phil. Trans._, 1828, p. 291), who found 100 miles.
+
+An additional argument in favour of the meteoritic theory of the aurora is furnished by other phenomena, which sometimes accompany it.
+
+During the great aurora of January 1831 (Poggendorff's _Annalen_ of that year) a bright yellow streak was seen to rise with common cloud velocity, forming an arch from west to east, becoming invisible in the west by the time it had reached the east. During the same aurora Professor Bischoff, in Burgboohl, saw a moving cloud, as bright as the Milky Way, pass from east to west in five minutes.
+
+During another aurora, December 1870, Professor Rudberg, of Upsala, saw a very bright patch, of double the dimensions of the moon's disk, moving with great velocity behind the auroral beams.
+
+On 2d November 1871 Dr. Groneman saw a strange, feather-like, brilliant arch, striped parallel to its well-defined sides, and changing its curve during its visibility of two hours' duration. Dr. Vogel determined the auroral character of its spectrum.
+
+On 17th May 1875 Mr. Lefroy (Freemantle, Western Australia) describes a similar feather-like appearance, which he considered to be converging streams of infinitely minute particles of matter passing through space at a distance from the earth less than that of the moon, at which the earth's aerial envelope may still have a density sufficient, by its resistance, to give to cosmic dust passing through it with planetary velocity that slight illumination which it possesses.*
+
+*) _Nature_, vol. 12. p. 330.
+
+On 17th November 1882, however, was seen the most remarkable display of this nature in the middle of an intense aurora then visible. Again the appearance was feather-like, again the spectra were auroral, but the strange object moved across the sky, at a height of 133 miles, as determined by Capron and Herschel, and with a planetary velocity of between 10 and 15 miles a second!
+
+Dr. Groneman did not hesitate at the time to look upon it as a mass of meteoritic dust traversing the higher reaches of our air, and regarded it as a strong confirmation of the view which he had resuscitated,* --- a conclusion in which I concur.
+
+*) _Ibid._ vol. 27. p. 296.
+
+The above results also strengthen the view that the aurora is very similar in some respects to the zodiacal light. Such a connection is indicated by the fact that when we have the greatest number of auroræ, in spring and autumn, the zodiacal light is also best visible. The spectroscopic observations of Ångström and Respighi show that the spectrum of the zodiacal light consists of the characteristic line of the aurora and a short continuous spectrum, and they thus furnish further evidence of the connection suggested. The observations of Wright and others, showing that the spectrum is continuous, are not at variance with Ångström's observation, for we should expect the spectrum to be somewhat variable. It is probable that the observations showing nothing but continuous spectrum were made when the temperature was only sufficient to render the meteoritic particles red-hot. That the zodiacal light does consist of solid particles, or at all events of particles capable of reflecting light, is shown by the polariscope.
+
+No one has ever gone so far as to suggest that the zodiacal light is an atmospheric phenomenon, and yet the principal line in its spectrum is generally accepted as being identical with that in the spectrum of the aurora. We have, therefore, an additional reason, if one be required, for discarding any atmospheric origin which has been suggested for the auroral spectrum.
+
+## Chapter 10. Traces of Meteoritic Dust in the Deep Oceans.
+
+We have now complete evidence of the existence of meteoritic dust in the atmosphere, first, from the known number of meteorites which enter the atmosphere, and secondly, from the spectroscopic observations of auroræ. This dust will finally reach the earth's surface, and it is exceedingly interesting to trace its subsequent history as far as possible.
+
+It is universally recognised that the atmosphere holds in suspension an immense number of very minute particles of organic and inorganic origin. These latter must be either dust taken up by aerial currents from the ground, or the result of volcanic action, or extra-terrestrial bodies. Many scientific men, among whom we may mention Ehrenberg, Daubrée, Reichenbach, Nordenskjöld, Tissandier, Murray, and Rénard, have studied this problem. Dust collected in various places at different times has been examined with a view of determining whether its origin were meteoritic. In many cases, in which chiefly definite iron chondroi have been observed, the evidence has seemed very strong in favour of the view. The detection of such dust, which falls on the general surface of the earth, is almost hopeless, and that which is collected on snow in inhabited countries containing foundries and the like is doubtful, but that which falls on the sea will have a chance of accumulating where the water is quietest. The researches of Messrs. Murray and Rénard during the _Challenger_ Expedition seem to indicate that such an accumulation really takes place. These investigators,* in giving the results of their researches, point out that at the greatest depths of the ocean farthest from land the sea bottom is very different from that nearer the coastlines.
+
+*) "On the Microscopic Characters of Volcanic Ashes and Cosmic Dust, and their Distribution in Deep-sea Deposits," _Proc. R. S. E._, and _Nature_, vol. 29. p. 585.
+
+Under these necessary conditions of exceedingly slow deposition and absence of ordinary sources of contamination, it is clear that the problem can be attacked under the best conditions.
+
+We read ---
+
+The considerable distance from land at which we find cosmic particles in greatest abundance in deep-sea deposits, eliminates at once objections which might be raised with respect to metallic particles found in the neighbourhood of inhabited countries. On the other hand, the form and character of the spherules of extra-terrestrial origin are essentially different from those collected near manufacturing centres. These magnetic spherules have never elongated necks or a cracked surface, like those derived from furnaces, with which we have carefully compared them. Neither are the magnetic spherules with a metallic centre comparable either in their form or structure to those particles of native iron which have been described in the eruptive rocks, especially in the basaltic rocks of the north of Ireland, of Iceland, _etc._
+
+[Fig. 18. --- Section of Ocean showing Red Clays at Depths of 3000 Fathoms (18,000 feet).]()
+
+Messrs. Murray and Rénard then state on what they rely in support of their view that many of the particles thus obtained from great depths are of cosmic origin ---
+
+If we plunge a magnet into an oceanic deposit, especially a red clay from the central parts of the Pacific, we extract particles, some of which are magnetite from volcanic rocks, and to which vitreous matters are often attached; others again are quite isolated, and differ in most of their properties from the former. The latter are generally round, measuring hardly 0.2 mm.; generally they are smaller, their surface is quite covered with a brilliant black coating, having all the properties of magnetic oxide of iron; often there may be noticed upon them cup-like depressions clearly marked. If we break down these spherules in an agate mortar, the brilliant black coating easily falls away, and reveals white or gray metallic malleable nuclei, which may be beaten out by the pestle into thin lamellae This metallic centre, when treated with an acidulated solution of sulphate of copper, immediately assumes a coppery coat, thus showing that it consists of native iron. But there are some malleable metallic nuclei extracted from the spherules which do not give this reaction --- they do not take the copper coating. Chemical reaction shows that they contain cobalt and nickel; very probably they constitute an alloy of iron and these two metals, such as is often found in meteorites, and whose presence in large quantities hinders the production of the coppery coating on the iron. G. Rose has shown that this coating of black oxide of iron is found on the periphery of meteorites of native iron, and its presence is readily understood when we admit their cosmic origin. Indeed these meteoric particles of native iron, in their transit through the air, must undergo combustion, and, like small portions of iron from a smith's anvil, be transformed either entirely or at the surface only into magnetic oxide, and in this latter case the nucleus is protected from further oxidation by the coating which thus covers it.
+
+[Fig. 19. --- Black Spherule with Metallic Nucleus (60:1). This spherule, covered with a coating of black shining magnetite, represents the most frequent shape. The depression here shown is often found at the surface of these spherules. From 2375 fathoms, South Pacific.]()
+
+[Fig. 20. --- Black Spherule with Metallic Nucleus (60:1). The black external coating of magnetic oxide has been broken away to show the metallic centre, represented by the clear part at the centre. From 3150 fathoms, Atlantic.]()
+
+We are next shown that these metallic chondroi occur with stony chondroi, so that if the interpretation of a cosmic origin for the magnetic spherules with a metallic centre be not considered established in a manner absolutely beyond question, it almost becomes so when we take into account their association with the silicate spherules, never found in rocks of a terrestrial origin. These are thus described ---
+
+Among the fragments attracted by the magnet in deep-sea deposits, we distinguish granules slightly larger than the spherules with the shining black coating above described. These are yellowish-brown, with a bronze-like lustre, and under the microscope it is noticed that the surface, instead of being quite smooth, is grooved by thin lamellæ. In size they never exceed a millimetre --- generally they are about 0.5 millimetre in diameter; they are never perfect spheres, as in the case of the black spherules with a metallic centre; and sometimes a depression more or less marked is to be observed in the periphery. When examined by the microscope, we observe that the lamellæ which compose them are applied the one against the other, and have a radial eccentric disposition. It is the leafy radial structure (_radialblättrig_), like that of the _chondres_ of bronzite, which predominates in our preparations. We have observed much less rarely the serial structure of the _chondres_ with olivine, and indeed there is some doubt about the indications of this last type of structure. Fig. 21 shows the characters and texture of one of these spherules magnified twenty-five diameters.
+
+It is worthy of remark that, associated with these chondroi in the red muds at the greatest depths in the ocean, are found manganese nodules in enormous numbers. If a section be made of one of these, a number of concentric layers will be observed arranged around a central nucleus --- the same as in a urinary calculus. When the peroxide of manganese is removed by strong hydrochloric acid, there remains a clayey skeleton which still more strongly resembles a urinary calculus, according to Mr. Murray.
+
+This skeleton contains crystals of olivine, quartz, augite, magnetite, or any other materials which were contained in the clay from which the nodule was taken. In the process of its deposition around a nucleus, the peroxide of manganese has enclosed and incorporated in the nodule the clay and crystals and other materials in which the nucleus was embedded. The clayey skeletons thus vary with the clay or ooze in which they were formed. Those from a fine clay usually adhere well together; those from a globigerina ooze have an areolar appearance; while those from a clay with many fine sandy particles usually fall to pieces. Mr. Murray attributes the origin of these nodules entirely to the decomposition of volcanic rocks ---
+
+Wherever we have pumice containing much magnetite, olivine, augite, or hornblende, and these apparently undergoing decomposition and alteration, or where we have evidence of great showers of volcanic ash, there we find the manganese in greatest abundance. This correspondence between the distribution of the manganese and volcanic _débris_ appears to me very significant of the origin of the former. I regard the manganese, as we find it, as one of the secondary products arising from the decomposition of volcanic minerals.
+
+Manganese is as frequent as iron in lavas, being usually associated with it, though in very much smaller amount. In magnetite and in some varieties of augite and hornblende the protoxide of iron is at times partially replaced by that of manganese.
+
+In the manganese of these minerals and in the carbonic acid and oxygen of ocean waters we have the requisite conditions for the decomposition of the minerals, the solution of the manganese, and its subsequent deposition as a peroxide.
+
+An analysis of one of these nodules by Professor Rénard (_Challenger Report, Narrative_, vol. 1., Part 2., p. 1048) gives the following:---
+
+Water (H2O)|9.51  
+Silica (SiO2)|19.34  
+Lime (CaO)|3.19  
+Alumina (Al2O3)|6.36  
+Ferric oxide (Fe2O3)|26.70  
+Magnesia (MgO)|1.79  
+Oxide of manganese (MnO)|26.46  
+Oxide of nickel (NiO)|1.82  
+Oxygen|6.31  |101.48 
+
+The specimen examined was from Station 276, 2350 fathoms, South Pacific.
+
+I have observed the spectra of some of the nodules, which were kindly placed at my disposal by Mr. Murray.
+
+In the oxy-coal-gas flame, lines of sodium, thallium, lithium, potassium, manganese, and iron are seen. The brightness and persistence of the thallium line at 535 is very remarkable, and is especially interesting, since the line has been recorded in the spectrum of the aurora and of some meteorites. The red line of lithium, which is seen in the spectra of many meteorites, is also bright in the spectrum of the nodules. The manganese fluting at 558, the one coincident with the chief line of the aurora, is also seen in the spectrum of the nodules, but it is not nearly so bright as the thallium line. The iron lines are very faint. As might be expected, from the association with sea-water, the lines of sodium and potassium are very bright. A photograph of the flame spectrum shows lines of manganese, and some of the strongest violet lines of iron.
+
+When some fragments of the nodules are placed along an end-on vacuum-tube and the spark passed, flutings of carbon and lines of hydrogen appear, almost exactly as they do when meteorites are subjected to the same treatment. When the tube is made red-hot, the thallium line becomes very bright, and also the yellow and green lines of sodium.
+
+It will be seen that the spectra of the nodules are somewhat different from those of meteorites, chiefly in the relative intensities of the lines, but the difference can probably be explained by considering the effect of sea-water. I have the authority of my friend Professor Thorpe for stating that thallium and manganese would be the most likely of the meteoritic constituents to form insoluble compounds, and hence these are what we should expect to find in deep-sea accumulations of meteoritic dust. The spectroscopic observations therefore seem to show that it is not improbable that the manganese nodules owe their origin, in some part at least, to such dust.
+
+The question arises, therefore, whether the origin of these deep-sea concretionary deposits of iron and manganese, which are unrepresented in any deep-sea geological deposit, may not be in part, even if in small part, meteoritic, and represent, like the chondroi, another form of fallen dust.
+
+At the suggestion of Professor Rénard I separated some of the iron spherules from the nodules by dissolving in dilute hydrochloric acid, and passing a magnet through the insoluble residue. In the oxy-coal-gas flame, the spectrum of the spherules consisted of lines of iron, sodium, and potassium, and the flutings of manganese, but there was absolutely no trace of thallium. An examination of the residue after the separation of the iron particles, however, gave indications of thallium as strongly as the nodules themselves. On evaporating the solution to dryness and observing the spectrum, no thallium was visible.
+
+If we are justified in regarding the partly meteoritic origin of the nodules as established, the excess of thallium shows that each nodule represents a very considerable quantity of meteoritic dust, since there is only a comparatively small proportion of thallium in meteorites. This further suggests that an enormous quantity of dust passes through our atmosphere, especially as that which falls on the sea only represents a portion of the total amount.
+
+# Part 4. Meteorites in the Solar System.
+
+## Chapter 11. Meteorites and Bodies which, like the Earth, travel round the Sun.
+
+We have seen that the phenomena which accompany meteorites entering our air, whether they are soon burnt up and give rise only to the appearance of a shooting or falling star, or whether they are bulky enough to withstand the melting process till they reach the earth's surface, are similar. We are now in a position to discuss all these phenomena on the assumption that they have a common origin.
+
+It is not so many years ago since planetary space was supposed to be untenanted by anything more tangible than that mysterious fluid called ether. This notion is exactly represented by the French equivalent for that space, _le vide planétaire_. Hence, not to mention imagined supernatural causes --- such as that, for instance, embodied in the tradition that Saint Lawrence, on the anniversary of his martyrdom (10th August), shed burning tears --- the cause of the phenomenon was ascribed to atmospheric perturbations, exhalations of sulphur, _ignes fatui_, and so forth. An account of the August shower of 1857, even, published in the _Bulletin de l'Académie Royale de Belgique_, is accompanied by a minute record of rain, temperature, atmospheric electricity, _etc._
+
+Leaving out of consideration the opinions of the ancients, among whom Anaxagoras and Seneca may be especially mentioned, as being in favour of a cosmical origin, it may be pointed out that Kepler* regarded meteorites and shooting-stars as akin, and derived both from the ethereal regions.
+
+*) _Opera_, ed. Fritsch, vol. 6. p. 157.
+
+Halley* was the next to express an opinion that shooting-stars were of cosmical origin, but to Chladni belongs the credit of having broached the theory which modern observations have so abundantly justified. This theory was that space was full of the matter which, attracted by the earth, entered its atmosphere, accompanied by luminous effects only, in some cases, and by actual falls of the matter, in others.* The general acceptance of this view was retarded by Laplace and others, who saw a more probable origin for the phenomena by supposing meteorites to be masses shot out of lunar volcanoes. The first step in the demonstration of the former theory, which is now universally accepted, was made when Chladni, in 1794, showed that no known terrestrial agency was capable of producing masses like the meteorites which had been seen to fall. At his and Lichtenbergh's suggestion, Brandes and Benzenberg* in 1798 proved that, whatever they appear to do, shooting-stars never shoot upwards, but always downwards towards the earth. At the same time he showed the similarity of phenomena presented by fire-balls, shooting-stars, and the fall of meteorites. He subsequently returned to and strengthened this view.*
+
+*) _Phil Trans._, vol. 29. p. 159, 1714-16.
+
+*) _Über den Ursprung der von Pallas gefundenen Eisenmassen_, p. 24. His paper on the Pallas iron is abstracted in _Phil. Mag._, Tillock's Series, vol. 2. 1798.
+
+*) _Die Sternschnuppen_.  A few contrary results were obtained, but were shown afterwards by Bessel to be sufficiently accounted for by errors of observation.
+
+*) See _Phil. Mag._, Tillock, vol. 2. p. 225 _et seq._
+
+Should it be asked how such masses originated, or by what means they were brought into such an insulated position, this question would be the same as if it were asked how the planets originated. Whatever hypothesis we may form, we must either admit that the planets, if we except the many revolutions which they may have undergone, either on or near their surface, have always been since their first formation, and ever will be, the same; or that Nature, acting on created matter, possesses the power to produce worlds and whole systems, to destroy them, and from their materials to form new ones. For the latter opinion there are, indeed, more grounds than the former, as alternations of destruction and creation are exhibited by all organised and unorganised bodies on our earth; which gives us reason to suspect that Nature, to which greatness and smallness, considered in general, are merely relative terms, can produce more effects of the same kind on a larger scale.
+
+But many variations have been observed on distant bodies, which, in some measure, render the last opinion probable; for example, the appearing and total disappearing of certain stars, when they do not depend upon periodical changes. If we now admit that planetary bodies have started into existence, we cannot suppose that such an event can have otherwise taken place, than by conjecturing that either particles of matter, which were before dispersed throughout infinite space, in a more soft and chaotic condition, have united together in large masses, by the power of attraction; or that new planetary bodies have been formed from the fragments of much larger ones that have been broken to pieces, either perhaps by some external shock, or by an internal explosion. Let whichever of these hypotheses be the truest, it is not improbable, or at least contrary to nature, if we suppose that a large quantity of such material particles, either on account of their too great distance, or because prevented by a stronger movement in another direction, may not have united themselves to the larger accumulating mass of a new world; but have remained insulated, and, impelled by some shock, have continued their course through infinite space, until they approach so near to some planet as to be within the sphere of its attraction, and then by falling down to occasion the phenomena before mentioned.
+
+It is worthy of remark that iron is the principal component part of all the masses of this kind hitherto discovered; that it is found almost everywhere on the surface of the earth as a component part of many substances in the vegetable and animal kingdom; and that the effects of magnetism give us reason to conclude that there is a large provision of it in the interior parts of the earth. We may therefore conjecture that iron in general is the principal matter employed in the formation of new planetary bodies; and it is still further probable by the circumstance that it is exclusively connected with the magnetic power, and also, on account of their polarity, may be necessary to these bodies. It is also probable, if the above theory be just, that other substances contained in such fallen masses, such as sulphur, siliceous earth, manganese, _etc._, may be peculiar, not to our globe alone, but may belong to the common materials employed in the formation of all planetary worlds.
+
+This paper of Chladni's, it will be seen, dates from just before the beginning of the present century.
+
+The subject was invested with a new interest in 1799, when the great Humboldt, who was then travelling in South America, saw an enormous number of shooting-stars covering the sky. In his long account of the shower in his _Personal Narrative_ he states that, from the beginning of the phenomenon, there was not a space in the firmament equal in extent to three diameters of the moon that was not filled at every instant with bolides and falling stars; while he was locally informed that during a previous display in 1766 the inhabitants of Cumana had beheld the neighbouring volcano, Cayamba, veiled for an hour by a similar exhibition.
+
+In the next display, observed in the year 1833, 240,000 meteors were computed by Arago to have been visible above the horizon of Boston on the morning of 13th November; while Mr. Baxendell, who observed the shower from the west coast of Mexico, states that "the number of meteors seen at once often equalled the apparent number of the fixed stars seen at a glance."
+
+Olmsted, when he had witnessed the shower of 1833 (a shower heralded and followed by less brilliant displays in 1831-1832 and 1834-1836), and when, moreover, he had compared the phenomena with those recorded by Humboldt and Bonpland in 1799, announced the view which has since been so brilliantly confirmed, that the appearances are due to the passage of the earth through a _storm_, so to speak, of planetary bodies.
+
+This was the first blow given to _le vide planétaire_. Space, instead of being empty, was full of bodies, some of them being congregated into rings, each body composing the ring revolving like a planet round the sun. In fact, these rings may be compared to _tangible orbits_; indeed, they almost realise the schoolboy's idea of an orbit, as a considerable part of the path is occupied by a string of little planets, while in the case of our earth's orbit, for instance, each point of the path is occupied in succession only.
+
+Still Olmsted did not accept the view that the falling stars were of the same nature as meteorites. His penetration, however, enabled him to note the fact that --- however numerous the falling stars might be; in whatever direction they appeared; or whatever the apparent lengths of their paths; --- the lines of direction of these paths, retraced along the sky, nearly all found a common focus of emanation or visual centre of projection among the fixed stars. This has since been called the radiant point.
+
+The most salient fact, noticed during the subsequent display in 1866, even by those who did not recognise its significance, was that all the meteors seemed to come from the same region of the sky. Among all those seen by myself from 11 P. M. on Tuesday, 13th November, till 2 A. M. on Wednesday, 14th November, two only were exceptions to the general direction. In fact, there was a region in which the meteors appeared trainless, and shone out for a moment like so many stars, because they were directly approaching us. Near this spot they were so numerous, and all so foreshortened, and for the most part faint, that the sky at times put on almost a phosphorescent appearance. As the eye travelled from this region the flights became longer, those, as a rule, being longest which first made their appearance overhead, or which trended westward. Now, if the paths of all had been projected backwards, they would have intersected in one region, and that region the one in which the most foreshortened ones were seen. So decidedly did this fact come out that there were moments in which the meteors belted the sky like the meridians on a terrestrial globe, the pole of the globe being represented by a point in the constellation Leo. In fact, they all seemed to _radiate_ from that point, and _radiant point_, as we have seen, is precisely the name given to it by astronomers. _Vanishing point_, if the bull were permissible, is a term which would represent the fact rather than the appearance, which is an effect of perspective; and hence we gather that the paths of the meteors are parallel, or nearly so, and that they diverge therefore from a definite place in the sky. The point from which they proceed in the case of the swarm we are now considering lies in the sickle of Leo, situated in longitude 142° and latitude 8° 30′ N., according to Professor Newton. These meteors are called Leonids.
+
+[Fig. 22. --- The Radiant Point of the November Meteors.]()
+
+[Fig. 23. --- Radiant Point of Long Duration (October-November), Denning.]()
+
+Meteor showers are generally of short duration, but Mr. Denning has shown that there are cases in which falling stars emanate from the same part of the sky for long periods of time.
+
+He finds that during several months certain apparent radiant points maintain a stationary position amongst the stars. From July to September there appears to be a continuous display from the point in R. A. 6°, Dec. +11°, and, during the last six months of the year, shooting-stars almost incessantly fall from centres at 47° +44°, 73° +41°, 77° +33°, _etc._ Throughout the autumn and winter months there occurs an intermittent display from 154° +41°. These are merely instanced as examples of a numerous class. The agreement in the positions of the several showers, as determined at different periods, is so close that it is extremely difficult to believe they can result simply from the accidental grouping together of distinct meteor systems. On the other hand, it seems impossible to explain satisfactorily these durable radiant points, and it is evident that this special part of the subject requires further close investigation.
+
+One of these long-duration radiants between Auriga and Taurus is shown in the accompanying illustration (Fig. 24).
+
+The August meteors (Perseids) also show a long duration, the entire interval over which the display is spread being from 8th July to 22d August. But the radiant is not stationary;* it becomes displaced from night to night, and its apparent motion is to the east. This feature is a well attested fact of observation. The positions of the radiant on different nights are as follow ---
+
+*) Denning first announced this fact in _Nature_, vol. 16. p. 362.
+
+[TABLE]
+
+The April meteors (Lyrids) give similar indications that their radiant point is in rapid motion eastward amongst the stars.*
+
+*) _Nature_, vol. 32. p. 5.
+
+The next point, first brought to light by Olmsted, was that during a display the radiant point moves diurnally with the stars across the heavens.  This is another strong argument in favour of the cosmical theory.
+
+Meteors which appear singly and occasionally are called sporadic meteors, but in addition to these, which we may reckon to see every night, there are at certain times of the year very well-known and rich falls; so well known that we can say at once that on the 28th of July, 10th of August, and 10th of December more falling-stars will be seen than are ordinarily visible. These are termed systematic or periodic meteors, and those to which we have just referred as appearing in November are of this class.
+
+From 1833-1863 evidence was rapidly accumulated indicating that a very large proportion of the shooting-stars observed were not sporadic, but really systematic --- that is to say, that at certain periods of the year meteors might be expected to diverge from radiant points in those particular parts of the sky, and in greater numbers from those parts than from elsewhere.
+
+[Fig. 24. --- Position of the Long-Duration Radiant among the Stars.]()
+
+During these years a considerable number of radiant points had been made out, and therefore the existence of a considerable number of streams or swarms had been suggested if not established. In 1863 Professor H. A. Newton used these facts to strengthen the cosmical hypothesis.
+
+The observations of Humboldt --- modern observations, so to speak --- were repeated, as we have seen, in 1833, on the same day (or one day later) of the same month in which Humboldt had made his observation in 1799, and again one day later in 1866 there was a recurrence of the same thing. Now these dates are separated by an equal interval of thirty-three years. The idea of periodicity was therefore suggested both for this and other displays, and this gave rise to so great an interest in the question that an investigation was made whether falls had been recorded at previous intervals of thirty-three years, or whether it was a new event first seen by Humboldt in 1799, or possibly by the Cumanese in 1766.
+
+Professor Newton took up the inquiry, and was soon able to show that the various chronicles of star-showers from the very earliest times, when properly discussed, indicated that the principal streams suggested by the observations since 1833 had really, at variously recurrent intervals since the beginning of astronomical observation, given indications of their existence.* He especially indicated such cases of constant recurrences of showers in April, August, November, and December.
+
+*) _Silliman's Journal_, vol. 36. p. 146, 1863.
+
+The discussion of the dates of these showers in the early records showed a constant slow change of date in one direction or the other. This obviously demonstrated that the showers were independent of the tropical year --- that is to say, of the earth's motion round the sun; and it is difficult to understand how a more definite proof of their cosmical origin could be afforded.
+
+We may conveniently confine our remarks on this point to the inquiries relating to the "Leonid" swarm of meteorites which gives rise to the November display.
+
+Newton and others found that we possess records, dating from 902 A. D., proving that about every thirty-three years since that time the heavens have been hung with gold. The Arab historian, Abu-l'Abbas ad-Dimashkî, chronicled the star-shower of 19th October in the year 1202 of our era in the following words, the while Chinese astronomers carefully watched the constellations in which the meteors appeared and vanished from the sight:---
+
+In the year 599, on the last day of Muharram, stars shot hither and thither, and flew one against another like a swarm of locusts; this phenomenon lasted until daybreak; people were thrown into consternation, and made importunate supplications to God the most High; there was never the like seen except on the coming out of the messenger of God --- on whom be benediction and peace.
+
+This table for the November display, from Professor Newton, shows what the result of searching the old records was ---
+
+[TABLE]
+
+*) H. A. Newton, _Bul. Ac. R. Belg._, 17. No. 6.
+
+*) In many countries the change from old to new style was made in this interval, commencing from 1582 in Spain, Portugal, and Italy.
+
+These ancient records enabled Professor Newton to place the planetary nature of the November ring beyond all doubt.
+
+It is evident that if this ring crosses our orbit in a certain definite point in space, the earth will always traverse it when occupying the same definite point of its orbit with regard to the stars, provided the ring does not change its place. But our ordinary year, called the tropical year, is affected by the precession of the equinoxes, as it is measured from equinox to equinox, so that we do not measure it by the stars, but by an empirical point called the first point of the sign Aries, which is actually at the present moment in the constellation Pisces. If we refer the recorded star-showers to the sidereal year, or a fixed equinox, we should find an almost absolute identity in the dates of their appearance if there were no perturbation, but we shall see subsequently that there is perturbation, and this is a final demonstration of cosmical origin.
+
+If there is a swarm of meteorites falling in any particular direction towards the plane of the ecliptic, these meteorites will take little account of the precession of the equinoxes or the tropical year; the earth must take the meteorites as she finds them. The one great leap in the table was due to the alteration of the calendar, as there was a difference of twelve days between the old and new reckoning. Professor Newton, Professor Adams, and others have given a complete demonstration that from the year 902 a swarm of meteorites has been encountered by the earth every thirty-three years or thereabouts, and nearly in the same part of her orbit round the sun.
+
+By a study of the position and _lie_ of the earth in her orbit we can see from what part of space these meteors, these more numerous swarms, come. Suppose, for instance, that at one part of the earth's orbit there is a stream of meteorites plunging down nearly vertically towards the ecliptic; the earth in passing through them would receive the greatest number of blows on its exterior atmosphere on the hemisphere above the plane of the ecliptic at the time, while the other hemisphere would be entirely sheltered, so that the direction of the fall would be capable of demonstration by a consideration of the earth's direction and the relation of its surface to the plane of the ecliptic at the time.
+
+The observations indicate that these bodies are moving towards the plane of the ecliptic, from its northern side, into that part of it through which the earth passes in her annual journey in November; they are, in fact, moving round the sun in an orbit inclined at a not very large angle (17°) to the plane of the earth's orbit.
+
+Similarly, we might observe the August ring rising from one of its nodes, situated in the point of the earth's orbit occupied by our planet on 10th August, not at a slight angle like the November ring, but at an angle of 79° or 80°.
+
+It is important to make this point quite clear.
+
+Let us conceive the sun and earth to be half immersed in an infinite ocean which will represent to us the plane of the ecliptic, and let us further for greater simplicity assume that the earth's motion round the sun (in a direction contrary to the hands of a watch) is performed in a circular path with the sun at the centre; let us, moreover, suppose the earth's path, or orbit, to be marked by buoys, remembering that astronomers define the position of a heavenly body in the plane by stating its _longitude_ --- that is, its angular distance, reckoning from right to left, from a particular startpoint, as seen from the sun; and its _latitude_ --- that is, its angular height above the plane as seen from the same body.
+
+Now, if it were possible to buoy various points of the earth's orbit in the plane of the ecliptic in the convenient manner before suggested, we should see the meteor-ring of "Leonids" meeting the waves of our hypothetical ocean, at a slight angle (17°), at the point of the earth's orbit occupied by our planet on 14th November, the point where they pierce them being called the _node_. Where the other node lies, where the meteorites cross the plane again, we do not exactly know; we only know that they do not cross our orbit; if they did, another star-shower would occur in May.
+
+Let us inquire into this point a little more closely. Let us, in imagination, connect the earth and sun by a straight line; at any moment the direction of the earth's motion will be at right angles to that line (or a tangent to its orbit); therefore, as longitudes are reckoned, as we have seen, from right to left, the motion will be directed to a point 90° of longitude behind the sun. The sun's longitude at noon on 14th November was 232°, within a few minutes; 90° from this gives us 142°, which, as we have seen, is precisely the longitude of the radiant point. This, then, is proof positive enough that, in longitude at least, the meteoritic hail was fairly directed against, and as fairly met by, the earth.
+
+But it will be asked, If the radiant point is situated in latitude 8° 30′, how comes it that the inclination of the ring is stated to be 17°? should it not rather be 8° 30′? To this question we may reply by another: How comes it that, when we are hurrying through a shower, we always incline an umbrella at a less angle with the ground than that formed by the falling rain? The answer is the same in both cases. In the case of the meteorites, if our motion in one direction differs little from theirs, they appear to us to fall at an angle which is also almost precisely half of their real one.
+
+Similar ancient records relating to star-showers seen in March and April, and July and August, showed that the earth's longitude was always the same when they were observed, if it was referred to a _fixed equinox_. The constant longitude for the star-showers anciently recorded to have taken place in March-April corresponds to April 20.1d., 1850, and for a like number seen in July-August, August 9.0d., 1850. The longitude for the showers recorded in October-November advances along the ecliptic from a fixed equinox with a uniform motion of 52′′ per annum. Such a motion as this must be due to planetary perturbation, and hence we are in presence of cosmical phenomena.
+
+The form and dimensions of the orbit of the August meteors, which is very steeply inclined to the ecliptic, were calculated by the German astronomer, Erman, from the many combined observations and determinations of heights of those meteors made at German Observatories in the years following the great November showers of 1832-1833. _But an exact value of their velocity was still wanting_; and from an approximate measure of the velocity of the "Perseids," obtained from observations of a fine meteor of the shower in America on 10th August 1861, Professor H. A. Newton found elements of the ring, concluding it to be not far from circular in form, and nearly perpendicular in its plane to the ecliptic.
+
+It is to the American astronomer, Professor Newton, that we owe the earliest investigation into the constitution of the November ring. He first considered the question whether the ring is of uniform density, and whether it lies merely near our orbit; the variation in the brilliancy of the showers being caused by the action of the planets and moon on the earth and ring --- the greatest perturbation of the earth being 9000 miles each way --- sometimes throwing us into the ring, sometimes causing us to pass it without encountering it. He has shown, however, that the ring cannot be of uniform density throughout, but that, on the other hand, in one part of it there is a clustering together of the little bodies of which it is composed --- a few stragglers being scattered along the rest of its circuit.
+
+From other considerations he showed that the meteors revolve round the sun in a direction opposed to the earth's motion, the most probable time of revolution being, according to his first view, 354.621 days, our own being accomplished in 365.256 days. This is the same as saying that the annual motion of the group is 1 + 1/33.25 revolutions. Consequently, the centre of the group is brought, on this view, into contact with the earth once in every 133 years, but the earth passes very near the centre four times in this interval.
+
+On this view the orbit of the swarm would be nearly circular.
+
+With regard to the rings generally, Professor Newton made out in 1865 1. that all the sporadic shooting-stars cannot belong to a narrow ring which has a diameter approaching in size that of the earth; and 2. that a large portion of the meteorites, when they meet the earth, are travelling faster than it is, or else that the sporadic meteors form a series of radiants at some distance from the ecliptic, and hence come from a series of rings considerably inclined to the plane of the ecliptic.
+
+Further, he pointed out that the distribution of the orbits of the meteorites must be one or other of the following:---
+
+1\. They may form rings passing near the earth's orbit at many points along its circuit (sporadic meteors may be outliers of such a ring).
+
+2\. They may form a disk in the plane of the ecliptic.
+
+3\. They may be distributed at random like the orbits of comets.
+
+## Chapter 12. Demonstration of the Cosmical Hypothesis.
+
 ...
