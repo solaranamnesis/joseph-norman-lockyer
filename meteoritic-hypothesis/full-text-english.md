@@ -1269,7 +1269,9 @@ If we are justified in regarding the partly meteoritic origin of the nodules as 
 
 # Part 4. Meteorites in the Solar System.
 
-## Chapter 11. Meteorites and Bodies which, like the Earth, travel round the Sun.
+## Section 1. --- Meteor Swarms give rise to the Appearances round the Sun.
+
+### Chapter 11. Meteorites and Bodies which, like the Earth, travel round the Sun.
 
 We have seen that the phenomena which accompany meteorites entering our air, whether they are soon burnt up and give rise only to the appearance of a shooting or falling star, or whether they are bulky enough to withstand the melting process till they reach the earth's surface, are similar. We are now in a position to discuss all these phenomena on the assumption that they have a common origin.
 
@@ -1403,6 +1405,318 @@ Further, he pointed out that the distribution of the orbits of the meteorites mu
 
 3\. They may be distributed at random like the orbits of comets.
 
-## Chapter 12. Demonstration of the Cosmical Hypothesis.
+### Chapter 12. Demonstration of the Cosmical Hypothesis.
+
+We shall see next that another line of thought and inquiry was required to completely establish the cosmical hypothesis by giving us data as to the _velocities_ of the meteorites.
+
+This was that the sporadic meteors --- those which made their appearance by chance, so to speak --- were always more numerous in the morning than in the evening hours, and further, that the number seen in the northern hemisphere in one half year was greater than that seen in the other. These facts, although at first they seemed to connect these phenomena with our terrestrial hours, and therefore were at first considered to militate against the cosmical hypothesis, were subsequently shown, by Bompas, A. S. Herschel, H. A. Newton, and Schiaparelli, to be a distinct proof that the bodies were moving in space with a velocity not incomparable with, but at the same time somewhat greater than, that of the earth itself; that therefore they were moving with planetary velocities, and therefore were truly members of the solar system.
+
+The work of M. Coulvier-Gravier* was the first to indicate the rise and fall of the horary numbers between sunset and sunrise. It was the dependence of these phenomena upon certain terrestrial hours which made that eminent observer decline to consider their origin as in any way cosmical.
+
+*) _Recherches sur les Météores_, p. 219 (Paris, 1859).
+
+Mr. Bompas,* commenting on the numbers obtained by Coulvier-Gravier, wrote ---
+
+*) _Monthly Notices_, vol. 17. p. 148.
+
+The part of the heavens towards which the earth is moving at any time is always six hours from the sun. At 6 A. M. the observer's meridian is in the direction of the earth's motion; and at 6 P. M. in the opposite.
+
+Thus the greatest number of meteors are encountered when the observer's meridian is in the direction of the earth's motion, and the number diminishes from thence to 6 P.M., when he looks the opposite way.
+
+M. Coulvier-Gravier's numbers were as follows ---
+
+[TABLE]
+
+Fig. 25 will make Mr. Bompas's idea clear. The front half of the earth ploughing its way through space is unshaded; an observer is being carried along the line of the earth's motion at sunrise, the earth is behind him, so to speak, and the point towards which the earth is travelling lies 90° in longitude behind the sun.
+
+Combining these facts, Bompas explained the results on the principle that if the meteors be distributed equally in space they would converge to the earth, if at rest, equally on all sides. But if the earth be in motion, and with a velocity one-half the average velocity of the meteors, they would converge to it more on the side towards which it is moving than on the other; and in the proportion of nearly two-thirds of the number, would have an apparent motion more or less opposed to that of the earth, and would apparently diverge from the point towards which the earth is moving, with a gradual increase in number from 6 P. M. to 6 A. M.
+
+Before we proceed to show the bearing of this matter, a word must be said with regard to the actual conditions under which these bodies reach us from space, and how their fall upon the earth and their appearance in the heavens, even in the case of no fall, have been investigated.
+
+[Fig. 25. --- Diagram showing why more Falling Stars are seen after Midnight.]()
+
+To approach the proof of the cosmical hypothesis afforded by these observations, we may begin by supposing the earth at rest. If the movements of the cosmical particles are in all directions, they will fall equally on all parts of the earth, and even the earth's rotation will make no difference. But if we assume the earth's movement in its orbit to be much more rapid than the movements of the meteorites, it is clear that its forward half will receive blows while the hinder half cannot.
+
+Suppose that all the regions of space swept through by the earth in its orbit round the sun were occupied here and there by meteorites moving like the earth in orbits round the sun, and let us assume for the moment that they are pretty nearly equally distributed and are moving in all directions.
+
+Under these circumstances the earth in movement in its orbit, at the rate of about 1000 miles a minute, would be sweeping through them all the year round, and we should get the appearance of a shooting-star or the fall of a meteorite every day in the year. Careful observations in climates most convenient for these researches, where the sky is freest from cloud and is purest, show, as we have seen, that there is not only no night but no hour without a falling star. We are therefore justified in considering that practically the part of the solar system which is swept through by the earth is not a vacuum, not empty space, but space occupied by meteorites here and there.
+
+If these meteoritic bodies are equally distributed and are going in the same direction as the earth, but moving more quickly, they would follow and catch the earth; if they were travelling in the same direction as the earth, but more slowly, we should overtake them, and the two sides of the earth separated by a plane at right angles to the tangent to the part of the orbit along which it is moving at the time (see Fig. 25) would experience a different condition. One side would be bombarded by the greater number of meteorites in the former case, while in the latter the forward half only would be affected. The assumption, however, is that they are travelling in all directions; hence the numbers which fall on the front hemisphere compared with those that fall on the opposite one --- in other words, the numbers seen at sunrise as compared with those seen at sunset --- must depend wholly on the velocity of the earth as compared with the mean velocity of the meteorites.
+
+The point of space towards which the earth is travelling at any moment, shown in Fig. 25, has been called "the apex of the earth's way"•; the point of space it is leaving the "anti-apex."*
+
+*) These terms were suggested by Professor Pritchard. In 1866 Schiaparelli suggested _point de mire_. Quite recently, Professor Newton, of Yale, has suggested "goal" and "quit."
+
+The apex of the earth's way is always 90° of longitude behind the sun.
+
+Having, then, this general view of the movement of the earth in her orbit, we are in a position to discuss Mr. Bompas's argument, and we cannot do better than use the explanation given by Professor Pritchard to the Royal Astronomical Society in 1864,* which really possesses an historical interest.
+
+*) _Monthly Notices_, 1864, vol. 24. p. 138.
+
+Our object is to show that this hypothetical uniformity of distribution, combined with the direction and amount of the earth's motion, will have a very sensible effect on the number of meteors actually visible at a given place, at a given hour of the night, as explained (in a somewhat different way) by Mr. Bompas [and at a given season of the year, as extended by Mr. Herschel].
+
+[Fig. 26. --- Professor Pritchard's Umbrella Diagram.]()
+
+For the purpose of illustration, suppose H O R (Fig. 26) to represent a flat umbrella, of which N O is the stick; suppose, also, rain to fall upon it equally, and in all directions: then, if the umbrella be at rest, as much rain will fall upon its front, looking from Z, as on its back, from N.
+
+But now suppose the umbrella itself lias a motion from O to E in a given time, and, for the simplicity of first conception, let O E represent also the uniform velocity of the rain: very much more rain will now fall on the front of H O R, and much less on the back of H O R, than before. In fact, if O _m_ be taken = O E, and the angle _m_ O R be made = R O E, and the parallelogram _m_ E be completed, then a raindrop, of which _m_'s real path is M E, would, by the motion of H O R, just graze along the front surface of H O R in the direction M R O, when it arrives at E. Moreover, all the rain which at the beginning of the motion was moving within the angle _m_ O R, which would have fallen on the back of H O R at rest, will now fall on the front of H O R, if in motion.
+
+The application of this hypothetical case to that of meteors is obvious. H O R now represents the horizon, Z the zenith of an observer, and O E the direction and magnitude of the earth's orbital motion. The earth's diurnal motion of rotation is comparatively too small to be taken into account for our present purposes. So long, then, as O E, the direction of the earth's orbital motion, is in front of the horizon of an observer, there will thereby occur to him an additional flow (and partial combustion) of meteors against the earth's atmosphere above him; and this increased flow will become the greater as the angle R O E becomes greater. If O E be below H O R, then the number of visible meteors will thereby be diminished.
+
+Now, if we refer to Fig. 25 we shall see that the observer does not reach the forward part of the earth (with reference to the apex of the earth's way) till midnight, and that the apex rises gradually till it is on his meridian at sunrise.
+
+Here, then, is the reason why the number increases from sunset to early morning, based upon the theory of their cosmical origin, and really explainable in no other way.
+
+Now for the yearly conditions as revealed by observation.
+
+The monthly number of meteors revealed by a large mass of observations in England and abroad has been summarised as follows* ---
+
+*) Denning, _Monthly Notices_, vol. 47. p. 37.
+
+[TABLE]
+
+The relatively excessive numbers in April and August are due in a great measure to the occurrence of the rich displays of 20th April (Lyrids) and 10th August (Perseids), which have induced a large number of observations at these special epochs.
+
+Professor A. Herschel was the first to point out that this yearly difference, as well as the daily difference in the hourly numbers, arrived at by Coulvier-Gravier, demonstrated the cosmical origin. In 1864 he wrote as follows, assuming that the meteorites travelled faster than the earth* ---
+
+*) _Monthly Notices_, vol. 24.
+
+A season of frequency of aërolites, shooting-stars, and bolides must be expected to succeed, in all latitudes, three months later than the summer season of the sun; but, on the other hand, a dearth of meteors, in the spring, one quarter of a year later than mid-winter. In general, and in all latitudes, the meteoric seasons, or seasons of meteoric frequency, must strictly follow the tropical seasons, and three months later in the year. Thus, in the earth's northern hemisphere, the Northern Pole remains directed to the sun from the equinox of March until that of September, and to the course of meteors from the solstice of June to the solstice of December. The greatest frequency of the meteorites will fall about the equinox of autumn, in September and October. This most nearly agrees with the European observations. The meteoric season of Arago may, therefore, be drawn as a consequence from his planetary hypothesis, if it be permitted to change the limits which he assigns to it by a small quantity --- namely, from the Earth's apsides to its solstices in its orbit.
+
+The same fact, which appears strongly marked with regard to shooting-stars in the eight years' summary of Dr. Schmidt, is found repeated in a striking manner in the existing _Northern Catalogues of Star-showers, Fire-balls, and Aëroliths_. The following references may be taken as examples: ---
+
+[TABLE]
+
+It was next pointed out, by Newton* and Schiaparelli,* that, provided the actual facts of the daily and yearly variation were sufficiently assured, the true velocities of these bodies in space could not be just simply similar to the earth's velocity, nor their paths in space planetary orbits like that of the earth, and of about the same dimensions; but that, as their motion was much faster, their orbits would be variously distributed parabolas, and they would consequently be more akin to comets.
+
+*) _Silliman's Journal_, vol. 39., 1865; _Nat. Acad. Sci._, vol. 1.; _Annuaire de l'Observatoire de Bruxelles_, 1866, p. 201.
+
+*) _Les Mondes_, vol. 13.
+
+That the movement was really much faster was argued in 1865, from the duration of the flight of shooting-stars, by Professor Newton.* Wartmann's observations of the duration of the flights of 368 shooting-stars at Geneva during one night by six observers, gave a mean of 0.49s. for each flight. The mean of 499 estimates made in August and November 1864 is 0.418s. The mean duration of the 867 flights is 0.45s.
+
+*) _Silliman's Journal_, vol. 39. p. 203.
+
+Professor Newton remarks ---
+
+A mean duration of half a second, and a mean length of path between 39 and 65 kilometres, imply a mean velocity between 78 and 130 kilometres per second. The smallest of these (more than 48 miles) is twice and a half the velocity of the earth in its orbit about the sun. This cannot consist with the supposition that most of the meteoroids move in closed orbits about the sun.
+
+Both the briefness, however, of this assumed duration, and even the least limit, accordingly, of the velocity so found, were presumed by Professor Newton to be probably overrated.
+
+The final step in this demonstration was taken by Schiaparelli, but, before this, Newton had distinctly shown that most of the meteors visible were not single in their movements round the sun, but that they belonged to systematic streams, and that these streams were not rings.
+
+With special reference to the November ring, Professor Schiaparelli* came to the conclusion that the orbit, instead of being nearly circular, as Newton had at first supposed, was very elongated, like those of comets; and Professor Adams* demonstrated shortly afterwards that, among several possible periods of the stream which Professor Newton had already indicated, the true period was 33.25 years, the demonstration depending upon the increase of the longitude of the node by the action of the planets Jupiter, Saturn, and Uranus, the calculated increase amounting to 28′, while the actual increase was 29′, and he gave the following elements of the orbit of the swarm:---
+
+*) _Bulletino Meteorologico dell' Osservatorio del Collegio Romano_, vol. 5., 1866.
+
+*) _Monthly Notices_, vol. 26. p. 247, April 1867.
+
+[TABLE]
+
+Aided by considerations depending upon observations of the conditions under which the meteors were seen --- from a particular part of the sky; in a particular part of the earth's orbit; at a particular time; and from a particular point of the earth's surface, --- we can understand at once that it was as practicable to determine the orbit of the swarm as it is to determine the orbit of a planet or of a comet.
+
+_Distribution of Meteorites in the Solar System._
+
+The _vide planétaire_ is now ultimately abolished, and we find the solar system to be a meteoritic _plenum_ in which sporadic meteorites and swarms of greater or less density are moving in orbits more or less elongated round the sun.
+
+The demonstration that meteorites are extra-terrestrial bodies has been followed by researches which, as they have become more complete and searching, have gradually driven men of science to increase their estimates, till at last the numbers acknowledged to exist in what was formerly supposed to be empty space have become enormous.
+
+Observations of sporadic falling stars have been used to determine the average number of meteorites which attempt to pierce the earth's atmosphere during each twenty-four hours. Dr. Schmidt, of Athens, from observations made during seventeen years, found that the mean hourly number of luminous meteors visible on a clear moonless night by one observer was fourteen, taking the time of observation from midnight to 1 A. M.
+
+It has been further experimentally shown that a large group of observers who might include the whole horizon in their observations would see about six times as many as are visible to one eye. Professor H. A. Newton and others have calculated that, making all proper corrections, the number which might be visible over the whole earth would be a little greater than 10,000 times as many as could be seen at one place. From this we gather that not less than 20,000,000 luminous meteors fall upon our planet daily, each of which in a dark clear night would present us with the well-known phenomenon of a shooting-star.
+
+This number, however, by no means represents all the sporadic meteorites that enter our atmosphere, because many entirely invisible to the naked eye are often seen in telescopes. It has been suggested that the number of meteorites if these were included would be increased at least twentyfold; this would give us 400,000,000 meteorites penetrating the earth's atmosphere daily.
+
+If we consider only those meteorites visible to the _naked eye_ as sporadic meteors or falling stars, and if we further assume that their absolute velocity in space is equal to that of comets moving in parabolic orbits, Professor H. A. Newton has shown that the average number of meteorites in the space that the earth traverses is in each volume equal to the earth about 30,000. This gives us as a result in round numbers that the meteorites are distributed each 250 miles away from its neighbours.*
+
+*) Article "Meteorites," Professor Newton, _Encyclopædia Britannica_, ninth edition, vol. 16.; and "Abstract of a Memoir on Shooting-Stars," by Professor Newton, _Silliman's Journal_, vol. 39., 1865.
+
+It has already been shown in Chapter 11 that the term "sporadic" was simply a measure of our ignorance; and that when the continuous observation of falling stars was really begun in earnest, the number of constant points from which they emanated was soon mightily increased; the falls thus became systematised, and it was found that the November and August swarms were true types. With every new "radiant" thus established the number of sporadic meteors naturally became less and less.* There will be a further word to be said on this point in the next chapter.
+
+*) It is highly probable that the meteors termed sporadic really belong to systematic showers, which are, however, of extreme tenuity.  There is a vast number of feeble systems of this character, and many of them, being simultaneously in action, gave rise to the discursive flights visible on ordinary nights of the year, and induced the belief that such meteorites were isolated, and mere chance visitors to our atmosphere.  Prolonged observations, chiefly by Mr. Denning, have recently shown that these meteorites may be assigned to their several radiant points, and that as many as fifty or sixty different systems are sometimes in operation on one and the same night.
+
+With regard to the systematic meteorites --- those, namely, that are massed in swarms --- the labours of many observers have already enriched science with a large number of showers, of which the return is periodic; among these may be mentioned the following:---*
+
+*) Denning, _Monthly Notices_, vol. 48. p. 111.
+
+[TABLE]
+
+With regard to these showers much still remains to be done before their density can be stated. Professor Newton has, however, calculated that in the Biela swarm the meteorites are 20 miles apart.
+
+This chapter may fitly conclude by the following notes on the above showers, for them I am chiefly indebted to Mr. Denning ---
+
+_Quadrantids._ --- Heis was the first to determine this radiant accurately. It was subsequently observed by Masters and Professor Herschel (1863-1864). The radiant is circumpolar in this latitude, but low down during the greater part of the night, hence the display is usually seen to the best advantage on the morning of 2d January.
+
+_Lyrids._ --- Attention was first drawn to the April meteors by Herrick in the United States (_B. A. Report_, 1871, p. 42). The probable identity of this meteor orbit with Comet 1, 1861, was pointed out by Galle and Weiss.
+
+_η Aquarids._ --- Further observations are urgently required of this stream. The radiant is only visible for a short time before sunrise. There is a considerable difference between Mr. Denning's results and those secured by Colonel Tupman, the discoverer of this system in 1870, whose observations place the radiant at 326 1/2-2 1/2, 29th April to 3d May.
+
+_δ Aquarids._ --- The meteoric epoch, 26th-30th July, was first pointed out by Quetelet many years ago. Biot also found, from the oldest Chinese observations, a general maximum between 18th and 27th July (Humboldt). Showers of Aquarids were remarked by Schmidt, Tupman (1870), and others, but it was not known until observations in 1878 by Denning that the Aquarids formed the special display of the epoch, and that there were many early Perseids visible at the same time.
+
+_Perseids._ --- Muschenbroeck, in his work on _Natural Philosophy_, printed in 1762, mentions that he observed shooting-stars to be more numerous in August than in the other months of the year. Quetelet, in 1835, was, however, the first to attribute a definite maximum to the 9th-10th. This stream is remarkable for its extended duration, and for the obvious displacement which occurs from night to night in the place of its radiant (see _Monthly Notices_, 45. pp. 97, 98). The period of visibility appears to cover the forty-three nights from 18th July to 22d August inclusive, and the radiant advances from 3° +49° to 76° +57°. This shower apparently varies but little in its annual richness. In the morning of 11th August it usually yields from sixty to eighty meteors per hour for one observer.
+
+_Orionids._ --- Professors Schmidt and Herschel were the first to discover the Orionids as the most brilliant display of the October period, and accurately determined its radiant in 1863-1865. Herrick recorded a shower at 99° +26°, 20th-26th October 1839, and Zezioli in 1868 recorded many meteors which were ascribed to a radiant at 111° +29°, but there is no doubt that the Orionids were observed in both these cases, though the radiant was badly assigned. There is a contemporary shower at 106° +22°, close to _δ Geminorum_, which is liable to be confused with the Orionids, but the latter is by far the richer of the pair. The radiant of the Orionids shows no displacement like the Perseids.
+
+_Leonids._ --- This is the famous November swarm, to which we have sufficiently referred in the text. The last splendid shower was in 1866, 13th November, and many meteors were seen at the few subsequent returns. During the last fifteen years the displays have been extremely meagre. There is no doubt, however, that the meteors form a complete ellipse, for the earth encounters a few of the particles at every passage through the node. It is supposed that there are minor groups of meteors pursuing the same orbit.
+
+_Andromedes._ --- Observed by Brandes, at Hamburg, 7th December 1798. It also recurred in 1838, and was recognised by Zezioli in 1867, and afterwards ascribed by Schiaparelli to its true source in Biela's Comet; the very brilliant showers of 27th November 1872 and 1885 are still fresh in the memory. It is uncertain whether this group forms an unbroken stream; if so, the regions far removed from the comet must be extremely attenuated. Some of the meteors were seen in 1877 and 1879. The radiant is diffuse to the extent of 7° or 10°. The cometary radiant is at 23°.4 +43°.4 (Weiss), and 24° +43°.2 (Corrigan), which is very close to the meteoric centre. Returns of the shower should be looked for in 1892 and 1898.
+
+_Geminids._ --- Mr. Greg first called attention to the importance of this shower. It was well observed by Professor Herschel in 1861-1864, and some later years.
+
+### Chapter 13. These Meteor Swarms are Comets.
+
+The final step taken by Schiaparelli in his investigations was a demonstration that the orbits of certain of these streams or swarms, to which reference has been made, were really identical with the elements of known comets.
+
+Schiaparelli computed the elements of the orbit of the August meteors, supposing them to be moving along a cometary or parabolic orbit. For his calculations the data were the radiant in R. A. 44°, N. Decl. 56°, and the time of the earth passing near the centre of the group in 1866, August 10.75. With the elements thus obtained he found those of the comet, 1862, 3, discovered by Tuttle on 18th July 1862, according to the latest determinations by Oppolzer,* to be nearly identical, as is seen in the following statement: ---
+
+*) _Astr. Nach._, No. 1384.
+
+[TABLE]
+
+As remarked by Professor Newton,* we come thus to the unexpected conclusion _that the comet of 1862 is nothing else than one of the August meteoroids, and probably the largest of them all_.
+
+*) _Silliman's Journal_, vol. 43., 1867.
+
+When this relation of the comet of 1862 with the August meteors was discovered by Schiaparelli, no comet was known having similar relations with the November meteors. Oppolzer, however, shortly after,* published a corrected orbit of comet, 1866, 1, discovered by Tempel in December 1865; and the resemblance of its elements to those of the orbit of the November group was at once obvious, and attracted the attention of several astronomers.* The following table gives the details:---*
+
+*) _Astr. Nach._, No. 1624.
+
+*) Peters, _Astr. Nach._, No. 1624; Oppolzer, _ibid._, No. 1626; Schiaparelli, _ibid._
+
+*) _Bulletino Meteor._, 28th February 1867.
+
+[TABLE]
+
+Tempel's comet has been found not only to describe the same orbit as the November swarm, but to occupy the same portion of the orbit, probably nearer the head than the tail of the swarm. The observations of 13th November 1865 showed that the earth traversed the anterior portion of the swarm at that time. Two months later the cornet passed the node, and ten months afterwards the earth, returning to the node, encountered the dense portion of the stream, which gave rise to the glorious display in 1866, hence the total length of the stream would exceed 500,000,000 miles.
+
+Professor Newton* remarks that the computed elements of the comet of 1366, though very uncertain, resemble those of comet, 1866, 1, and may belong to the same body. There was a remarkable star shower in 1366 shortly after the computed perihelion passage of the comet.
+
+*) _Amer. Journ._, second series, vol. 43. p. 285, 1867.
+
+The comet, 1862, 3 (sometimes called 1862, 2, by not counting Encke's comet), was first remarked in July, and therefore a month before the appearance of its meteors, the Perseids. It was visible more than three months. At its brightest its nucleus was equal to a star of the second or third magnitude, and its tail, according to some observers, was as much as 25° in length.
+
+The minimum distance of Tempel's comet from the earth's orbit was .00660, about two and a half times the distance of the earth from the moon. This distance for Tuttle's comet was .00472 or about 430,000 miles.
+
+Since this discovery of Schiaparelli's, several other star showers have been shown to be due to meteorite swarms pursuing generally elliptic orbits round the sun, which orbits are identical with those of various known cornets. And it is probable that other meteor streams will subsequently be associated with comets.
+
+This work was chiefly done in the first instance by a Committee of the British Association for the Advancement of Science, who published each year, from 1850 to 1881, a Report on Observations of Luminous Meteors, in which were given the times, paths, physical appearances, and other phenomena of meteors seen during the years immediately preceding. Mr. R. P. Greg, assisted by Professor A. S. Herschel, subsequently undertook the task of plotting the paths, and by this means they early determined between fifty and sixty radiants for different periods of the year.
+
+Working on these data, Professor Herschel* in 1878 gave a list of seventy-one instances of approximate agreements between the elements of certain comets and meteor showers, but many of these are likely to be accidental agreements. There are only five cases known in which all the conditions favour the idea of absolute identity, _viz._ ---
+
+*) _Monthly Notices_, vol. 38. 1878.
+
+Although we owe the final demonstration of the meteoritic nature of comets, as we have seen, to the labours of Newton, Adams, and Schiaparelli chiefly, long before their time the connection between shooting-stars (and even meteorites) and comets had been suspected on various grounds.*
+
+*) For many references in what follows I am indebted to the historical notice in Schiaparelli's _Stelle Cadente_, which is certainly one of the most important contributions to astronomical literature which this century has produced.
+
+Many shooting-stars pass through the air with a trail. This appearance is certainly suggestive of a very rapid comet. Hence, perhaps, it was that such an appendage, often noticed in the case of bright meteors, was sometimes described in ancient records as a comet. It is known that Cardano described as a comet the great meteor from which fell 1200 stones on the territory of Crema on 4th September 1511.*
+
+*) Humboldt, _Cosmos_, 4. p. 587 (Otté); Cardano, _Opera_, Lugduni, 1663, t. 3. p. 279; see also Schiaparelli, _Stelle Cadente_.
+
+Not only, as we have seen, did Kepler (1600) regard shooting-stars as akin in nature to meteorites, but he held that both had the same origin as comets ---
+
+Falling stars are composed of inflammatory viscous materials. Some of them disappear during their fall, while others indeed fall to the earth, drawn by their own weight. Nor, indeed, is it improbable that they have been formed into globes from feculent materials mixed with the ethereal air itself, and thrown from the ethereal region in a straight line through the air like very small comets, the cause of the motion of both being hidden.*
+
+*) Kepler, _Opera_, ed. Frisch, vol. 6. p. 157.
+
+Halley (1700), though he thought that the phenomenon of shooting-stars* wras produced by a material disseminated through celestial space falling upon the sun and meeting the earth in its passage, did not associate it with cometary phenomena; but Maskelyne (1765) held that meteors were of celestial origin, and was inclined to assimilate them to comets. He wrote as follows in a letter to the Abbé Cesaris, the astronomer at Milan, about 12th December 1783: "Freely accept, I pray you, this map, which I have lately published in order to stir up learned men rather than the unlearned, to observe more keenly the phenomena called fire-balls. In all probability they will turn out to be comets..."*
+
+*) Coulvier-Gravier et Saigey, _Introd. Historique_, p. 5.
+
+*) _Memorie della Società Italiana_, vol. 3. p. 345, Verona, 1786.
+
+We have already seen that Chladni formulated the view, in 1794, that space is filled with matter. In 1819 he extended it by stating that shooting-stars, meteorites, and comets were but different manifestations of it.*
+
+*) _Über Feuermeteore, und über die mit denselben herabgefallenen Massen_ (Wien, 1819); see also _Über den Ursprung der von Pallas gefundenen Eisenmassen_, p. 24.
+
+Chladni made another step, of which, as pointed out by Schiaparelli, only today are we able to appreciate the importance. In suggesting the cosmical hypothesis, he regarded two possible cases: either the meteors are formed of masses of independent materials which had never constituted part of the larger celestial bodies, or they are the result of the destruction of a celestial body previously existing. Chladni regarded the second hypothesis as possible, but held to the first as more probable. He stated that we could not doubt the existence, in the celestial spaces, of small bodies endowed with movement, which are now and then visible by passing before the sun.
+
+He held, therefore, that the small masses which appear under the forms of bolides and falling stars do not differ essentially from comets. It is also probable, he says, that comets consist of clouds composed in great part of masses of vapour and dust, which are kept together by mutual attraction. That this attraction is not enough to sensibly disturb the planetary movements is a proof of the exceeding tenuity and dispersion of the materials in such clouds, through which, however large, it is possible to observe the fixed stars.*
+
+*) _Feuermeteore_, p. 395; see Kaemtz, _Meteorologie_, vol. 3. p. 316.
+
+In 1839 the Abbé Raillard suggested a connection between luminous meteors and comets and the aurora,* and Dr. Forster noted that the years marked by the appearance of a large comet are remarkable also for the abundance of falling stars, especially of white ones.*
+
+*) _Les Mondes_, t. 12. p. 649, et t. 13. p. 606.
+
+*) _Essai sur l'Influence des Comètes_, _etc._ (Bruges, 1843).
+
+Perhaps the first to give a more solid support to the cometary theory of falling stars on geometric grounds was Boguslawski, who conceived the idea of representing, by means of parabolas, the apparent orbits observed in some of the August meteors of 1837.*
+
+*) Coulvier-Gravier et Saigey, _Introd. Historique_, p. 103.
+
+For the next important advance in thought upon this subject we have to come down to 1858, in which year Baron Reichenbach published a most important memoir* attacking the question from an entirely new point of view. Accepting as proved, by the then knowledge, the most intimate connection between meteorites and falling stars, he argued that both were connected with comets. He first recapitulated the facts then accepted with regard to the latter ---
+
+*) Poggendorff's _Annalen_, vol. 105. p. 438.
+
+1\. Comets, both tail and nucleus are transparent.
+
+2\. Light is transmitted through comets without refraction; hence the cometary substance can be neither gaseous nor liquid.
+
+3\. The light is polarised, and therefore borrowed from the sun.
+
+4\. Comets have no phases like those of moon and planets.
+
+5\. They exercise no perturbing influences.
+
+6\. Donati's comet (which was then visible) in its details and its contour is changing every day --- according to Piazzi, almost hourly.
+
+7\. The density of a comet is extremely small.
+
+8\. The absolute mass is sometimes small (von Littrow having calculated very small comets, tail and all, as scarcely reaching 8 lbs.)
+
+From these data the following conclusions might be drawn:---
+
+1\. That a comet's tail must consist of a swarm of extremely small but solid particles, therefore granules.
+
+2\. That every granule is far away from its neighbour --- in fact, so far that a ray of light may have an uninterrupted course through the swarm.
+
+3\. That these granules, suspended in space, move freely and yield to outer and inner agencies --- agglomerate, condense, or expand; that a comet's nucleus, where one is present, is nothing else than such an agglomeration of loose substances consisting of particles. Hence we must picture a comet as a loose, transparent, illuminated, free-moving swarm of small solid granules suspended in empty space.
+
+The next step in Reichenbach's reasoning was to show that meteorites (of which he had a profound knowledge) were really composed of granules. He pointed out that these granules (since called chondroi) formed really the characteristic structure both of irons and stones, so that both orders were chiefly aggregates of chondroi --- stony ones in iron meteorites, iron ones in stony meteorites. In some irons, such as Zacatecas, they exist as big as walnuts, firmly adherent, but they can be separated; inside these are balls of troilite, often firmly embedded, so that on breaking the meteorite they will divide, but in other cases so loose that they fall out, and they are smooth enough to roll off a table.
+
+Sometimes chondroi have smaller ones sprinkled in them, sometimes dark chondroi have white earthy kernels. In other cases chondroi are so plentiful as to form nearly the whole mass of the meteorite. They are often perfectly round, but not always, and they are often so loose that they tumble out and leave an empty smooth spherical cavity.
+
+The stones chiefly consist of such chondroi and their _débris_.
+
+He adds that each magnesic chondros "is an independent crystallised individual --- it is a stranger in the meteorite. Every chondros was once a complete, independent, though minute meteorite. It is embedded like a shell in limestone. Millions of years may have passed between the formation of the spherule and its embeddal."
+
+The remark is next made that the chondroi of meteorites indicate a condensation of innumerable bodies such as we see must exist in the case of comets; further, that they have been formed in a state of unrest and impact from all sides. Many meteorites are true breccias; they have _many times_ suffered mechanical violence. He adds that in comets we have precisely the conditions where such forces could operate, and hence arrives at the view that "comets and meteorites may be nothing else but one and the same phenomenon."*
+
+*) For this analysis of a part of Reichenbach's memoir, I am indebted to my friend, Mr. L. Fletcher, of the British Museum.
+
+This was in 1858, eight years before Schiaparelli's discovery, which was also very clearly foreshadowed by Kirkwood, who insisted on very definite grounds, as we shall see in the next chapter, upon the identity of comets and falling stars.
+
+It is interesting at this point to inquire what the precise difference between a falling star and a comet was then supposed by astronomers to be. It will be seen that it was vastly different from Reichenbach's. Newton referred the comet of 1862 to the largest meteorite in the August swarm. In 1873 the following views were expressed in the Report of the B. A. Committee on Luminous Meteors:---*
+
+*) Page 399.
+
+The extraordinary meteorological changes which comets undergo from the eccentricities of their orbits may, by the process of a kind of "weathering," disintegrate their surfaces sufficiently to scatter such bodies in crowds along their paths.
+
+In this view, instead of presupposing the existence of cosmical clouds containing all these several bodies separately formed, comets may be regarded as parent bodies from which aërolites and shower-meteors are similarly derived. Adopting a special theory of the origin and of the physical constitution of comets, Zöllner explains the production of such star-showers as that which was witnessed last November, by a process very similar to the last.*
+
+*) F. Zöllner, _Über den Zusammenhang von Sternschnuppen und Cometen_. Poggendorff's _Annals_, vol. 148. pp. 322-329. See also _Über die Natur der Cometen_ (Leipzig, 1872), by the same author, p. 109.
+
+Supposing the remnants of a shattered star or planet to be scattered by some catastrophe into interstellar space, besides the materials of aëorlites and detonating fire-balls which would result, it may be assumed that fluid masses, as of their seas (and possibly hydrocarbons) and other easily volatilisable substances would occur among the _débris_ of such a shock. Among the fluids and easily vaporisable materials thus ushered into space, and there maintained as liquids or solids by cold, and by their own attractions, the sun's heat acting upon their otherwise fixed masses, when first drawn into its immediate neighbourhood, would effect a surface distillation sufficiently abundant to detach some vaporous portions from their spheres, or even to volatilise them completely, and to efface them, after many periodic revolutions, from the sky. These vapours might possibly re-condense afterwards into solid dust or drops, to assume the form of meteor swarms along the cometary orbit, producing on their collision with the earth's atmosphere the extraordinary phenomena of star showers.*
+
+*) That even mineral substances are gradually volatilised at comparatively low temperatures, and sublime or are recondensed in appreciable quantities, is shown by some remarkable experiments by the Rev. W. Vernon Harcourt on various minerals placed for many years under the hearth of an iron smelting furnace, as described in the volume of these Reports for 1860, p. 175 _et seq._ (with coloured plates).  Under the action of a prolonged heat, in which neither copper, zinc, lead, nor tin were fused, the oxide of copper which formed a crust upon the plate of that metal had sublimed, and deposited itself in red crystals along with sublimed metallic copper, not only upon the surface, but also in the interior of the neighbouring piece of lead. The adjacent pieces of the other metals were similarly calcined, and coated with a thick crystalline crust of their oxides which had diffused itself in a similar manner among the substances of the surrounding blocks (see the explanation of the experiments and of the plates at pp. 188 and 192 of that Report).
+
+We may infer from the work which has already been done that Reichenbach's view is more probably the true one, and that the head of a comet is merely the denser part of a swarm. Whether that denser part is at the end or at the beginning of the long line to which reference has been made, it does not very much matter, but where that is, there we shall have the appearance of a comet presented to us in the heavens. We, indeed, are not limited to the supposition that there is only one dense part in a swarm; there is evidence to the contrary supplied both by falling stars and comets.
+
+The November swarm orbit has in all probability two maxima.* Professor Kirkwood pointed out in 1875 that the dates of certain meteoric showers, given by Humboldt and Quetelet as belonging to the November stream, indicate the existence of two distinct and widely separated clusters moving in orbits very nearly identical. The years thus designated were 1787, 1818, 1820, 1822, 1823, 1841, and 1846. He writes ---
+
+*) Luminous Meteor Report, 1876, pp. 224, 225.
+
+As the last two were subsequent to the great display of 1833, the meteors seen were noticed only in consequence of their being specially looked for; and as the number conformable to the radiant of the Leonids is not given, there may be some doubt whether those observed really belonged to the November stream. The former displays occurred before the periodicity of such phenomena had been suspected, and the number of meteors would seem to have been considerable. As the shower of 1787 preceded by twelve years the great meteoric fall witnessed in South America by Humboldt, the group from which it was derived had passed beyond the orbit of Saturn at the time of the latter display. The phenomena of 1818, 1820, 1822, and 1823 indicate that, as in the case of the major group, which passed its descending node between 1865 and 1870, the meteoroids are extended over a considerable arc of their orbit. From November 1787 to the middle of the nodal passage of 1818-1823 is about 33 1/3 years --- a period nearly the same as that of the principal cluster. These facts alone were regarded by the present writer as giving reasonable probability to the hypothesis of an approximate identity of orbits. In _Nature_, vol. 11. p. 407, it was shown that the meteor showers of October 855 and 856 were probably derived from the stream of Leonids; and it is certainly remarkable that the interval from 855 to 1787 is equal to twenty-eight periods of 33.293 years. Again the shower observed in China, 28th September, 288 A. D., making proper allowance for the nodal motion, corresponds to the same epoch, the interval between 288 and 855 containing seventeen periods of 33.35 years.
+
+Several instances are known in which, in like manner, there are two comets pursuing the same path.
+
+The demonstration of the identity of meteor swarms and comets is one of the greatest physical triumphs of the century. From the point of view of this book it is of fundamental importance, because it enables us to apply everything that we have learned about comets to the movements of meteorites in space; while in the case of meteors and falling stars we were limited to what took place in our own air.
+
+## Section 2. --- What these Appearances Are.
+
+### Chapter 14. The Appearances presented by Comets away from and near the Sun.
+
+_Aphelion_
 
 ...
