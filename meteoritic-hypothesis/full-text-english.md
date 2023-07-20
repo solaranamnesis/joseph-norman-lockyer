@@ -1719,4 +1719,351 @@ The demonstration of the identity of meteor swarms and comets is one of the grea
 
 _Aphelion_
 
+When a comet first becomes visible, it appears in the telescope as a round misty body, and moves very slowly in consequence of its still great distance from the sun. At this time, too, its light is very feeble. Its appearance under these conditions strikingly resembles that of a nebula, and in fact comets have often thus been mistaken for nebulae and _vice versâ_.
+
+Occasionally the appearance put on is that of a planetary nebula in small telescopes and of a globular one in larger ones (Fig. 28).
+
+The globular form, after a time, gives way; there is a concentration of light now at one end of an elliptic patch, the front part of which gradually brightens, so that in some cases it puts on the appearance of a crescent moon.
+
+[Fig. 27. --- A Comet near Aphelion.]()
+
+In the next phase the appearance becomes more like what is ordinarily recognised as a comet. The patch has lengthened; it is bright at one end and faint at the other (Fig. 29).
+
+As the comet approaches nearer the earth, so that observations of its several portions may be seen, we get a still greater differentiation of the phenomena (Fig. 30).
+
+[Fig. 28. --- The Pons-Brooks Comet (13th January 1884, Thollon).]()
+
+Fig. 31, which is a representation of Donati's comet as it appeared in 1858, will serve to illustrate the main characteristics of comets. The brighter part is called the _head_ or _coma_, and sometimes, within this, there is a still brighter and smaller portion called the _nucleus_. The tail is the dimmer part radiating from the head, and this varies greatly in different comets; it may be long or short, straight or curved, single, double, or multiple. The comet of 1744 had six tails, that of 1823 two. In others the tail is entirely absent. The tail of the comet of 1861 was 20,000,000 miles in length, and that of the comet of 1843 was 112,000,000 miles long.
+
+[Fig. 29. --- The First Beginnings of a Tail.]()
+
+[Fig. 30. --- The lower portion represents the elongation of the star-like luminosity; the upper one, the concomitant extension of the whole comet (Comet 25th October 1882, Seabroke).]()
+
+When the tail is first noticed it often takes the form of a long narrow bright bar, following an almost circular head of much greater cross-section. In a later stage the tail is darkest in the centre and brightest at its exterior surface.
+
+Both head and tail are so transparent that all but the faintest stars are easily seen through them. The star Arcturus was seen through the tail of Donati's comet in 1858 at a place where the tail was 90,000 miles in diameter.
+
+_The Approach to Perihelion._
+
+As a comet approaches the sun, its velocity, like that of the planets, increases, and it gradually gives out more light.
+
+When the comet gets sufficiently bright, _aigrettes_ or _jets_ make their appearance; these are so called because they seem to shoot out from the nucleus as sparks shoot out from a squib. The jets rapidly change their positions and directions, and the tail is formed, apparently at the expense of the matter of which the head was in the first instance built up. The tail is always turned from the sun, whether the comet be approaching or receding.
+
+Drawings of a comet, as seen at different times, show how the jets vary in appearance and direction. Instead of jets, some comets present phenomena of a very different character, called envelopes, which are thrown off concentrically from the nucleus.
+
+[Fig. 31. --- Donati's Comet (general view).]()
+
+These are among the chief physical peculiarities observed in comets; and we see at once that we have something perfectly distinct from the planets, and that some comets are at first sight different from others. The envelopes have been observed to rise from the nucleus with perfect and exquisite regularity in exactly the same way that the jets swing backwards and forwards.
+
+The enormous effect produced by a near approach to the sun may be gathered from the fact that the comet of 1680, at its perihelion passage, while travelling at the rate of 1,200,000 miles an hour, in two days shot out a tail 60,000,000 miles in length.
+
+We must now enter somewhat more into details with regard to some of these cometary characteristics developed as the sun is approached.
+
+[Fig. 32. --- Comet with Single Nucleus (Cruls's Comet, 1882, Ricco).]()
+
+It must be pointed out that these cometary meteoritic swarms are not always single; double, triple, and multiple nuclei have been observed (Figs. 32-35).
+
+[Fig. 33. --- Nucleus surrounded by Ellipsoidal Head (Comet 25th October 1882, in Washinton Refractor).]()
+
+In the case of single nuclei the nucleus may be the origin, and lie in the brighter region, the extension of which forms the tail; but this is not invariable; the nucleus may be caught forming part of an elliptic head (Fig. 33) before any very great extension of the tail begins to take place, owing to reasons which will be stated farther on.
+
+In the case of double or multiple nuclei we have a clear indication of the existence of more than one chief meteoritic swarm, whether they be enveloped in the same atmosphere or give rise to the same tail (Fig. 34). But it would seem that, in some cases, different nuclei may give rise to separate tails; such is possibly the explanation of Commander Sampson's observation of the comet of 1882 (Fig. 35).
+
+[Fig. 34. --- Compound Nucleus (same Comet, 5th November).]()
+
+[Fig. 35. --- Commander Sampson's Sketch of the Great Comet (10th October 1882).]()
+
+The circular arc in the front of the comet sometimes changes its aspect, so that we have the appearance of two circular arcs connected at the nucleus. Under this condition the comet puts on the appearance of a sea-bird poising (Fig. 36); at a later stage the circular arcs (the wings) get nearer together, and the angular space between the arcs in front of the nucleus is much restricted. Sometimes these arcs are only seen on one side of the nucleus, or as if they overlapped it, and at such times the idea that the change is the result of a rotation is strongly suggested.
+
+[Fig. 36. --- Combination of Jets and Envelopes (Comet of 1861).]()
+
+_Possible Connection between the Jets and Envelopes._
+
+The jets observed in comets when near the sun are very various in form. The concentric envelopes seen at times are much more regular; an idea of their appearance will be gathered from the accompanying illustration of Donati's comet.
+
+It has not yet been clearly ascertained whether the jets and envelopes are connected phenomena --- that is, whether the jets are true whirls of the meteorites themselves --- or whether they represent volatilisation of the vapours of the nucleus in a particular direction, which vapours subsequently assume a concentric form. In Halley's comet, at all events, no relation between these phenomena was observed. Sir John Herschel writes concerning this ---
+
+The bright smoke of the jets, however, never seems to be able to get far out towards the sun, but always to be driven back and forced into the tail, as if by the action of a violent wind rolling against them --- always from the sun --- so as to make it clear that this tail is neither more nor less than the accumulation of this sort of luminous vapour, darted off in the first instance towards the sun, as if something raised it up, as if it were exploded by the sun's heat, out of the kernel, and then immediately and forcibly turned back and repelled from the sun.
+
+_The Concentric and Eccentric Envelopes._
+
+In Donati's comet we had perhaps the finest exhibition which has been seen of concentric envelopes successively thrown off from the nucleus towards the sun. In Coggia's comet, on the other hand, we had the most striking instance which has been yet observed in which the envelopes put on an appearance as if they belonged to _two_ different systems of concentric envelopes cutting each other.
+
+It is important here to enter into some details. In Coggia's comet (as observed with Mr. Newall's 25-inch refractor, with a low power), next to the nucleus the most brilliant feature was an object resembling a fan opened out some 160°. The nucleus, marvellously small and definite, was seen (Fig. 38) a little to the left of the pin of the fan --- not exactly, that is, at the point held in the hand. If this comet, outside the circular outline of the fan, offered indications of other similar concentric circular outlines, astronomers would have recognised in it a great similarity to Donati's comet with its "concentric envelopes." But it did not do so. Envelopes there undoubtedly were, but instead of being concentric they were eccentric, and of an entirely unique arrangement.
+
+[Fig. 37. --- Concentric Envelopes as Illustrated by Donati's Comet.]()
+
+To give an idea of the appearance presented by these eccentric envelopes, still referring to the fan, let us imagine a circle to be struck from the left-hand corner of the fan with the right-hand corner as a centre, and make the arc a little longer than the arc of the fan. Do the same with the right-hand corner. Then with a gentle curve connect the end of each arc with a point in the curve of the fan halfway between its centre and the nearest corner. If these complicated operations have been properly performed, the reader will have superadded to the fan two ear-like things (as of an owl), one on each side. Such "ears," as we may for convenience call them, were to be observed in the comet, and they at times were but little dimmer than the fan. It will be observed that there is a central depression between the ears.
+
+At first it looked as if these ears were the parts of the head farthest from the nucleus in advance along the comet's axis, but careful scrutiny revealed, still farther forwards, a cloudy mass, the outer surface of which was convex, while the contour of the inner surface exactly fitted the outer outline of the ears and the intervening depression. This mass was at times so faint as to be almost invisible. But at other times it was brighter than all the other details of the comet which remain to be described, now that I have sketched the groundwork. Occasionally to be seen outside all was still another fainter mass, both the surfaces of which were convex outwards, the inner one having a greater radius. This exterior envelope or "umhüllung" was the faintest part of the head.
+
+In the root of the excessively complex tail were to be observed prolongations of all the curves to which I have referred. Thus, behind the bright nucleus was a region of darkness which opened out 45° or 60°, the left-hand boundary of which was a continuation of the lower curve of the right ear. All the boundaries of the several different shells which showed themselves, not in the head in front of the fan, but in the root of the tail behind the nucleus --- were continuous in this way --- the boundary of an interior shell on one side of the axis bent over in the head to form the boundary of an exterior shell on the other side of the axis.
+
+I next draw attention to the kind of change observed. To speak in the most general terms, any great change in one "ear" was counterbalanced by a change of an opposite character in the other; so that, when one ear was thinned or elongated, the other widened; when one was dim, the other was bright; when one was more "pricked" than usual, the other at times appeared to lie more along the curve of the fan and to form part of it. Another kind of change was in the fan itself, especially in the regularity of its curved outline and in the manner in which the straight sides of it were obliterated altogether by light, as it were, streaming down into the tail. _There was nothing which in the slightest degree resembled the giving off of vapour._
+
+[Fig. 38. --- Rough Outline Sketch of Head and Envelopes of Coggia's Comet as seen in Mr. Newall's 25-inch Refractor on the Night of 12th of July 1874 (Perihelion Passage, 8th July)]()
+
+The only constant feature in the comet was the exquisitely soft darkness of the region extending for some little distance behind the nucleus. Farther behind, where the envelopes, the prolongation of which formed the tail, were less marked, the delicate veil which was over even the darkest portion became less delicate, and all the features were merged into a mere luminous haze. Here all structure, if it existed, was non-recognisable, in striking contrast with the region round and immediately behind the fan.
+
+Next, it has to be borne in mind that the telescopic object is, after all, only a projection, from which the true figure has to be assigned, and it is when this is attempted that the unique character of this comet becomes apparent. There were no jets, there were no concentric envelopes; but, in place of the latter, eccentric envelopes indicated by the ears and their strange backward curvings, and possibly also by the fan itself.
+
+It seems impossible that we can be here dealing with the mere volatilisation of the materials of which the nucleus is composed; for, assuming that it is possible, as has hitherto been imagined, that shells of vapours can be thrown off to form concentric envelopes, and that the heads of comets like Donati's are thus built up, it is difficult at first to see how such appearances as here described could be produced.
+
+### Chapter 15. The Forces which produce the various Forms observed in Cometary Swarms.
+
+There has been no minute inquiry into the causes which produce the various appearances put on by comets about aphelion. Many have attributed their luminosity to reflected sunlight, others have regarded it as electrical. But the causes to which the appearances brought about by the approach to perihelion may be ascribed, have been inquired into; and as it is now necessary to dwell on this point, we shall best do this by referring to the various memoirs with which Roche of Montpellier and Bredichin have enriched science. Roche's work was begun in connection with the atmospheres of planets; and in concluding the third part of a memoir on the figure of a fluid mass subjected to the attraction of a distant point,* it struck him that the results might possibly apply to the theory of comets, if we suppose such an object, fluid and homogeneous, falling in a straight line towards the sun.
+
+*) _Mémoires of the Academy of Montpellier_, vol. 2. p. 23.
+
+_The Change of Form in a Cometary Swarm under Tidal Action._
+
+We have seen that a comet, when it first makes its appearance at its greatest distance, puts on a form resembling a planetary nebula. It is at this point that M. Roche closes with it in order to see what its change of form must be, supposing it to be fluid and homogeneous.
+
+As it approaches the sun, a tidal action will be set up, as the solar attraction will be greater on the particles nearest to it; hence there will be an elongation of the swarm, and possibly even one or more separations along a radius vector.
+
+If gravitation alone is concerned, the comet will remain symmetrical, it will reduce its size as it approaches the sun,* and part of its outer portions will be successively lost along the radius vector both towards and away from the sun; there will, in fact, be two outpouring streams --- one directed towards the sun, the other away from it.  There will be the greatest elongation at perihelion.
+
+*) _Annales de l'Observatoire de Paris_, vol. 5. p. 376.
+
+[Fig. 39. --- Elongation of a Cometary Swarm. Comet _b_, 1882, Washington Equatorial.]()
+
+M. Roche makes this out by considering the form of the envelope, in which particles will be equally attracted by the sun and the general mass of the comet. One chief point of the mathematical investigations was to determine the surface on which the gravity of a small particle was _nil_ in consequence of the solar and cometary attractions. This is called the limiting surface. On this point I quote from M. Faye* ---
+
+*) "Forms of Comets," _Nature_, vol. 10. p. 247.
+
+There exists, for every body placed within the sphere of action of our sun, a surface limit, beyond which its matter may not pass, under pain of escaping from that body and falling within the domain of the solar action. This surface limit depends on two things --- the mass of the body, and its distance from the sun. For a planet like the earth, whose mass is so considerable, this surface limit is very distant, and yet, within the still terrestrial region of its satellite the moon, a child could lift, without much difficulty, a body which would weigh for us 36,000 kilogrammes, so feeble does the attraction of our globe become at that distance of 60 terrestrial radii. A little beyond the lunar orbit, a body would cease to belong to the earth, and would enter the exclusive domain of the sun. But for a comet this surface limit is much nearer the nucleus, and, moreover, it draws nearer and nearer in proportion as the comet approaches the sun... The surface which so limits a body in the vicinity of the sun presents two singular points in the direction of the radius vector, setting out from which this surface is widened out into a conical network, in such a manner that the dissolution of a body, the matter of which reaches or passes beyond these boundaries, is effected principally in the vicinity of the points referred to, flying, so to speak, into two pieces, thus obeying at once the attraction of the comet, and especially the thenceforth preponderating attraction of the sun...
+
+[Fig. 40. --- Showing how a Comet approaching the Sun, Gravity alone being in Question, loses its Constituent Particles beyond its Free Surface, which is constantly diminishing, by an Outflow in both Directions along the Radius Vector.]()
+
+All the conditions of instability are found united in comets. Their mass is extremely small, and, consequently, the surface limit is very near the centre of gravity. Their distance from the sun diminishes rapidly in the descending branch of their trajectory; consequently this surface limit becomes more and more contracted. Finally, their enormous volume tends unceasingly to dilate, because of the increasing heat of the sun, and to cause the cometary matter to shoot out beyond this surface limit.
+
+What becomes of this matter after it is set free by the action of the sun? Having escaped from that of the comet, it will none the less preserve the original speed, _i. e._ the speed which the comet itself had at the moment of separation; this speed will scarcely be altered by the feeble attraction of the cometary nucleus, or by the internal movements of which I have spoken, since these are measured by a few metres per second, while the general motion round the sun takes place at the rate of 10, 15, 20 leagues and more per second. The molecules, separated and thenceforward independent, then describe isolated orbits around the sun, differing very little from that of the comet. Those which are found in advance go a little faster and take the lead; those which are behind remain a little in the rear, so that the abandoned materials are divided along the trajectory of the comet in front and in rear of the nucleus. In time these materials are separated considerably from the body from which they emanate, and are more and more disseminated; but, considered at the moment of emission, they will form two visible appendages, two sorts of tails opposed and stratified on the orbit of the comet.
+
+So much for the state of things if gravitation alone is in question.
+
+But _is_ gravitation alone concerned in building up a comet's form? That this is not so was fully recognised long ago, and it was suggested by the fact that the tails always appeared to be driven away from the sun. Seneca, indeed, was possibly acquainted with this fact, as lie wrote: "Comæ radios solis effugiunt."* Kepler was the first to suggest that the matter of the tails was transported to the regions opposite the sun by the impulsion of the solar rays; Euler and Laplace accepted this explanation; and Newton was the first to give a complete explanation of the curve of the tail.
+
+*) See Pliny, Book 2, chap. 22 _et seq._, for many references to more ancient authorities.
+
+Olbers, whose researches dealt with the phenomena presented by the comet of 1811, considered that the approach of a comet to the sun might develop electricity in one or the other of these bodies, and to this were ascribed both the repulsive action of the sun on the materials of the comet, and that of the comet on the nebulous atmosphere by which it was surrounded.
+
+Olbers was driven to consider the repulsive action of the comet on its atmosphere in order to explain the many luminous sectors visible in the comet in question. To this he also ascribed the gradual rise of successive envelopes, so well illustrated subsequently by the comet of Donati.
+
+The energy of electrical repulsion depends upon the amount of surface of the bodies concerned, whereas the attraction of gravity depends upon the masses of the bodies. Small things have more surface in proportion to their masses than large ones, and there will therefore be attraction or repulsion between the sun and the particles composing comets according as the differential effect of the two opposite forces is repulsive or attractive. In the very small particles the electrical repulsion will be stronger than the attraction due to gravitation, while in the larger particles the two forces may balance each other, or gravitation may preponderate. Only the finest particles composing the head of a comet are therefore repelled to form the tails.
+
+Bessel* considerably modified this hypothesis. He considered that the action of the sun on the comet represented a polar force.
+
+*) Bessel's paper "On the Physical Constitution of Halley's Comet" is in the _Connaissanee des Temps_, 1840.
+
+M. Faye has more recently held that this repulsive action is due to the radiant energy of the sun, and that it has an intensity inversely as the square of the distance, and proportional to the surface and not to the mass of the moving particles. Its action would therefore be in the inverse ratio of the density of the particles upon which it acted; it would vary with every difference of cometary constitution; it would be inappreciable on the nucleus itself (the idea being, of course, that the nucleus is a solid body); and it would be most effective in the case of the rarest vapours. The important part of M. Roche's later memoir consists in testing these views of repulsion, to determine whether the forms of comets could be explained by its introduction.
+
+One result is very striking: the tail towards the sun demanded by gravitation alone at once disappears. The limiting surfaces which Roche's calculations require are so very like some of the surfaces actually observed in the head of a comet, where they can be best seen, that it is suggested that the movement of the particles takes place in the precise direction where they would flow according to M. Roche's mathematical investigations.
+
+Hence we are justified in attributing many cometary phenomena to the flow of matter acting under the influence of attraction and solar repulsion;* and in concluding his memoir Roche points out (p. 393) that the hypothesis of a repulsive force acting along a radius vector, and varying inversely as the square of the distance, and only acting on matter reduced to a state of great tenuity, gives figures identical with those observed. We see the germ of the tail in the part of the atmosphere the farthest removed from the sun, and it is easy to explain the enormous development of the emission of cometary particles near perihelion. M. Roche therefore considers the existence of a repulsive force which counterbalances solar attraction established by his researches.
+
+*) See _Annales de l'Observatoire de Paris_, vol. 5.
+
+It must, however, be at once stated that much remains to be done before all the help afforded by M. Roche's work can be utilised, and there is little question that the outflow in the solar direction has not been so entirely abolished as his figures indicate. This, however, may to a certain extent depend upon the fact that the observations of comets have been made at some distance from perihelion. But there may be another reason. The outflow along the limiting surface being an outflow of solid particles, the solar repulsion will not be effective until collisions have reduced this dust to vapour. We shall still therefore have the quasi-conical surface turned towards the sun, though it will be soon destroyed. Many of the phenomena presented by jets and eccentric envelopes may be thus caused, and the very complicated phenomena presented by Coggia's comet, and others in which the section of the cone presents the appearance of birds with their wings more or less extended, do not seem opposed to this view.
+
+[Fig. 41. --- M. Roche's Theoretical Construction of the Head of a Comet, a Repulsive Force being taken into Account.]()
+
+_The Details and Curvature of the Tail._
+
+There can be little doubt that it is to the varying conditions produced by these outflows in both directions along the radius vector, that the various appearances put on by the axis of the tail are due; thus, in Coggia's comet, to take an instance, the perihelion passage of which took place on July 8, on June 10 the axis was brighter than the rest of the tail, but by July 10 the bright axis was replaced by one of marvellous blackness,  which was one of the features of the comet at that time, and this dark axis expanded as perihelion was approached.
+
+[Fig. 42. --- Great Comet of 1861, seen on 30th June, when the Earth was in the Plane of the Orbit.]()
+
+The tail is always curved, but if the earth lie in the plane of the orbit the curvature cannot be seen.
+
+The accompanying woodcuts will explain how the solar repulsion produces this curvature, and how the curvature will depend upon the velocity due to repulsion.
+
+[Fig. 43. --- Same Comet seen on 15th June.]()
+
+Fig. 44, which I owe to M. Faye,* represents the successive positions of a series of molecules emitted by the nucleus of a comet so as to constitute the axis of the tail. A density is imagined such that the repulsive force exactly counterbalances the solar attraction: thus their motion, solely due to the tangential velocity of the comet, takes place in a straight line. To again simplify matters this rate is supposed constant, as if the orbit were a circle.
+
+*) Although this does not figure in Roche's diagrams, Faye gives it in his lectures on the "Forms of Comets."
+
+On the first day, the comet being at C1, a molecule _m_1 is detached and subsequently follows the line _m_1 _m_1 _m_1. On the second day a molecule _m_2 likewise leaves the nucleus at C2, and subsequently describes the tangent _m_2 _m_2 _m_2. Similarly, on the third day, for a molecule _m_3, and so on. If we join by a continuous line the series of positions occupied at the same time, the fifth day, by all these molecules, _m_5, _m_4, _m_3, _m_2, _m_1, we shall have the curvilinear axis of the tail; this will be, in this particular case, the involute of a circle. This construction accounts for the three laws which have been ascertained as the result of observation: 1.
+the tail, at its origin, is sensibly opposed to the sun, S; 2. the tail is curved backwards on its path; 3. the axis of the tail is a plane curve situated in the plane of the orbit.
+
+[Fig. 44. --- Slight Repulsion; Great Curvature.]()
+
+If the density of these molecules were still smaller, the repulsive force would prevail over the solar attraction, and the molecules would describe no longer straight lines, but arcs of an hyperbola whose convexity would be turned towards their common focus, S (see Fig. 45).
+
+The series of points _m_1, _m_2, _m_3, _m_4, emitted at C1, C2, C3, C4, by the comet, gives a curve like the former one, but with a curvature much less pronounced and nearer to the radius vector.
+
+Now the single tail we have been considering will depend upon the repulsive action upon molecules of similar density, and that very small.
+
+But suppose there are, in consequence of collisions among the members of the swarm, several gases given off which can retain their gaseous form, and suppose they are of different densities. Then it is evident that a winnowing process will be set up, and that the molecules of smallest density will be repelled with the highest velocity; and given these varying densities, we must get more tails than one --- one, in fact, for each representative density.
+
+[Fig. 45. --- Repulsion Greater; the Tail is Straighter.]()
+
+It is here that the important work recently done by Professor Bredichin, the distinguished director of the Moscow Observatory, comes in. M. Bredichin has shown that there are three distinct types of tails. In the first class the tails are long and straight, and the repellent energy of the sun upon the small particles is about twelve times as great as the energy of his gravitational attraction. The particles therefore leave the nucleus with a high velocity, generally about 14,000 or 15,000 feet per second. The greater this velocity in relation to the rate of travel of the comet, the straighter of course will be the tail, because the particles forming it do not lag behind. In the second type the energies of the attraction and repulsion balance each other, or nearly so, and the tails of this class are plumy and gently curved. In this case the particles which go to form the tail leave the head with a velocity of about 3000 feet per second.
+
+Tails of the third type are short and strongly bent, the repellent energy being only about one-fifth of the attractive energy of the sun, and the velocity of the particles leaving the head is only about 1000 feet per second.
+
+Many cornets exhibit tails of more than one type, and it was conjectured long ago that such tails were composed of different kinds of matter.
+
+Bredichin went further, and defined the composition of the different kinds of tails which he had classified, by referring to the weights of the materials which would give the relative values of the repulsive and attractive forces necessary for tails of the different types. He thus found that the long straight tails of the first type would be probably formed by hydrogen, since this substance, on account of its exceeding lightness, would be little influenced by gravity, while at the same time it would be strongly acted upon by the solar repulsion. The second type of tails he considered to be due to hydrocarbons, since hydrocarbons have a molecular weight such that the repellent and attractive forces of the sun upon their particles are nearly equal. Iron, on the other hand, would be more subject to the action of gravity, on account of its greater weight, and was therefore taken as adapted to tails of the third type.
+
+We now know that all these substances do exist in comets, and it is evident that much is to be learnt from a continuation of the inquiry, but at the outset we can see that iron vapour cannot remain in space as vapour to form a tail. We know that the short-period comets get less brilliant with every approach to perihelion, and that some do not even throw out a tail; and we can easily ascribe both these results to the fact that after several such appulses the vapours liable to be driven out of the meteorites by heat get less and less. If this be so, we may regard a comet with many tails as one which for the first time undergoes perihelion conditions. This subject will be returned to when the spectra have been considered.
+
+_The Auroral Character of Comets' Tails._
+
+It is a fact well worthy of consideration that on many occasions pulsations exactly resembling those observed in auroræ have been observed in comets' tails. This subject is thus referred to in Guillemin's book on comets:---
+
+Kepler is the first observer who has made mention of the changes. "Those," he says, "who have observed with some degree of attention the comet of 1607 (an apparition of Halley's comet) will bear witness that the tail, short at first, became long in the twinkling of an eye." Several astronomers --- Kepler, Wendelinus, and Snell --- saw, in the comet of 1618, jets of light, coruscations, and marked undulations. According to Father Cysatus, the tail appeared as if agitated by the wind; the rays of the coma seemed to dart forth from the head and instantly return again. Similar movements were observed by Hevelius in the tails of the comets of 1652 and 1661; and Pingré, describing the observations of the comet of 1769, made at sea, between 27th August and 16th September, by La Nux, Fleurien, and himself, thus describes the phenomenon of which he was a witness: "I believe that I very distinctly saw, especially on 4th September, undulations in the tail similar to those which may be seen in the aurora borealis." The stars which I had seen decidedly included within the tail were shortly after sensibly distant from it.
+
+M. Liais has given the following account of the observations made by him of the great comet of 1860: "On the evening of 5th July, whilst I was observing the comet at sea, I saw a rather intense light from time to time arise in those portions of the tail that were farthest from the nucleus. Sometimes instantaneous, and appearing upon a small extension of the extremity of the tail, which then became more visible, the fugitive gleams reminded me of the pulsations of the aurora borealis. At other times they were less fleeting, and their propagation in rapid succession could be followed for some seconds in the direction of the nucleus near the extremity of the tail. These appearances then resembled the progressive undulations of the aurora borealis, but even in this case they were only visible in the last third of the length of the tail. The gleams in question were similar to those that I remember to have seen in the tail of the great comet of 1843, and which were observed by very many astronomers."
+
+The American observers of Donati's comet in 1858 described a number of brighter bands "like auroral streamers" crossing the tail and diverging from a point between the nucleus and the sun.
+
+May it be that these similar appearances are produced by dust falling through gases in one case, and gases forced through dust, in the other?
+
+## Section 3. --- The Spectroscopy of Comets.
+
+### Chapter 16. The Spectra of Comets away from the Sun.
+
+_Comets at Aphelion --- Lowest Temperature_
+
+It may easily be imagined that in the case of comets at a considerable distance from the sun, and therefore, as a rule, far away from the earth, their faint light, combined with their great distance, render minute spectroscopic observations of them very difficult, indeed next to impossible. Hence the number of recorded observations is very small, and we owe all, or almost all of them to Dr. Huggins. In the comets of 1866 and 1867, when they were observed away from the sun, only one line was seen near wave-length at 500.* In Chapter 4 I have shown that when meteorite dust is enclosed in a glow tube and experimented on at the lowest temperature, a line is seen in this position which, it has been found, is connected with the low temperature fluting of magnesium.
+
+*) "In January 1866 I communicated to the Royal Society the result of an examination of a small comet visible in the beginning of that year (_Roy. Soc. Proc._ vol. 15. p. 5). I examined the spectrum of another small and faint comet in May 1867. The spectra of these objects, so far as their feeble light permitted them to be observed, appeared to be very similar. In the case of each of these comets the spectrum of the minute nucleus appeared to consist of a bright line between _b_ and F, about the position of the double line of the spectrum of nitrogen, while the nebulosity surrounding the nucleus and forming the coma gave a spectrum which was apparently continuous" (Huggins, _Roy. Soc. Proc._ vol. 16. p. 381).
+
+It is probable also that one of the bands mentioned by Konkoly in his observations on the Great Comet (_b_) 1882 (date of perihelion passage, 17th September), on 1st November, was this same line which lies at or near the position of the low temperature fluting of magnesium at 500. By that date the D line of sodium and the carbon flutings had passed their maximum intensity, and had begun to fade out.
+
+The same line was also probably seen in Coggia's Comet by Yogel (3. 1874), who records a bright line at about 499, when the comet was yet a month from perihelion, and when, therefore, the appearance of the low temperature characteristic of the magnesium spectrum would be expected.
+
+[Fig. 46. --- Spectra of Low and High Temperature Carbon. The Hydrocarbon Band at 431 is also shown.]()
+
+_Carbon Radiation._
+
+It is well known that comets generally give us the spectrum of carbon at some time or another on their journey to and from the sun. The question arises, Is there any evidence that when at some distance from the sun the carbon phenomena observed indicate a low temperature? Is the presence of a line which may be due to low temperature magnesium associated with low temperature flutings of carbon?
+
+The brightest edges of the three principal flutings in the low temperature spectrum are at wave-lengths 519.7, 560.7, and 483.3, and those in the high temperature spectrum are at 516.4, 563.3, and 473.6. The two first flutings in each of the two spectra fall pretty near to those in the other, and a considerable degree of accuracy, which has not in a great number of cases been attained in the observations of cometary bands, is therefore necessary before we can say with absolute certainty from observations of either of these two bands whether the spectrum is that of hot or of cool carbon.
+
+If, however, the fluting at 483 is present, we can be certain that we have to deal with cool carbon, because no hot carbon fluting falls near that wave-length. In laboratory experiments with Geissler tubes, the passage from one spectrum to the other is very gradual, so that it is not uncommon to have the two spectra superposed, and we might, therefore, expect a reproduction of this in cometary spectra, and I have no doubt that the changes from the cool to the hot carbon spectrum are answerable for many of the apparent discrepancies in different observations of the same comet.
+
+There is another difficulty which must not be passed over; individual observations have not invariably been recorded. Observers have usually thought it advisable to give the means of their several observations, and hence the differences in wavelength of the flutings due to the changes from cool to hot carbon, or _vice versâ_, if they exist, cannot be certainly followed in many cases.
+
+A discussion of all the recorded observations at my disposal, however, shows that in some comets we have distinct evidence of cool carbon flutings, but, as happens with the line at λ 500, the observations recording them are comparatively few. The reason is probably the same in both cases, namely, that the temperature being low, the light is consequently excessively feeble, and observations are very difficult.
+
+We have evidence of cool carbon in Winnecke's comet, 1868, 2. (perihelion passage, 26th June). On the 17th June M. Wolf* recorded three flutings, the wave-lengths of which, as determined by a curve, are about 480, 517, and 560. These differ by almost equal amounts from their equivalents in the cool carbon spectrum, so there can be little doubt that the comet's spectrum was that of cool carbon.
+
+*) _Comptes Rendus_, vol. 66. p. 1336.
+
+In another comet, discovered by Winnecke in 1877, cool carbon was again observed when it was about a month from perihelion.* The perihelion passage occurred on 17th April, and the observation was made on 15th May. Two bands were measured, one at 517 and the other near 483. Another was also seen near 561. As the criterion for cool carbon is the fluting at 483, there can be no doubt of its identity in this case.
+
+*) _Greenwich Observations_, 1887, p. 101.
+
+Again, in Brorsen's comet (1879), perihelion passage, 30th March, Konkoly* observed three flutings at wave-lengths 482.3, 514.6, and 560.5, the first of which coincides very nearly with the characteristic fluting of cool carbon at 483. This observation was made on 25th March.
+
+*) _Astr. Nachr._, No. 2269.
+
+_Comets about Mean Distance --- Second Stage of Heat._
+
+When meteorite dust is more strongly heated in a glow tube, the whole tube, when the electric current is passing, gives us the fluted spectrum of carbon, and other bright metallic flutings are added to that of magnesium at 500. Among those metallic flutings which are first added may be chiefly mentioned magnesium 521, and manganese 558.
+
+[Fig. 47. --- Diagram showing the Result of the Integration of the Hot Carbon Fluting at 517 and the Magnesium Fluting at 521, compared with Comet _d_, 1880.]()
+
+Both these, as well as the high temperature flutings of carbon, have been seen in comets, and I now proceed to give the details of the observations.
+
+_Magnesium Radiation 521._
+
+While comets at their lowest temperatures give the magnesium fluting at 500, as they approach perihelion to this is added the fluting at 521. The result when this is seen with the 517 fluting of carbon, which is always present, is an apparent displacement of the carbon fluting to a less refrangible position, as shown in Fig. 47. This probably occurred in the following comets:---
+
+[TABLE]
+
+*) _Astron. Soc. Monthly Notices_, vol. 41. p. 53.
+
+*) Pamphlet.
+
+It will be seen that in each of these cases the observations were made when the comets were at a considerable distance from perihelion, when the temperature would not be very high, although higher than that which gives the line of magnesium at 500 in a glow tube.
+
+_Carbon Radiation._
+
+When a comet gets nearer the sun there is a change in its spectrum similar to that observed in the experimental tube at the second stage of heat. Not only does the magnesium radiation change, as we have seen, but in nineteen cases out of twenty the spectrum of carbon, produced from some compound of carbon or another, when the comet gets nearer the sun, and near enough to the earth to be satisfactorily observed, becomes most prominent.
+
+With these conditions, under which comets generally lend themselves best to spectroscopic study, the spectrum consists chiefly, therefore, of the flutings of hot carbon. In the majority of cases the spectrum of a comet has not been recorded until it has arrived at this stage of temperature.
+
+The three chief flutings of hot carbon have their least refrangible maxima at approximately 517, 564, and 474. The accompanying table indicates some of the comets in which they have been observed. The variations in the position of the citron band will be again referred to.
+
+[TABLE]
+
+It is necessary to state that under some conditions the maximum luminosity of the blue band is at about 468 (Fig. 8). The conditions under which the band has its maximum luminosity at this position _when seen in Geissler tubes_ seem to be those of maximum conductivity. If the pressure be high all the members of the group are sharp, and the luminosity of the band is almost uniform throughout; this always occurs when the pressure is very low. At intermediate stages of pressure, however, the luminosity of the band has a very decided maximum at about 468. This latter condition has been reproduced in many comets, though generally the band has been stated to end at 474, or thereabouts, the maximum possibly having been overlooked.
+
+It seems probable that a detailed study of this band in our laboratories will enable us in the future to determine the approximate temperature of a comet by the appearance of the band in its spectrum. In the spectrum of Comet _b_, 1881 (Observation, 28th June, P. P. 16th June*), Copeland states that this band had a fairly sharp edge at 474, and a maximum at 468.
+
+*) _Copernicus_, vol. 2. p. 227.
+
+To measure a maximum in any band is at all limes difficult --- and extremely so in the cases of cometary spectra --- and Copeland says of the above comet: "The spectrum seemed to change in intensity from moment to moment like a dancing aurora borealis."
+
+The following table includes the above case, and gives also two other comets in which the blue band had the same appearance:---
+
+[TABLE]
+
+*) _Copernicus_, vol. 2. p. 227.
+
+*) _Astr. Phys. Obs._, vol. 2. p. 180.
+
+*) _Ibid._, p. 243.
+
+_The Irregularities observed in the Citron Fluting of Carbon._
+
+It has long been known that the least refrangible band in cometary spectra shows great variation in position from the edge of the true citron carbon band at 564, and many of these variations have been attributed to faulty observation; but this is certainly not so in all cases. The following, which I quote from Dr. Copeland's discussion of observations on comet spectra, is important in its bearing upon this point:---
+
+We cannot omit to say a few words about the first --- yellowish-green band. It is generally described as similar to the two other bands, beginning brightest towards the red, and fading gradually away towards the violet. It is true the dispersive power of the instrument greatly modifies the appearance, but we must say that under high dispersion we have never seen the first band like the others; it always faded away on both sides, and had seldom a very marked maximum, sometimes it had two, and perhaps more, and it seems to be the only band which shows an essentially different appearance in different comets, and therefore deserves always a special examination. Unfortunately, it is nearly always the faintest band, and difficult to deal with, and only in Comet 3, 1881, traces of what may be bright lines were recognisable; that the iron lines have any connection with it is very doubtful, since E falls outside of it.*
+
+*) _Copernicus_, vol. 2. p. 243.
+
+Again Professor Young remarks ---
+
+It is hardly necessary to say that the evidence as to the identity of the flame- and comet-spectrum is almost overwhelming. The peculiar, ill-defined appearance of the cometary bands at the time of the comet's greatest brightness is, however, something which I have not succeeded in imitating with the flame-spectrum. The comet-spectrum on 25th July certainly presented a general appearance quite different from that of the later observations, as regards the definition of the bands.*
+
+*) _Amer. Journ. Sci._, third series, vol. 22. p. 157.
+
+Other observers have also remarked this variability in the citron band. A discussion of the recorded observations shows that this variability is perfectly regular, and depends chiefly on the distance of the comet from perihelion. When carbon first makes its appearance in the spectrum as the comet approaches the sun, the wave-length of the citron band agrees with that of the carbon fluting at 564. As the comet gets nearer perihelion the changes begin, and I now proceed to show that the irregularities are produced by special cases of masking due to the addition of the radiation of manganese or of manganese and lead.
+
+The addition of the manganese radiation does not take place in all comets at an equal number of days from the perihelion passage; it depends upon the perihelion distance; so that the irregularities in question are not observed in all comets.
+
+_Manganese Radiation._
+
+When we deal with the integration of the bright manganese fluting at 558, which fades away towards the red, and the carbon fluting at 564, fading towards the blue, we have as a result a band brightest in the centre and fading off in both directions. If both flutings are well developed there will be a single broad maximum extending from 558 to 564, as shown in Fig. 48. If both were rather feeble there would be two maxima, one at 558 and one at 564; but this condition has not yet been recorded.
+
+[Fig. 48. --- Diagram showing the Result of the Integration of Hot Carbon (517) and Manganese (558) Radiation, compared with the Great Comet of 1882.]()
+
+In the Great Comet of 1882, when at a considerable distance from the sun, on 22d October, the perihelion passage occurring on 17th September, the broad maximum condition, as shown in Fig. 48, was recorded by Copeland.
+
+This also occurred in the following comets:---
+
+[TABLE]
+
+* _Bothk. Beob._, vol. 1. p. 60.
+
+*) _Ibid._, p. 61.
+
+*) _Spect. der Cometen_, p. 60.
+
+*) _Monthly Notices_, vol. 37. p. 432.
+
+*) _Copernicus_, vol. 2. p. 241.
+
+_Lead Radiation._
+
+When to the radiation of carbon and manganese that of lead (546 fluting) is added, three maxima are seen, as shown in Fig. 49.
+
+[Fig. 49. --- Diagram showing the Result of the Integration of Hot Carbon, Manganese, and Lead Radiations, compared with the Spectrum of Comet 3 1881.]()
+
+This condition has been recorded in two comets, as in the following table:---
+
+[TABLE]
+
+* _Copernicus_, vol. 2. p. 225.
+
+*) Ibid. p. 228.
+
+### Chapter 17. The Spectra of Comets immediately preceding Perihelion.
+
+_Manganese Absorption_
+
 ...
