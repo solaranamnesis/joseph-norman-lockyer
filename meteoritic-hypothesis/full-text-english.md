@@ -54,7 +54,7 @@ But it is agreed on all hands that the first fall to which the greatest interest
 
 *) _N. H._ vol. 2. p. 59.
 
-*) I learn from Professors Pritchard and Gardner that the upper half of the marble slab disappeared at Arundel House many years ago.  The remaining part is so damaged by weather and probably by fire that no intelligible photograph of any part of it could be taken. A transcription of the marble, made when it was far better preserved, is given in Boeckh's _Corpus Inscriptionum Græcorum_, vol. 2. p. 293, 2374.
+*) I learn from Professors Pritchard and Gardner that the upper half of the marble slab disappeared at Arundel House many years ago. The remaining part is so damaged by weather and probably by fire that no intelligible photograph of any part of it could be taken. A transcription of the marble, made when it was far better preserved, is given in Boeckh's _Corpus Inscriptionum Græcorum_, vol. 2. p. 293, 2374.
 
 *) _Cosmos_, Otté's translation, vol. 1. p. 110.
 
@@ -112,7 +112,7 @@ Friday morning, the 10th of September 1813, being very calm and serene, and the 
 
 *) Quoted by Maskelyne, "Lecture Notes on Meteorites," _Nature_, 1875, vol. 12. p. 485.
 
-Among the most trustworthy records of falls in more recent years are the following. The first deals with the fall of the meteorite of 1885, near Mazapil, in Mexico.  It was thus described by an eyewitness vouched for by Professor Bonilla* ---
+Among the most trustworthy records of falls in more recent years are the following. The first deals with the fall of the meteorite of 1885, near Mazapil, in Mexico. It was thus described by an eyewitness vouched for by Professor Bonilla* ---
 
 *) _Nature_, vol. 35. p. 572.
 
@@ -422,7 +422,12 @@ Thus, Graham found in the Lenarto meteorite, and in a comparative experiment wit
 
 *) Graham, _Chemical and Physical Researches_, p. 283.
 
-|Meteorite.|Nails.  Hydrogen|85.68|35.0  Carbonic oxide|4.46|50.3  Carbonic acid|...|7.7  Nitrogen|9.86|7.0  |100.00|100.00
+|Meteorite.|Nails.  
+Hydrogen|85.68|35.0  
+Carbonic oxide|4.46|50.3  
+Carbonic acid|...|7.7  
+Nitrogen|9.86|7.0  
+|100.00|100.00
 
 Mallet subsequently found in the meteorite picked up in Augusta County* ---
 
@@ -918,7 +923,7 @@ In a later paper (_Nature_, vol. 10. p. 210), Ångström arrives at conclusions 
 
 3\. That the bright line is probably due to fluorescence or phosphorescence.
 
-4\. That Vogel's theory of unknown conditions of temperature and pressure being competent to produce the change from the ordinary experimental spectrum of air to that given by the aurora is inadmissible.  (Ångström regarded the spectrum of a gas as invariable.)
+4\. That Vogel's theory of unknown conditions of temperature and pressure being competent to produce the change from the ordinary experimental spectrum of air to that given by the aurora is inadmissible. (Ångström regarded the spectrum of a gas as invariable.)
 
 5\. That moisture may be neglected in considering the nature of the aurora spectrum.
 
@@ -1007,11 +1012,11 @@ Still later observations of the aurora which have been published are those made 
 
 *) _Observations faites au Cap Thorsden, Spitzberg, par V Expédition Suédoise_, vol. 2. p. 1. _Aurora Borealis_, par Carlheim-Gyllenskiöld.
 
-The total number of lines seen was 32.  Gyllenskiöld's main conclusions are ---
+The total number of lines seen was 32. Gyllenskiöld's main conclusions are ---
 
 1\. That 16 of the aurora lines nearly coincide with air lines, 8 with the positive pole spectrum of nitrogen, 4 with the negative pole spectrum of nitrogen, and 3 with lines of hydrogen.
 
-2\. That the aurora spectrum greatly resembles that of lightning, and he regards it as consisting of several superposed spectra.  The variable character of the spectrum is accounted for by the absence sometimes of one, sometimes of another, of these elementary spectra.
+2\. That the aurora spectrum greatly resembles that of lightning, and he regards it as consisting of several superposed spectra. The variable character of the spectrum is accounted for by the absence sometimes of one, sometimes of another, of these elementary spectra.
 
 3\. That the brightness of the aurora does not depend upon the energy of the electrical discharge which produces it, but upon some cause with which we are not acquainted.
 
@@ -1031,7 +1036,7 @@ I have next to refer to my own observations and comparisons.
 
 In order to demonstrate that the aurora spectrum does not coincide with the vacuum-tube spectrum of air, I have made a series of observations of an end-on air vacuum-tube, about 5 feet long and 2 inches in diameter. The tube was arranged as in Fig. 14, one end being connected with the Sprengel punip, and the other with a piece of glass tube, by means of mercury joints. The latter tube was connected with a hand air-pump to save time in exhausting. After partial exhaustion the tube was sealed off with a blowpipe, and the exhaustion completed with the Sprengel. The slit of the spectroscope was placed close to the bulb at the end of the tube (Fig. 14). The diagram also shows a Geissler-tube arranged for comparison.
 
-When the spark first passed only a few of the strongest nitrogen flutings in the violet were visible, but as the pressure was reduced, the spectrum gradually extended towards the red. A line of oxygen at 5320 was visible in the early stages, but it afterwards disappeared. At the most luminous stage, nothing but nitrogen flutings were visible. After a time these flutings became dim, and low temperature flutings of carbon appeared. Then the F line of hydrogen appeared, and a little later the C line. Later still, the hydrogen line at G also appeared. With the further dimming of the nitrogen flutings, an oxygen line at 471 brightened, being sometimes as bright as the F line, and brighter than the carbon flutings. The whole spectrum then became very faint, but as the line at 471 dimmed, another oxygen line at 465 appeared.  Ultimately, the glow was so faint that only a few of the nitrogen flutings were visible.
+When the spark first passed only a few of the strongest nitrogen flutings in the violet were visible, but as the pressure was reduced, the spectrum gradually extended towards the red. A line of oxygen at 5320 was visible in the early stages, but it afterwards disappeared. At the most luminous stage, nothing but nitrogen flutings were visible. After a time these flutings became dim, and low temperature flutings of carbon appeared. Then the F line of hydrogen appeared, and a little later the C line. Later still, the hydrogen line at G also appeared. With the further dimming of the nitrogen flutings, an oxygen line at 471 brightened, being sometimes as bright as the F line, and brighter than the carbon flutings. The whole spectrum then became very faint, but as the line at 471 dimmed, another oxygen line at 465 appeared. Ultimately, the glow was so faint that only a few of the nitrogen flutings were visible.
 
 The sequence of the various flutings and lines is shown in Fig. 15. Below the various air spectra the principal lines of the aurora spectrum are given for comparison. It will be seen at a glance that there are no coincidences with the most persistent flutings, which are all that need be considered.
 
@@ -1069,7 +1074,7 @@ _Further Discussion of Gyllenskiöld's Observations._
 
 If, in discussing Gyllenskiöld's observations, we limit ourselves to those cases in which not more than four lines were recorded, we find that with a few exceptions, the lines seen were lines which are brightest in the spectra of meteorites at low temperatures. It might at first sight be expected that when only a few lines are seen, they ought to be the same in every case. There are variations, however, which in all probability are due to differences in composition of different groups of meteorites.
 
-The following tables contain all the observations in which not more than four lines were recorded. The probable origin of each line is also stated.  Some of the lines have been arranged in different columns, as the discussion has suggested.
+The following tables contain all the observations in which not more than four lines were recorded. The probable origin of each line is also stated. Some of the lines have been arranged in different columns, as the discussion has suggested.
 
 [Fig. 16. --- Map showing probable Origin of the Spectrum of the Aurora.]()
 
@@ -1177,7 +1182,7 @@ _The Aurora and the Zodiacal Light._
 
 Since the shooting-star ignition level lies between 75 and 50 miles in height, and auroræ have been seen at heights of over 100 miles, it seems probable that the matter which reaches the earth from space is in the main of three degrees of fineness, and gives evidences of its existence at three different heights. The finest furnishes materials for auroral displays at heights reaching to 130 miles,* the mean fineness ignites at a height of 75 miles, and gives rise to the appearance of falling stars, till a height of 50 miles is reached, when it is all consumed; the coarsest of all at times reaches the surface itself as meteoritic irons or stones.
 
-*) Capron and Herschel, "On the Auroral Beam of November 17, 1882" (_Phil. Mag._, May 1883). Professor Herschel, from measurements made 1863-1867, determined the height of long white stationary auroral arches to be close upon 100 miles.  Herr Sophas Trimholt (_Nature_, vol. 27. p. 290) gives 90 miles, and Baron Nordenskjöld (_Scientific Work of the "Vega" Expedition_, Part 1. pp. 401-450) gives 115 miles. Professor Herschel has also referred me to measurements of auroral arches by Dr. Dalton (_Phil. Trans._, 1828, p. 291), who found 100 miles.
+*) Capron and Herschel, "On the Auroral Beam of November 17, 1882" (_Phil. Mag._, May 1883). Professor Herschel, from measurements made 1863-1867, determined the height of long white stationary auroral arches to be close upon 100 miles. Herr Sophas Trimholt (_Nature_, vol. 27. p. 290) gives 90 miles, and Baron Nordenskjöld (_Scientific Work of the "Vega" Expedition_, Part 1. pp. 401-450) gives 115 miles. Professor Herschel has also referred me to measurements of auroral arches by Dr. Dalton (_Phil. Trans._, 1828, p. 291), who found 100 miles.
 
 An additional argument in favour of the meteoritic theory of the aurora is furnished by other phenomena, which sometimes accompany it.
 
@@ -1249,7 +1254,8 @@ Ferric oxide (Fe2O3)|26.70
 Magnesia (MgO)|1.79  
 Oxide of manganese (MnO)|26.46  
 Oxide of nickel (NiO)|1.82  
-Oxygen|6.31  |101.48 
+Oxygen|6.31  
+|101.48 
 
 The specimen examined was from Station 276, 2350 fathoms, South Pacific.
 
@@ -2702,5 +2708,327 @@ I may here state that sodium exists only in very small quantities in iron meteor
 When a meteor swarm leaves the aphelion point and begins to approach the sun, the similarity to a globular nebula gradually vanishes, and a bright central nucleus makes its appearance, and eventually a tail is formed. The whole region of space occupied by the meteorites (estimated by Professor Newton in the case of Biela's comet to have been 30 miles apart), gives us the same spectrum, and further, it is given by at all events a part of the tail, which, in the comet of 1680, was calculated to be 60,000,000 miles in length. The illumination must therefore be partly electrical, and possibly connected with the repulsion of the vapours away from the sun; hence it is not wholly dependent upon collisions.
 
 ### Chapter 23. Comets represent Bodies which exist in External Space.
+
+Must we assume that the members of the swarms to which we have referred, and of all the other swarms similar to them, have always been thus crossing the earth's orbit periodically; that the November swarm, to take one instance, and the August swarm, to take another, have _always_ been crossing it at regular intervals? Must they of necessity have started their existence with the planets and other more stable members of the system?
+
+This point has been well inquired into, and it is certain that it is not at all necessary that such a state of things should have existed from all time; and further, Professor Kirkwood has shown the high probability that the August swarm entered our system not long previously to the year 800.* If they have not always been with us they must have entered from without. What, then, has been the _modus operandi_? It has been a very simple one.
+
+*) Report of Committee on Luminous Meteors, 1871, p. 50.
+
+It is a matter of common knowledge that all stars are in motion. The so-called "fixed" stars are not really fixed; they are only relatively fixed. The sun is a star, and like the other stars it is also in movement with its attendant bodies through space.
+
+If we imagine a swarm of meteorites moving in space, as the sun is doing, at a considerable distance from our system, the directions of movement being not parallel but inclined to each other, a time will come when the two bodies, taking the swarm as representing one body, and the sun another, will begin to have an attractive influence on each other. If the attractive energy of the sun is considerable as compared with that of the swarm, the swarm will begin to change its direction obviously towards the sun. If, in thus changing its direction and increasing its velocity in consequence of this increased gravitational stress, the swarm can get round the sun without any loss of momentum, the two bodies will finally part from each other and will go different ways; but supposing there has been a loss of momentum, the loss may mean that for the future the swarm of meteorites must perform its journey _round the sun_ in a closed orbit.
+
+Hence it is that when a particular group of meteorites, which gives rise to the appearance of shooting-stars, has been watched for 1000 years, it does not follow that these meteorites always formed part of the solar system. What we do know is that _at the present moment_, to take instances, the particular swarm to which the Leonid meteors (Nov. 13) are due, and another swarm which is called the Biela swarm (Nov. 27), really move round the sun in closed cometary orbits, and the chronicle of the appearances of both these swarms is so complete that very definite statements may be made about them.
+
+With regard to the Leonid swarm it is known that 1,000,000,000 of miles of its orbit have been pierced by the earth in its successive passages through it since the year 902. Each time the earth must have filched many millions of the small constituents of the swarm and consumed them as shooting-stars, and yet the swarm does not seem to be very much the worse, and enormous though the numbers are, it is known that the distances between the meteorites are so considerable that no obvious mutual gravitational effect can be noted, so that their combined or common movement is a clear indication of a common origin.
+
+In the case of the orbit of the Biela swarm we know that more than half of it, or a length of 500,000,000 miles, contains these meteorites; a long thin line, say a mile long and an inch in section, represents, according to Professor Newton, the distribution of the meteorites along the orbit.
+
+The great Laplace was the first to suggest that many comets, especially those of high inclination and great eccentricities, represented introductions of matter into the solar system from external space. But on this, as on many other points, we owe our present views chiefly to Schiaparelli, who, in 1867, attacked the problem* in connection with his researches on the Leonid swarm.
+
+*) _Les Mondes_, vol. 13. p. 147.
+
+He commenced by referring to the point made by Laplace as to the phenomena presented by cometary orbits, suggesting that the planets are truly indigenous to the system, have always followed the sun in his movement through space, and had taken part in all the evolutionary changes which have finally brought the solar system to its present condition. In the characters common to planets the comets are lacking, while the eccentricity of their orbits generally is so large that the greater part of their journey is performed outside the known limits of our system. Schiaparelli considers that these facts demonstrate that the comets were not members of the solar system during its early stages, but that they are really messengers from the stellar void. Cloudlike masses, wandering in parts of space where there was no star sufficient to dominate them, have fallen gradually under the empire of our own by the effect of their movement relatively to our system. This movement, combined with the acceleration produced by the large mass of the sun, has determined the relative orbits of these bodies in relation to the sun, which are very different from their absolute orbits in space. He next examined all the circumstances of the movement of the external masses under these conditions. First, there is no doubt that the movement of the solar system in space is comparable to that of the planets in their respective orbits, while it is possible --- indeed certain --- that many of the stars are in more rapid movement than the sun. Hence, when it is affirmed that the relative movement of the sun, and of other bodies disseminated through space, is comparable in rapidity to the orbital movement of the planets, the statement is not a surprising one.
+
+That being so, let us next suppose that one of these cloudlike masses --- we may call them external swarms --- wandering in space in consequence of its initial movement, penetrates eventually into a region where the attraction of the sun is much greater than that of any other star. It might be situated at a very great distance from the sun, where the annual parallax is only a small number of seconds. The relative movement will take place in a conic section. To define it, let us suppose the sun stopped, and let us give to the comet, instead of its real velocity in space, its relative velocity to the sun; and let us further imagine a perpendicular dropped from the sun upon the direction of this relative velocity. It is evident that the area described by the comet round the sun in unit time will be equal to half the product of this perpendicular into the relative velocity.
+
+Now, as in general this velocity is of the order of planetary velocities, and since most frequently the perpendicular in question will be very much greater than the distance of the planets from the sun, we must conclude that the areas described by the comet round the sun, in unit time, will be incomparably greater than the corresponding areas described by the planets. But when many bodies move in conic sections round a central body, the areas described in unit time are, among themselves, as the square roots of the parameters of their respective orbits; therefore, in general, as most cometary orbits extend beyond the outermost planetary one, the parameters of cometary orbits being greater, the areas described by comets in unit time will be greater. Whence it follows that, in general, cometary orbits will have enormous dimensions in every direction, and the bodies which describe them will remain perpetually invisible to us, in consequence of their enormous distance. Nevertheless, among the infinite combinations possible in such orbits, there are two which may bring the cometary cloud within our ken: one, when the comet is moving directly towards the sun, describing a hyperbolic orbit very little different from a right line; and the other, when the relative movement of the comet and sun is almost zero, that is, when the two bodies are moving through the stellar space, along parallel lines, with nearly equal velocities.
+
+The parabolic form of cometary orbits should not surprise us, although there are other forms which are possible, the parabolic one being not at all the only one. The reason that we see those which describe these curves is owing to the enormous size of the cometary orbits, and to our own feeble space penetrating power. Nor should we expect the planes of the orbits and the plane of the ecliptic to have any relation to one another.
+
+The characteristic peculiarities of the orbits of planets and comets can be accounted for, the former by their formation in the solar system, the latter by their being drawn by the sun's attractive power from space.
+
+The question then is asked --- To which of these two classes do the shooting-stars belong? Are they planets or are they comets? The ring theory, however, as Schiaparelli believes, leads to serious difficulties respecting the origin of the shooting-stars, whether we regard the rings as integral parts of the solar system from the beginning, or whether the matter of which they are composed be supposed to come from without, drawn by the attraction of the sun.
+
+Schiaparelli then goes on to show that the velocities and inclinations of the orbits of meteor swarms tend to classify them with comets as having come into the solar system from without, and that when these cosmic clouds are attracted by the centre of our system, the constituent particles of the cloud must be drawn out into a parabolic current; thus, for instance, supposing a cosmic cloud equal in volume to the sun, and at such a distance that it's apparent diameter is 1′, the sun's attraction upon this would result in the formation of a parabolic chain or stream of such a length that it would require 636 years to pass through perihelion. When the centre was close to the sun, the beginning and the end of it would be 263 times the earth's distance from the sun. There are nebulae of which the apparent diameter is greater than that of the sun. If we assume such a nebula, with the sun's apparent diameter, 1924′′, it would be transformed into a parabolic chain which would require 20,000 years to pass perihelion, its transverse dimension still being such that the earth could pass through it in one or two days at the most. In this way, then, Schiaparelli shows not only that external swarms can be attracted from external space into our system, but that when so drawn out their constituent particles must take the form which we know such swarms as that of November and the rest to possess.
+
+More recently this subject has been treated by Professor H. A. Newton, and some results at which he arrived have been thus stated by Professor A. S. Herschel* ---
+
+*) _Monthly Notices_, vol. 39. p. 279.
+
+The evidence so strongly and distinctly shown in favour of the theory of the original motion of most, if not of all, of our recorded comets in spaces far external to the solar nebula, rests upon the assumption that the comet-yielding matter of the primitive nebula, if it existed, was confined, like that which formed the planets, to the neighbourhood of the ecliptic plane. This ground for the conclusion may admit of an exception that a similar distribution of the inclinations of the orbits to that which Laplace's hypothesis requires, would have been produced were this matter otherwise spread uniformly on a very distant sphere, instead of in the distant portions of a disk or annulus. But the plane of the planetary motions in the solar system, and the analogy which they present to spiral and disk-like nebulæ in the heavens, scarcely allow us to assume with reasonable probability such a different disposition of the matter of the outer part of the nebula from what the courses of the planets show us must have been its original mode of distribution and of gradual contraction near the centre; and with no evidence before us of the past or present existence of a distant spherical envelope of nebular matter enclosing the solar system, we may certainly prefer to accept, with Professor Newton, the much simpler conclusion to which he is finally conducted by his well-executed labours, that, with the exception of a few, perhaps, of the zodiacal comets, and comets of the shortest periods, all the comets which have been recorded were originally _denizens of the interstellar spaces_, pursuing unknown orbits like the stars, and separated at least and dissevered in their primitive astronomical relations from any connection with the nebular matter which, in the process of concentration supposed by the nebular hypothesis, formed the sun, the planets, and the asteroids.
+
+Here, then, at last we find the cosmic origin of shooting-stars run to earth by the genius of Schiaparelli and Newton.
+
+It is right to state, however, that in the year 1861 Professor Kirkwood anticipated some of the above conclusions. He wrote* ---
+
+*) Quoted in Luminous Meteors Committee's Report for 1870-71, p. 48.
+
+Different views are entertained by astronomers in regard to the _origin_ of comets, some believing them to enter the solar system _ab extra_, others supposing them to have originated within its limits. The former is the hypothesis of Laplace, and is regarded with favour by many eminent astronomers... Now, according to Laplace's hypothesis, patches of nebulous matter have been left nearly in equilibrium in the interstellar spaces. As the sun in his progress approaches such clusters, they must, by virtue of his attraction, move towards the centre of our system, the nearer portions with greater velocity than the more remote. The nebulous fragments thus drawn into our system would constitute comets; those of the same cluster would enter the solar domain at periods not very distant from each other... If we adopt Laplace's hypothesis of the origin of comets, we may suppose an almost continuous fall of primitive nebular matter toward the centre of our system --- the drops of which, penetrating the earth's atmosphere, produce _sporadic_ meteors, the larger aggregations forming comets. The disturbing influence of the planets may have transformed the original orbits of many of the former as well as of the latter into ellipses. It is an interesting fact that the motions of some luminous meteors (or _cometoids_, as perhaps they might be called) have been decidedly indicative of an origin beyond the limits of the planetary system. But how are the phenomena of _periodic_ meteors to be accounted for in accordance with this theory?
+
+The division of Biela's comet into two distinct parts suggests several interesting questions in cometary physics. The nature of the separating force remains to be discovered; "but it is impossible to doubt that it arose from the divellent action of the sun, whatever may have been the mode of operation. A signal manifestation of the influence of the sun is sometimes afforded by the breaking-up of a comet into two or more separate parts on the occasion of its approach to the perihelion."* No less than six such instances are found distinctly recorded in the annals of astronomy, _viz._: 1. Ancient bipartition of a comet --- _Seneca_; 2. separation of a comet into a number of fragments, 11 B. C. --- _Dion. Cassius_; 3. three comets seen simultaneously pursuing the same orbit, 896 A. D. --- _Chinese Records_; 4. probable separation of a comet into parts, 1618 A. D. --- _Hevelius_; 5. indications of separation, 1661 --- _Hevelius_; 6. bipartition of Biela's Comet, 1845-46.
+
+*) Grant's _History of Physical Astronomy_, p. 302.
+
+In view of these facts it seems highly probable, if not absolutely certain, that the process of division has taken place in several instances besides that of Biela's Comet. May not the force, whatever it is, that has produced one separation again divide the parts? And may not this action continue until the fragments become invisible? According to the theory now generally received, the periodic phenomena of shooting-stars are produced by the intersection of the orbits of such nebulous bodies with the earth's annual path. Now there is reason to believe that these meteoric rings are very elliptical, and in this respect wholly dissimilar to the rings of primitive vapour which, according to the nebular hypothesis, were successively abandoned at the solar equator; in other words, that the matter of which they are composed moves in _cometary_ rather than in _planetary_ orbits. _May not our periodic meteors be the débris of ancient but now disintegrated comets, whose matter has become distributed round their orbits?_
+
+Professor Kirkwood* was, I believe, the first to point out that if matter exterior to the solar system is attracted into it, the motion of the system through the matter-containing space must be taken into consideration. The number of cometary perihelia found in the two quadrants of longitude towards and from which the sun is moving was found by him to be 159 or 62 per cent, and that of perihelia in the two other quadrants 98 or 38 per cent, showing their tendency to crowd together about the direction of the sun's journey in space.
+
+*) Quoted in Luminous Meteors Committee's Report, 1871, p. 50.
+
+This is an important argument in favour of the view above referred to.
+
+In discussing the _modus operandi_ by which the external swarm is drawn into our system, it must be borne in mind that there is first of all, and generally, the attraction of the sun; there is next, specially and locally, the attraction of the outer planets of our system. Schiaparelli, in his memoirs, considers the case of a dense cloud passing near one of these bodies. There will be a change in its orbit, and it may become one of short period. If at perihelion its distance from the sun is less than that at which solar attraction disintegrates the groups, to use Professor Newton's phrase, the cloud will be dissolved into independent particles. He also points out that planetary perturbations will produce in the orbits of these particles a variation in the elements, especially in the periodic time. The group is gradually lengthened along the ellipse, and after a certain number of revolutions the cloud becomes a continuous ring. The Leonid meteors belong to such a group, in which the ring is partially formed; the August meteors probably represent a group after transformation into a continuous ring. Le Verrier was among the first to point out that the Leonid swarm thus possibly owed its existence as a member of our system to the attraction of Uranus.*
+
+*) _Comptes Rendus_, vol. 64. p. 94. Abstracted by Professor Newton, _Amer. Journ._, vol. 43. p. 285, second series, 1867.
+
+His views may be thus stated (I quote from Professor Newton's abstract) ---
+
+The group when it came into the system could not be thrown into its present orbit except by a powerful perturbing cause, as was the case of the comet of 1770. Moreover, comets so acted upon that the newly acquired orbit has a small perihelion distance, return necessarily to the orbit of the disturbing body, just as the comet of 1770 returned to Jupiter. We cannot help then being struck with the circumstance that the November group extends to the orbit of Uranus and a very little farther; and that these orbits intersect, very nearly, just after the group passes its aphelion, and above the plane of the ecliptic.
+
+The question then arises whether the group and Uranus have ever been together at this point. By calculation it was found that no such meeting could have taken place since the year 126 of our era, and that by a change of the computed node for that epoch by 1° 48′, and by placing the perihelion 4° from the descending node in November, the group would then actually strike the planet Uranus. These two changes are not greater than the possible errors of our observations.
+
+Le Verrier's researches further show that a globular group one-third of the diameter of Uranus (more or less) might at that time have been thrown into a shape and into an orbit which should by this time give all the phenomena of the November group. Its previous orbit might have been an ellipse, a parabola, or a hyperbola; its motion might even have been direct in an elliptic or parabolic orbit.
+
+In the course of future time, he argues, the phenomena will extend over a larger and larger number of consecutive years, diminishing at the same time in intensity. But no change in perihelion distance will make them disappear entirety. Even if the group again meets Uranus, the planet can act only upon a part of its matter, and cannot throw it all into a new orbit as Jupiter did the comet of Lexell.
+
+Two years later, in a communication to the American Philosophical Society,* Professor Daniel Kirkwood showed that the aphelion distances of iriany known short period comets were very similar to the mean distances of the outer planets. These are shown in the following table:---
+
+*) Quoted in Luminous Meteors Committee's Report, 1870-71, p. 48.
+
+[TABLE]
+
+He further pointed out the probability that the aphelion distances of the meteoritic rings of 18th to 20th April, 15th to 21st October, and 11th to 13th December are also nearly equal to the mean distance of Uranus.
+
+The conclusions which, as Schiaparelli pointed out, result from the preceding discussions, are among the most important and far-reaching which have ever been formulated in the region of scientific thought with which we are here concerned. I quote them from the translation given by Professor Newton.*
+
+*) _Amer. Journ._, vol. 43. p. 285, second series.
+
+1\. Matter is disseminated in celestial space in all possible grades of division. The first grade consists of the larger stars, either isolated or collected into systems of few members. The second is made up of large agglomerations of small stars, the _star dust_ of Herschel, into which many nebulæ are seen to be resolved by large telescopes. Then follow smaller bodies, which are invisible except when they approach the sun under the form of comets. Finally, the last grade consists of cosmical clouds, composed of very minute elements, which have a weight comparable to that of objects which we are accustomed to handle or transport on the earth.
+
+2\. This last class of bodies may have been formed in space, by the local concentration of the celestial matter, in a manner analogous to the crystallisation of substances chemically dissolved in liquids. From what occurs in these crystallisations we are even led to think that such a form of aggregation is much more probable and more frequent than the others, which take place by large masses. Hence the volume occupied by the cosmical clouds may be a notable fraction of the stellar space.
+
+3\. The movements of such clouds among the bodies of the universe are comparable to those of the fixed stars, and are probably due to analogous causes. When any one of them enters the sphere of attraction of the sun, it cannot be visible to us unless its orbit relative to this great luminary is a very elongated conic section.
+
+4\. Whatever may be the form and extent of a cosmical cloud, it cannot (with very rare exceptions) penetrate to the interior of the solar system, unless it has been transformed into a parabolic current, which may consume years, centuries, and myriads of years in passing, part by part, its perihelion, forming in space a river, whose transverse dimensions are very small with respect to its length; of such currents those which are encountered by the earth in its annual motion are rendered visible to us under the form of showers of meteors diverging from a certain radiant.
+
+5\. The number of meteoric currents crossing the spaces of the solar system, at all possible distances, and in all directions, is probably very great. The exceeding rarity of the matter contained in them allows these currents to intersect mutually, without causing any disturbance to one another. They may undergo successive transpositions and deformations in space, like rivers which slowly change their bed. They may be interrupted, and thence become double or multiple, and they may even in particular circumstances become closed elliptic rings. The November meteoroids are apparently portions of such a ring in process of formation.
+
+6\. The cosmical clouds having short periods of revolution around the sun, by which some are inclined to explain the appearance of shootings-stars, cannot have a permanent existence without violating the known laws of universal gravitation.
+
+7\. The matter of the parabolic currents, after having passed the perihelion, returns into space in a state of dispersion, greater than that which it had before the passage. In particular cases, as when the current meets a planet, very great perturbations may ensue and a separation of some of the meteoric stars into special orbits. Such stars from that moment may be called truly _sporadic_.
+
+8\. Thus the meteoric stars, and other celestial products of analogous nature, which in past ages were commonly regarded as atmospheric phenomena, which Olbers and Laplace first ventured to make to come from the moon, and which at a later period were raised to the dignity of members of the planetary system, truly belong to the category of fixed stars; and the name _falling stars_ expresses simply and precisely the truth respecting them. These bodies have the relation to comets that the small planets between Mars and Jupiter have to the larger planets. The smallness of the mass in each case is compensated by the very great number.
+
+9\. Since we may safely regard it as certain that falling stars, bolides, and aerolites differ in nothing except their magnitude, we may conclude that the matter which has fallen from the sky is a fragment of that of which the stellar universe is formed. And as in such matter there is no chemical element that is not found upon the earth, the similarity of composition of all the visible bodies in the universe, already rendered probable by researches with the spectroscope, acquires a new argument for its credibility.
+
+It will be seen that in these pregnant paragraphs Schiaparelli goes far beyond the mere identity of comets and meteor swarms, and their possible origin in nebulae attracted into the system. He seems to me to have glimpsed the idea which has caused this book to be written, namely, that many of the stars are also meteor swarms which are due, like the nebulæ, to "the local concentration of the celestial matter."
+
+I have, I trust, shown in the foregoing chapters that a discussion of the spectroscopic observations now open to us --- observations extending over a period of more than twenty years since Schiaparelli's work was done --- entirely justifies his conclusions. I hope also to show in subsequent chapters that it also suggests legitimate and natural extensions of Schiaparelli's ideas.
+
+# Part 5. Meteorites in Space.
+
+## Section 1. The Nebulæ.
+
+### Chapter 24. Historical Notice.
+
+Our present knowledge of those celestial bodies which we term nebulæ may be said to date from the wonderful series of memoirs by Sir William Herschel, published in the _Philosophical Transactions_ over a period of thirty-four years, commencing with 1784. It is perfectly true that we have not here the first recorded observations of nebulæ: several observers before Sir William Herschel had drawn attention to them. But previous observers, among whom we may include Kepler, Tycho Brahé, Halley, and others, were, without exception, of opinion that the nebulæ were composed of something differing entirely in its essence from stars. There was no question whatever of a possibility of their being simply clusters of stars considerably remote.
+
+Tycho Brahé, in the record of his observations of the new star observed by him in Cassiopeia, suggested that it was in some way generated from an ethereal substance, and to him the Milky Way was composed of this material. This substance was liable to dissipation by light and heat, and in this manner he accounted for the ultimate disappearance of the star.
+
+Kepler, who gave much attention to the subject, shared this opinion, and in this he was followed by Halley, whose paper of 1714* is one of the first English contributions to the history of the subject. In it, after referring to other "very surprising Phænomena," the paper goes on ---
+
+*) _Phil. Trans._ vol. 29. p. 389. "An Account of several Nebulæ or Lucid Spots like Clouds, lately discovered among the Fixt Stars by help of the Telescope."
+
+But not less wonderful are certain luminous Spots or patches, which discover themselves only by the telescope, and appear to the naked Eye like small Fixt Stars; but in reality are nothing else but the light coming from an extraordinary great Space in the Ether; through which a lucid Medium is diffused, that shines with its own proper lustre. This seems fully to reconcile that Difficulty which some have moved against the description Moses gives of the Creation. Alleging that light could not be created without the Sun. But in the following instances the Contrary is manifest, for some of these bright Spots discover no sign of a Star in the middle of them; and the irregular form of those that have, shows them not to proceed from the Illumination of a Central Body. These are... Six in Number, all which we will describe in the order of time, as they were discovered; giving their places in the Sphere of Fixt Stars. To enable the Curious, who are furnished with good telescopes, to take the satisfaction of contemplating them.
+
+The first and most considerable is that in the Middle of Orion's Sword, marked with θ by Bayer in his _Uranometria_, as a single star of the third Magnitude; and is so accounted by Ptolemy, Tycho Brahé, and Hevelius: but it is in reality two very contiguous stars environed with a very large transparent bright Spot, through which they appear with several others. These are curiously described by Hugenius in his _Systema Saturnium_, p. 8, who there calls this brightness, "Portentum, cui certe simile aliud nusquam apud reliquas Fixtas potuit animadvertere;" affirming that he found it by chance in the Year 1656. The Middle of this is at present in 2 19°.00, with South Lat. 28° 3/4.
+
+About the Year 1661 another of this sort was discovered (if I mistake not) by Bullialdus, in Cingulo Andromede. This is neither in Tycho nor Bayer, having been omitted, as are many others, because of its smallness: But it is inserted into the Catalogue of Hevelius, who has improperly called it Nebulosa instead of Nebula; it has no sign of a Star in it, but appears like a pale Cloud, and seems to emit a radiant beam into the North East, as that in Orion does into the South East. It precedes in Right Ascension the Northern in the Girdle, or ν Bayer's, about a degree and three Quarters, and has Longitude at this time ν. 24°00′ with Lat. North 33° 1/3.
+
+The Third is near the Ecliptick between the Head and Bow of Sagittary, not far from the point of the Winter Solstice. This it seems was found in the Year 1665, by a German Gentleman, M. F. Abraham Ihle, whilst he attended the Motion of Saturn then near his Aphelion. This is small but very luminous, and emits a ray like the former. Its Place at this time is ♑︎ 4° 1/2 with about half a Degree South Lat.
+
+A fourth was found by M. Edm. Halley in the Year 1677, when he was making the Catalogue of the Southern Stars. It is in the Centaur, that which Ptolemy calls [GREEK], which he names in dorso Equino Nebula, and is Bayer's ω. It is in appearance between the fourth and fifth Magnitude, and emits but a small Light for its breadth, and is without a radiant Beam: this never rises in England, but at this time its Place is ♏︎ 5° 3/4 with 35° 1/5 South Lat.
+
+A Fifth was discovered by Mr. G. Kirch in the Year 1681, preceding the Eight Foot of Antinous: It is of its self but a small obscure Spot, but has a Star that shines through it, which makes it the more luminous. The Longitude of this is at present ♑︎ 9° circiter, with 17° 1/6 North Latitude.
+
+The Sixth and last was accidently hit upon by M. Edm. Halley in the Constellation of Hercules, in the Year 1714. It is nearly in a right line with ζ and η of Bayer, somewhat nearer to ζ than η: and by comparing its Situation among the Stars, its place is sufficiently near in ♏︎ 26° 1/2 with 57°.00 North Lat. This is but a little Patch, but it shews its self to the naked Eye, when the Sky is serene and the Moon absent.
+
+There are undoubtedly more of these which have not yet come to our knowledge, and some perhaps bigger, but though all these Spots are in Appearance but little, and most of them but of few Minutes in Diameter; yet since they are among the Fixt Stars, that is, since they have no Annual Parallax, they cannot fail to occupy Spaces immensely great, and perhaps not less than our whole Solar System. In all these so vast Spaces, it should seem that there is a perpetual uninterrupted Day, which may furnish Matter of Speculation, as well to the curious Naturalist as to the Astronomer.
+
+Sir William Herschel began his observations of nebulæ about the year 1780. His first important paper, however, did not deal with these objects: it had reference to the motion of the sun in space.* In this memoir he points out the universal sway of gravitation in the celestial spaces; and the infinite possibilities opened out by such an all-prevailing and pervading cause seem, although he does not state it in terms, to have led him to the conclusion that such ideas as Brahé's and Kepler's were invalid, and that instead of an ethereal essence the apparent nebulæ were true clusters of stars infinitely remote.* His first survey of the nebulse appears in his paper of 1784. He began by observing those bodies which had already been recorded in the _Connaissance des Temps_ for 1783, and then those farther afield; and it is not a little remarkable that in this first paper he describes almost every distinct form of nebulæ which has been observed from that day to about the year 1846, when Lord Rosse brought a still more powerful instrument than Herschel's largest to bear upon these objects. He noticed that in certain parts of the heavens there was a marked absence of stars, and that this was so invariably followed by the appearance of nebulæ on the confines of the empty region that he records in his memoir that after passing over one of them he was in the habit of giving the word to his assistant to "prepare for nebulæ." This strengthened his view as to the power of gravitation, and as to nebulæ being masses of stars produced by it.
+
+*) _Phil. Trans._ vol. 73., published in 1783.
+
+*) _Ibid._ vol. 74., 1784.
+
+In another paper published in the next year* he shows evidently that his opinion that the nebulæ of all orders which he had discovered was confirmed, and that he regarded them as simple agglomerations of stars, and he refers to the action of gravity in bringing about such condensations. In the next year* he published the first catalogue of a thousand nebulæ, and gives his first classification, one based upon brightness (p. 466). In 1789, that is, three years later,* he published his second catalogue, and it is clear from the text that he still held to his opinion that nebulæ were all distant star clusters. It required another interval of three years before the possibility of their nature being in any way distinct was brought fairly before his mind. In 1791* he published his remarkable paper on "Nebulous Stars probably so-called." In this paper it will be seen how convincing was the line of argument which Herschel followed to bring him ultimately to the conclusion that in the bodies which he observed there was either a central body which is not a star, or a star involved in a shining fluid of a nature totally unknown to us (p. 83). This paper is so important that I do not hesitate to reprint it here _in extenso_.
+
+*) _Phil. Trans._ vol. 75., 1785.
+
+*) _Ibid._ vol. 76., 1786.
+
+*) _Ibid._ vol. 79., 1789.
+
+*) _Ibid._ vol. 81, 1791.
+
+_On Nebulous Stars, properly so called._
+
+In one of my late examinations of a space in the heavens, which I had not reviewed before, I discovered a star of about the 8th magnitude, surrounded with a faintly luminous atmosphere, of a considerable extent. The phenomenon was so striking that I could not help reflecting upon the circumstances that attended it, which appeared to me to be of a very instructive nature, and such as may lead to inferences which will throw a considerable light on some points relating to the construction of the heavens.
+
+Cloudy or nebulous stars have been mentioned by several astronomers; but this name ought not to be applied to the objects which they have pointed out as such; for, on examination, they prove to be either mere clusters of stars, plainly to be distinguished with my large instrument, or such nebulous appearances as might be reasonably supposed to be occasioned by a multitude of stars at a vast distance. The milky way itself, as I have shown in some former papers, consists entirely of stars, and by imperceptible degrees I have been led on from the most evident congeries of stars to other groups in which the lucid points were smaller, but still very plainly to be seen; and from them to such wherein they could but barely be suspected, till I arrived at last to spots in which no trace of a star was to be discerned. But then the gradations to these latter were by such well-connected steps as left no room for doubt but that all these phenomena were equally occasioned by stars, variously dispersed in the immense expanse of the universe.
+
+When I pursued these researches, I was in the situation of a natural philosopher who follows the various species of animals and insects from the height of their perfection down to the lowest ebb of life; when, arriving at the vegetable kingdom, he can scarcely point out to us the precise boundary where the animal ceases and the plant begins; and may even go so far as to suspect them not to be essentially different. But recollecting himself, he compares, for instance, one of the human species with a tree, and all doubt upon the subject vanishes before him. In the same manner we pass through gentle steps from a coarse cluster of stars, such as the Pleides, the Præsepe, the milky way, the cluster in the Crab, the nebula in Hercules, that near the preceding hip of Bootes _a_., the 17th, 38th, 41st of the 7th class of my catalogues; _b_., the 10th, 20th, 35th of the 6th class; _c_., the 33d, 48th, 213th of the 1st; _d_., the 12th, 150th, 756th of the 2d; _a_., and the 18th, 140th, 725th of the 3d; _b_., without any hesitation, till we find ourselves brought to an object such as the nebula in Orion, where we are still inclined to remain in the once adopted idea, of stars exceedingly remote, and inconceivably crowded, as being the occasion of that remarkable appearance. It seems, therefore, to require a more dissimilar object to set us right again. A glance like that of the naturalist, who casts his eye from the perfect animal to the perfect vegetable, is wanting to remove the veil from the mind of the astronomer. The object I have mentioned above, is the phenomenon that was wanting for this purpose. View, for instance, the 19th cluster of my 6th class _c_., and afterwards cast your eye on this cloudy star _d_., and the result will be no less decisive than that of the naturalist we have alluded to.
+
+Our judgment, I may venture to say, will be, that the _nebulosity about the star is not of a starry nature._
+
+But that we may not be too precipitate in these new decisions, let us enter more at large into the various grounds which induced us formerly to surmise that every visible object in the extended and distant heavens was of the starry kind, and collate them with those which now offer themselves for the contrary opinion.
+
+A well connected series of objects, such as we have mentioned above, has led us to infer, that all nebulæ consist of stars. This being admitted, we were authorised to extend our analogical way of reasoning a little farther. Many of the nebulæ had no other appearance than that whitish cloudiness, on the blue ground on which they seemed to be projected; and why the same cause should not be assigned to explain the most extensive nebulosities, as well as those that amounted only to a few minutes of a degree in size, did not appear. It could not be inconsistent to call up a telescopic milky way, at an immense distance, to account for such phenomena; and if any part of the nebulosity seemed detached from the rest, or contained a visible star or two, the probability of seeing a few near stars, apparently scattered over the far distant regions of myriads of sidereal collections, rendered nebulous by their distance, would also clear up these singularities.
+
+In order to be more easily understood in my remarks on the comparative disposition of the heavenly bodies, I shall mention some of the particulars which introduced the ideas of _connection_ and _disjunction_: for these, being properly founded upon an examination of objects that may be reviewed at any time, will be of considerable importance to the validity of what we may advance with regard to my lately discovered nebulous stars.
+
+On the 27th June 1786, I saw a beautiful cluster of very small stars of various sizes, about 15′ in diameter, and very rich of stars _a_. On viewing this object, it is impossible to withhold our assent to the idea which occurs, that these stars are connected so far one with another as to be gathered together, within a certain space, of little extent, when compared to the vast expanse of the heavens. As this phenomenon has been repeatedly seen in a thousand cases, I may justly lay great stress on the idea of such stars being connected.
+
+In the Year 1779, the 9th of September, I discovered a very small star near ε Bootis _b_. The question here occurring, whether it had any connection with ε or not, was determined in the negative; for, considering the number of stars scattered in a variety of places, it is very far from being uncommon, that a star at a great distance should happen to be nearly in a line drawn from the sun through ε, and thus constitute the observed double star.
+
+The 7th of September 1782, when I first saw the planetary nebula near ν Aquarii _c._, I pronounced it to be a system whose parts were connected together. Without entering into any kind of calculation, it is evident, that a certain equal degree of light within a very small space, joined to the particular shape this object presents to us, which is nearly round, and even in its deviation consistent with regularity, being a little elliptical, ought naturally to give us the idea of a conjunction in the things that produce it.
+
+And a considerable addition to this argument may be derived from a repetition of the same phenomenon, in nine or ten more of a similar construction.
+
+When I examined the cluster of stars, following the head of the great dog _a_, I found on the 19th of March, 1786, that there was within this cluster a round, resolvable nebula, of about two minutes in diameter, and nearly of an equal degree of light throughout _b_. Here, considering that the cluster was free from nebulosity in other parts, and that many such clusters, as well as many such nebulæ, exist in divers parts of the heavens, it appeared to me very probable, that the nebula was unconnected with the cluster; and that a similar reason would as easily account for this appearance as it had resolved the phænomenon of the double star near ε Bootis; that is, a casual situation of our sun and the two other objects nearly in a line. And though it may be rather more remarkable, that this should happen with two compound systems, which are not by far so numerous as single stars, we have, to make up for this singularity, a much larger space in which it may take place, the cluster being of a very considerable extent.
+
+On the 15th of February, 1786, I discovered that one of my planetary nebulæ _c_, had a spot in the centre, which was more luminous than the rest, and with long attention, a very bright, round, well-defined centre became visible. I remained not a single moment in doubt, but that the bright centre was connected with the rest of the apparent disk.
+
+In the year 1785, the 6th of October, I found a very bright, round nebula, of about 1 1/2 minute in diameter. It has a large, bright nucleus in the middle, which is undoubtedly connected with the luminous parts about it. And though we must confess, that if this phænomenon, and many more of the same nature, recorded in my catalogues of nebulæ, consists of clustering stars, we find ourselves involved in some difficulty to account for the extraordinary condensation of them about the centre; yet the idea of a connection between the outward parts and these very condensed ones within is by no means lessened on that account.
+
+There is a telescopic milky way, which I have traced out in the heavens in many sweeps made from the year 1783 to 1789. It takes up a space of more than 60 square degrees of the heavens, and there are thousands of stars scattered over it; many others, four that form a trapezium, and are situated in the well-known nebula of Orion, which is included in the above extent. All these stars, as well as the four I have mentioned, I take to be entirely unconnected with the nebulosity which involves them in appearance. Among them is also _d_ Orionis, a cloudy star, improperly so called by former astronomers; but it does not seem to be connected with, the milkiness any more than the rest.
+
+I come now to some other phænomena, that, from their singularity, merit undoubtedly a very full discussion. Among the reasons which induced us to embrace the opinion, that all very faint milky nebulosity ought to be ascribed to an assemblage of stars is, that we could not easily assign any other cause of sufficient importance for such luminous appearances to reach us at the immense distance we must suppose ourselves to be from them. But if an argument of considerable force should now be brought forward, to shew the existence of a luminous matter, in a state of modification very different from the construction of a sun or star, all objections, drawn from our incapacity of accounting for new phenomena upon old principles, will lose their validity.
+
+Hitherto, I have been shewing, by various instances in objects whose places are given, in what manner we may form the ideas of connection and its contrary by an attentive inspection of them only; I will now relate a series of observations, with remarks upon them as they are delivered, from which I shall afterwards draw a few simple calculations, that seem to be of considerable importance.
+
+_November 13, 1790._ --- A most singular pheenomenon! A star of about the 8th magnitude, with a faint luminous atmosphere, of a circular form, and of about 3′ in diameter. The star is perfectly in the centre, and the atmosphere is so diluted, faint, and equal throughout, that there can be no surmise of its consisting of stars; nor can there be a doubt of the evident connection between the atmosphere and the star. Another star is not much less in brightness, and in the same field with the above, was perfectly free from any such appearance.
+
+This last object is so decisive in every particular, that we need not hesitate to admit it as a pattern, from which we are authorised to draw the following important consequences.
+
+Supposing the connection between the star and its surrounding nebulosity to be allowed, we argue, that one of the two following cases must necessarily be admitted. In the first place, if the nebulosity consists of stars that are very remote, which appear nebulous on account of the small angles their mutual distances subtend at the eye, whereby they will not only, as it were, run into one another, but also appear extremely faint and diluted; then, what must be the enormous size of the central point, which outshines all the rest in so superlative a degree as to admit of no comparison? In the next place, if the star be no bigger than common, how very small and compressed must be those other luminous points that are the occasion of the nebulosity which surrounds the central one? As, by the former supposition, the luminous central point must far exceed the standard of what we call a star, so, in the latter, the shining matter about the centre will be much too small to come under the same denomination; we therefore either have a central body which is not a star, or have a star which is involved in a shining fluid, of a nature totally unknown to us.
+
+I can adopt no other sentiment than the latter, since the probability is certainly not for the existence of so enormous a body as would be required to shine like a star of the 8th magnitude, at a distance sufficiently great to cause a vast system of stars to put on the appearance of a very diluted, milky nebulosity.
+
+But what a field of novelty is here opened to our conceptions! A shining fluid, of a brightness sufficient to reach us from the remote regions of a star of the 8th, 9th, 10th, 11th, or 12th magnitude, and of an extent so considerable as to take up 3, 4, 5, or 6 minutes in diameter!
+
+Can we compare it to the coruscations of the electrical fluid in the aurora borealis? Or to the more magnificent cone of the zodiacal light as we see it in spring or autumn? The latter, notwithstanding I have observed it to reach at least 90° from the sun, is yet of so little extent and brightness as probably not to be perceived even by the inhabitants of Saturn or the Georgian planet, and must be utterly invisible at the remoteness of the nearest fixed star.
+
+More extensive views may be derived from this proof of the existence of a shining matter. Perhaps it has been too hastily furnished that all milky nebulosity, of which there is so much in the heavens, is owing to starlight only.
+
+These nebulous stars may serve as a clue to unravel other mysterious phenomena.
+
+If the shining fluid that surrounds them is not so essentially connected with these nebulous stars but that it can also exist without them, which seems to be sufficiently probable, and will be examined hereafter, we may with great facility explain that very extensive, telescopic nebulosity, which, as I mentioned before, is expanded over more than sixty degrees of the heavens, about the constellation of Orion; a luminous matter accounting much better for it than clustering stars at a distance. In this case we may also pretty nearly guess at its situation, which must commence somewhere about the range of the stars of the 7th magnitude or a little farther from us, and extend unequally in some places perhaps to the regions of those of the 9th, 10th, 11th, and 12th. The foundation for this surmise is, that, not unlikely, some of the stars that happened to be situated in a more condensed part of it, or that perhaps by their own attraction draw together some quantity of this fluid greater than what they are entitled to by their situation in it, will, of course, assume the appearance of cloudy stars; and many of those I have named are either in this stratum of luminous matter, or very near it.
+
+We have said above, that in nebulous stars the existence of the shining fluid does not seem to be so essentially connected with the central points that it might not also exist without them. For this opinion we may assign several reasons. One of them is the great resemblance between the chevelure of these stars and the diffused extensive nebulosity mentioned before, which renders it highly probable that they are of the same nature. Now, if this be admitted, the separate existence of the luminous matter, or its independence on a central star, is fully proved. We may also judge, very confidently, that the light of this shining fluid is no kind of reflection, from the star in the centre; for, as we have already observed, reflected light could never reach us at the great distance we are from such objects. Besides, how impenetrable would be an atmosphere of sufficient density to reflect so great a quantity of light? And yet we observe, that the outward parts of the chevelure are nearly as bright as those that are close to the star; so that this supposed atmosphere ought to give no obstruction to the passage of the central rays. If, therefore, this matter is self-luminous, it seems more fit to produce a star by its condensation than to depend on the star for its existence.
+
+Many other diffused nebulosities, besides that about the constellation of Orion, have been observed or suspected; but some of them are probably very distant, and run out far into space.
+
+For instance, about 5 minutes in time preceding ξ Cygni, I suspect as much of it as covers near four square degrees; and much about the same quantity 44′ preceding the 125 Tauri. A space of almost 8 square degrees, 6′ preceding a Trianguli, seems to be tinged with milky nebulosity.
+
+Three minutes preceding the 46th Eridani, strong milky nebulosity is expanded over more than two square degrees, 54′ preceding the 13th Canum venaticorum, and again 48′ preceding the same star I found the field of view affected with whitish nebulosity throughout the whole breadth of the sweep, which was 2° 39′. 4′ following the 57 Cygni, a considerable space is filled with faint, milky nebulosity, which is pretty bright in some places, and contains the 37th nebula of my 5th class, in the brightest part of it. In the neighbourhood of the 44th Piscium, very faint nebulosity appears to be diffused over more than 9 square degrees of the heavens. Now, all these phenomena, as we have already seen, will admit of a much easier explanation by a luminous fluid than by stars at an immense distance.
+
+The nature of planetary nebulæ, which has hitherto been involved in much darkness, may now be explained with some degree of satisfaction, since the uniform and very considerable brightness of their apparent disk accords remarkably well with a much condensed, luminous fluid; whereas to suppose them to consist of clustering stars will not so completely account for the milkiness or soft tint of their light, to produce which it would be required that the condensation of the stars should be carried to an almost inconceivable degree of accumulation.
+
+The surmise of the regeneration of stars, by means of planetary nebulas, expressed in a former paper, will become more probable, as all the luminous matter contained in one of them when gathered together into a body of the size of a star would have nearly such a quantity of light as we find the planetary nebulas to give. To prove this experimentally, we may view them with a telescope that does not magnify sufficiently to shew their extent, by which means we shall gather all their light together into a point, when they will be found to assume the appearance of small stars; that is, of stars at the distance of those which we call of the 8th, 9th, or 10th magnitude. Indeed this idea is greatly supported by the discovery of a well-defined lucid point, resembling a star, in the centre of one of them: for the argument which has been used, in the case of nebulous stars, to shew the probability of the existence of a luminous matter, which rested upon the disparity between a bright point of its surrounding shining fluid, may here be alleged with equal justice. If the point be a generating star, the further accumulation of the already much condensed, luminous matter, may complete it in time...
+
+I hope it will be found, that in what has been said I have not launched out into hypothetical reasonings; and that facts have all along been kept sufficiently in view. But, in order to give every one a fair opportunity to follow me in the reflection I have been led into, the place of every object from which I have argued has been purposely added, that the validity of what I have advanced might be put to the proof by those who are inclined, and furnished with the necessary instruments to undertake an attentive and repeated inspection of the same phenomena.
+
+This conclusion arrived at by Sir William Herschel in this remarkable memoir seems to hare made a profound impression upon his mind, and we had to wait for ten years before he returned to the subject. He did so in 1801,* in a paper detailing "Astronomical Observations relating to the Construction of the Heavens, arranged for the purpose of a critical examination, the result of which appears to throw some new light upon the organisation of the celestial bodies." In this paper he classifies all the different kinds of nebulæ which were then known to him, and specimens of which, as has been before stated, he really seems to have glimpsed in his paper of 1784. He points out that, in the classification which he proceeds to give, the bodies under consideration are treated in such a manner that each shall assist us to understand the nature and construction of the others; and he endeavours to attain this end by assorting them into as many classes as are required to produce the most gradual affinity between the individuals contained in any one class and those contained in that which precedes and that which follows it (p. 271). He remarks: "This consideration will be a sufficient apology for the great number of assortments into which I have thrown the bodies under consideration."
+
+*) _Phil. Trans._ vol. 101.
+
+His classification may be stated as follows ---
+
+1\. _Extensive diffused nebulosity._ --- Under this title he includes faint nebulosities stretching and branching over various portions of the sky, which he was the first to discover by means of the enormously increased optical power which he brought to bear. He states that "they can only be seen when the air is perfectly clear, and when the observer has been in the dark long enough for the eye to recover from having been in the light" (p. 274). He gives fifty-two of these diffused nebulosities, which he had observed in the nineteen years from 1783 to 1802. He remarks that "extensive diffused nebulosity is very great indeed; for the amount of it, as given in the tables, is 151.7 square degrees; but this, it must be remembered, gives us by no means the real limits of it; " and he finally adds, "It will be evident that the abundance of nebulous matter diffused through such an expansion of the heavens must exceed all imagination."
+
+2\. _Nebulosities joined to nebulæ._ --- He refers to fourteen objects in which real nebulæ are distinctly associated with the above diffused nebulosity.
+
+3\. _Detached nebulosities._ --- He next mentions six cases in which, instead of the extensive diffusion referred to under the first head, the nebulosity is found detached.
+
+4\. _Milky nebulæ._ --- He here remarks that when detached nebulosities are small we are used to call them nebulæ, and he shows that the nebulosities and the nebulæ, whatever may be their appearance, as well as those expressly called by him "milky," partake of the same general nature.
+
+5\. _Milky nebulæ with condensations._ --- He refers to the brightest portions of the nebula in Orion as an indication of what he means by condensation; then to another in which the greatest brightness lies towards the middle; and then he adds ---
+
+By attending to the circumstances of the size and figures of this nebula we find that we can account for its greater brightness towards the middle in the most simple manner by supposing the nebulous matter of which it is composed to fill an irregular kind of solid space, and that it is either a little deeper in the brightest place, or that the nebulosity is perhaps a little more compressed. It is not necessary for us to determine at present to which of these causes the increase of brightness may be owing; at all events it cannot be probable that the nebulous matter should have different powers of shining, such as would be required independent of depth or compression (p. 282).
+
+6\. _Nebulæ which are brighter in more than one place._ --- He associates the general swelling of the nebulous matter about the places which appear like nuclei with the unequally bright places in the diffused nebulosities, and farther on he refers to universal gravitation "as a cause of every condensation, agglomeration, compression, and concentration of nebulous matter."
+
+7\. _Double nebulæ with joining nebulosity._ --- He points out that "in fifteen objects two nuclei or centres of attraction have been observed, and that if the active principle of condensation carries on its operation a diffusion of their at present united nebulosities must in the end be the consequence" (p. 285).
+
+8\. _Double nebulæ not more than 2′ from each other._ --- He points out that there are twenty-three of this class.
+
+9\. _Double nebulæ at a greater distance than 2′ from each other._ --- Of these he gives a hundred examples, pointing out that "there are not more than five or six which differ so much in brightness from one another that we can suppose them to be at any very considerably different distance from us" (p. 288), and he further adds that "equal brightness or faintness runs through them all in general."
+
+10\. _Treble, quadruple, and sextuple nebulæ._ --- He refers to twenty treble, five quadruple, and one sextuple object of each kind.
+
+11\. _Very narrow long nebulæ._
+
+12\. _Extended nebulæ._
+
+13\. _Irregular nebulæ._
+
+14\. _Nebulæ that are of an irregular round figure._
+
+15\. _Round nebulæ._
+
+16\. _Nebulæ that are remarkable for some peculiarity of figure or brightness._ --- He ascribes this irregularity to the as yet imperfect concentration of the nebulous mass in which the preponderating matter is not in the centre (p. 300).
+
+17\. _Nebulæ that are gradually a little brighter in the middle._
+
+18\. _Nebulæ which are gradually brighter in the middle._
+
+19\. _Nebulæ that are gradually much brighter in the middle._
+
+20\. _Nebulæ that are suddenly much brighter in the middle._
+
+21\. _Round nebulæ increasing gradually in brightness up to a nucleus in the middle._
+
+22\. _Nebulæ that have a nucleus._
+
+23\. _Round nebulæ that show a progression of condensation._
+
+24\. _Round nebulæ that are of an almost uniform light._
+
+25\. _Nebulæ that have a cometic appearance._
+
+26\. _Extended nebulæ that show the progress of condensation._
+
+27\. _Nebulæ that draw progressively towards the period of final condensation._
+
+28\. _Planetary nebulæ._
+
+In addition, Sir William Herschel in his various papers gives drawings illustrating the classification which has been above referred to.* A more elaborate set of plates illustrating the various gradations of the different forms will be found accompanying his son's, Sir John Herschel's catalogue.* In these illustrations will be found some forms of great interest not referred to by the elder Herschel. Long parallel nebulæ, for instance, with a dark streak separating them, and elliptic and ring nebulæ. With these exceptions, all the illustrations readily fall into Sir William Herschel's classification.
+
+*) _Phil. Trans._ vol. 101., Plates 4 and 5; and vol. 104., Plate 11.
+
+*) _Ibid._ vol. 123., 1833, Plates 9, 10, 11, 12, and 13.
+
+Concerning the ring nebulæ represented in his series of plates. Sir John Herschel wrote, in the valuable paper to which reference has been made: "Comparing figures 25, 26, 27, 28, 29, and 48, it will appear that the annular form, or an approach to it, is one of those which nebulae affect, and taken in conjunction with the ring of Saturn and the Milky Way, may lead us to conceive that some kind of analogy, however obscure, may subsist in all those cases."*
+
+*) _Phil. Trans._ 1833, vol. 123. p. 498.
+
+That the nature of this clearly evident analogy was not, however, then regarded by Sir John Herschel as being satisfactorily traceable to a combination of gravitational with fluid mechanical properties of celestial masses, is shown by his further treatment of the question of their physical states in nebulæ, when speaking, in the following passages of the same important paper, of his drawings of nebulæ having apparently spherical, lenticular, and other similar forms of revolution. "Spheroidal masses," he writes, "of every degree of flatness from the sphere to the disk, and of every variety in respect of the law of their density and ellipticity towards the centre. It would be incorrect, however," he continues, "to draw from this any inference as to the identity of the forces which maintain them in this form, with those which determine the oblate spheroidal form of a revolving fluid mass under the dominion of the law of gravitation, and subject to compression by the super-incumbent matter. If a nebula be nothing more than a cluster of discrete stars (as we have every reason to believe, at least in the generality of cases), no pressure can be propagated through it; and its equilibrium, or to speak more correctly, the permanence of its form, must be maintained in a way totally different. In a system so constituted, no general rotation of the whole, as a mass, can be supposed. It must rather be conceived as a _quiescent form_, comprising within its limits an indefinite multitude of individual constituents, which, for aught we can tell, may be moving one among the other, and animated by its own inherent projectile force, and deflected into an orbit more or less complicated, by the influence of that law of internal gravitation which may result from the compounded attraction of all its parts... If the form be not spherical, and the distribution of the stars not homogeneous, the dynamical relations become too complicated to be distinctly apprehended, yet we may still conceive that something of an analogous result may subsist, and that both the external form and the internal density may be maintained (at least under certain conditions), for the mass as a quiescent whole, while all its elements are in a state of unceasing transfer and interchange."*
+
+*) _Phil. Trans._ 1833, vol. 123. p. 501. In the part of this quotation which is omitted thus,... above, reference is made to the author's description, on the last page of his treatise on "Astronomy" in the _Cabinet Encyclopædia_, of a permanently quiescent spherical congregation of innumerable uniformly distributed equal stars gravitating towards each other, and pursuing without the possibility of collision, ellipses round the centre of the collective system, which would, itself, be apparently quite destitute of any motion of rotation round any axis.
+
+Speaking of his finely finished drawing of the simple-looking Messier's nebula, first seen to be double-headed and likened to a dumb-bell by his father, as apparently indicating also an oblate spheroidal figure in the fuller featured view which he obtained, and which he figured in these plates, of its dim lateral outline, and of the faint field of light distributed about its centre, Sir John Herschel's view of the possible causes of this resultant form of revolution round the "dumb-bell" axis, is again expressed with the same evidently very needful cautious reservation as to the mode of physical action of the forces supposed to prevail and to be at work in it, as follows:---
+
+To this axis the complete figure is symmetrical, and if we are disposed to regard it as a mass in rotation, it is about this axis that we must suppose it to revolve. In that case its real form must be that of an oblate spheroid; and as it does not follow that the brightest portions must of necessity be the densest, this supposition would not be incompatible with dynamical laws, at least supposing its parts to be capable of exerting pressure on one another. But if it consist of discrete stars, this cannot be admitted, and we must have recourse then to other suppositions to account for the maintenance of its form.*
+
+*) _Phil. Trans._ 1833, vol. 123. p. 497.
+
+The question of existence, or of non-existence, in nebular bodies, of some form of continuous shining and ponderable (rather than imponderable or "ethereal") elastic "fluid," remained thus in doubt, it is true, from the divergences represented and described in these new delineations of the forms, and fresh studies of the formative forces of nebular masses, as regards the results of theory and speculation, and those of observation. But, in these extracts, it is also plain that, without disguising the obscurity (rather metaphysical than physical) in which, as is natural to it, the question of such a "fluid" seemed really to be enshrouded, Sir John Herschel expressed a perfect confidence and sure expectation of the eventual removal of all difficulties by some wider hypothesis than could then be formed of such a fluid's nature (which the assumption of collisions now affords us the proper clue of), and by some more confirmatory observations than had then been collected, to unite and reconcile together the apparently conflicting disagreement.
+
+Coming down to the work of Lord Rosse, we find that as early as 1846 he had convinced himself almost completely that no such thing as so-called nebulous fluid existed. In a letter to Nicol (_Architecture of the Heavens_, p. 143), under date 19th March, referring to the nebula of Orion, he states that he could "plainly see that all about the trapezium is a mass of stars, the rest of the nebula also abounding with stars and exhibiting the characteristics of resolvability strongly marked."
+
+The magnificent observations of the nebulæ made by Lord Rosse will be found in the _Philosophical Transactions_ for the years 1850 and 1861, the latter giving an account of the work done by the 6-foot, and in the _Scientific Transactions of the Royal Dublin Society_ for 1880. In the volume for 1861, p. 702, Lord Rosse seems rather inclined to withdraw the very definite letter which has been previously quoted, and states that, "When the letter R, meaning that the nebula is resolvable, has been used, he does not attach much importance to the expression of opinion it conveys, because the question of resolvability can only be successfully investigated when the air is steady and the speculum is in fine order."
+
+This state of uncertainty, however, did not last long, for in 1864 Dr. Huggins demonstrated that the spectrum of several planetary and other nebulæ which he examined, instead of giving spectra like those of the stars, gave one of bright lines --- one of the lines being due, as he asserted at the time, to hydrogen; the other, as it appeared to coincide with one of the components of a well-known double line of nitrogen near, was supposed to represent "a form of matter more elementary than nitrogen, and which our analysis has not yet enabled us to detect."*
+
+*) _Phil. Trans._ 1864, p. 444.
+
+In the subsequent chapters I shall have to show how recent investigations of the spectrum of the nebulæ have enabled us to obtain already an immense mass of new information, so that any views as to their origin can now be subjected to a considerable number of tests.
+
+I must add here also that any views relating to the structure of nebulæ, as revealed by their forms, are now placed on a much firmer basis by photographs which we owe to the researches of Messrs. Common and Roberts; the latter especially, by the long exposures which he has employed, extending sometimes over four hours, has revealed to us details of structure which entirely escape the eye, even in the most powerful instruments. I must here express my obligations to Mr. Roberts for the permission he has given me to enrich the book with untouched copies of these priceless records.
+
+### Chapter 25. The Spectra of the Nebulæ.
 
 ...
