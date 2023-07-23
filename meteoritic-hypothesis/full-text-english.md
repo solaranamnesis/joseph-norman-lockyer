@@ -2066,4 +2066,641 @@ This condition has been recorded in two comets, as in the following table:---
 
 _Manganese Absorption_
 
+It has been pointed out that in the case of a comet approaching perihelion, manganese is first represented by the radiation of the fluting at 558. As the comet gets nearer to perihelion, if the perihelion distance be sufficiently small, we find the radiation of manganese replaced by absorption. The reason that the presence of the strongest manganese fluting at 558 has not been previously recorded is, I fancy, that the masking effects of one spectrum on another have not been present in the minds of even those observers who were familiar with low temperature spectra.
+
+[Fig. 50. --- Diagram showing the Result of the Integration of Hot Carbon Radiation and Manganese Absorption, compared with Comet 3 1868.]()
+
+I have obtained abundant evidence that the masking phenomena manifest themselves in the spectra of comets, but since there is in general so little continuous spectrum to be absorbed, we have chiefly to deal, when discussing absorption, with the masking of the radiating citron fluting of carbon by the absorption of metallic vapours. The way in which the manganese absorption shows itself in comets is generally by the obliteration of the red end of the citron fluting, which produces an apparent shifting of the carbon fluting towards the more refrangible part of the spectrum. The way in which this comes about is shown in Fig. 50. The manganese absorption masks the brightest part of the carbon fluting, leaving a sharp edge at 558. This has been observed in eight comets when not far from perihelion, namely ---
+
+[TABLE]
+
+*) _Spectra der Cometen_, p. 24.
+
+*) _Bothk. Beob._, vol. 1. p. 62.
+
+*) _Astr. Nachr._, vol. 85. p. 12.
+
+*) _Astr. Nachr._, vol. 92. p. 301.
+
+*) _Phil. Trans._, vol. 158. p. 556.
+
+*) _Amer. Journ. Sci._, vol. 3. p. 81.
+
+*) _Monthly Notices_, vol. 37. p. 432.
+
+*) _Copernicus_, vol. 2. p. 223.
+
+*) _Ibid._
+
+The result is an apparent displacement of the 564 fluting, whilst the 517 fluting retains its position. This is by far the most general case of masking in comets.
+
+D'Arrest (_Astr. Nachr._ No. 2001, p. 138), speaking of Coggia's comet, says: "The centre shows a bright continuous spectrum with some dark absorption bands." This observation was made on 15th June, and the perihelion passage of the comet took place on 8th July 1874. The statement is so indefinite, however, that to determine the origin of the bands is almost out of the question. It is probable that one of the bands at least was due to manganese. The above view is strengthened by the fact that Vogel's observation on 15th June (_Astr. Nachr._ vol. 85. p. 19) gave indications of manganese absorption.
+
+There is another interesting point in connection with manganese. I have shown that the principal aurora line (557) is in all probability the remnant of the manganese fluting at 558, and hence there is a close relation between the spectrum of the aurora and cometary spectra. Professor Young recognised this relation as far back as 1872, but he attached no importance to it. In a note on Encke's comet* he states that, "Although quite probably merely accidental, it may be also worth noting that the principal line of the aurora spectrum (wave-length 5568) very closely coincides with the lowest (cometary) band."
+
+*) _Amer. Journ._, vol. 3., Feb. 1872.
+
+_Lead Absorption._
+
+In other cases we have, in addition to the absorption of manganese, the absorption of the lead fluting at 546. The result of this is a much greater apparent shifting of the carbon fluting at 564, as shown in Fig. 51. In the absence of the carbon fluting 564, which is not so persistent as the one at 517, we should still get pretty nearly the same result by contrast --- that is, the darkening due to absorption commencing at 545 would give rise to an apparent bright fluting at 546, fading away on the more refrangible side. This occurred in the following comets:---
+
+[TABLE]
+
+*) _Roy. Soc. Proc._, vol. 16. p. 386.
+
+*) _Copernicus_, vol. 2. p. 237.
+
+*) _Copernicus_, vol. 2. p. 233.
+
+*) _Monthly Notices_, vol. 39. p. 420.
+
+[Fig. 51. --- Diagram showing the Result of the Integration of Hot Carbon Radiation and the Absorption of Manganese and Lead, compared with Comet 1 1868.]()
+
+It is important to note, as a test of the validity of this explanation, that the lead fluting never occurs without the manganese one, otherwise we should get two bright maxima, one at 564 and the other at 546.
+
+In the case of Comet 3 1881, it seems probable that both the first and second flutings of lead were absorbed. Copeland (_Copernicus_, vol. 2. p. 226) states that on 25th June there was a dark band at 567.9. The perihelion passage of the comet occurred on 16th June, and the band was not seen in its spectrum on any other occasion. There can be little doubt that the band at 567.9 was due to lead (λ = 568). The amount of lead in the comet was probably small, and the first band at 546 was evidently masked by the bright carbon fluting observed on the same date. The diminution in brightness of the comet as it receded from perihelion would account for the band not being seen after 25th June.
+
+_Carbon Absorption._
+
+There are a few cases in which we probably have to deal with comparatively feeble manganese absorption, together with the absorption of cool carbon masking the radiation of hot carbon. Here both the hot carbon flutings are affected, instead of one as in the previous cases. With regard to the 564 fluting, we have the cool carbon absorption fluting at 560.7, masking the second maximum of the hot carbon fluting at 564, and the manganese fluting at 558 dimming the first maximum. The result is a band with two maxima as shown in Fig. 52, one of these being at 564 and the other at 554 (the third maximum of the hot carbon flutings), the latter being the brighter.
+
+[Fig. 52. --- Map showing the Result of the Integration of Hot Carbon Radiation and the Absorption of Cool Carbon and Manganese, compared with Coggia's Comet, 1874.]()
+
+With regard to the other hot carbon fluting at 517, we have the cool carbon absorption masking the first maximum, and we get the apparently paradoxical result of the second maximum of the fluting being brighter than the first, as shown in the figure.
+
+It is probable, too, that at this stage the outer layers of the hot carbon vapour would also begin to absorb; this would show itself in the brightest least refrangible maxima. Just as the masking of D by the balancing of absorption and radiation gives us the green line of sodium in the absence of D in our laboratories, we should here get the second maxima of the two flutings brighter than the first. This double effect on the carbon flutings at 564 and 517 of masking by cool carbon and manganese was indicated in Coggia's comet when it was about a month from perihelion, and in Comet 3 1881, twelve days after perihelion, as shown below ---
+
+[TABLE]
+
+*) _Astr. Nachr._, vol. 85. p. 12.
+
+*) _Copernicus_, vol. 2. p. 225.
+
+_Iron Absorption._
+
+In addition to the absorption flutings of lead and manganese as indicated by their masking effects upon the carbon fluting at 564, we have indications of the absorption of the iron fluting at 615.
+
+In Comet Wells Vogel* saw on 2d June (the perihelion passage occurring on 10th June) a bright fluting with its brightest edge at 613, fading towards the blue, which he attributed to hydrocarbon. This was very probably a contrast band due to the absorption of the iron fluting at 615. Hasselberg also observed in the same comet on 5th June a fluting with its sharpest edge at 615.7, which he supposed to be the red sodium line at 615. The iron fluting has its maximum at 615, and fades away on the less refrangible side; hence, when absorbing, it will give rise to such an apparent bright band as that observed by Vogel and Hasselberg in Comet Wells.
+
+*) _Astr. Nachr._ No. 2437.
+
+### Chapter 18. The Spectra of Comets at Perihelion.
+
+There is evidence to show that when a comet arrives at its shortest distance from the sun, the mean temperature effects are exceeded; and that, speaking generally, a line- replaces a fluted-spectrum, and we pass from a spectrum very similar to that which we ordinarily get in a glow tube to one which we cannot produce in it until we employ the highest temperature. The spectral conditions brought about in the comets which in our time have approached nearest to the sun, have been very similar to those observed in the oxy-coal-gas flame; and the recorded observations of the spectrum show that we are dealing with the lines of iron, manganese, and other substances seen at that temperature which, it may be remarked, is below that of the electric arc.
+
+We see in the telescope that a comet under the conditions of near approach to the sun, puts on the appearance of a central nucleus (or nuclei) with surrounding envelopes, or jets, or both. Because the former now falls upon one part of the slit of the spectroscope, and the latter upon another, the difference between the nucleus and the envelopes is best made out when the comet is nearest to the sun and earth.
+
+When a comet approaches very near to the sun, we get the bright lines, _especially in the spectrum of the nucleus_, so that in addition to the long flutings of carbon (if they be then visible) we have short lines added along the spectrum of the nucleus in the red, yellow, green, and so on; the lines characteristic of the more volatile substances extend some distance beyond them.
+
+It does not always happen, however, that a comet gives a bright line spectrum while near or at perihelion, for the perihelion passage may occur at some distance from the sun, and then the spectrum will be simpler. In Comets _b_, 1881 (perihelion passage, 16th June), and _d_, 1882 (perihelion passage, 17th September), the only lines recorded were magnesium _b_; but the apparent absence of the other lines might be due to continuous spectrum.
+
+It should be noted that the greatest brilliancy and maximum of action is observed immediately after, and not at, perihelion; hence the temperature must be highest after perihelion.
+
+_Magnesium Radiation._
+
+In cometary spectra we have already seen that magnesium is first indicated by the fluting at 500, and at a more advanced stage by the fluting at 521. There is evidence to show that magnesium is represented by _b_ at perihelion. This was the case in the Great Comet of 1882 as observed by Copeland on 18th September, the day after perihelion passage; _b_ was probably also seen in Comet 3 1881, by Copeland* (perihelion passage, 16th June). It is described as a well-defined bright line standing at the edge of the bright green band.
+
+*) _Copernicus_, vol. 2. p. 229.
+
+_Carbon Radiation._
+
+The disappearance of the flutings of carbon in comets which have short perihelion distances when near perihelion, taken in conjunction with laboratory experiments, at once suggests that the disappearance of the flutings may be accompanied by the appearance of carbon lines.
+
+The principal line in the spectrum of carbon is at wave-length 426. This has only been recorded on two occasions, in cometary spectra, namely, in Comet Wells. On 28th May (perihelion passage, 10th June) Copeland recorded a bright line at 426.1, and it was also possibly shown in Huggins's photograph of the spectrum of the same comet taken on 31st May, its wave-length being given as 425.3. On each of these occasions other evidences of carbon were entirely absent, and the bright lines present in the spectrum gave indications of a relatively high temperature.
+
+There are several reasons why the carbon line spectrum has not been recorded a greater number of times. First, very few comets approach sufficiently near the sun to attain the necessary temperature. Secondly, the principal line is in a part of the spectrum which is very difficult to observe. Even in the Great Comet of 1882, which was very bright, the observations did not go beyond 465.
+
+This conclusion cannot be regarded as final until careful differential observations of nucleus, envelopes, and jets are made. At present the exact part of the comet, the spectrum of which is described, is generally not stated; and there is evidence that, up to the highest temperature produced by collisions, carbon in some form is liberated from the meteorites composing the cometary swarm.
+
+_Line Absorption at Perihelion._
+
+It has been seen that the first evidence of the appearance of absorption in comets is that afforded by the flutings of manganese and lead, which mask the citron band of carbon. The next indication of absorption is that of the iron fluting at 615. Line absorption was observed in Coggia's comet (1874) by Christie, on 14th July, but he gives no definite wave-lengths for the lines seen. He says: "The spectrum of the nucleus was continuous; it appeared to have traces of numerous bright bands, and three or four dark lines also were seen on several occasions, but owing to passing clouds they were lost before their position could be determined. One appeared to be between D and E, another on the blue side of _b_, and a third near F."* The perihelion passage of the comet occurred on 8th July.
+
+*) _Greenwich Spectroscopic Observations_, 1875, p. 121.
+
+There were also evidences of absorption in Comet Wells, as observed at Greenwich. "Two dark spaces were seen near F; the less refrangible one was measured and its wave-length determined as 4862 tenth-metres. It therefore probably is the F line."*
+
+*) _Monthly Notices_, vol. 42. p. 410.
+
+Polariscopic observations have shown that part of the light received from comets is reflected light, and it has been assumed that it is reflected sunlight that is in question. Dr. Huggins, in his valuable memoir on the Comet _b_, 1881,* gives a drawing of a photograph showing absorption lines which he states to be reflected Fraunhofer lines. I have not had an opportunity of seeing the original photograph, and it is therefore impossible to speak with confidence; but if the drawing be exact we are not dealing with reflected sunlight, for the hydrogen lines are too strong and the thicknesses of H and K are dissimilar. But variations from the solar spectrum are to be noticed in the spectrum of _a_ Cygni, and I do not think it impossible that they should be reproduced in a cometary swarrn when near the sun. This certainly is one of the points to which close attention should be directed in the case of those comets which closely approach the sun in future years.
+
+*) _Roy. Soc. Proc._, vol. 33. p. 1.
+
+An additional argument for this conclusion with respect to Dr. Huggins's photograph is the absence of ultra-violet continuous spectrum. As shown in the drawing, the continuous spectrum appears to end rather abruptly, just in front of the group of bright flutings 3883. If we had to deal with reflected sunlight this could not possibly happen.*
+
+*) Since the above was written, Dr. Huggins has kindly permitted me to inspect the photograph in question, and the balance of evidence is perhaps slightly in favour of the dark lines being due to reflected sunlight.  Still I am not quite convinced that this is the case, as the spectrum in the region where _a_ Cygni differs most from the sun has faded, and is now too faint for a definite conclusion to be arrived at.
+
+In describing the spectrum of the Great Comet of 1882,* as seen on the morning of 18th September, the day after the perihelion passage, Copeland refers to dark lines which he supposes to be the ordinary Fraunhofer lines. Some of the bright lines observed are described as being to the redward side of dark lines. These are ---
+
+*) _Copernicus_, vol. 2. p. 238.
+
+[TABLE]
+
+Besides these there were two bright bands, one at 560.1, and the other at 557.4, both as broad as the interval of D, which had sharp dark lines on their redward sides. In all probability these two bands were the first two maxima of the manganese fluting at 558.
+
+The dark lines which Copeland saw were no doubt partly due to the spectrum of daylight, but some were also due to the absorption taking place in the comet itself. The evidence for this conclusion is that some of the dark lines recorded in the cometary spectrum are altogether absent, or are exceedingly faint, in the solar spectrum. Thus there are no dark lines in the solar spectrum to correspond with the dark lines in the spectrum of the comet at 547.4, 539.5, and 517.6. The lines in the spectrum of the comet at 526.9 (E), 532.9, 536.9, 542.8, D1 and D2, which also occur in the solar spectrum, are probably common to both the spectrum of the comet and the daylight spectrum. These are lines which would be likely to appear in the absorption spectrum of the comet, and hence it is highly probable that Copeland observed an integration of the spectrum of the comet and that of daylight.
+
+A comet gives bright lines at perihelion because there is an action which drives the vapours away from the meteorites. The vapours being driven away with great velocity, the lines in their spectra are displaced if the resolved part of the velocity in the line of sight be sufficiently great. The vapours, however, would surround the meteorites at the moment they were produced by the heat due to impacts, and there would therefore be dark absorption lines which would not suffer displacement. The total result would accordingly be bright lines and flutings corresponding to them arranged alongside each other. This in all probability is what Copeland observed in the Great Comet of 1882; the vapours of sodium, iron, and lead were being driven away from the earth, the dark lines being on the more refrangible sides of the bright lines, while the manganese vapours were driven towards the earth, the dark flutings being consequently (most probably in a different part of the comet) on the redward side of the bright ones.
+
+_The Perihelion Conditions of the Great Comet of 1882._
+
+As the perihelion distances are different in different comets, we must expect the effects to be more decided in some cases than others. The most remarkable case since the beginning of spectroscopic inquiry was afforded by the Great Comet of 1882, most admirably observed by Copeland.
+
+It is found that many of the lines thus observed at perihelion are coincident with lines seen in experiments with meteorites, while the low temperature lines of magnesium are absent. In the Great Comet of 1882, the lines recorded were the D lines of sodium, the low temperature iron lines at 5268, 5327, 5371, 5790, and 6024, the line seen in the manganese spectrum at the temperature of the Bunsen burner at 5395, and a line near _b_ which might be due to magnesium, or to a remnant of the carbon fluting. There were also four other lines less refrangible than D, the origin of which has not yet been determined.
+
+The following is a complete list of the lines recorded by Copeland and Lohse* on the day after perihelion passage. The origins of the lines which my observations have suggested are also given ---
+
+*) _Copernicus_, vol. 2. p. 239.
+
+[TABLE]
+
+Fig. 53 shows the probable origins of some of the lines in the spectrum of the Great Comet of 1882. The horizontal line which runs through the spectrum represents the continuous spectrum due to the bright nucleus.
+
+_The Perihelion Conditions of Comet Wells._
+
+Again, in Comet Wells almost the same phenomena were exhibited as in the Great Comet of 1882. In this case the perihelion passage occurred under such conditions that the spectrum of the comet could not be satisfactorily observed on account of the interference of daylight. Detailed observations, however, were made when the comet was near perihelion and its temperature sufficiently high to give bright lines. On 28th May (perihelion passage, 10th June) the spectrum was observed by Copeland, who noted the presence of the D lines of sodium, and other lines at 558, 513, 503, 467, 451, and 426.  The bright line at 55 was in all probability the remnant of the manganese fluting at 558, and that at 503 the remnant of the magnesium fluting at 500.  Two carbon flutings, 517 and 468-474, are indicated by the brightenings at 513 and 467, the former being the second maximum of the fluting at 517. The line at 426 is most likely the strong _line_ of carbon at 426, which only appears at a high temperature. No origin has yet been assigned to the line at 451. Fig. 54 shows how the spectrum can be closely approximated to by integrating the lines of sodium and carbon, and the flutings of carbon, manganese, and magnesium.
+
+[Fig. 53. --- Map showing the probable Origin of the Spectrum of the Great Comet of 1882 when near Perihelion.]()
+
+The spectrum was again observed by Copeland on 31st May,* when the comet was slightly hotter, and the phenomena were somewhat different. The following table gives the bright lines and bands (with their probable origins):---
+
+*) _Copernicus_, vol. 2. p. 229.
+
+[TABLE]
+
+*) The reason why we get the second maximum of the carbon fluting without the first is explained on p. 185.
+
+No origin can at present be suggested for the brightness at 573.8. Copeland only observed it on 31st May, and then noted it as being but "slightly brighter than neighbourhood."
+
+Fig. 55 shows how the spectrum of the Comet, on 31st May, can be very closely imitated by integrating the lines and flutings in the above table.
+
+In both cases the low temperature fluting of magnesium was recorded; it probably had its origin in some cool part of the comet which was projected on the slit at the same time as the nucleus.
+
+[Fig. 54. --- Map showing the probable Origin of the Spectrum of Well's Comet on 28th May 1882 (P. P. 10th June).]()
+
+[Fig. 55. --- Map showing the probable Origin of the Spectrum of Well's Comet on 31st May 1882 (P. P. 10th June).]()
+
+### Chapter 19. Some Cometary Biographies.
+
+The preceding chapters will have shown, I trust, pretty clearly and conclusively that there are well-marked spectroscopic distinctions which mark the various stages from aphelion to perihelion.
+
+I propose now to show this in a different manner by dealing with successive changes observed in the same comet as it approaches or recedes from the sun.
+
+_Comet Wells._
+
+Comet Wells was first seen on 17th March 1882, its perihelion passage occurring on 10th June. During the earlier observations, made by Vogel, Tacchini, and others in April, its spectrum presented no feature of special interest, consisting merely of "faint traces of the customary three bands close to the weak, faint, continuous spectrum of the nucleus."* At Greenwich, on 20th May, Maunder suspected "a dark band near D on the blue side of that line," due most probably to the absorption of the second manganese fluting at 586, the first being masked by the citron carbon band.
+
+*) Hasselberg, _Astr. Nachr._, No. 2441.
+
+By 22d May, when the spectrum was again observed by Vogel, the comet had much increased in brightness, and "the continuous spectrum of the nucleus had increased in intensity and extent, and was not different from the spectrum of a fixed star."
+
+On 27th May, however, Copeland and Lohse noticed a bright line, so faint as to require some attention to see it, in the less refrangible end of the spectrum, which, by comparison on the following day, they identified with the D line. At the same time they observed a bright part at wave-length 558, due, there can be little doubt, to the first manganese fluting at 558. A maximum at 503 may have been due to the low temperature magnesium fluting at 500. On 29th May the spectrum of the comet was again observed by Copeland and Lohse, and the identity of the bright line in the yellow with the D line placed beyond doubt. On the preceding day a Dun Echt circular had announced the discovery as follows:--- "The spectrum of the nucleus of Comet Wells deserves the closest attention, as it shows a sharp bright line coincident with D, as well as strong traces of other bright lines, resembling in appearance those seen in γ Cassiopeiæ and allied stars."
+
+Dr. Huggins succeeded on 31st May in photographing the spectrum of this comet, and, as was to be expected, could detect no trace of the ultra-violet carbon fluting which was seen in his photograph of Comet _b_, 1881. The photograph, which was taken with a wide slit, showed five bright lines, of which no less than three agree fairly well in position with three lines seen in the spectra of meteorites. The wave-lengths of these are 4253, 4412, and 4769, and it is interesting to note that, so far, the origin of these lines is undetermined. The two remaining lines are at wave-lengths 4507 and 4634, and no origins have yet been assigned to them.
+
+On the same day the spectrum of this comet was observed by Maunder, Copeland, Vogel, and others. The most complete record is that made by Copeland and Lohse. They observed "a bright part; line (?) " at wave-length 614.1, for which the reading on the following day gave 615.7. There can be little doubt that this was a contrast band due to the absorption of the low temperature iron fluting at 615. At the same time there was a maximum brightness in the green at wave-length 501.7, caused most probably by the radiation of the magnesium fluting at 500, in addition to the continuous spectrum.
+
+A bright part, a maximum, of which the wave-length recorded on 31st May was 543.6, and on the following day 546.8, was due in all probability to absorption by the lead fluting at 546, as I have already explained. It was on this night (31st May) that Vogel first observed and identified the bright sodium line. "When I examined the spectrum, on 31st May," he writes, "I was greatly surprised by a line in the yellow of great intensity. Measurements and comparisons seemed to identify this line with the sodium line. Yesterday, 1st June, several measurements were made by Dr. Müller, Kempf, and myself, which showed an agreement of the bright line in the spectrum of the comet's nucleus with the D lines; considering the dispersion used, this agreement must be called an absolute one. The continuous spectrum extended from about C to deep in the violet. Besides the bright yellow line traces of bright bands were present, perhaps also some dark absorption lines."* Writing later, he describes the observations of 2d June thus: "The bright line was, not only in the spectrum of the nucleus, but also in the parts of the comet near to the nucleus, distinctly visible. Besides this, several more bright bands could be seen, which stood out more distinctly when the slit of the spectroscope was not directed on the nucleus itself, but on parts of the comet close to it." He further states that he observed a bright band fading towards the blue, to which reference has been made above, and for which he obtained the wave-length 613. This, we have seen, was probably a contrast band due to the dark iron fluting at 615. From this date until the comet was lost to view no further change of note took place in the spectrum.
+
+*) _Astr. Nachr._, No. 2434.
+
+On 2d June Vogel observed dark bands in the spectrum of the Comet,* but suggests that they might have been due to atmospheric absorption. He says: "The dark absorption bands, which are still visible in the comet's spectrum, may probably have their origin in our atmosphere, the absorbent action of which, at the inconsiderable height of the comet above the horizon, is very powerful."
+
+*) _Ibid._ No. 2437.
+
+Again, Vogel states that dark absorption bands were possibly present on 1st July, the perihelion passage occurring on 10th June. Vogel's suggestion is very important, but since no wave-lengths were determined, it is not possible to say how far it is supported by the facts.
+
+It might, on first consideration, be expected that the changes in the spectrum of a comet as it approaches the sun can be nothing but continuous. The spectrum of Comet Wells, however, was a case in which the changes in the spectrum were apparently discontinuous. On 20th and 31st May, as already stated, dark bands were observed, by Mr. Maunder,* which were in all probability due to manganese absorption. Between these two dates, _i. e._ on 28th May, Copeland observed a bright part at 558 which was clearly due to manganese radiation. I have already shown that manganese radiation occurs farther from perihelion than manganese absorption. The Greenwich observation of absorption on 20th May, whilst radiation occurs on 28th May, nearer to perihelion, is therefore apparently a discontinuity. It is most probable that on 20th May the comet met another meteor swarm in its orbit, and an increase of temperature took place; this meant manganese absorption, and this was what was observed.
+
+*) _Greenwich Observations_, 1882, p. 34.
+
+All the other changes in the spectrum were perfectly continuous as the comet approached the sun, the perihelion passage occurring on 10th June.
+
+The perihelion passage occurred under such conditions that the spectrum of the comet could not be satisfactorily observed on account of the interference of daylight. Detailed observations, however, were made when the comet was near perihelion and its temperature sufficiently high to give bright lines.
+
+The complete discussion shows that when the lines were best seen (31st May), we had remnants of the fluting of magnesium at 500, and of the blue carbon band at 468. The line of carbon at 426 was probably also visible, and the temperature was high enough for the appearance of iron. As the comet approached perihelion the conditions of observation became less favourable. Between 5th and 11th June nothing but the D lines were recorded.  After 11th June the comet was lost.
+
+_The Great Comet of 1882._
+
+The spectrum of the Great Comet of 1882 was first observed on 18th September, a day after perihelion, by Copeland.*
+
+*) _Copernicus_, vol. 2. p. 237.
+
+The spectrum consisted of bright and dark lines, among which was the bright yellow line of sodium, several bright lines in the green, E, and some prominent iron lines and five well-defined bright lines on the red side of D. These have already been referred to. In addition there were two dark lines on the redward side of 558 and 560, which were most likely the edges of the first two maxima of the manganese absorption fluting at 558. No more observations could be made at Dun Echt until 29th September, and in the interval most of the bright lines in the spectrum had disappeared, whilst the carbon bands had made their appearance. The D lines were still bright, but E and the other lines had vanished. There was, however, something which is described as "almost a line" at 610.3; this, no doubt, was the iron fluting at 615. The next observations of the comet were made by Vogel,* on the 1st, 5th, 6th, and 7th October. On each of these occasions D was still visible as a bright double line, in addition to carbon flutings. When the next observation was made on 16th October by Hasselberg,* D had disappeared. On 22d and 23d October Copeland again observed the spectrum, and it then consisted of the three ordinary cometary bands; the citron band had a maximum at about wave-length 557. Here manganese radiation had evidently commenced. The later observations of Gothard* and Konkoly* showed nothing but the three ordinary bands.
+
+*) _Astr. Nachr._, No. 2466.
+
+*) _Ibid._ No. 2473.
+
+*) _Ibid._ Nos. 2472, 2716.
+
+*) _Ibid._ No. 2475.
+
+No observations were made after the comet had got sufficiently cool, to show either the cool carbon flutings or the magnesium fluting at 500.
+
+Although the observations are not perfectly continuous, there is conclusive evidence that the reduction in temperature of the comet, consequent on its departure from the neighbourhood of the sun, was accompanied by the following changes in its spectrum:---
+
+18th September. Bright and dark iron lines and manganese flutings.
+
+29th September. Bright flutings of iron and carbon.
+
+22d October. Bright flutings of manganese and carbon.
+
+1st November.  Hot carbon radiation.
+
+No doubt if further observations had been possible the flutings of hot carbon would have been replaced by those of cool carbon, and these again by magnesium 500.
+
+_Coggia's Comet._
+
+The perihelion passage of this comet occurred on 8th July 1874, and the available observations of its spectrum date from 18th May to 14th July. On 18th May Vogel* observed three bands, one of which was at wave-length 515. This was probably the hot carbon fluting at 517, but as the wave-lengths of the other bands are not given, it is not possible to come to a definite conclusion.
+
+*) _Astr. Nachr._, No. 2018.
+
+On 18th May Vogel again recorded the three bands, the principal one commencing at 516.5, and having a second maximum at 512. It is probable that these were the first two maxima of the green carbon band, the wave-lengths of which are about 517 and 513.
+
+On 4th June, the date of Vogel's next observation, the three bands were still visble. The wave-lengths are given as 562, 514, and 473.
+
+On 7th June Vogel's observation, recording three bands at 557, 518, and 473, gives evidence of manganese absorption, as indicated by the apparent displacement of the citron carbon band in the manner I have already explained.
+
+On 13th, 14th, and 15th June, in addition to the absorption of manganese, there was probably the absorption of cool carbon, as indicated by the masking of the second maximum of the citron carbon band, as I have already explained.
+
+D'Arrest's observations* on 15th, 16th, and 17th June show that the manganese absorption was increasing, whilst the carbon was probably beginning to fade out.
+
+*) _Astr. Nachr._, No. 2001.
+
+The later observations of Vogel, on 22d June, and of Christie,* between 3d and 14th July, are incomplete, inasmuch as the positions of all the bands were not determined. Vogel gives the position of the green band as 515, but simply states the presence of the citron and blue band. Christie states that two of the bands, were sensibly coincident with the two principal bands in the spectrum of carbon dioxide (probably carbon 517 and 474), but the position of the third band was not determined. It is scarcely possible, therefore, to say how far the indications of manganese absorption had increased between 22d June and 14th July. Christie states, however, that there was line absorption on 14th July, six days after perihelion. I have before stated (p. 188) that the highest temperature effects do not occur until the comet is some distance beyond perihelion, and this is a case in point.
+
+*) _Greenwich Observations_, 1875, p. 121.
+
+As the comet approached perihelion, therefore, the first recorded change was the addition of manganese absorption to carbon radiation; but the discussion of other cometary spectra shows that there was probably an intermediate stage between 4th and 7th June, when, instead of manganese absorption, manganese radiation was added. A little later cool carbon absorption was added. Finally, just after perihelion, fluting- was replaced by line-absorption.
+
+In observations in my own observatory with a 6 1/3-inch refractor, I obtained indications that the blue rays were singularly deficient in the continuous spectrum of the nucleus of the comet; and in a communication to _Nature_* I suggested that this fact would appear to indicate a low temperature.
+
+*) _Nature_, vol. 10. p. 180, 1874.
+
+This conclusion was strengthened by observations which I made at Newcastle with Mr. Newall's telescope. The colour, both of the nucleus and of the head of the comet, as observed in the telescope, was of a distinct orange-yellow, and this, of course, lends confirmation to the view expressed above. While ten minutes' exposure of a photographic plate gave no image of the comet, the faintest of the seven chief stars in the Great Bear gave an impression in two minutes.
+
+The fan also gave a continuous spectrum but little inferior in brilliancy to that of the nucleus itself; while over these, and even the dark space behind the nucleus, was to be seen the spectrum of bands, which indicates the presence of a rare vapour of some kind, while the continuous spectrum of the nucleus and fan, less precise in its indications, may be referred to the presence of denser vapour or solid particles. I found that the mixture of continuous band spectrum in different parts was very unequal, and further, that the apparently continuous spectrum changed its character and position of maximum. Over some regions it was limited almost to the region between the less refrangible bands.
+
+I wrote at the time: "It is more than possible, I think, that the cometary spectrum, therefore, is not so simple as it has been supposed to be, and that the evidence in favour of mixed vapours is not to be neglected."
+
+_Comet 3 1881._
+
+The perihelion passage of this comet occurred on 16th June. I have already remarked that Copeland* observed on 25th June a dark band at 567.9 in the Comet, 1881, in addition to the hot carbon radiation. This band was probably due to lead at 568, the first band at 546 being masked by the hot carbon. Manganese absorption was also indicated on the same date. On 25th June the spectrum of this comet was photographed by Huggins, and the carbon B group of flutings was stated to have been seen, giving indications of a relatively high temperature. As the comet receded from the sun other phenomena were observed. On 27th June magnesium at 521 was detected by Hasselberg; manganese absorption was again indicated in Copeland's observations on 28th June, and manganese radiation on 29th June and 27th July.
+
+*) _Copernicus_, vol. 2. p. 225.
+
+No observations were made on the comet after 27th July, or the hot and cool carbon flutings would doubtless have been successively recorded alone. Carbon radiation is indicated in all the observations that were made from 25th June to 27th July.
+
+It should also be noted that hydrocarbon at 430 was observed on 28th June by Copeland; but neither before nor after this date was its presence recorded. The reason probably is that the band is too far in the violet to be very manifest. Copeland recorded it as "a bright line, common to spirit-lamp and comet," and hence there can be no mistake as to its identity.
+
+_Brorsen's Comet._
+
+The observations of this comet at its appearance in 1868, made by Secchi* between 23d and 27th April 1868, and by Huggins* between 29th April and 13th May 1868, perihelion passage occurring on 17th April 1868, differ very considerably.
+
+*) _Comptes Rendus_, vol. 66. p. 882.
+
+*) _Roy. Soc. Proc._, vol. 16. p. 386.
+
+Secchi observed flutings at 473, 512, and 553. The first of these agrees almost exactly with the blue band of hot carbon, and if the two other bands be shifted by equal amounts, so that the first one coincides with hot carbon 517, and the second consequently with manganese 558, we have indications of manganese added to carbon radiation; the description of the band, however, is insufficient to enable us to say whether the manganese was radiating or absorbing.
+
+Huggins gives flutings at positions which, when reduced, give 464, 508, and 544 as the wave-lengths. The wave-lengths of the two less refrangible ones are apparently shortened, as if they were shifted towards the blue. It is probable, however, that manganese was indicated by the observations of Huggins, for if we shift the band at 508 to 517, the 544 band becomes 553, which is not far removed from the manganese fluting. The drawing given by Huggins shows this as a somewhat narrow band, fading away in both directions, which would seem to show that there was manganese radiation added to carbon radiation, as I have previously explained. This being so, since Huggins's observations were made when the comet was further from perihelion than at the time of Secchi's observations, the discussion of the sequence of changes in other cometary spectra suggests that in Secchi's observations we had to deal with the absorption of manganese.
+
+In a note on the spectrum of Brorsen's comet at its return in 1879 Professor Young* refers to Huggins's observation. He states that "the only special interest in this (Professor Young's) observation lies in the fact that in 1868 Mr. Huggins obtained a somewhat different result for the same comet." He further goes on to say: "I am entirely at a loss to explain Mr. Huggins's result. It can hardly be that the comet has really changed its spectrum in the meanwhile, and a careful reading of his account (_Roy. Soc. Proc._ vol. 16. p. 388) gives no light as to how an error could have crept into his work; on the other hand, every precaution would seem to have been taken. However this may be, I am quite positive as to the accuracy of my present result --- that the middle band of the spectrum of this comet now coincides sensibly (to a one-prism spectroscope) with the green band in the hydrocarbon spectrum."
+
+*) _Amer. Journ._, vol. 17., May 1879.
+
+I have now shown that the spectrum of a comet is by no means a constant, but depends upon the distance of the comet from perihelion passage. The spectrum is, therefore, not necessarily the same at two different returns, as Professor Young supposes, although it may be the same at equal distances from perihelion.
+
+It is impossible, however, to explain Dr. Huggins's observation of Brorsen's comet without assuming a shift, which is probably instrumental. In the face of this difficulty I venture to suggest the above as the probable explanation of the spectrum of this comet.
+
+There are no other observations which enable us to further trace the sequence of spectroscopic phenomena in the comet at this return.
+
+At the return, however, in 1879 (perihelion passage, 30th March 1879) several observations were made on different dates. Low temperature carbon bands were recorded on 25th March.* Bredichin* made a series of observations, extending from 26th March to 2d April, but only gives one set of wave-lengths, as if no change had occurred in the spectrum of the comet during the interval. The observations, however, seem to indicate hot carbon with manganese absorption.
+
+*) N. von Konkoly, _Astr. Nachr._, No. 2269.
+
+*) _Astr. Nachr._, No. 2257.
+
+An observation was made two days after perihelion by Young,* who observed bands near 476 and 560, and measured one at 512. These are probably hot carbon bands with manganese absorption; in the case of the green band at 512, the first maximum of the fluting at 517 was probably masked in the way I have already explained, so that the second maximum at 513 was the brighter. On 17th April the Astronomer Royal* observed cool carbon bands in the comet's spectrum.
+
+*) _Amer. Journ._, vol. 17.
+
+*) _Monthly Notices_, vol. 39. p. 429.
+
+Messrs. Copeland and Lohse* observed the comet from 16th April to 2d May, and give 547.6, 515.6, 469.6 as the wave-lengths of three bands. Of the band at 547.6 they say, "It was very ill defined on both sides, and being without any definite brighter part, its wave-length is very uncertain." The observations made on 16th April are not given separately, nor is it definitely stated that any measurements were made on that day. The apparent discrepancy of hot carbon being seen when the comet was farther from perihelion than when cool carbon was seen, is most probably another case of a comet temporarily passing through a meteor swarm, and thereby increasing in temperature, as was the case with Comet Wells, 1882, on 20th May.
+
+*) _Ibid._ p. 430.
+
+_Winneckes Comet of 1877._
+
+Winnecke's comet, 1877, was observed by Lord Lindsay* on 18th April, a day after perihelion. Its spectrum presented much the same characteristics as Comet 2 1868. Bands at 472.2, 516, and another near 556 were observed. The strongest band was at 516, and that at 556 was very weak.
+
+*) _Monthly Notices_, vol. 37. p. 430.
+
+We, no doubt, have here another case of manganese absorption occurring in conjunction with hot carbon radiation, when a comet is near perihelion. On 5th May the spectrum of the comet gave every indication of hot carbon in conjunction with manganese radiation, the band observed at wave-length 558 being evidently due to the radiation of the latter element, since it fades away in both directions.
+
+Another band was measured at 467.9; this was most probably the carbon band at 474, which, under certain conditions, has its maximum at 468 instead of 474.
+
+On 6th May the comet was again observed. A very faint line was seen at 569 and another at 543. These were probably due to the lead flutings at wave-lengths 568 and 546.
+
+The apparent absence of lead in the spectrum observed on 5th May may probably be due to the incompleteness of the observations on that date in comparison with those made on 6th May. Or it may be that the greater brightness of the continuous spectrum masked the two faint remnants of the lead fluting.
+
+Other bands were observed on 6th May, the hot carbon and the manganese radiation at 558 being clearly indicated.
+
+The comet was observed on 15th May at Greenwich* and it is interesting to note the change that had taken place. A band at 517 was measured, and two others observed, one about 483 and another about 561. Here, clearly, we have indications of cool carbon radiation occurring as the comet receded from the sun, the observations having been made nearly a month after perihelion.
+
+*) _Greenwich Observations_, 1877.
+
+As the comet left the sun, then, manganese absorption was succeeded by manganese radiation, as we should have expected from what has happened in other comets, hot carbon being indicated in both cases. No further observations were made until nine days after the latter condition was observed, and then the spectrum was that of cool carbon. Doubtless there was an intermediate stage in which hot carbon might have been observed alone.
+
+### Chapter 20. Summary of the Spectral Changes.
+
+In the foregoing chapters we have studied the records handed down to us by spectroscopic observers of comets from the very introduction of the new method of inquiry. It has been clearly demonstrated, I think, that in all the comets observed the same laws hold good. There are spectroscopic changes depending generally upon distance from the sun, but at the same time the special conditions of velocity and perihelion distance have to be taken into consideration. The higher the velocity and the nearer the perihelion point is to the sun, the more extreme are the temperatures reached, and the more, therefore, are bright lines present and flutings absent from the spectrum. I should perhaps apologise for the great detail of the inquiry, but it is not greater than that necessary for the establishment of any biological classification, nor is it dissimilar in method, though vastly different in appearance.
+
+Before I pass on to discuss certain general questions in which the spectroscopic results have to be taken into account, it will be convenient to summarise the sequence of phenomena to which I have drawn attention; since carbon also plays so large a part at nearly all stages, it will be convenient to refer to its spectral changes specially.
+
+_General Statement with Regard to Carbon._
+
+The earliest spectroscopic observations of comets showed that carbon was a very important element in cometary spectra. Since then, as we have seen, carbon has also been recorded in almost every comet which has been observed, although the spectrum is often greatly modified by the presence of other substances. The experiments on the spectrum of carbon which I commenced many years ago, but which have been temporarily discontinued, indicate that there are several distinct changes in the spectrum. At very low temperatures all compounds of carbon give a spectrum consisting of what I have already referred to as the cool carbon flutings. A higher temperature gives what I have called the hot carbon flutings, or carbon A. Finally we get the line spectrum of carbon. Another condition, which is not yet completely understood, is marked by the appearance of a group beginning at 460, which I have called carbon B. Associated with this are the groups beginning at 420 and 388, the relations of which to the line spectrum have already been indicated in Fig. 7.
+
+In the majority of cases the spectrum of a comet has not been recorded until it has arrived at the hot carbon condition, but in the cases of Winnecke's comets of 1868 and 1877, and Brorsen's comet, to which reference has already been made, we have evidence to show that this spectrum appeared as the cool carbon spectrum disappeared.
+
+In Winnecke's comet, 1868 (perihelion passage, 25th June), Wolf's observations on 17th June showed the cool carbon spectrum, as I have already stated. This condition, however, did not last long. On 22d June Huggins* recorded three bands at wave-lengths 469, 517, and 559. Nothing was noted near 483, the position of the characteristic cool carbon band, so that we are justified in assuming that the low-temperature condition had changed. The 517 fluting agrees almost perfectly with the principal hot carbon fluting at 516.4. We have seen that the variability of the citron band is one of the principal features of cometary spectra, the variation in this instance being due to manganese absorption (558). The band at 469 was in all probability the hot carbon band which begins at wave-length 474, but has its maximum of brightness at about 468. It is very probable, therefore, that during the time which elapsed between the observations of Wolf and Huggins the spectrum of the comet had changed from that of cool carbon to that of hot carbon. This change is precisely what we should expect, Huggins's observation being the one nearest to perihelion, when the comet was hottest.
+
+*) _Phil Trans._, vol. 158. p. 556.
+
+Again, we have distinct evidence of the change from the spectrum of cool to that of hot carbon, in Brorsen's comet (1879), the perihelion passage of which occurred on 30th March. Konkoly's observation on 25th March showed the characteristic cool carbon fluting at 483. Later observations were made by Bredichin* on 28th, 29th, and 31st March, and 2d April. Eight observations of the citron band gave the wave-length as 551.3. Three measurements of the principal green band gave 510.2 as the mean wavelength, and three of the blue band gave 465.5 as its wave-length. Obviously, there was no cool carbon in the comet spectrum on any of these dates, which are all nearer the date of perihelion passage than the date of Konkoly's observations. It may be remarked that if the blue band is corrected as we have to correct the first green one to obtain the true wave-length (516.4), we obtain a wave-length not far removed from that of the hot carbon band, 474. The apparent displacement of the citron carbon band has before been referred to. As in the cases of Winnecke's comets of 1868 and 1877, then, while Brorsen's comet (1879) was approaching perihelion, its spectrum changed from that of cool carbon to that of hot carbon.
+
+*) _Astr. Nachr._, No. 2257.
+
+In Wells's comet, as already stated, there was, possibly, the line spectrum of carbon. All the detailed spectroscopic observations of this comet were made between 20th May and 11th June, the perihelion passage occurring on 10th June. The comet gave indications of a comparatively high temperature during all this time, so that the derivation of the line from the fluted spectrum of carbon, or _vice versâ_, cannot be traced.
+
+In addition to this evidence of the existence of carbon in comets, we have further evidence afforded by Dr. Huggins's photograph of the spectrum of Comet 3 1881,* taken on 24th June, the perihelion passage occurring on 16th June. Besides the dark line spectrum to which I have previously referred, the photograph shows three groups of apparent bright lines. Measurements of the two strongest lines in the most refrangible group gave, according to Dr. Huggins, 3883 and 3870 as the wavelengths. Dr. Huggins says (p. 2) ---
+
+*) _Roy. Soc. Proc._, vol. 33. p. 2.
+
+The less refrangible line is much stronger, and a faint luminosity can be traced from it to a little beyond the second line at 3870. There can be, therefore, no doubt that these lines represent the brightest end of the ultraviolet group which appears under certain conditions in the spectra of the compounds of carbon. Professors Liveing and Dewar have found for the strong line at the beginning of this group the wave-length 3882.7, and for the second line 3870.5.
+
+I am also able to see upon the continuous solar spectrum a distinct impression of the group of lines between G and _h_ which is usually associated with the group described above. My measures for the less refrangible group give a wave-length of 4230, which agrees as well as can be expected with Professors Liveing and Dewar's measures 4220.
+
+In addition to the two groups of bright lines above mentioned, a third and fainter group between _h_ and H is noted by Dr. Huggins. On the lithograph which accompanies the paper these lines are shown at approximate wave-lengths of 4059, 4052, 4044, and 4038, but no origin is suggested for them.
+
+Messrs. Liveing and Dewar have attributed the two groups first mentioned to cyanogen; but my own researches, which are still far from complete, have not convinced me that this view is correct. I may state, and here Messrs. Liveing and Dewar's observations agree with my own, that the most characteristic cyanogen group is one beginning at about 461; and since there is no trace of this in the photograph, it does not seem likely that the groups seen can be taken as proving the existence of cyanogen.
+
+In a paper which I communicated to the Royal Society in 1880,* I described the two groups of lines, or rather flutings, which are referred to in Dr. Huggins's paper, and I also gave their wavelengths. I have since found that under certain conditions other compounds of carbon give lines coinciding nearly, though perhaps not absolutely, with the second and last members of the ultra-violet group, at 3873 and 3850, when the other three are entirely absent. I have, however, met with no condition under which the first two members of the group, at wave-lengths 3883 and 3870, are as much brighter than the remaining ones, as they are shown in the lithograph which accompanies Dr. Huggins's paper. In the lithograph also, the distance between the two brightest members of the group is considerably greater than that between the first two members of the ultra-violet carbon group, and if this fairly represents the photograph, the suggestion is that we have to deal with the two lines at 3850 and 3873 to which I have referred.
+
+*) _Roy. Soc. Proc._, vol. 30. p. 461.
+
+Under the conditions at which these are produced, however, I have never obtained at the same time the group in the blue beginning at 4215, and we should therefore not expect to find them associated with each other in comets. It is also worth noting that nearly all the lines of this group approximate very closely to lines in the flame spectrum of iron; we know that bright iron lines do occur in comets, as, for instance, in Comet Wells and the Great Comet of 1882, and it is nearly certain that the four faint lines between _h_ and H are flame lines of iron and manganese; it is quite possible, therefore, that the blue group is not due to carbon at all. The group of four faint lines is certainly not due to carbon under conditions which we are able to reproduce.
+
+_Sequence of Spectral Changes._
+
+The first visible stage in the spectrum of a comet is that in which a single line is visible; relying on the position given by Dr. Huggins, this may with great probability be attributed to the radiation of magnesium. The next is that in which this line is replaced wholly or partially by the spectrum of cool carbon. The line 521, also seen in the spectrum of magnesium, is then added, and cool carbon is replaced by hot carbon. The radiation of manganese (558) and sometimes of lead (546) follow. Absorption phenomena next appear; manganese 558 and lead 546 being indicated by their masking effect upon the citron band of carbon. The absorption band of iron is also sometimes present at this stage, at which also the group of carbon flutings which I have called carbon B probably also makes its appearance. As the temperature increases still further, magnesium is represented by _b_, and lines of iron appear; this takes place when the comet is at or near perihelion. At this point the repellent action of the sun upon the comet is most effective, and if the vapours are driven off in the line of sight with sufficient velocity, the bright lines will suffer displacement. A double set of phenomena will thus be presented; there will be radiation lines of one wave-length from the vapours thus driven off, and absorption lines of a different wave-length from the vapours surrounding the meteorites in the head.
+
+[Fig. 56. --- Diagram showing the Sequence of Phenomena in the Spectrum of a Comet. The Spectrum at the lowest Temperature is shown on the lowest Horizon, and the probable Origins of the Lines observed are indicated at the side.]()
+
+As the comet recedes from perihelion, these changes take place in inverse order.
+
+The map (Fig. 56) represents the sequence which the discussion has shown to be the most probable. The following is a list of the comets which most nearly approach the conditions represented, the numbers referring to those placed opposite the various horizons in the map:---
+
+[TABLE]
+
+This complete sequence has never been observed in any single comet, but it has been continued in some comets where it has been left off in others. Many comets have never been observed beyond the hot carbon stage, whilst others, like Wells's comet, have not been observed below it. Again, this sequence is what we should expect from laboratory observations. The following table shows the sequence of the different spectra in a few cases, and it will be seen that in each one, so far as the observations go, the different bands appear in the foregoing order:
+
+[TABLE]
+
+In the case of Encke's Comet, 1871 (p. p., 28th December), as the comet approached perihelion, hot carbon radiation was succeeded by the integrated radiations of hot carbon and manganese, and this again by the integration of hot carbon radiation and manganese absorption as shown in Fig. 57.
+
+[Fig. 57. --- Encke's Comet (P. P., 28th Dec. 1871).]()
+
+The slight variations, as shown in the positions of the green band (517), are assumed to be due to errors of observation. As I have already explained, the apparent position of the blue band depends upon temperature, the point of maximum luminosity varying between 468 and 474.
+
+The case of Comet 3 1881 (Fig. 58), is a little more complicated, but the general result is the same, namely, that radiation- succeed absorption-phenomena as the comet recedes from perihelion. Twelve days after perihelion passage, the spectrum of the comet consisted of the integrated spectra of hot carbon radiation, and the absorption of cool carbon and manganese, as indicated by the masking of the second and the dimming of the first maximum of the citron fluting (see Fig. 58). A month later still, the absorption bands disappeared, and the spectrum of the comet consisted of the integration of hot carbon, manganese, and lead radiations. On both occasions the blue band had a maximum at 468.
+
+[Fig. 58. --- Diagram showing the Spectrum of Comet 3 1881, on 28th June and 27th July, showing that Absorption occurs nearer to Perihelion than Radiation.]()
+
+In the Great Comet of 1882 we had, as it cooled, a good example of the passage of the spectrum from that of manganese and hot carbon radiation to that of hot carbon alone. The spectrum recorded by Copeland on 22d October showed the first condition, and the observations of Gothard between 1st November and 18th November showed the second (see Fig. 59).
+
+[Fig. 59. --- Diagram showing the Specturm of the Great Comet of 1882 at different Dates.]()
+
+This sequence may not have been apparent in some comets for two reasons: in the first place, a complication is introduced by the unequal displacements of the bands at different times, due to motion in the line of sight which is variable, and is sometimes very great. Many apparently faulty observations are probably to be accounted for in this way.
+
+Again, different observers may not have recorded the spectrum of exactly the same part of the comet, though in general it may be assumed that the brightest part will have been examined. There must be regions of different temperature in the same comet, and, from what I have already shown, the spectra of different portions will vary considerably. One part of the comet may give hot carbon-, whilst another may give cool carbon-radiation. The wave-lengths of the bands seen in the two cases would differ, and the results would apparently disagree. In future observations, therefore, it is very important that the exact portion of the comet examined should be carefully recorded.
+
+### Chapter 21. Comparison of the Spectra of Comets and Auroræ.
+
+When the spectrum of the aurora was considered in Chapters 8 and 9, it was pointed out that there was strong evidence that these phenomena were produced by dust brought into our atmosphere by falling stars. We have now arrived at a point which enables us to test how far this view is supported by a comparison of the spectra of auroræ with others now generally acknowledged to be of meteoritic origin; for it is now generally agreed that comets are nothing more than swarms of meteorites travelling in orbits round the sun.
+
+When we thus compare the spectra of auroræ and comets, we find that although the two phenomena are apparently so different, the spectra have yet a remarkable resemblance. For the purposes of such a comparison, it is clear that we must only take the most general list of auroral lines, for the reason that a comparatively small number of lines and flutings has been generally recorded in comets, the bright comets of 1882 being brilliant exceptions; it would obviously be misleading to take the long list of lines given by Gyllenskiöld.
+
+In making this comparison, it must be remembered that the vapours produced in the heads of comets are subjected to repulsion by the sun, so that the conditions of comets and auroræ are vastly different.
+
+During the passage from aphelion to perihelion the temperature of a comet gradually increases, and we have found that the spectrum changes with it. We have also seen that the observations suggest that in all probability aurorse are of varying temperature, _i. e._ that the electric tension varies from aurora to aurora; and it is only fair, therefore, that we should compare individual aurorse with individual comets. First of all, however, I give the comparison in its most general form.
+
+[TABLE]
+
+It will be seen that the wave-lengths of lines given on the same horizon are not always the same, but this only happens when there is evidence to show that they have the same origin. For example, in Winnecke's Comet, 1868, I have placed 517 on the same horizon as 519 in the aurora, although it is nearer to 516; this is because the presence of the characteristic cool carbon fluting at 483 shows that we have to deal with the cool carbon fluting at 519 and not the hot carbon fluting at 517. In this case, therefore, 517 is in all probability an error of measurement for 519.
+
+The comets given in the tables are not the only ones which show coincidences with auroral spectra, but are simply selected as typical cases.
+
+It will be seen that many of the lines given appear both in comets and auroræ. The chief coincidences are those of hot and cool carbon, hydrocarbon, the flutings of magnesium at 500 and 521, the manganese fluting at 558, and the lead fluting at 546. All these are the flutings seen first as the metals are volatilised. There are also apparent discrepancies, the discussion of which is left for a future chapter. For example, hydrogen lines occur in auroræ, but not in comets, and the flutings of carbon at 561 and 564 occur in comets but not in auroræ; the lines of sodium and other substances are also special to comets. These differences may generally be ascribed to differences of temperature and the masking effects of one spectrum upon another. It may be urged by some that the coincidences are only rough; this is perfectly true, but I must again urge that this is only a _reconnaissance_, and that the observations are of great difficulty. Dr. Huggins has stated that in such observations, if they agree to the second figure, it is "as well as can be expected,"* and we have many agreements to the third in the table.
+
+*) _Roy. Soc. Proc._, vol. 33. p. 2.
+
+We next pass to the comparison of individual observations of auroral with cometary spectra, of which a few typical cases are given. The first five were observed by Gyllenskiöld* in 1882-3.
+
+*) _Observations faites au Cap. Thorsden_, vol. 2. p. 1.
+
+[TABLE]
+
+The spectrum of the aurora is therefore very similar to the spectra of acknowledged swarms of meteorites, and the view that it is produced by meteoritic dust in our atmosphere is thus greatly strengthened. The near coincidences, therefore, between the principal lines of the spectra of auroræ and of comets, and those in the spectra of meteorites when observed at a low temperature, suggest a common origin. This is already conceded in the case of comets and meteorites.
+
+## Section 4. --- Origin of Cometary Phenomena.
+
+### Chapter 22. The Light of Comets due to Collisions.
+
+_Old Ideas as to the Luminosity of Comets._
+
+It is not, I think, straining the facts too much to state that the old idea of the origin of a comet's light was that the head itself was a dark body illuminated by the sun --- the dark body, globular like the moon, being sometimes big enough to show phases, --- and that the tail and envelopes also owed their luminosity to solar light.
+
+Donati's early spectroscopic observations, which proved a self-light in comets, of course rendered the above view untenable as accounting for the total light.
+
+When spectrum observations multiplied, and it was seen that considerable changes took place, the light was then ascribed to the glowing of gases volatilised out of the head of a comet by the rapidly increasing action of solar heat upon it as perihelion was approached.
+
+But, as I have shown, even before Donati's observation, Reichenbach in 1858 ascribed the luminosity of comets to collisions of small meteoritic particles. He pointed out that the chondroi of meteorites indicate a condensation of innumerable small bodies such as produce the phenomena of falling stars, which the discoveries of Schiaparelli some years afterwards connected with comets. He showed further that this indicated "a state of unrest and impact from all sides," that "the chondroi have many times suffered mechanical violence," and that in comets we have precisely the conditions under which such forces could operate. Reichenbach, indeed, arrived at one bound at a conception of the state of things which I hope to show exists in every comet; although long afterwards such authorities as Schiaparelli and Newton held that the head of a comet was simply the largest member of a swarm.
+
+In 1879 --- twenty-one years afterwards --- Reichenbach's view was revived by Professor Tait,* who pointed out that if we suppose a comet to consist of individual meteorites in motion along approximately elliptic orbits, described in something like equal periods in any plane passing through or near their common centre of inertia, collisions must occur.
+
+*) _Edin. Roy. Soc. Proc._, 1879, vol. 10. p. 367.
+
+It was next supposed that the group, as Roche had suggested, was subjected to a sort of tidal disturbance by the sun, the homogeneous fluid of Roche's hypothesis being replaced by a meteoritic swarm. Under these conditions also collisions would arise.
+
+Professor Tait, in his calculations, assuming that the head of a comet is a swarm of meteorites or stones, varying in size from a marble to boulders 20 or 30 feet in diameter, shows that many cometary phenomena may be explained.
+
+First, with regard to the masses of the comets. The total mass of a comet cannot be very great, for, as we have seen, no measurable disturbance of planetary orbits has been known to be produced, and this small mass is just as likely to be due to scattered solid masses as to one continuous gaseous mass, and indeed we know that this is so. In the case of comets of but small masses the component meteorites would be small and far apart. Then with regard to the transparency of the comet, it is calculated that a meteorite 25 feet in diameter at a distance of half a million miles from us could not totally eclipse a star of the same size as our sun even if it were at such a distance as to be barely visible to the naked eye. Again, if some of the meteorites were large enough to eclipse the stars behind the comet, the eclipse would be of very brief duration, and we should see the star as if nothing had happened. To enable the comet to reduce by one-tenth the light of a star seen through it, it would require to be 300 miles thick, supposing the stones to be 1 inch cube and 20 feet apart.
+
+While the swarm which builds up the comet is coursing round the sun as a whole, the individual members will themselves gravitate towards each other; and if we suppose the whole mass to be 1/1000 that of the earth, and the meteorites to be uniformly distributed in a sphere 20,000 miles in diameter, those coming from the outside to the centre of the group would have a velocity of about 500 feet per second. The stones colliding will generate heat, and some gas will be evolved; some members of the mass will be quickened, while other constituents of the mass will be retarded in their motion, and in this way we have a probably sufficient explanation of the various forms which the telescope has revealed to us. And then, finally, Professor Tait goes on to show that the result of these collisions would be such a smashing-up of the constituents of the swarm that much finely attenuated material would be left behind, sufficient to reflect sunlight, and to give rise to the phenomena of the tail.
+
+If in the imaginary swarm the mass of each stone be 100 lb., and its velocity, due to attraction, be 500 feet per second, the heat resulting from the impact of two of them would be quite sufficient to volatilise a portion, and to make the outsides of the stones white-hot. Stones of this weight would be about 10 inches cube, and in the swarm considered there would therefore be about 136,000,000,000,000,000,000 of them. At the rate of one collision per second, there being about 31,436,000 seconds in a year, there would be a possibility of one collisionper second for 2,150,000,000,000 years. There would therefore be material for such collisions for a period of over 2,000,000 years even at the extravagant rate of 1,000,000 per second, and on the assumption that no stone comes into collision with another more than once.
+
+The whole mass being 1/1000 that of the earth, and the space occupied being 250 times that occupied by the earth, the stones in question being 10 inches cube will only occupy about 1/8000 the space through which they are distributed; the average distance apart would be about 17 feet. The swarm would reflect about half as much sunlight as a slab of the same material in the same place, but it would probably be too opaque to transmit starlight. By making the stones larger, and thus increasing the distances between them, the luminosity would be retained, while at the same time the swarm would be sufficiently transparent. It thus seems to suit the hypothesis better if we regard the separate stones to be greater than 10 inches cube.
+
+It will be seen that though Professor Tait shows effective causes for collisions, he ends by demanding stones larger than those associated with the meteor swarms with which comets have been connected or considered by Reichenbach; and he ascribes the whole of the luminosity of the tail to reflected sunlight. It is important to remark also that Professor Tait deals only with those collisions produced among the members of the swarm.
+
+It is not too much to say that it is now generally agreed that a comet is a swarm of meteorites, each meteorite being on an average far from its neighbours. This result, indeed, might have been anticipated from considerations based upon the known large volume and slight masses of comets; the latter are so small that they have never been known to appreciably disturb any of the planets, or even the satellites, by their gravitational attraction.
+
+In 1767 Jupiter and his satellites were entangled in a comet, yet the satellites pursued their courses as if the comet had no existence. The comet itself, however, was thrown entirely out of its course by the gravitational influence of the enormous mass of Jupiter, and its time of revolution changed from a long period to a short one of five and a half years.
+
+Biela's comet, first seen in 1826, appeared as a double comet in 1845. The extreme lightness of the two portions was shown by the fact that their mutual attraction was imperceptible, and that each performed its revolution independently of the other.
+
+The mass of individual comets probably never exceeds 1/5000 of that of our globe. The meteorites composing them must therefore be very far apart, seeing that this small mass is distributed through spaces millions of miles in extent.
+
+If this be conceded, it is fair to assume that a comet's luminosity is to a large extent produced by collisions of meteorites.
+
+It is certain that one of the principal causes of the increase of temperature of a comet during its approach to perihelion is the increased number of collisions due to the greater tidal action which takes place. Hence the larger the swarm, the greater the difference between the attractions of the sun upon opposite sides of it, and therefore the greater the disturbance set up. Also, the shorter the perihelion distance, the greater fraction of it is the diameter of the swarm, and the greater therefore the differential attraction.
+
+To consider this question further, let us define the collisions due to the movements of the individual members of the swarm round their centre of inertia, and those superadded by Roche's tidal action, as _iniernal collisions_.
+
+If all the heat of a comet is produced by such internal work, it is clear that the temperature of the comet will depend 1. upon the velocity of orbital motion of its constituent meteorites, 2. upon the size of the swarm of which it is composed, and 3. upon its perihelion distance; it will practically be independent of the velocity of the comet in its orbit round the sun.
+
+If the luminosity be due entirely to internal collisions brought about by the increase of solar action, then large comets, or those best visible, should begin to be brilliant long before smaller or more distant ones. But this does not seem to be so. Mr. Hind has pointed out that proximity to the earth is not so important a condition for visibility of a comet in the daytime as close approach to the sun (_Nature_, vol. 10. p. 286); and M. Faye is the authority for the statement that no comet has been seen beyond the orbit of Jupiter.
+
+It is assuredly not on account of their smallness that they thus escape our notice in regions where the most distant planets, Saturn, Uranus, and Neptune, shine so clearly with the light which they borrow from the sun; this is because the rare and nebulous matter of comets reflects much less light than the solid and compact surfaces of the planets of which we speak, much less even than the smallest cloud of our atmosphere.
+
+On the latter part of this quotation it may be remarked that it is not necessary to assume that comets at a great distance from the sun, any more than nebulae, are visible by means of reflected light.
+
+While some comets at perihelion give such high temperature phenomena produced by collisions as were observed in Comet 3 1881, Wells's Comet, and the Great Comet of 1882, others, like Winnecke's Comet, 1868, give only the spectrum of carbon.
+
+These differences are what we should expect from the known perihelion distances; and it must be understood that the four stages into which the different degrees of activity in a comet have been divided in the preceding chapters are those which occur in one with a short perihelion distance. In comets with a long one, perihelion effects may only be equivalent to mean-distance effects in comets with short perihelion distances, as the conditions for violent internal collisions are lacking.
+
+I have prepared the following list of the perihelion distances of the comets which have been discussed, the distances being given in terms of the astronomical unit, derived from the data given in the _Annuaire du Bureau des Longitudes_. The date of observation, perihelion passage, and perihelion distance are stated for each comet in the various tables which precede.
+
+[TABLE]
+
+_External Collisions._
+
+But it is not unnatural to suppose that a meteoritic swarm moving through space and ploughing its way through a meteoritic plenum will encounter other meteorites, and from this cause the number of external collisions will depend, in the first place, upon its size. If the earth, some 8000 miles in diameter, encounters 400,000,000 daily, a comet as large as the sun, as some of them are, will naturally encounter an enormous number.
+
+But the visible effect will depend also to a large extent on the comet's velocity, which will be the greater as the comet is nearer to perihelion.
+
+Whether the meteoritic plenum is of constant density, or whether its density increases gradually towards the sun, the effects of external work will constantly increase towards perihelion. It must also be added that if we assume that the increased brightness of comets as the sun is approached depends entirely on collisions with meteorites external to the swarm, we must conclude that such meteorites exist much more closely packed nearer the sun.
+
+Hence if the possibility of external work be conceded, the equal or unequal distribution of the masses which a comet encounters can be tested by the phenomena observed.
+
+We know that meteorites are scattered through space, and here and there are gathered into swarms. If any cometary collisions are due to external meteorites, it is only to be expected that at times a comet will meet with such swarms just as our own planet does, and in that casa its temperature and brightness would be suddenly increased by the collisions which would occur. The increase of temperature would depend, as before stated, upon 1. the dimensions and density of the swarm, and 2. upon its velocity. The larger and denser the swarm the more collisions would be likely to occur, and the greater the velocity of the comet the greater the amount of kinetic energy available for transformation into heat energy.
+
+But we shall not only get sudden increases from this cause: there must be a gradual increase as the comet increases its velocity. Is there again any means of discriminating? I think there is; such collisions would chiefly affect the part of the comet in advance at the time.
+
+There is evidence of both these actions.
+
+The discussion of the recorded observations shows that, in addition to a constantly increasing action which takes place in a comet during its approach to perihelion, there are at times temporary increases in temperature.
+
+Professor Herschel* has called attention to a remark by Schiaparelli that more than one instance of variability has been observed in comets; the two portions of Biela's comet presented a remarkable example of this at the last return, when interchanges of brightness were observed between them. It may also be added that when this comet was first discovered to be periodical (in the year 1826), it was found to be identical with one observed in 1772 and 1805, having accordingly escaped observation during two previous returns in this and the last century, probably in consequence of variation in its light.
+
+*) Luminous Meteors Committee's Report, 1873, p. 398.
+
+Sawerthal's comet, 1888, which increased in brightness by three magnitudes in two days, is a case in point.* Unfortunately no spectroscopic observations were made, or no doubt the effects of the increased temperature upon the spectrum would have been apparent.
+
+*) _Nature_, vol. 38. p. 258.
+
+The spectroscopic observations of Comet Wells seem to show that this comet also passed through at least one swarm during its revolution. An observation at Greenwich, on 20th May, recorded indications of absorption, which I have shown to be special to high temperatures in comets. Between that date and perihelion passage (10th June) there were evidences of a lower temperature. I am not aware of any observations recording an increase in brilliancy of the comet on 20th May, but if they do exist, they will obviously strengthen this view.
+
+Perhaps the case of greatest importance, however, is the Great Comet of 1882. At perihelion this comet was only 300,000 miles from the photosphere of the sun, and it was practically as bright as the sun itself. Mr. Finlay, at the Cape, followed the comet until it apparently rushed into the sun. That a comet should be able to pass within so short a distance of the sun without suffering entire disruption has been used as an argument against the existence of an extended solar corona. My own view of the case, however, is that the evidence afforded by this comet of the existence of a meteoritic solar atmosphere is most conclusive.
+
+That it would be impossible for a comet to pass through a gaseous atmosphere is proved by our terrestrial experience with falling stars; but if the regions far above the sun's photosphere are constituted as I have suggested,* we should expect a transcendental clashing effect, but no change in the orbits of the meteorites which were not engaged.
+
+*) _Roy. Soc. Proc._, vol. 40. p. 357.
+
+I would submit, therefore, that the immediate cause of the enormous increase in brilliancy of the comet, which enabled it to be observed close to the sun's disk, was the increase in the number of collisions which took place between the meteorites of the comet and those which occupy the outer cooler regions of the sun; not only does this event demonstrate the existence of an outer solar atmosphere, therefore, but it also points to its meteoritic nature; the meteorites there being probably formed by the condensation of metallic and other vapours, exactly in the same way as we have snow and raindrops in our own atmosphere. Observations by Messrs. Finlay and Elkins, before and after perihelion, showed that the comet was not perceptibly retarded by its adventure, which is quite consistent with my view, since collisions between individual meteorites would not retard the motion of the comet as a whole.
+
+Another case of considerable interest is the Pons-Brooks comet, 1883-84. At its last return this comet was first observed, by Mr. Brooks, on 1st September 1883; it passed perihelion on 25th January, and was last seen on 2d June 1884. It was distinguished by its sudden fluctuations in brilliancy, which no doubt were caused by its intersection with other swarms. On 21st September it was observed by Mr. Chandler at Harvard as a faint nebulosity with a slight condensation. On the 22d it was represented by an apparent star of the eighth magnitude, according to the observations of Schiaparelli,* the luminosity having been augmented eight times within a few hours. In a short time the comet again appeared as a nebulous disk. The rapidity with which the comet cooled demonstrates that only small masses could be in question. This took place whilst the comet was no less than 200,000,000 miles from the sun. On 15th October there was a similar occurrence in the same comet, and again, a more decided one on 1st January. In the latter case, in less than four hours,* the comet had become an apparent star, and again assumed the cometary form.
+
+*) _Astr. Nachr._, No. 2553.
+
+*) _Ibid._
+
+In these cases, then, we have evidence that the irregular luminosity of a comet depends first upon its distance from the sun, and secondly upon the distribution of other swarms along its path. Hence we have not only to consider the increased activity in a comet due to its approach to perihelion, but we have also to take into account the possibility of its passing through other swarms of meteorites during its revolution.
+
+Such variations, however, would be more likely to be observed in the tails in consequence of the enormous dimensions of some of them. Such variations have been observed from the time of Kepler. The fact that these variations so strongly resemble at times auroral displays is an additional argument in favour of the meteoritic origin of the latter.
+
+As a rule, the tail increases very quickly and considerably in length _after_ perihelion passage. Thus Coggia's comet of 1874 increased from 4° to 43 1/2° from 3d to 19th July, or from 4,000,000 to 25,000,000 of miles in length.* This effect is precisely what we should expect if we assume that the tail is fed by vapours due to collisions, for at perihelion not only will the tidal action, and therefore the interior movements, be greatest, but it is probable that collisions with meteorites external to the swarm will here be more frequent.
+
+*) _Nature_, vol. 10. p. 252.
+
+I would suggest that the crescent first observed when the comet, far away from perihelion, first loses its planetary-nebula form, is due to impacts from without, most effective on the front part of the swarm. This is not a sudden but a constantly increasing effect due to external meteorites, and is only lost when the tidal action entirely overwhelms it by the more violent internal collisions produced.
+
+Another result, of a different order, produced by a comet moving through a meteoritic plenum would be the gradual shortening of a comet's periodic time as the result of collisions, and this shortening should not be absolutely regular, as in a homogeneous gas, for the reason that the meteorites it may meet with are not equally distributed.
+
+That there is such a shortening was proved by Encke for the comet which bears his name, and that there are irregularities the following table will show. Planetary perturbation will account for some of them; the question is, Does it do so for all?
+
+_Returns of Encke's Comet, showing Reduced Period of Revolution._
+
+[TABLE]
+
+To sum up, then, we may have to do with three sources of collisions ---
+
+1\. Those due to internal motions round the common centre of gravity.
+
+2\. Those due to tidal action.
+
+3\. Those due to other meteorites met with in space.
+
+_The Tails._
+
+The discussion of cometary observations in the preceding chapters shows that the vapours which are given out by the meteorites as the sun is approached are in an approximate order ---
+
+Magnesium.  
+Slight carbon compounds.  
+Manganese.  
+Lead.  
+Iron.  
+Sodium.  
+
+Now of these the carbon compounds are alone permanent gases; it may well be that hydrogen is also given off, but the records are wanting, although hydrogen as well as the carbon compounds are occluded as such by the meteorites and are given out again as the temperature of the meteorite increases.
+
+Tails extending 10,000,000 miles through the cold of space cannot, I suggest --- unless we make a great assumption --- as Bredichin supposes, be formed of iron vapour; but they may well be, and doubtless are, of the hydrogen and the various carbon compounds.
+
+The magnesium and iron vapours will condense soon after their repulse from the meteorite the volatilisation of which produced them, and here, as Reichenbach with marvellous prescience suggested in pre-spectroscopic times, we have the chondroi of the exact chemical nature which he postulated.
+
+There is nothing extravagant in these suppositions, for we now know that all the substances in question do exist in comets, and it is evident that much is to be learnt from a continuation of the inquiry. We know also that some of the short-period comets get less brilliant with every approach to perihelion, and that some do not even throw out a tail; we can easily ascribe both these results to the fact that after several such appulses the vapours liable to be driven out of the meteorites by temperature get less and less. If this be so, we may regard the comet with many tails as one which for the first time undergoes perihelion conditions. We are in presence of the "unperihelioned matter" glimpsed by Sir William Herschel.
+
+Let us suppose a comet's tail thus chemically constituted; the vapours will, under the influence of the solar repulsion, be moving rapidly away from the meteorites which produce them, through a _meteoritic plenum_. Hence we should expect auroral phenomena. These have been recorded in comets' tails since the time of Kepler. In the tail we have gases moving through meteoritic dust, in the aurora we may have meteoritic dust moving through gases.
+
+What then becomes of the tails which are the true product of the collisions we are now considering?
+
+Being thus formed at the expense of the materials composing the head, the materials can never be returned to the head because of its insufficient gravitational power over them, and moreover they can no longer traverse the same orbits as the meteorites from which they sprung, because they have already been turned out of that course by the forces attending the development of the tail. The gaseous bodies thus become distributed throughout the space occupied by our system, and give no further trace of their existence until, after subsequent occlusion, which causes their disappearance, they are again made evident by future collisions. The existence of "unperihelioned matter" then indicates that in the regions of space near the sun there is less of these free gaseous products than in those farther away.
+
+Comets must thus degenerate, so far at all events as their easily volatilised constituents are concerned, with each perihelion passage; but as the majority of them only approach the sun at long intervals of time, they do not suffer much in this way.
+
+It has been conjectured by Weiss and Schiaparelli that the condensed metallic materials which are projected from those comets whose perihelia lie within the earth's orbit, may give rise to the appearance of meteors. This may also happen in the case of condensable materials shot in the first instance towards the sun; so that we may imagine the original train of meteorites to gradually widen inside and outside the orbit of the main swarm and in its plane.*
+
+*) Herschel, _Monthly Notices_, vol. 35. p. 253.
+
+It has also been suggested that the luminosity of comets is possibly partly electrical, and in support of this view Hasselberg showed that the changes in Wells's comet were closely related to changes which take place in an electrically illuminated vacuum tube, containing hydrocarbon and sodium. Before referring to this, however, I may mention an early experiment of my own in connection with this point, which I described in the _Manchester Science Lectures_, 1877, p. 130, but it was made some years before.
+
+A mixture of meteorites taken at random was placed in a globe attached to a Sprengel pump. After exhaustion, on passing an electric current under conditions which are generally supposed to give a spark of low temperature, the spectrum was seen to be that which Donati, Huggins, and others had observed in the spectrum of the head of a comet. The gases occluded in meteorites were thus shown to be exactly what we get in the head of a comet. A Leyden jar was then included in the circuit, and the spectrum of carbon was seen to have been replaced by that of hydrogen, from the decomposition of hydrocarbons. Under low temperature conditions, then, the spectrum was that of carbon, while under high temperature conditions the spectrum was that of hydrogen. I also stated that in my laboratory work I had come across other curious cases in which compound vapours when dissociated only gave us one spectrum at a time, meaning that in a vapour consisting of two well-known substances, under one condition we only get the spectrum of one substance, and under another condition we get the spectrum of the other substance alone; so in others again of both combined.
+
+I had noticed this change very particularly during the researches of Professor Frankland and myself, in 1869, on the spectrum of hydrogen. In this case the two substances to be considered were hydrogen and the mercury vapour from the mercurial air-pump which was employed in the experiments.
+
+In the subliming experiments I also found that a carbonaceous meteorite _in vacuo_ gives off hydrocarbon vapour at the ordinary temperature, since a weak electric discharge gave the longest band of carbon without heating. On heating, the other bands come in till the well-known series is formed with more or less completeness. If the discharge be a little less weak, the hydrogen F line also appears, and sometimes C, and the F is brighter than the carbon line. A non-carbonaceous meteorite, like the carbonaceous one, also with a weaker electric discharge, gives traces of continuous spectrum in the orange, yellow, and green.
+
+After describing the changes which took place in Comet Wells, which I have already referred to, Hasselberg writes ---
+
+The above observations form an interesting addition to our knowledge of the physical peculiarities of the comet, and give a new and indubitable proof of the inherent luminosity of this body, and also of a greater complication of chemical constitution than former observations had implied. It seems to be a particularly noteworthy fact that the usual cometary spectrum observed first by Tacchini and Vogel from 22d to 31st May disappeared, while in its stead the "bright line spectrum was developed. As this occurrence coincides with the approach of the comet to perihelion, the cause of it may be sought in the rapidly increasing heat of the comet, as thereby on the one hand the sodium present in it was turned into vapour, and on the other hand the electric processes within its mass attained greater vigour. From a discussion of the earlier spectroscopic observations of the comet, and from comparative laboratory experiments of the spectral relations of hydrocarbon, it seems to me very probable that the development of light within this comet chiefly depended on disruptive electric discharges.*
+
+*) _Astr. Nachr._, No. 2441.
+
+Hasselberg further refers to the experiments of E. Wiedmann on the spectra observed during the passage of an electric current through mixed gases and vapours.
+
+Wiedmann found that when electric sparks were passed through a heated tube containing sodium and a gas like hydrogen or nitrogen, the spectrum consisted solely of lines of sodium. Hasselberg also repeated this experiment, substituting hydrocarbon for hydrogen or nitrogen, and found that the same thing happened. He concludes, therefore, that this demonstrates the electrical origin of the light of comets, since the additional heat due to the approach of the comet to perihelion might certainly bring out the sodium, but could not have caused the hydrocarbon spectrum to disappear.
+
+I would suggest, however, that the changes which took place in Comet Wells can be equally well explained on the supposition that heat was mainly in question. The chief point to be explained is the disappearance of the ordinary carbon spectrum and the appearance of sodium as the comet approached perihelion. With the first increase in temperature, as the comet left aphelion, the occluded compounds of carbon would be driven out of the meteorites constituting the head of the comet, and the spectrum would consequently be that of carbon. At the increased temperature due to further approach to the sun, the carbon flutings would be masked by the increased brightness of the continuous spectrum and by the radiation of other vapours. At the same time a still larger number of meteorites would become incandescent, and vapours of sodium, and possibly also of iron, would distil out. Also since the stones would remain in this condition for a considerable time, sodium vapour would continue to be visible until they had almost ceased to be incandescent.
+
+I may here state that sodium exists only in very small quantities in iron meteorites, but to a far greater extent in stony ones. A photograph of the arc spectrum of the Obernkirchen meteorite shows barely a trace of D, but the spectrum of a mixture of iron and stones shows it fairly bright.
+
+When a meteor swarm leaves the aphelion point and begins to approach the sun, the similarity to a globular nebula gradually vanishes, and a bright central nucleus makes its appearance, and eventually a tail is formed. The whole region of space occupied by the meteorites (estimated by Professor Newton in the case of Biela's comet to have been 30 miles apart), gives us the same spectrum, and further, it is given by at all events a part of the tail, which, in the comet of 1680, was calculated to be 60,000,000 miles in length. The illumination must therefore be partly electrical, and possibly connected with the repulsion of the vapours away from the sun; hence it is not wholly dependent upon collisions.
+
+### Chapter 23. Comets represent Bodies which exist in External Space.
+
 ...
