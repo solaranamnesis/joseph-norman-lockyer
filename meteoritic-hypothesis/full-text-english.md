@@ -3031,4 +3031,531 @@ I must add here also that any views relating to the structure of nebulæ, as rev
 
 ### Chapter 25. The Spectra of the Nebulæ.
 
+I now proceed to summarise the spectroscopic observations of nebulæ which have been made since Dr. Huggins's important discovery, referred to in the last chapter, giving in the first instance his earliest observations somewhat in detail.
+
+The spectroscopic investigations of these interesting objects began in 1864 with a planetary nebula in Draco, No. 4373 in Herschel's General Catalogue.* The light appeared almost monochromatic, and seemed all concentrated in a strong bright line in the green. A closer examination, however, showed a very much fainter and narrower line farther in the blue, and an exceedingly faint line at about three times the distance from the second line that the second line was from the first. "Besides these lines," said Dr. Huggins,* "an exceedingly faint spectrum was just perceived for a short distance on both sides of the group of bright lines. I suspect this is not uniform, but is crossed with dark spaces. Subsequent observations on other nebulæ induce me to regard the faint spectrum as due to the solid or liquid matter of the nucleus, and as quite distinct from the bright lines into which nearly the whole of the light from the nebulæ is concentrated."
+
+*) _Phil. Trans._, vol. 154. p. 437.
+
+*) _Ibid._ p. 438.
+
+A nebula in Cygnus (H 4514) showed the same three bright lines, but in addition a much brighter continuous spectrum could be traced.*
+
+*) _Ibid._ p. 439.
+
+Another nebula (H 4964), annular as that in Lyra, gave a spectrum in which, besides the three bright lines previously described, a fourth excessively faint line could be seen. Dr. Huggins defined the place of the line as follows:* "This line is about as much more refrangible than the line agreeing in position with F, as this line is more refrangible than the brightest of the lines which coincides with a line of nitrogen."
+
+*) _Phil. Trans._, vol. 154. p. 441.
+
+In the spectrum of the Dumbbell nebula in Vulpecula Dr. Huggins only saw one bright line, and this corresponding to the brightest of the lines represented in all the other nebulæ. The character of the line was thus described:* "This line appeared nebulous at the edges. No traces of the other lines were perceived, nor was a faint continuous spectrum detected."
+
+*) _Ibid._ p. 441.
+
+The Andromeda nebula and its bright companion were also observed. Both these objects gave exactly similar spectra, of which the following is Dr. Huggins's description:* "The spectrum appears to end abruptly in the orange, and throughout its length is not uniform, but is evidently crossed either by lines of absorption or by bright lines." But there were no indications of the bright lines that had been seen in the other nebulæ.
+
+*) _Ibid._ p. 441.
+ From these observations Dr. Huggins concluded* that nebulæ, which gave a spectrum of bright lines, could not be regarded as aggregations of suns. In his words: "We have in these objects to do no longer with a special modification only of our own type of suns, but find ourselves in the presence of objects possessing a distinct and peculiar plan of structure."
+
+*) _Ibid._ p. 442.
+
+In January 1865 the Great Orion nebula was subjected to a spectroscopic examination by Dr. Huggins.* All the bright parts of the nebula were successively brought upon the slit of the spectroscope, but the spectrum remained the same, and consisted, according to Dr. Huggins, of three lines only. This result is very curious in the light of more recent work. It was also noted that the lines were free from any trace of continuous spectrum.
+
+*) _Proc. R. S._, vol. 14. p. 39.
+
+Dr. Huggins came to the following conclusion at the end of this paper, regarding the constitution of nebulæ:* "My observations, as far as they extend at present, seem to be in favour of the opinion that the nebulæ which give a gaseous spectrum, are systems possessing a structure and a purpose in relation to the universe altogether distinct and of another order from the great group of cosmical bodies to which our sun and the fixed stars belong."
+
+*) _Proc. R. S._, vol. 14. p. 42.
+
+Secchi also observed the spectrum of the Orion nebula in February and March 1865.* He saw and determined the relative positions of the three conspicuous nebula lines, and noted in addition, "At certain moments I appear to see some other lines." The positions of the lines could only be roughly determined even by such an experienced observer. The micrometric readings for the three lines were reduced by D'Arrest, with the resulting wavelengths* 500.8, 497.0, 486.1.
+
+*) _Sugli Spettri Prismatici delle Stelle Fisse_, 1867.
+
+*) _Undersögelser over Nebulose Stjerner_, p. 47.
+
+Some further observations on the spectra of nebulæ were communicated by Dr. Huggins to the Royal Society in 1866.* In the spectrum of one of the nebulæ that was observed (H 4403), one line, and one line only, was seen; the same was recorded in the spectrum of the Dumbbell nebula. Of this line Dr. Huggins again remarked:* "When the slit was made as narrow as the intensity of the light would permit, this bright line was not so well defined as the corresponding line in some of the other nebulæ under similar conditions of the slit, but remained nebulous at the edges." And again, referring to the spectrum presented by another nebula (H 4572), he noted:* "The spectrum of this nebula consisted of one bright nebulous line of the same refrangibility as the brightest of the lines of nitrogen. No other lines were _certainly_ seen."
+
+*) _Phil. Trails._, 1866, p. 385.
+
+*) _Ibid._ p. 385.
+
+*) _Ibid._ p. 386.
+
+Also, in the spectrum of nebula (H 4627) the undefined condition of the brightest of the nebula lines was noted in the words:* "One bright line only was distinctly seen, of apparently the same refrangibility as the brightest of the nitrogen lines. This bright line appealed by glimpses to be double. Possibly this appearance was due to the presence near it of a second line."
+
+*) _Ibid._ p. 387.
+
+In this paper Dr. Huggins divided the nebulæ spectroscopically into two groups. In one we had the _nebula_ line _par excellence_ --- that, namely, which, according to Dr. Huggins, coincided with the brightest line of nitrogen (which is really a coarse double) with or without other lines, while in the other a continuous spectrum was the main characteristic. Many of the spectra, however, included in this latter class indicate a decided want of uniformity in the continuity of the spectrum. Thus, it was noted of (H 1949)* that the red end of the spectrum was wanting, or very faint. A similar observation was made of (H 1950),* in which nebula, moreover, the defect was still more marked. Of a nebula (H 3572) Dr Huggins remarked:* "Spectrum continuous, a suspicion that some parts of the spectrum were abnormally bright relatively to the other parts;" and of (H 4230) it is recorded:* "Spectrum ends abruptly in the orange. The light of the brighter parts is not uniform; probably it is crossed either by bright lines or by lines of absorption." The nebula (H 4485) also gave a continuous spectrum, but there was a suspicion of unusual "brightness in the middle part of the spectrum."* No attempt, however, seems to have been made to define the positions of these maxima and minima.
+
+*) _Phil. Trans._, 1866, p. 388.
+
+*) _Ibid._ p. 388.
+
+*) _Ibid._ p. 389.
+
+*) _Ibid._ p. 389.
+
+*) _Ibid._ p. 389.
+
+Dr. Huggins communicated to the Royal Society in 1868 some further observations on the spectra of nebulæ, with a view to determine whether these bodies were moving towards or from the earth.* The Great Nebula of Orion was especially examined, and the positions of the bright lines determined. These determinations will be found at the end of this chapter. Of one of the lines, that in the position of Fraunhofer's F, Dr. Huggins noted:* "The substance in the nebulæ which is indicated by this line appears to be subject to much greater variation in relative brilliancy, or to be more affected by the conditions under which it emits light; for while the brightest line is always present, the line of which I am speaking seems to be wholly wanting in some nebulæ, and to be of different degrees of relative brightness in some other nebulæ."
+
+*) _Ibid._ 1868, p. 529.
+
+*) _Ibid._ p. 545.
+
+Lord Oxmantown also observed the spectrum of the Orion nebula in 1868.* He described the lines as follows: "The least refrangible was the brightest, the most refrangible was next in brightness, and the middle line the faintest. Both Mr. Ball and I were almost certain that there was in addition to the three bright lines, a faint continuous spectrum; to me there appeared to be a dark space in the less refrangible side of the least refrangible line. A continuous spectrum would probably explain this appearance... We also suspected a very feeble light at the other side of the three bright lines."
+
+*) _Phil. Trans._, 1868, p. 73.
+
+I have noted in a former part of this chapter that Dr. Huggins observed a fourth bright line in nebula (H 4964). The position of this line, as deduced from the record given by Dr. Huggins, would be about λ 470. The hydrogen G at λ 434 appears, however, to have been added to the list of nebula lines. Lieutenant J. Herschel, who observed the spectrum of the Orion nebula in October 1868,* recorded as follows: "A fourth line, almost beyond question, measured twice with reference to principal line;" and on 7th November again noted: "The fourth line is a fact. The diffused light, which also is certainly visible, to the extent of rendering the edges of the field visible beyond the immediate neighbourhood of the lines, can only be a continuous spectrum." The position of this line, here recorded for the first time, was measured by Lieutenant Herschel as midway between 272.1 and 285.5 on Kirchhoff s scale. This would be the place of hydrogen G at λ 434, and is therefore not the same as that seen and described by Dr. Huggins as existing in (H 4964).
+
+*) _Proc. R. S._, vol. 18. p. 307.
+
+A series of observations of the spectra of nebulæ was made at Harvard College Observatory under the direction of Professor Winlock, in September, October, and November 1868.* The nebula noted above (H 4964) was spectroscopically examined and described as follows: "Four lines, sometimes very distinct, even bright, λ 5000 (coincident with air line), 4960, 4870, 4690; this last line not found in the spectrum of the great nebula in Orion (H 1179), where there is another considerably more refrangible." Many other spectra of nebulæ were examined and the wave-lengths of the bright line determined. In the Orion nebula lines were measured at 5010, 4960, 4870, and 4370. I have determined the mean wave-lengths, from all the measures given by Professor Winlock, of the three brightest nebula lines, and find them to be 500.5, 496.0, and 485.0 respectively.
+
+*) _Annals, Harvard College Observations_, vol. 13., part 1., p. 65.
+
+Another observer of the Orion nebula, Le Sueur, in February 1870, noted:* "From Mr. Huggins's observations of the nebula in Orion I gather that he has seen only the three usual lines; with a wide slit, I had lately a very strong suspicion of a fourth line, probably G."
+
+*) _Proc. R. S._, vol. 19. p. 18.
+
+Vogel made a series of observations of the spectra of nebulæ in 1871.* The following are his measurements of the wave-lengths of the three principal lines:---
+
+*) _Both. Beob._, Heft 1, 1872, p. 56.
+
+[TABLE]
+
+In the spectra of other nebulæ, bright parts, similar to those described by Dr. Huggins as occurring in apparently continuous spectra, had their wave-lengths determined by Vogel. Thus in H 4234 he noted that in addition to the three nebula lines there were bright parts at 518 and at 554. The continuous spectrum extended from 570 to 480. Again, in H 4373 the continuous spectrum extended from 530 to 450, and bright stripes were seen at 527, 518, 509, and 479. This was in addition to the three bright nebular lines. In the spectrum of H 4390 also bright lines were measured at 554, 518, and 479, in addition to the other nebular lines.
+
+The spectrum of the ring nebula in Lyra was supposed by Dr. Huggins to be absolutely monochromatic. Vogel, however, measured the second nebula line at 495.9, and also suspected the third line at 486.
+
+The Dumbbell nebula, observations of which by Dr. Huggins are mentioned in this chapter, was also examined by Vogel. Only one line was seen, which was measured at 500.4. Vogel noted that this line was less defined on the violet edge,* his observation of the spectrum of this nebula agreeing in every respect with that made by Dr. Huggins in 1864.
+
+*) _Both. Beob._, Heft 1, 1872, p. 59.
+
+Dr. Huggins resumed his observations of the Orion nebula in 1872.* Four lines were seen and recorded, although in previous observations he had only observed three. It is noted, however: "The fourth line was first seen in nebula H 4964." I have pointed out in a former part of this chapter that the line here referred to is not the same as that first recorded by Lieutenant Herschel as existing in the Orion spectrum. It was not, therefore, until 1872 that Dr. Huggins recorded the G line of hydrogen in the spectrum of the Orion nebula.
+
+*) _Proc. R. S._, vol. 20. p. 383.
+
+D'Arrest published an exhaustive account of nebular spectra in 1872.* He mainly considered the observations that had been made of the positions of the bright lines, with a view to determine their exact wave-lengths. I have referred to some observations of the spectra of nebula made by Lieutenant Herschel in 1868.* D'Arrest reduced a series of micrometric measurements of the brightest nebula line made by this observer, with the following result:---
+
+*) _Undersögelser over Nebulose Stjerner_: Copenhagen, 1872, p. 22.
+
+*) _Proc. R. S._, vol. 16. p. 451.
+
+[TABLE]
+
+The mean wave-length given by this series is 500.36, and from a consideration of all the measurements that had been made of the bright nebula lines, D'Arrest adopted the mean wave-lengths 500.40, 495.66, and 486.06 for the nebula lines 1, 2, and 3 respectively.
+
+This observer directed particular attention to the relative intensity of the lines; thus, in the Orion nebula, the comparative brightness of the three lines, 500, 495, and F, was represented by the numbers 100, 24, and 71. In H 4234 on August 1872 the comparative brightness of the lines was estimated as 100:70:25. And again, in H 4373, observed in February and March 1872, the two lines 495 and 486 (F) were nearly equal in intensity, being proportionally represented by 60.5 and 50.5 respectively, the brightest line having an intensity 100. From these measures and Dr. Huggins's observations (_loc. cit._) it will be noted that the nebula lines are subject to considerable variations in relative brightness.
+
+In 1876 Bredichin made some observations of the spectra of nebulæ for the purpose of determining the exact wave-lengths of the three principal lines.* The mean of a series of observations gave the positions 500.39, 495.79, and 485.92, with probable errors of ± 1.2, ± 1.4, and ± 3.1 respectively. A similar set of observations were made by Bredichin in 1877, and he noted:* "When the sky was not perfectly serene, the slit of the spectroscope had to be wider than for the sun. In this case the line A [500] looked like a band, a little more defined towards the red."
+
+*) _Annals de l'Observatoire de Moscow_, vol. 2., 1876, p. 60.
+
+*) _Annals de l'Observatoire de Moscow_, vol. 3., 1877, p. 120.
+
+The Rev. T. W. Webb discovered a new planetary nebula in 1879, and its spectrum was examined by Copeland and Lohse.* Bright lines were measured at 500.1, 495.7, and 487.0. In 1880 Copeland again examined the spectrum of this nebula, and also that of a similar object discovered by himself.* Bright lines were measured in the Webb nebula at 501.9, 496.9, 487.2, and 469.4. Determinations were also made of the positions of the lines in Copeland's nebula, with the result ---
+
+*) _Monthly Notices_, vol. 40. p. 90.
+
+*) _Copernicus_, vol. 1. p. 2.
+
+Copeland|501.2|496.1|486.1  
+Lohse|500.6|496.0|487.0
+
+The fourth line at 469 was certainly seen in the spectrum of this nebula, but its wave-length was not determined. Of this line Copeland remarked:* "The fourth line is not improbably of the same wave-length as the one seen by Dr. Huggins in General Catalogue, 4964, who thus describes its position: 'This line is about as much more refrangible than the line agreeing in position with F, as this line is more refrangible than the brightest of the lines which coincides with a line of nitrogen.'"
+
+*) _Ibid._ p. 3.
+
+This observation of Dr. Huggins has been referred to in a former part of the chapter. Copeland remarked also: "The fourth line agrees well with an oxygen line, and it may be mentioned that the spectrum of CH shows also a band in the same region. On the other hand, it is entirely distinct from the fourth line of the Orion nebula, which is readily seen with the Dunecht instruments, and which is most probably coincident with Hγ, wave-length 434.0."
+
+Dr. Huggins photographed the spectrum of the Orion nebula in March 1882.* The photograph showed a line at wave-length 3730, in addition to the other four lines about 434, 486, 495, and 500, which had been previously observed in the spectrum of this nebula. The description reads as follows: "In the photograph the lines which had been observed in the visible spectrum are faint, but can be satisfactorily recognised and measured. In addition to these known lines, the photograph shows a relatively strong line in the ultra-violet, which has a wave-length 3730 or nearly so. The wide slit does not permit of quite the same accuracy of determination of position as was possible in the case of the spectra of stars. For the same reason I cannot be certain whether this line is really single, or is double or multiple."
+
+*) _Proc. R. S., vol. 33. p. 425.
+
+Also in March 1882, after eighteen months' trial, a photograph of the spectrum of the Orion nebula was taken by Dr. Draper in America.* There is, however, some difference between the two photographs, for Dr. Draper noted: "The hydrogen line near G, wave-length 4340, is strong and sharply defined; that at _h_, wavelength 4101, is more delicate, and there are faint traces of other lines in the violet... I have not found the line at λ 3730, of which Dr. Huggins speaks, though I have other lines which he does not appear to have photographed. This may be due to the fact that he had placed his slit on a different region of the nebula, or to his employment of a reflector and Iceland spar prism, or to the use of a different sensitive preparation. Nevertheless, my reference spectrum extends beyond the region in question."
+
+*) _Amer. Journ. of Sci._, vol. 23., 1882, p. 339.
+
+I should here say that recent photographs taken by myself at Westgate-on-Sea show that the former conclusion is the explanation of the circumstance, and that different parts of the nebula give different spectra.
+
+Dr. Huggins had observed in 1864 a sort of discontinuity in the spectrum of the nebula in Andromeda, and in 1885 Mr. Backhouse noted:* "I think the spectrum of the nucleus of the nebula is not simply continuous, but has two or three more bright bands on it."
+
+*) _Monthly Notices_, vol. 48. p. 110.
+
+Dr. Copeland observed and mapped the spectrum of the Orion nebula in 1886.* He measured the wave-length of bright lines at 500.4, 495.8, 486.1, and 434.2; and in addition to these lines, of which the existence was known, he saw another line a little more refrangible than D, and 33 measurements defined its position as λ 587.4. Again, in January 1887, another faint line was seen, and as far as could be made out, its wave-length was about 448.
+
+*) _Ibid._ p. 360.
+
+In November 1887, in a communication to the Royal Society, I pointed out that some of the lines of unknown origin recorded up to that time occupied places near those due to magnesium, thereby suggesting that the light of the nebulæ, like that of comets, was in part due to collisions between meteorites; but it at once became obvious that however this might be, the real test lay in the manifestations of carbon, which in the comets is so abundant. Hence observations were made to determine whether or not in those nebulæ which gave a quasi-continuous spectrum, and which, on the collision theory, would be denser than the others, any evidence of carbon could be traced; the appearance of carbon generally following that of hydrogen in glow-tubes as the pressure is increased.
+
+The study of the spectrum of the Andromeda nebula from this point of view was commenced by my assistant, Mr. Fowler, at South Kensington in 1888.* He noted ---
+
+*) _Proc. R. S._, vol. 45. p. 215.
+
+The spectrum is almost entirely wanting in red and yellow light. In the green there are two maxima, the brightest of which is at wave-length 517, as near as could be determined, with the wide slit which it was necessary to employ; the other maximum is near 546. Another brightness near 474, as determined by comparison with the Bunsen burner, was also suspected, but it was not so easy to measure as the others. This has since been found to be coincident with the carbon fluting 468-474.
+
+Mr. Taylor also, at my suggestion, observed the same nebula in 1888 at Sir H. Thompson's Observatory, and found maxima at wave-lengths 517.4 and 547.3. Another maximum was suspected in the blue, but its position was not fixed.
+
+About the same time Mr. Taylor brought several new lines to light in the nebula of Orion.* In addition to the four lines recorded by Dr. Huggins, five lines were observed and the wavelengths determined as --- 5872.6, 5592, 5200, 5001, 4953, 4863, 4703, 4470, and 4340.5. The appearances of the lines were described as follows ---
+
+*) _Monthly Notices_, vol. 49. p. 124.
+
+The 5001 line is by far the brightest in the spectrum... The F line was a little brighter than the 4953, and these two lines and the fainter hydrogen G (434) were always sharp and comparatively easy to measure. The 5872 is faint, but, being beyond the continuous spectrum, it is not so difficult to see as the 520. A rather wide slit is necessary to see these, but I have frequently seen them both with the slit sufficiently narrow to clearly separate the 5001 and 4953. Of the other lines, 4706 has been most frequently seen, but the continuous spectrum and the faintness of the line render the measurements of position difficult. The 4470 and the 5592 were very faint indeed, and have not been seen since 27th November, but then their positions were ascertained from four measurements of each.
+
+I have tabulated below the reduced micrometer readings and the other determinations of the wave-lengths of the three brightest nebula lines that have been referred to in this chapter. Following this will be found another tabular statement setting forth all the chief observations of nebula lines up to the end of 1888.
+
+[TABLE]
+
+[TABLE]
+
+### Chapter 26. Comparison between the Spectra of Nebulæ and Comets.
+
+Having thus become acquainted with the position of many lines recorded in the spectra of these mysterious denizens of space, up to the end of 1888 and chiefly by recent work, the next thing we have to do is to inquire whether the spectra, and therefore probably the bodies themselves, are in any way akin to those with which we are already familiar --- we have so far studied comets. The first question which arises then is, Are the spectra of nebulæ similar to those of comets, and if not, how do they differ?
+
+If the difference between nebulæ and comets is merely one of cosmographical position, one being out of the solar system, and one being in it; and further, if the conditions as regards rest are the same, the spectrum should be the same. If a nebula resembles a comet physically and when it approaches the undisturbed cometary condition, --- that is, when the number of collisions is near a minimum, near aphelion, --- the simplest spectrum of the comet should be reproduced.
+
+As a matter of fact the chief nebula line, according to Dr. Huggins, occupies the same position in the spectrum as the single line seen in comets of 1866 and 1867, when they were observed away from the sun. It is probable also that this same chief nebula line was seen by Konkoly in his observations on the Great Comet _b_ 1882, six weeks from perihelion. It was also probably seen by Vogel in Coggia's Comet (4 1874) as a bright line at about 499, when the comet was yet a month from perihelion, and when therefore the appearance of the low temperature characteristic of the magnesium spectrum would be expected.
+
+It is fair to myself to say that I was not aware of these observations when I began my researches. The fact of the line at 500 remaining alone in Nova Cygni, however, made it clear that if my views were correct, the same thing should happen with comets. It now turns out that the crucial observation which I intended to make was made more than twenty-four years ago.
+
+This spectroscopic evidence is of the strongest, but it does not stand alone, for, as I have shown, comets at aphelion present, for the most part, the telescopic appearance of globular nebulæ.
+
+If it be taken as generally accepted that comets are of nebulous origin, it must be remembered that there are no _visible_ nebulæ near enough to our system to supply this material. Prior, therefore, to the effects produced by solar or planetary attraction, the material was in a state of repose; there were no collisions, and therefore no luminosity. It is not surprising, then, that the faintest comets and the faintest nebulæ should both, as a rule, be of globular form. In the case of the lowest temperature swarms inside and outside the system, the spectra, so far as published observations can decide the question, are identical. In this case the comparison is easy, because a comet at aphelion is practically out of reach of the sun's influence, and exists almost as a nebula.
+
+But when we come to the hotter stages in the history of comets, the conditions are different. The vapours produced by collisions in the comet are subject to a solar repulsion as well as to the gravitational attraction of the sun, whereas in nebulæ, whatever their nature, there can be no such repulsion. In this way the finer products of collisions in comets will be driven away, and we should accordingly expect to find differences between the spectra of comets near the sun and nebulæ at corresponding temperatures. Notwithstanding this repulsion, however, the spectra should correspond so far as the denser vapours are concerned, if they are in any way similarly constituted.
+
+We now proceed then to make the comparison which will enable us to answer the question.
+
+For comets we use practically the same lines as in Chapter 21. For the nebulæ, all the lines recorded in the visible spectrum by Messrs. Huggins, Vogel, Copeland, Fowler, and Taylor, recorded in the last chapter, are given.
+
+The Great Comet of 1882 and Comet Wells, when near perihelion, are excluded from the list of cometary lines and flutings, as their temperature was too high for fair comparison with most of the nebulæ and other low temperature phenomena.
+
+In cases, however, where any of these higher temperature lines correspond to lines in the nebula spectrum, they have been added to the list of cometary lines, in brackets, as sometimes the phenomena compared may attain a temperature slightly higher than that of comets at mean temperature.
+
+The comparison then stands as follows ---
+
+[TABLE]
+
+The table shows that there are many striking similarities between the two spectra, and there is no doubt that many of the lines are identical. The flutings of hot carbon, for example, are common to both, as are also the flutings of magnesium, manganese, and lead. The hydrogen line 486 has only been seen in one comet, namely, Comet 3 1880, by Konkoly.*
+
+*) _O'Gyalla Observations_, 1881, p. 5.
+
+Other flutings and lines again are special to comets and others to nebulæ. Thus, there are practically no indications of hydrogen in comets, although the hydrogen lines are amongst the brightest in nebulæ. Again, the lines 447, 479, 495, 509, 554, and 5872 are seen in nebulæ, but not in comets. On the other hand, the cool carbon flutings and the fluting at 568 are seen in comets, but not in nebulæ. Most of these apparent discrepancies are explained by a consideration of the differences in the conditions of comets and nebulæ. It must be remembered that in the case of comets there is an action which repels the vapours produced by collisions, and the vapours first affected will, of course, be those which are least dense. Hydrogen will thus be repelled from the comets, whilst the denser vapours of magnesium and carbon remain. There is then a good reason why hydrogen lines should not be seen in cometary spectra. As there can be no such repulsion in the sparse swarms which constitute nebulæ, hydrogen lines are seen in them.
+
+The line at 527 is probably the iron line E; this was seen in the hotter comets, namely, Comet Wells and the Great Comet of 1882, so that there is no discordance with regard to the appearance of this line. The other lines special to nebulæ are 479, 495, 509, and 554; but as no origins for these have yet been determined, it is not possible to explain their absence from cometary spectra. It is not improbable that 554 is an error in measurement for the manganese fluting at 558, the latter having been recorded by Mr. Taylor in the nebula of Orion.
+
+Mr. Fowler has attempted to compare this line, as seen in the planetary nebula G. C. 4373, with the manganese fluting, but the line was so faint with a 10-inch that no reliable comparison could be made. The line is certainly not far from the manganese fluting.
+
+The apparent absence of the cool carbon flutings from nebulæ is in all probability due to insufficient observations, as indicated by the discussion of comets. The lowest temperature (magnesium) and the hot carbon stages of comets are both represented in nebulæ, and the intermediate cool carbon stage is therefore not likely to be entirely absent.
+
+The absence of the hot carbon fluting at 564 from the spectra of nebulæ may possibly be due to either of two causes. It is much fainter than either 517 or 468-574, and may have escaped notice on that account; or, as in the nebula in Andromeda, it may be masked in the same way as in comets.
+
+Two other lines special to nebulæ are 5872 and 447. These lines are generally observed in the hottest regions of the Sun that we can get at with our instrumental means. They have been named D3 and _f_ by solar observers. The evidence tends to show that they are probably produced at the Sun by the dissociation of hydrogen or some other substances, and hence there is even greater reason for the absence of these lines from cometary spectra, even were the temperature higher, than for the absence of the lines of hydrogen.
+
+With reference to the appearance of D3 in nebulæ and bright-line stars, I wrote, in November 1887 ---*
+
+*) _Roy. Soc. Proc._, vol. 43. p. 139.
+
+It is right that I should here point out that some observers of bright lines in these so-called stars have recorded a line in the yellow which they affirm to be in the position of D3; while, on the other hand, in my experiments on meteorites, whether in the glow or in the air, I have seen no line occupying this position.
+
+I trust that some observer with greater optical means will think it worth his time to make a special inquiry on this point. The arguments against this line indicating the spectrum of the so-called helium are absolutely overwhelming. The helium line so far has only been seen in the very hottest part of the Sun which we can get at. It is there associated with _b_, and with lines of iron which require the largest coil and the largest jar to bring them out, whereas it is stated to have been observed in stars where the absence of iron lines and of _b_ shows that the temperature is very low. Further, no trace of it was seen in Nova Cygni, and it has even been recorded in a spectrum in which C was absent, and once as the edge of a fluting.*
+
+*) "...The spectrum is very bright: two strong bands are seen in the red, then the D line, followed by a bright line (D3) as the edge of a band..." (Konkoly, "Neuer Stern bei χ Orionis," _Astr. Nachr._ No. 2712).
+
+It is even possible that the line in question merely occupies the position of D3 by reason of the displacement of D by motion of the "stars" in the line of sight. On this point no information is at hand regarding any reference spectrum employed.
+
+_If, however, it should eventually be established that the line is really D3, which probably represents a fine form of hydrogen, it can only be suggested that the degree of fineness which is brought about by temperature in the case of the Sun, is brought about in the spaces between meteorites by extreme tenuity._
+
+The observations of Dr. Copeland* have now, I think, established the identity of the yellow line, in the nebula of Orion at all events, with D3. In a letter to Dr. Copeland, I suggested that the line at 447 was in all probability Lorenzoni's _f_ of the chromosphere spectrum, seeing that it was associated both in the nebulæ and chromosphere with hydrogen and D3. This he believes to be very probable. The line makes its appearance in the chromosphere spectrum about 75 times to 100 appearances of D3 and the lines of hydrogen.
+
+*) _Monthly Notices_, vol. 48. p. 360.
+
+The association of the line at 447 with D3 therefore strengthens the view that there is an action in space, away from condensations, whereby matter is reduced to its finest forms.
+
+### Chapter 27. The Wavelength of the Chief Nebula Line.
+
+Some of the chemical origins suggested in the preceding chapter for the various lines seen both in the spectra of comets and nebulæ will be at once accepted; and most easily in such cases as those of the lines due to hydrogen and carbon, in which we have more than one coincidence. Still greater certainty will be felt in the case of those lines which are generally seen together in the spectrum of a cosmical body and in laboratory experiments, such as those described in Chapter 6.
+
+Still, it must not be forgotten that in the majority of cases the determination of wave-lengths has been made by micrometer observations and reference scales; absolute comparisons at the telescope have been but rare; and even when they have been made the dispersion employed has not been great; such observations are beset with many difficulties, first among them being the dimness, in any but the largest instruments, of the lines to be measured.
+
+Until the recent work great interest attached on many grounds to the wave-length of the chief line. First, it was supposed to have a mysterious origin. From the outset Dr. Huggins has ascribed it to an unknown form of nitrogen; then, for long, it was chief among three only, and often from the dimness of the others seemed to exist alone; thirdly, it seemed to be a possible connecting link between comets and nebulæ, if we accept Dr. Huggins's observations of the comets of 1866 and 1867; and finally, much trouble had been taken to determine its actual wave-length by direct comparison. Although, as I have before stated (p. 285), the main test for the views I advance is to be found in the carbon coincidences, it seemed proper to inquire whether the origin of the line suggested by the hypothesis --- magnesium --- was the true one, always remembering, however, that the presence of that substance would not necessarily be revealed spectroscopically.
+
+Before I refer to my own work, the attempts that have been made by Dr. Huggins to define the position of the line are worthy of a full consideration in this place. In 1864, when he first observed bright lines in the planetary nebula in Draco, he noted: "The strongest line coincides in positions with the brightest of the air lines."*
+
+*) _Phil. Trans._, 1864, p. 438.
+
+A drawing accompanied this description, and the brightest line is shown as midway between the two components of the double nitrogen line. The wave-lengths given by Dr. Watts for the nitrogen line,* from a reduction of Dr. Huggins's measures, are 4999 and 5003.*
+
+*) _Index of Spectra_, p. 3.
+
+*) Dr. Huggins has recently called this reduction of Dr. Watts in question, see _Proc. R. S._, vol. 46. p. 40.
+
+Taking Thalén's measures of the nitrogen lines (5002 and 5005), the position of the nebula line, assuming that it fell according to the drawing, would be 5003.5.
+
+Taking Thalén's measures and Dr. Huggins's reference to the coarse double line, as if it were a single one, the wave-length might be 5002.1 or 5005.1, or any value between these. We have thus, using five figures, a limit of error of thirty units by Thalén's values.
+
+Another direct comparison was made in 1868, and is thus referred to ---*
+
+*) _Phil. Trans._, 1868, pp. 541, 542.
+ The determination of the position in the spectrum of the three bright lines was obtained by simultaneous comparison with the lines of hydrogen, nitrogen, and barium. The instrument which I employed had two prisms, each with a refracting angle of 60°, _and the positions of the lines were trustworthy within the limits of about the breadth of the double line D_... The coincidence of the line in the nebula with the brightest of the lines of nitrogen, though now subjected to a much more severe trial, appeared as perfect as it did in my former observations.
+
+It will be noticed that in these observations Dr. Huggins informs us to what extent his observations were trustworthy, and, taking Thalén's measures for D, _viz._ ---
+
+5895.0  5889.0
+
+we find the probable error to be sixty units. In the diagram which accompanies the above description the nebula line is shown coincident with the _less_ refrangible component of the nitrogen double, in contradistinction to the former observation, which placed the line midway between them.
+
+In another paragraph of the same paper (p. 543) Dr. Huggins takes "the wave-length of the nitrogen line at 500.80 millionths of a millimetre." Hence, according to this statement, the nebula line would have a wave-length of 500.80; or 500.51, if Thalén's value for the less refrangible nitrogen line be taken; and by Dr. Huggins's own assertion this value would only be accurate within the interval between the sodium double D, that is, 0006.0. It should also be noticed that the double line of nitrogen is again referred to as if it were a single line.
+
+In 1874 the line was found to be coincident with a line of lead, the wave-length of which was not stated,* and in 1882 its wavelength was given as 5005.*
+
+*) _Roy. Soc. Proc._, vol. 22. p. 252.
+
+*) _Ibid._ vol. 33. p. 427.
+
+When I began my work on meteorites in 1887, I at once noted that two of the lines seen in the glows were very nearly if not quite coincident in position with two lines (including the chief one) of doubtful origin in the nebula spectrum.
+
+In order to determine the origins of these lines it became necessary to observe the spectra of known substances, and this was accordingly done. The Bunsen and oxy-coal-gas flame were chiefly employed, and the results are given on page 33.
+
+On comparing these flame observations with those of meteoritic glows, it is seen that in the spectrum of magnesium there is a very bright fluting about wave-length 500, which apparently agrees in position with the line so constantly seen in the tubes. Magnesium being one of the chief constituents of meteorites, in the form of olivine, it was at once suggested that magnesium is the origin of the line seen in the glows, and therefore also of the chief nebula line.
+
+Still the dispersion I had employed was small; so in my first communication to the Royal Society on this subject I stated that the conclusions were "given with great reserve," and I was careful to point out that I had limited myself to small dispersion (one prism of 60°), because it was imperative that all the observations should be strictly comparable; those of very faint glows visible with difficulty, and those of a bright electric arc, to speak only of laboratory work; and I also added that there was an additional reason for this in the difficulty of obtaining astronomical observations with large dispersions in the case of very dim celestial objects.
+
+Seeing, therefore, that I dealt only, of set purpose, with small dispersion, I limited myself to a "short title" of three figures in my references to the lines, and these have so far been used in this book.
+
+But, although I did not employ great dispersion in the first instance, I fully understood that this must be done eventually, so I at once provided for such observations both in laboratory and observatory.
+
+So far, however, only one branch of the observatory work has been commenced, in consequence of delays on the part of the instrument-maker. My main endeavour in one direction will be to obtain photographs of the spectra of nebulæ and reference spectra under such conditions that any instrumental error will register itself on the plate in such a way that a proper correction for it can be made. For such work as this much light and great stability is required. These essentials I shall soon have at my disposal, for I have erected a 30-inch reflector at Westgate-on-Sea, having received a grant in aid from the Government Grant Fund. The mirror has been figured and presented to me by my friend Mr. Common; the flat (7-inch diameter) by other friends, the Brothers Henry, and I gladly take this opportunity of expressing my obligations to them for this magnificent help in my work.
+
+In the high dispersion work, dispersions varying from that given by a Liveing direct-vision spectroscope to that of a Rowland grating of 12 feet 10 inches radius and 9.6 square inches surface, with an eye-piece of 1.4 inches equivalent focus, have been employed, in addition to which a Steinheil spectroscope with three or (in some observations) four prisms, and a Cooke spectroscope of sixteen prisms have been used.
+
+The first thing to do was to test the idea that the line seen in the glow was really produced by magnesium proceeding from the silicates found in most meteorites. With this object I tried terrestrial olivine, and I again saw the line in its spectrum. Subsequent work with a large model Steinheil spectroscope (four prisms and a high power eye-piece) showed that the line was coincident with the least refrangible member of one of the flutings seen in the name-spectrum of magnesium, the wave-length of which had been given as follows ---
+
+Lecoq de Boisbaudran|5006.0  Watts|5006.5  Liveing and Dewar (1878)*|5000.0  Liveing and Dewar (1888)*|5006.4
+
+*) _Proc. R. S._, vol. 27. p. 353.
+
+*) _Ibid._ vol. 44. p. 242.
+
+The exact wave-length of the brightest edge of the magnesium fluting was first determined by means of a comparison photograph of the Sun and burning magnesium.
+
+The dispersion and width of slit were such that practically all the lines seen in Rowland's photographic map were shown in the photograph. There was a slight shift, the amount of which could be determined by measuring the displacement of _b_; when this was allowed for, the wave-length of the magnesium fluting was found to be 5006.5 on Ångström's scale. This has since been confirmed by observations with the four-prism Steinheil and the first order spectrum of the Rowland grating.
+
+Comparison photographs have also been attempted with the Rowland grating, but it was found that even with two hours' exposure only the first four maxima of the magnesium fluting were obtained. It was found difficult to keep the flame of the burning wire sufficiently steady to ensure the light falling directly on the slit during the whole time of exposure.
+
+It may be mentioned here that the secondary maxima of the fluting succeed each other with perfect regularity at gradually increasing distances apart. The wave-lengths given by Messrs. Liveing and Dewar,* and those determined from the photographic comparison referred to, are as follows ---
+
+*) _Proc. R. S._, vol. 44. p. 242.
+
+[TABLE]
+
+The comparisons employed by Dr. Huggins in his observations of the chief nebula line were the double green line of nitrogen, and a line of lead; the relative positions of these were then observed in relation to the magnesium fluting, _en attendant_ the direct comparison with the nebula line with which Dr. Huggins states the least refrangible of the nitrogen lines to be coincident.
+
+The Cooke spectroscope with eight prisms and a telescope magnifying fifteen times was first employed. An electric spark between magnesium electrodes was used, and the length of spark was so adjusted that the nitrogen lines were visible when a Leyden jar was connected with the coil and the magnesium fluting when the jar was taken out of the circuit. The spark was placed about 30 inches in front of the slit, and an image formed by a lens of about 9 inches focus. In this way the chances of error in measurement, due to changes in the direction of the light-source, with respect to the slit, were reduced to a minimum. The spectrum was faint, so that it was found necessary to have the slit rather wide. Under these conditions the magnesium fluting fell on the less refrangible member of the double green air line, as Dr. Huggins observed the nebula line to do in 1868; this was confirmed by my assistants, and was seen by my colleagues, Professors Thorpe and Rücker. Twelve and sixteen prisms were subsequently used, and with the wide slit, which it was then necessary to employ, the magnesium fluting still fell on the less refrangible of the two lines of nitrogen.
+
+This comparison was repeated with a Steinheil spectroscope, with three prisms of 45°, and a telescope magnifying sixteen times. In this case there was less light lost than with the Cooke spectroscope, and the observations were made with less difficulty.
+
+A small quantity of lead chloride was also introduced into the spark, and the lead line was seen to be slightly more refrangible than the edge of the magnesium fluting, so as to form a close double with it. Using a small jar, it was found possible to obtain together the spectrum of nitrogen, magnesium, and lead superposed, and under these conditions the magnesium fluting was seen still apparently coincident with the less refrangible nitrogen line, and the lead line was a little more refrangible.
+
+The air spark so far employed was that obtained by using a small jar; the nitrogen lines were very fluffy, and the spark was so feeble that it was always necessary to use a wide slit. In subsequent experiments the jar spark between the two platinum poles, inserted in a glass tube containing air at a slightly reduced pressure, was used. This gave the nitrogen lines very much thinner than the ordinary spark in air, and when a larger jar was put in circuit the spectrum was also brighter. A narrower slit could therefore be used and comparisons made with greater accuracy.
+
+Four prisms and an observing telescope magnifying about thirty times were first used with the new conditions, and it was then found that the magnesium fluting was a little less refrangible than the nitrogen line. In this case the magnesium spectrum was obtained by burning magnesium in front of the bulb, and the non-coincidence with the nitrogen line was put beyond doubt by observing the two spectra simultaneously. This was further confirmed with the Rowland grating, the magnifying power employed being about fifty-five times. Comparisons with the solar spectrum were then made, with the result shown in Fig. 60.
+
+[Fig. 60. --- Comparison of the Spectra of Magnesium, Nitrogen, Lead, and Sun. Mg(1) and N(1) are as observed with a wide slit. (The scale is that of Rowland's photographic map.)]()
+
+The solar spectrum shown in the drawing is from an enlargement of Rowland's map of the region in question, and the positions of the fluting of magnesium and the lines of nitrogen and lead are as determined with four prisms and confirmed with the Rowland, which differs from Ångström's scale by one division; _e. g._ 5007.5 on Rowland's scale is equivalent to 5006.5 on Ångström's. (This difference was determined by a comparison of twelve lines of iron mapped by Thalén with the corresponding solar lines shown in Rowland's map.) Two spectra of nitrogen are shown in the map: the first one, that seen when the small jar was used and the slit was rather wide; and the second, that seen with the jar spark in rarefied air and the slit as narrow as possible. In the first case the lines are very broad and begin to fade away rather suddenly on both sides. Two spectra of magnesium are also shown --- one with the slit wide, and the other with it narrow.
+
+It will be seen that when the slit is rather wide the haziness of the less refrangible nitrogen lines overlaps the first maximum of the magnesium fluting, when seen with the same slit. This happens whether magnesium or platinum poles were used for the air spark, and proves that the apparent coincidence is not due to the remnant of the magnesium fluting being superposed on the air lines. The importance of using a narrow slit and a spark with large jar, preferably in air at a reduced pressure, for comparison with the nebulæ, is therefore obvious.
+
+The results given are not to be absolutely relied upon, as there may be slight errors, due to the various light sources not being perfectly in the line of collimation. It has been found, for example, that a change of 111 minutes of arc in the direction of the beam from the siderostat displaces the lines about two divisions of Rowland's scale, or more than the difference between the positions of the chief nebula line and the fluting of magnesium as determined by Dr. Huggins. Every precaution was taken, however, to ensure the accuracy of the observations. The beam from the siderostat was first directed on the slit, and the spark and lens placed in the same direction by adjusting their shadows on the slit plate. The slit was made as narrow as the luminosity of the spark would allow.
+
+It was also noticed during the observations that errors may be introduced by the insensible motions of the eye in front of the slit. With a spectroscope having one flint glass prism of 60° and a telescope magnifying about fifteen times, the displacement of the lines due to this cause as referred to the cross wires was found to amount to as much as forty units, or twice the distance between the magnesium fluting and the less refrangible nitrogen line. With the Cooke spectroscope having eight prisms the displacement was not more than twenty units. Pin-holes of various sizes were placed in front of the eye-piece, but the displacement was not at all diminished by this. The motion of the lines over the pointer was found to be quite rhythmical and to keep time with the beating of the heart.
+
+No doubt this displacement can be (and was) abolished by perfect focussing, but the construction of instruments generally does not admit of the focussing of the cross wires, and even if there be an adjustment, one condition is only good for one observer.
+
+These experiments, therefore, show that many precautions have to be taken before the coincidence or non-coincidence of one line with another can be determined with absolute certainty even when large dispersion and stable laboratory conditions are employed. The general results of the laboratory comparisons may be briefly stated thus ---
+
+[TABLE]
+
+It must be remembered that ordinary observatory conditions are not nearly so favourable for accurate measurements of the positions of lines in spectra as those possible in a laboratory: the apparatus is not so stable, and must of necessity be in motion, and again, the collimator of the spectroscope with its slit exactly central must be demonstrated to be absolutely in the optic axis of the telescope before a measurement can be taken as final. Two series of observations should therefore be made, one with the spectroscope in one position, and the other when it has been turned through 180°.
+
+Finally, I may point out that with the above values, and assuming that the nebula line exactly coincides, as Dr. Huggins says that it does, with the least refrangible of the nitrogen double, the difference in position between it and the magnesium fluting is less than a quarter of the distance between the two D lines, and I have shown that this difference may easily arise from instrumental errors.
+
+_Observations by a New Method._
+
+The laboratory work having shown the numerous sources of error connected with observations where great accuracy is attempted, it seemed to me that it was quite hopeless to attempt very accurate observations of nebulæ in the ordinary way, where the conditions are not nearly so favourable as in the laboratory.
+
+I have already pointed out that unless it can be demonstrated that the collimator of the spectroscope is absolutely in the optic axis of the telescope employed, one series of observations alone is worthless. Again, the greater the dispersion employed, the greater generally will be the weight of the spectroscope, and the less the stability of the apparatus. Finally, as the telescope must necessarily be in motion, the conditions are constantly liable to change by the varying dispositions of the various parts of the apparatus.
+
+It struck me that these difficulties could be to a great extent overcome by the use of a siderostat, in which case a spectroscope of any weight could be employed, as it was no longer necessary that it should be in motion. To test this method, arrangements were made for observing the spectrum of the nebula in Orion. A 12-inch siderostat and the 10 -inch object-glass of the Science Schools equatorial were employed, in conjunction with an optically perfect Steinheil spectroscope belonging to the Physical Laboratory, and placed at my disposal by Professor Rücker.
+
+The following account is based upon the records in the notebook, further explanatory additions having been made where necessary.
+
+_November 27, 1889._ --- The 10-inch object-glass from the equatorial was supported in a semi-circular wood block, on an adjustable lantern tripod, which was sunk about 6 inches in the ground and the top perfectly levelled. By carefully sighting a lamp supported at the siderostat, the collimator of the spectroscope was placed in a line with it. The object-glass was then put in proper line, and adjusted by observations of Aldebaran with a reflecting eye-piece, which was supported in front of the slit, and so arranged that when an object was in the centre of the field it was also on the slit. Aldebaran was also used for adjusting the object-glass at the proper distance from the slit. The ordinary cross-wire eye-piece of the spectroscope being replaced by the bright line micrometer, the prisms were adjusted at minimum deviation for λ 500 by observing the spectrum of magnesium ribbon burning in a spirit-lamp in front of the centre of the mirror. These preliminaries being completed, the work with the nebula was commenced.
+
+The nebula was first brought upon the slit by means of the reflecting eye-piece, and the observation was attempted with four prisms, but unsuccessfully, as the night was not good and the nebula was low, so two were removed. When this was done, the three principal lines were seen remarkably well, and a very narrow slit could be used. The chief line was made coincident with the illuminated pointer; magnesium ribbon was then burned at the centre of the mirror, and with this dispersion the coincidence between the nebula line and the least refrangible maximum of the magnesium fluting appeared perfect. These observations were made independently by Messrs. Fowler and Baxandall, and Lieutenant Bacon, R. N., temporarily attached to the Science Schools, but in no case was the nebula line seen more refrangible than the magnesium fluting.
+
+Another prism was then added, and set to minimum for λ 500. Absolutely the same result was obtained. The burning magnesium used for comparison was removed from the front of the mirror and placed directly in front of the slit, but still the same result was obtained. The brightness of the nebula lines with three prisms made it evident that another prism might be added. The magnifying power of the telescope employed was sixteen, and the dispersion C to H with three prisms was 6° 32′.
+
+_November 28._ --- The observations of the Orion nebula were repeated with similar arrangements to those employed on the previous evening, the fourth prism being now added. The spectrum was very well seen when the nebula was on the slit, but it was very difficult to keep it on, as, in consequence of the looseness of a screw, as it was subsequently found, the siderostat clock worked badly. One comparison was, however, made by Mr. Fowler, using the same micrometer eye-piece as before and a very narrow slit. The nebula line and the less refrangible maximum of the magnesium fluting were found to be perfectly coincident.
+
+Arrangements had been made during the day for burning magnesium, so as to get parallel rays from it. The method is shown in Fig. 61, and consists of a collimator placed in front of the object-glass. When burning the magnesium, a card, with a hole in the centre of the same diameter as the collimating lens, was placed in front of the 10-inch object-glass to keep out stray light. At the spirit-lamp end of the tube was a piece of tinfoil with a pin-hole at the centre. The image of this was focussed on the slit of the Steinheil, and when the magnesium was burning the spectrum was well seen.
+
+[Fig. 61. --- Arrangement of Apparatus for Observing the Spectra of the Heavenly Bodies by the Use of the Siderostat. The 10-inch object-glass is supported on an adjustable stand between the siderostat and the spectroscope, the collimator of which is directed accurately to the centre of the mirror. The small collimator between the object-glass and the siderostat is for obtaining comparison spectra either from the flame of a spirit-lamp of from the electric spark. The wires leading to the spark-stand pass through an opening in the side of the hut containing the spectroscope and the induction-coil.]()
+
+_November 29._ --- During the day the siderostat was put in order. The position of the collimator of the Steinheil was tested by opening the slit very wide, and burning magnesium at the centre of the siderostat mirror (the mirror being temporarily removed for this purpose). The image of the slit fell exactly in the centre of the collimating lens, so that no alteration was necessary. An observation was also made of the displacement of the magnesium fluting, brought about by moving the spirit-lamp in which the magnesium was burned away from the centre of the mirror. It was found that if the lamp were moved more than 2 inches on either side the spectrum ceased to be visible. Between the two extreme positions (_i. e._ 2 inches on each side of the centre) the displacement produced was about one-third of the distance between the first and second maxima of the magnesium fluting.
+
+The rough collimator that had been previously used was replaced by the collimator of a student's spectroscope, the slit of which was adjustable both for length and breadth. This was supported on a light iron tripod, so that, when in position, it would prevent very little light from the siderostat passing through • the object-glass. By this arrangement the spectra of magnesium and the nebula could be superposed, it being intended to obtain the magnesium fluting in this case from a quantity spark between magnesium poles. An enlarged image of the secondary slit is, of course, formed on the slit of the Steinheil spectroscope.
+
+A complete plan of the apparatus, drawn to scale, and showing some of the principal dimensions, is given in Fig. 62. The Steinheil spectroscope employed has a circular table, 28 inches in diameter, supported on a tripod stand weighing about 80 lbs. The collimator and observing telescope are each about 20 inches long, and have object-glasses 1 3/4 inches in diameter. The prisms have faces 2″ x 2″, three of them having an angle of 45°, and one of 60°, each one being supported on a stand provided with levelling screws. With the four prisms the dispersion from A to H is 10°.
+
+The reflecting eye-piece which was used to act as a finder was the ordinary one used with the 10-inch equatorial, and could be lifted out of its supports and put back again at pleasure.
+
+No work could be done in the observatory this evening on account of fog.
+
+[Fig. 62. --- Plan of Arrangements of Siderostat, Refractor, and Spectroscope. A. Siderostat mirror; B. 10-inch object-glass; C. Spectroscope; D. Collimator; E. Spark-stand; F. Induction coil; G. Removable eye-piece of refractor; H. Lamp for illuminating micrometer; K. Side of the dark hut; L. Door of hut.]()
+
+_November 30._ --- Commenced work by adjusting the object-glass and the collimator in front of it. The accuracy of this adjustment was checked by a comparison of _b_ in the spectrum of the Moon with _b_ in the spectrum of magnesium burning behind the secondary collimator. There was perfect coincidence between the lines. Four prisms were used for the comparison, and the centre of the Moon's disc was thrown on the slit. Everything being now in perfect adjustment, the nebula was turned to, and three good comparisons made of the chief line and the magnesium fluting, the magnesium being burned behind the secondary collimator. The pointer was displaced and readjusted in each observation. In each case the coincidence with the least refrangible maximum appeared perfect. These observations were made by Mr. Fowler and Lieutenant Bacon. In order to further test the result obtained, Mr. Fowler put the pointer of the micrometer exactly on the nebula line, and left it for Lieutenant Bacon to say how its position was with respect to magnesium; again it, was perfectly coincident. Lieutenant Bacon made three independent comparisons, the position of the pointer being changed each time, and twice found coincidences with the least refrangible maximum, whilst once the nebula line appeared to be on the right-hand edge of the same maximum. Mr. Gregory also made one comparison which confirmed the above results.
+
+_December 1._ --- The object-glass having been adjusted by means of Aldebaran as before, the secondary collimator was put in position, and the magnesium spark from a quantity-coil put behind the slit. With this arrangement a comparison of the nebula line with the lines of nitrogen could also be made. The collimator was adjusted by means of _b_, as seen in the Moon and in the magnesium spark.
+
+The pointer of the micrometer was then put upon the F line in the Moon, and the nebula was afterwards brought upon the slit. The two lines were coincident, showing the probable accuracy of the adjustments. Three comparisons were made of the nebula line with magnesium by Mr. Fowler, the pointer being displaced each time; in each case the coincidence was perfect. Comparisons with the nitrogen lines showed the nebula line to be a little less refrangible. I made the comparison twice, and in each case the coincidence with the magnesium fluting was perfect. In one case I saw the pointer of the micrometer, the nebula line, and the nitrogen lines at the same time; the pointer was on the nebula line, but both appeared to the right of the nitrogen double.
+
+Finally, Mr. Fowler put the pointer on the nebula line, Lieutenant Bacon agreeing with him as to the setting. Then I made the following comparisons:---
+
+1\. With the nitrogen lines. Result --- Pointer to the right.
+
+2\. With magnesium burning behind slit. Result --- Coincidence perfect.
+
+3\. With magnesium burning at the centre of the siderostat. Result --- Again perfect coincidence.
+
+The observations have left no doubt in my mind as to the coincidence of the chief nebula line with the magnesium fluting, under such conditions that at the same time the coincidence of the F line of hydrogen with the third nebula line was demonstrated. Lieutenant Bacon and my assistants concur in this view. Even with four prisms the observations are by no means easy, and are very delicate; but it is important to note that in no observation was the nebula line found more refrangible than the magnesium fluting, and if the optical conditions were imperfect, it seems hardly likely that an error in the same direction would be reproduced on four different nights, the apparatus being set up afresh each time.
+
+Another method of work adopted with a view of eliminating all possible instrumental errors may next be referred to; it has not been completely carried out so far, but a sufficient approximation to it has been reached to render the results obtained of some interest.
+
+Using the siderostat, object-glass, and collimator as before described, the method in question consists in using a vacuum tube, giving the lines both of hydrogen and nitrogen, in front of the slit of the collimator. The tube made for this purpose was found to have leaked when there was an opportunity of using it, so that the observations of hydrogen and nitrogen, in comparison with the nebula lines, have not been made in the same field of view at the same time. The hydrogen tube and an air spark with iron poles (iron poles being chosen in order to check the position of the nebula line near λ 495) were, however, placed alternately in front of the slit of the collimator, and this enabled the observations to be made with almost equal accuracy. I give the following extract from the Observatory notebook. The observations were made by Mr. Fowler (who was assisted by Mr. Coppen) on 5th February 1890.
+
+Made further observations of the nebula of Orion with 4-prism Steinheil spectroscope. First compared nebula spectrum with spectrum of spark between iron poles close to slit, the secondary collimator not being used at all.
+
+_Results._ --- 495 nebula line exactly coincident with iron line 4956.8. At the same time, the 500 nebula line was certainly less refrangible than the nitrogen lines.
+
+Next adjusted collimator and put hydrogen tube and iron spark successively in front of slit.
+
+_Results._ --- 3d nebula line coincident with F line of hydrogen.
+
+495 line coincident with iron 4956.8.
+
+500 line less refrangible than nitrogen lines.
+
+500 line exactly coincident with magnesium fluting, whether the magnesium was burned behind the slit of collimator or at the centre of siderostat mirror.
+
+It will be seen that these observations entirely confirm the former ones, and also carry the work a step further in the determination of the actual wave-length of the nebula line near λ 495 by the siderostat and collimator method.
+
+### Chapter 28. The Fluted Character of the Chief Nebula Line.
+
+The investigations just recorded show that in all probability the wave-length of the chief nebula line does truly correspond with that of the chief fluting seen in the flame of burning magnesium, as the wide induction demanded.
+
+There is still, however, another line of evidence to be relied on besides that supplied by wave-length. Observations of nebulæ should show that a fluting and not a line is in question.
+
+It may be well that I should briefly state what I understand by a fluting, and I cannot do this better than by referring to observations of a candle flame, which any one can make. A pocket spectroscope and a lens are all that are needed to follow my remarks. If an image of the base of the flame be projected on to the slit, bright flu tings are seen in the green (near _b_), citron, blue, and violet. That in the green is the brightest, and is seen to consist of three apparent bright lines with faint fringes on their more refrangible sides. The different members of the group gradually diminish in brightness, the least refrangible being the brightest. Such a group as this I look upon as a _compound_ fluting, and each member itself as a _simple_ fluting, since with high dispersion the fringes break up into series of fine lines very close together. If now the image of the flame be gradually raised, so that the base passes off and portions nearer the centre are brought on to the slit, the fainter members of the group gradually disappear, and when a certain point is reached only the brightest, least refrangible, simple fluting is left. This I look upon as the "remnant of a fluting," whether the fluting was in the first instance simple or compound.
+
+The compound fluting of magnesium near λ 500 is very similar to that of carbon. It consists of a series of bright lines of gradually diminishing brightness and increasing distances apart towards the more refrangible end, and each has a fringe _on the more refrangible side_. The first maximum (the least refrangible) is brighter than the others, and the fringe close to it is brighter than the second maximum; hence, when "the remnant of the magnesium fluting near 500" is referred to, the first maximum, with that portion of its fringe which is brighter than the second maximum, is meant.
+
+The following are the first recorded observations of the chief nebula line which give us any information as to its special character:---
+
+In 1864 the spectrum of the Dumbbell nebula in Vulpecula was observed, and it was noted* that the light of this nebula, "after passing through the prisms, remained concentrated in a bright line... _This line appeared nebulous at the edges_."
+
+*) _Phil. Trans._, 1864, p. 441.
+
+Similarly, it was recorded in 1866 of the spectrum of General Catalogue No. 4403:* "The spectrum of this nebula indicates that it possesses a gaseous constitution. One bright line only was seen, occupying in the spectrum apparently the same position as the brightest of the lines of nitrogen. _When the slit was made as narrow as the intensity of light would permit, this bright line was not so well defined as the corresponding light in some of the other nebulæ under similar conditions of slit, but remained nebulous at the edges._" An observation of the spectrum of General Catalogue No. 4572,* also made in 1864, led the observer to record: "The spectrum of this nebula consisted of one bright nebulous line of the same refrangibility as the brightest of the lines of nitrogen," and in the same paper we read: "One bright line only was distinctly seen, of apparently the same refrangibility as the brightest of the nitrogen lines. _This bright line appeared by glimpses to be double._ Possibly this appearance was due to the presence near it of a second line."
+
+*) _Ibid._ 1866, p. 385.
+
+*) _Ibid._ 1866, p. 386.
+
+All the above observations, showing conclusively that the chief nebula line has not always been described as sharply and perfectly defined at both edges, were made by Dr. Huggins.*
+
+*) Dr. Huggins has recently stated that he has always seen the line sharp and perfectly defined (_Proc. R. S._, vol. 46. p. 40).
+
+The observation relating to the presence of a second bright line very near to the chief nebula line might have been of considerable importance, and have afforded an almost crucial test of the validity of my identification of the line. If an accurate measurement had been made of it, it might well have been the second maximum of the magnesium fluting.
+
+It will be seen from what follows that nearly all observers of nebular spectra have noted at some time or other that the chief nebula line appeared undefined at one edge, as if it were part of a fluting.
+
+Secchi, one of the first observers of nebular and stellar spectra, in observations of some planetary nebulæ made in 1866,* saw the three principal lines, and noted that "the planetary nebula in Andromeda has the lines above-named, but the principal one is a little diffused."
+
+*) _Bullettino Meteorologico_, 31st October 1866.
+
+In 1871 Vogel made some observations of the spectra of nebulæ.* I have noted that in 1864 Dr. Huggins observed only one bright line in the spectrum of the Dumbbell nebula, and recorded this line as nebulous at the edges. Vogel's observations of the spectrum of the same nebula in 1871 agree, as regards the character of the line, in every respect with that of Dr. Huggins.
+
+*) _Both. Beob._, Leipzig, Heft 1, 1872, p. 56.
+
+The following is Vogel's description:---
+
+Sehr heller grosser Nebel der unter dem Namen Dumbbell bekannt ist. Das Spectrum desselben wurde am 21 Mai 1871, untersucht, est besteht aus zwei Linien, von denen die erste mit der Stickstofflinee (Wellenlänge 500.4 Milliontel Millimeter) coincidirt; diese Linie erscheint aber hier breiter als in den Spectren der planetarischen Nebel _und ist besonders nach dem violetten Ende des Spectrums SEHR VERWASCHEN_.
+
+Here, then, it is again explicitly stated that the nebula line was considerably ill-defined on the violet edge.*
+
+*) In a recent letter to Dr. Huggins (quoted _Proc. R. S._, vol. 46. p. 53).
+
+In a recent letter to Dr. Huggins, however, Dr. Vogel writes ---
+
+Beeile ich mich Ihnem mitzuteilen, dass meine langjährigen Beobachtungen über die Spectra der Gas-Nebel vollkommen mit den Ihrigen darin übereinstimmen, dass die Nebellinie λ 5004 schmal, scharf und NICHT VERWASCHEN IST.
+
+On this letter Dr. Huggins remarks as follows ---
+
+In an early observation of the Dumbbell nebula, Professor Vogel, indeed (_Beobachtungen zu Bothkamp_, p. 59, 1872), describes this line as less defined towards the violet side. In a letter (3d April 1889) Professor Vogel says this appearance of the line was probably due to a slit not sufficiently narrow. He says that he re-examined this line in his observations with the great Vienna refractor, and that it did not then appear otherwise than denned and narrow.
+
+I fancy that Dr. Huggins and Professor Vogel must know that widening the slit does not generally cause a well-defined line to become less defined _on one side only_. Again, the fluting would very probably be seen little better with the Vienna refractor than with that at Bothkamp; for I find that the brightness of the nebula in the former is to that in the latter only about as 13 to 10.
+
+Bredichin made a series of observations of the three nebula lines in 1877, and he noted also that the chief line was less defined on the blue edge. In the words of this observer, the line "Se presentait comme une bande, une peu plus claire vers le rouge."*
+
+*) _Annals de l'Obs. de Moscou_, vol. 3., 1887, p. 120.
+
+The following is the description of the chief nebula line, as seen in the Orion nebula, given by Mr. Maunder in 1884:---*
+
+*) _Greenwich Spectroscopic Results_, 1884, p. 5.
+
+"The line λ 5005 was examined with this latter dispersion (two-prism train), the slit being very narrow, and was seen to be a single line. None of the lines, in the spectrum of the nebula is, however, very sharp. _λ 5005 showed a faint fringe mainly on the side nearer the blue._"
+
+It must be borne in mind that as these observations of the undefined condition of the blue edge of the nebular line were made before special attention had been directed to it, they were _absolutely unbiassed_. Prior to 1887 no one had suggested that the line might be the remnant of a fluting. Indeed, Dr. Huggins contended for a line of an unknown form of nitrogen.
+
+My first observations of the nebula of Orion from this point of view were made at Westgate-on-Sea in October 1888, by means of a 12-inch mirror that had been kindly placed at my disposal by Mr. Common. The image of the nebula being allowed to float slowly over the slit, I distinctly got the impression that the line in question varied in its behaviour from the other lines, and that at the points where it was brightest it extended most towards the blue end of the spectrum. The observations were repeated at Kensington with the 10-inch equatorial by Mr. Fowler, Demonstrator of Astronomy, and Mr. Baxandall, and they arrived at the conclusion that the chief line had a decidedly fluted appearance.
+
+This observation is further borne out by Mr. Taylor, who, referring to an observation made in November 1888,* states ---
+
+*) _Monthly Notices, R. A. S._, vol. 49. p. 125.
+
+"The 5001 line is by far the brightest in the spectrum. It is never seen sharp, but, with the narrowest slit, always has a fluffy appearance, this being much more marked on the blue than on the red edge. This was most carefully examined for evidence of structure, but the line was always found to be single, and no decided evidence of fluting structure could be made out." It is clear from this observation that the line fades away towards the violet end of the spectrum, although the actual compound structure of the magnesium fluting is not visible. I shall presently have to refer to an experiment which shows that the compound structure would not be likely to be visible.
+
+I have more recently observed the spectrum of the nebula in Orion with my 30-inch reflector at Westgate-on-Sea, using an enlarged form of pocket spectroscope with a dispersion which does not split D, and the observation is, to my mind, final. I found that in certain parts of the nebula the lines were knotted, and in others broken; but in the former case, whilst the F line thickened equally on both sides, the chief line thickened only on the more refrangible side.  This result is shown in Fig. 63.
+
+This was confirmed by Messrs. Fowler and Baxandall at Kensington, with the 10-inch equatorial on 31st October and 1st November 1889, and again by Mr. Fowler, with the 30-inch, on 2d November. It may be noted also that I got momentary glimpses of many bright lines between F and G on 31st October. Messrs. Fowler and Coppen have since made some very careful observations of the Ring nebula in Lyra, and also record the chief line as having a fringe on the more refrangible side. A line in the neighbourhood of _b_ was suspected; this may turn out to be the carbon fluting near 517: the absence of the hydrogen line in the 10-inch was important as indicating that the nebula is in an advanced stage of condensation, approaching that of the nebula in Andromeda.
+
+[Fig. 63. --- Diagram showing the Appearance of the Three Principal Lines in the Spectrum of the Nebula in Orion as observed in the Westgate 30-inch Reflector.]()
+
+In still more recent observations with a siderostat the chief line was noted by Mr. Fowler and Lieutenant Bacon to have a decided fringe on the more refrangible side.
+
+It may be remarked that high dispersion is not so likely to show the fluted character of the chief line as low, for the more the fringe is dispersed the fainter it must become. In consequence of the brilliancy of the Orion nebula, the fluted appearance of the chief line would possibly be more manifest in it than in any other, and the absence of the fringe when the line is seen in the spectra of fainter nebulæ is therefore not antagonistic to the view that the line may be the remnant of the magnesium fluting. I say possibly, because the degree of condensation of a nebula must be considered. Given two nebulæ, exactly alike in every respect but temperature, then the line, if visible in both, would appear more like a compound fluting in that nebula of which the temperature was lower, and would become more like a line as the temperature was increased. But this is not all: a great number of collisions per unit volume at the same temperature would increase the visibility of the effects, and greater brightness in a nebula may proceed from this cause as well as from a less distance. We should not, therefore, expect to see the fluting, even if its existence be conceded, in all cases, and the smaller the dispersion the better _cœteris paribus_ it will be seen.
+
+Experiments have been made in the astrophysical laboratory at Kensington on the spectrum of magnesium when seen very faintly with moderate dispersion. The conditions being such that the structure of the fluting near 500 was well visible when magnesium ribbon was burned in front of the slit, a sufficient thickness of neutral tint-glass was introduced to reduce the brightness of the fluting until it was about equal to that of the chief line seen in the spectrum of the nebula in Orion. Under these conditions, the 500 fluting is only faintly visible and the secondary maxima entirely disappear. We get only the brightest, least refrangible member of the compound fluting, together with a simple fringe of light without structure on the more refrangible side. This experiment was shown at the Royal Society Conversazione in May 1889, and a note upon it may be found on page 13 of the programme. The experiment has recently been repeated and fully confirmed with a four-prism Steinheil spectroscope. It was found best to adjust the dark glasses so that two or three of the maxima were seen when the magnesium was burning; then, when the magnesium was just dying out, only the least refrangible one, with a slight fringe, was seen.
+
+The greater luminosity of the first maximum and its fringe has also been observed in another way. Magnesia, volatilised in the oxyhydrogen flame, with the proportion of gases properly adjusted, gives the compound fluting pretty bright. If, then, the quantity of hydrogen be increased or diminished gradually, whilst the oxygen remains constant, the fluting gradually disappears, but the first maximum and its fringe are seen when all the others have disappeared.
+
+Numerous photographs have also been obtained which show the first maximum brighter than any of the secondary ones.
+
+These experiments not only show that the first maximum is brighter than the secondary ones, but further, that some of the fringe on the more refrangible side of it is also brighter. In observations of nebulae, therefore, if the chief line be due to magnesium, only a very slight fringe would be observed unless the luminosity be sufficient to render visible some of the secondary maxima.
+
+I have shown, therefore, that many records exist as to the fluted appearance of the chief nebula line --- records that amply justify the identification of it with the low-temperature magnesium fluting near λ 500, an origin that seemed most probable from my experiments on the spectra of meteorites. The fact that one or two published observations have now been practically withdrawn does not affect the main issue in the faintest degree.
+
+Whatever the chemical origin of the line, the historical statement I have just given affords good grounds for believing that it is certainly a remnant of a fluting.
+
+The facts recorded in this and the previous chapter seem to demonstrate conclusively that the line under discussion is due, as the induction suggested, to magnesium.
+
+High dispersion has been employed, and we now know that the line seen in the meteoritic glows is truly the remnant of the magnesium fluting. We further know that the nebula line is coincident with the edge of the magnesium fluting when the two are compared with a four-prism spectroscope and a high magnifying power, both nebula and magnesium being observed under absolutely the same conditions. Even if we accept Dr. Huggins's observation of 1868, the nebula line only differs in position from the magnesium fluting by a quarter of the distance between the D lines, and we know that many sources of error may explain that difference.
+
+Finally, many observations, both old and new, show that the nebula line resembles the first maximum of the magnesium fluting in having a fringe on its more refrangible side, and I have also shown that the spectrum of magnesium may be observed under such conditions that only the first maximum and its fringe are visible, and that we should expect this condition to exist in the nebulæ.
+
+### Chapter 29. The True Nature of Nebulæ.
+
 ...
