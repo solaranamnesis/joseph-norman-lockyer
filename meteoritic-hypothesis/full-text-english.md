@@ -3558,4 +3558,182 @@ Finally, many observations, both old and new, show that the nebula line resemble
 
 ### Chapter 29. The True Nature of Nebulæ.
 
+I fancy that it will be impossible for a candid mind to resist the evidence brought forward in the last three chapters that nebulæ are really swarms of meteorites or meteoritic dust in the celestial spaces. The meteorites are sparse, and the collisions among them bring about a rise of temperature sufficient to render luminous some of their chief constituents.
+
+The association or non-association of relatively bright hydrogen lines with the lines due to the other constituents of the meteorites is possibly an indication of the greater or less sparseness of the swarm, the greatest sparseness being the condition defining fewest collisions, and therefore one least likely to show the hydrogen lines with any degree of brightness. When the condensation increases, observations of comets and laboratory work have abundantly shown that great liability to collision in the one case, and increase of temperature in the other, are accompanied by the appearance of the carbon spectrum instead of the hydrogen spectrum. Here we have the points of greatest difference in nebular spectra.
+
+It will at once be evident that since the luminosity of the meteorites depends upon collisions, the light from them, and from the glow of the gases produced from them, can only come from those parts of a meteor swarm in which collisions are going on. Visibility is not the only criterion of the existence of matter in space; dark bodies may exist in all parts of space, but visibility in any part of the heavens means, not only matter, but collisions, or the radiation of a mass of vapour produced at some time or other by collisions. The appearances which swarms present to us may bear little relation to their actual form, but may represent merely surfaces, or loci of disturbance.
+
+The result of the investigation is that the nebula spectrum is as closely associated with a meteorite glowing very gently in a very tenuous atmosphere given off by itself as is the spectrum of a comet with a meteorite glowing in a denser one also given off by itself when more highly heated.
+
+Further, it has been seen that the nebula spectrum in both its genuine forms --- that is, without and with carbon --- is exactly reproduced in comets. As the collision of meteorites is accepted for the explanation of the phenomena in one case, it must, _faute de mieux_, be accepted for the other. The well-known constituents of meteorites, especially olivine, fully explain most of the spectroscopic phenomena presented by luminous meteors, comets, and nebulæ.
+
+There is little doubt, seeing that the spectrum of the nebulæ, except in some cases, is associated with a certain amount of continuous spectrum, that future work will enable us to follow the various degrees of condensation. Meteorites glowing at a low temperature would be competent to give the continuous spectrum with its highest intensity in the yellow part of the spectrum; so that we can understand that lines due to any gas or vapour in that part would be very much more likely to escape record than those in the part of the spectrum which the continuous spectrum hardly reaches. The general absence, however, of bright lines of metallic vapours, except 495 and 500, and of the bright lines of hydrogen, evidently justifies the conclusion that we are here in presence of those bodies in celestial space, the temperature and the electrical excitation of which are at a minimum, and as the continuous part of the spectrum is brought under examination further stages will be recognised.
+
+The records of purely continuous spectra in the case of many nebulæ, as, for example, the Great Nebula in Andromeda, we already know, afford an indication of our inability to observe them properly. For a nebula to give a perfectly continuous spectrum, it is evident that the component meteorites must be incandescent, but still at a lower temperature than that required to give bright lines. Now the Mg line 500 is seen in some of the faintest nebulæ where there is little or no continuous spectrum, and it therefore seems likely that these are at a lower temperature than the nebulæ said to give perfectly continuous spectra. This being so, it is difficult to believe that other lines, which require a somewhat higher temperature for their existence than the line at 500, do not become visible at this increased temperature.
+
+There can be little doubt that when our instrumental appliances and observing conditions become more perfect, it will be found that the so-called continuous spectra will be a perfect mine of new knowledge regarding the true nature of the changes which occur as condensation increases. I have already shown that the carbon bands have already been recognised in the "continuous spectrum" of the nebula in Andromeda.
+
+The spectrum of the hydrogen and carbon in the case of the nebulæ seems to be due to low electrical excitation, as happens in the case of comets. Sudden changes from one spectrum to another are seen in the glow of meteorites in vacuum tubes, when a current is passing.
+
+I have been careful to show how Schiaparelli was driven to his view that comets originated in nebulæ by his masterly discussion of cometary phenomena, and a return to Chapter 23, now all the above evidence has been given, will cause astonishment that we have had to wait so long for so complete a demonstration.
+
+Dr. Huggins's theory that the nebulæ are masses of gas has been before referred to, likewise his view that unknown substances were, for the most part, in question; while I have shown that there is scarcely a line in the visible spectrum, as we now know it, which is not seen when meteoritic dust is glowed; and surely to those interested in researches on the nebulæ, who were at the same time familiar with Schiaparelli's results, and accepted his views with regard to the meteoritic origin of comets, meteoritic dust was clearly suggested as the origin of the spectrum. If we can depend upon Dr. Huggins's statement that the line at λ 500 is seen both in the spectra of some nebulæ and in the spectra of some comets at aphelion, we find ourselves in full presence of the demonstration of Schiaparelli's view that comets are cosmic clouds entering the solar system from without. Further, the evidence is overwhelming, that as these cosmic clouds in the system condense as they approach the sun, they change their spectrum, which resembles that of some nebulæ, into one closely resembling that of some others.
+
+Cometary observations alone, then, suffice to convince us that such a nebula as that in Andromeda is more condensed than that in Orion, for the reason that its spectrum resembles a comet when it is known to be more condensed than at aphelion.
+
+I have the high authority of Professor A. Herschel for stating that the view of the light of nebulæ being due to collisions of meteorites or meteoritic particles, fulfils all the conditions, and affords us the proper clue of that "wider hypothesis" to which Sir John Herschel looked forward for the removal of all the difficulties he had met with in considering the existence in nebular bodies of some form of continuous shining and ponderable (rather than imponderable or "ethereal") elastic fluid.
+
+I may add that Professor George Darwin has recently shown, by a profound mathematical analysis, that the principles of the kinetic theory of gases may be applied to the cases of a swarm of meteorites in space. In these investigations the individual meteorites are considered to be analogous to the molecules of a gas, and it is shown that the laws of fluid pressure apply.
+
+So far as I know, the first suggestion that nebulæ were really in some manner associated with meteorites, and not with masses of gas, was made by Professor Tait in 1871. I have used the suggestion in my lectures ever since, and some years ago I put it to an experimental test by showing that the spectra of both comets and nebulæ, so far as carbon and hydrogen were concerned, could be produced from a vessel containing the vapours produced by meteorites.
+
+This view, however, has not been favoured by Dr. Huggins, who, in his observations both on nebulæ and comets, has inferred, from the near coincidence of the line at 500 with the strong air line, that we are probably in presence of nitrogen, or of a form of matter more elementary than nitrogen; the line at 373 being attributed by him also to some unknown form of hydrogen on account of its coincidence with one of the series of hydrogen lines in the ultraviolet observed in the spectra of stars of the first class.
+
+My own attention was specially called to this subject in 1877, when the "new star" in Cygnus, after its temporary outburst, was observed by Lord Crawford to present the appearance of a planetary nebula.
+
+A complete discussion of the phenomena made a deep impression on my mind that only small masses of matter were in question. I referred to this at the time.*
+
+*) _Nature_, 1877, vol. 16. p. 413.
+
+The word star in such a case is a misnomer from a scientific point of view, although no word would be better to describe it in its proper aspect. The word is a misnomer for this reason: If any star, properly so called, were to become "a world on fire," --- were to "burst into flames," or, in less poetical language, were to be driven either into a condition of incandescence absolutely, or to have its incandescence increased, --- there can be little doubt that thousands or millions of years would be necessary for the reduction of its light to the original intensity. Mr. Croll has recently shown that if the incandescence came, for instance, from the collision of two stars, each of them half the mass of the Sun, moving directly towards each other with a velocity of 476 miles per second, light and heat would be produced which would cover the present rate of the Sun's radiation for a period of 50,000,000 years.
+
+A very different state of things this from that which must have taken place in any of the Novas from the time of Tycho to our own; and the more extreme the difference, the less can we be having to deal with anything like a star properly so called. A very rapid reduction of light in the case of the new star in Cygnus was so striking that I at once wrote to Mr. Hind to ask if any change of place was observable, because it seemed obvious that if the body which thus put on so suddenly the chromospheric spectrum were single, _it might only weigh a few tons or even hundredweights_, and being so small might be very near us. This point was tested by Sir Robert Ball, who made a series of micrometric measurements of the Nova at Dunsink Observatory. No appreciable value of the parallax, however, was obtained from the observations; hence, it must be concluded that the outburst took place in a region of the heavens far removed from our system and not near to it.
+
+We seemed driven, then, from the idea that these phenomena are produced by the incandescence of large masses of matter, because if they are so produced the running down of brilliancy would be exceeding slow.
+
+Let us consider the case, then, on the supposition of small masses of matter. Where are we to find them? The answer is easy: In those small mete critic masses which, as an ever-increasing mass of evidence tends to show, occupy all the realms of space.
+
+The Nova now exists as a nebula so far as its spectrum goes, and the fact not only goes far to support the view I have suggested as against that of Zöllner, but it affords collateral evidence of the truth of Thomson and Tait's hypothesis of the true nature of nebulæ.
+
+There is another point of extreme interest to the spectroscopist, if we accept the bright line observed in the star by Dr. Copeland and others to be veritably the chief nebula line.
+
+It is clear from Dr. Vogel's diagram that this line brightened relatively with each decrease in the brilliancy of the hydrogen lines. On 8th December 1876 it was much fainter than F, while by 2d March 1877 F was a mere ghost by the side of it. On any probable supposition the temperature must have been higher at the former date. What I wrote in 1877 ended as follows ---
+
+"Now, it is well known that within certain limits the lines in the spectrum of a compound body get brighter with decrease of temperature, because at the higher one the compound almost entirely ceases to exist as such, and we get the lines of its constituents. It is a fair theory, then, to suggest that the famous nebula line may belong to a compound. Nay, the fact, as it stands alone, further points to the possibility that the compound in question contains hydrogen as one of its constituents."
+
+The investigations given in Chapter 26 show that I probably was wrong in this last paragraph with regard to the substance, though I still hold the argument to be a valid one --- one, indeed, which may be fairly used to strengthen the view that we are really dealing with a complex molecule of magnesium, the changes in the spectrum of which are as great as some observed when compound bodies are broken up.
+
+I shall show subsequently that in all celestial bodies hotter than nebulæ magnesium is always represented, and by another spectrum.
+
+### Chapter 30. The Probable Origin of the various Forms of Nebulæ.
+
+The now demonstrated meteoritic origin of these celestial bodies renders it needful to discuss them in some detail, with a view to determine the forces at work in them; and to do this thoroughly it is requisite that we should study the rich store of facts which chiefly Sir William Herschel's labours have placed before us regarding the various forms, in order to ascertain what light, if any, the new view throws on their development.
+
+To do this, the treatment must be vastly different from that --- the only one we can pursue --- utilised in the case of the stars, the images of all, or nearly all, of which appear to us as points of light more or less minute; while, in the case of the nebulæ, forms of the most definite and, in many cases, of the most fantastic kind, have been long recognised as among their chief characteristics.
+
+Many of the forms so far are unexplained.
+
+It seems proper, then, that I should seek not only to determine whether the view I have put forward explains the phenomena as satisfactorily as they have been explained by old ones, but whether it can go farther and make some points clear which before were dark.
+
+To do this it is not necessary at present to dwell at any great length either on those appearances which were termed _nebulosities_ by Sir William Herschel, or on irregular nebulæ generally; but it must be remarked that the very great extension of the former --- which there is little reason to doubt will be vastly increased by increase of optical power and improvement in observing conditions and stations --- may be held to strengthen the view that space is really a meteoritic _plenum_.
+
+On the assumption, then, that nebulæ, like comets, are swarms of meteorites, I now proceed to refer to some points on which this view of their nature may throw some new light.
+
+It must be premised at the outset that the conditions under which these swarms --- all in motion --- exist in free space must be very diverse; they may be condensing by virtue of the collisions of their particles and the action of gravity, undisturbed, so to speak, by intrusions; they may be condensing while gigantic intakes of foreign swarms go on; possibly, though not necessarily, in many planes, the intakes, like comets in our own system, being deflected or annexed. Again, streams or sheets of nebulous material, invisible if undisturbed, may encounter others, and in this way luminous patches of undefined shape may be produced by motions and crossings and interpenetrations, the brighter portions being due to a greater number of collisions per unit volume.
+
+In Plate 2 I give, by the permission of Mr. Roberts, an untouched copy of his magnificent photograph of the nebula in Orion, exposed for four hours. It forms the most perfect example of the irregular distribution of nebulous matter to be found in the heavens.
+
+When we come to deal with the more regular forms, we find that they may be generalised into three groups, according as the formative action seems working towards a centre: round a centre, in a plane or nearly so, or in one direction only. As a result we have globular, spheroidal, spiral, and cometic nebulæ. I propose to deal with each in turn.
+
+The recent advances in nebular photography, chiefly in the hands of Messrs. Common and Roberts in our own country, and the Brothers Henry in France, render it certain that in a few years' time the subject-matter of this chapter will be treated with much more fulness; mere guesses and glimpses will be replaced by autobiographical imperishable records which cannot err.
+
+[Plate 2. --- The Great Nebula in Orion. Photographed by Mr. Roberts, F. R. S., February 4, 1889.]()
+
+_Globular Nebulæ._
+
+The remarkable appearance presented by the so-called planetary nebulæ requires that I should refer to them in some detail. Sir William Herschel does not describe them at any great length, but in his paper on "Nebulous Stars"* he alludes to the planetary nebulosity which in many cases is accompanied by a star in the centre, and finally comes to the conclusion that "the nebulosity about the star is not of a starry nature."*
+
+*) See p. 262 _ante._
+
+*) _Phil. Trans._, vol. 81., 1791, p. 73.
+
+Sir John Herschel, in his valuable memoir,* describes them as "hollow shells." It was so difficult to explain anything like their appearance by ordinary ideas of stellar condensation that Arago, as quoted by Nichol,* abandoning altogether the idea that they represented clusters of stars or partook in any wise of a stellar constitution, imagined them as hollow spherical envelopes, in substance cloudy and opaque, or rather semi-transparent; a brilliant body, invisible in the centre, illuminating this spherical film, so that it was made visible by virtue of light coming through it, and scattered by reflection from its atoms or molecules.
+
+*) _Ibid._ vol. 123., 1833, p. 500.
+
+*) _Architecture of the Heavens_, p. 86.
+
+Lord Rosse* records that nearly all the planetary nebulæ which he had observed up to that time had been found to be perforated. In only one case was a perforation not detected, but in this ansæ were observed, introducing into the subject for the first time the idea of nebulous bodies resembling to a certain extent the planet Saturn. But Lord Rosse, although he thus disposed of the idea of Arago, still considered that the annular nebulæ were really hollow shells, the perforation indicating an apparently transparent centre.
+
+*) _Phil. Trans._, vol. 140., 1850, p. 507.
+
+Dr. Huggins subsequently suggested that the phenomena represented by the planetary nebulæ might be explained without reference to the supposition of a shell (or a flat disc), if we consider them to be masses of glowing gas, the whole mass of the gas being incandescent, so that only a luminous surface would be visible.*
+
+*) _Ibid._ vol. 154., 1864, p. 442.
+
+It will be seen that all these hypotheses are mutually destructive; but it is right that I should state, in referring to the last one, that the demonstration that these bodies are not masses of glowing gas merely has been rendered possible by observations of spectra which were not available to Dr. Huggins when his important discovery of the bright-line spectrum of nebulæ was given to the world.
+
+It remains, then, to see whether the meteoritic hypothesis can explain these appearances when it is acknowledged that all the prior ones have broken down. If we, for the sake of the greatest simplicity, consider a swarm of meteorites at rest, and then assume that others from without approach it from all directions, their previous paths being deflected, the question arises whether there will not be at some distance from the centre of the swarm a region in which collisions will be most valid. If we can answer this question in the affirmative, it will follow that some of the meteorites arrested here will begin to move in almost circular orbits round the common centre of gravity.
+
+The major axes of these orbits may be assumed to be not very diverse, and we may further assume that, to begin with, one set will preponderate over the rest. Their elliptic paths may throw the periastron passage to a considerable distance from the common centre of gravity; and if we assume that the meteorites with this common mean distance are moving in all planes, and that some are direct and some retrograde, there will be a shell in which more collisions will take place than elsewhere. _Now, this collision surface will le practically the only thing visible, and will present to us the exact and hitherto unexplained appearance of a planetary nebula --- a body of the same intensity of luminosity at its edge and centre --- thus putting on an almost phosphorescent appearance._
+
+If the collision region has any great thickness, the centre should appear dimmer than the portion nearer the edge.
+
+Such a collision surface, as I use the term, is presented to us during a meteoric display by the upper part of our atmosphere.
+
+I append a diagram, Fig. 64, which shows how, if we thus assume movement round a common centre of gravity in a mass of meteorites, one of the conditions of movement being that the periastron distance shall be somewhat considerable, the mechanism which produces the appearance of a planetary nebula is at once made apparent. The diagram shows the appearance on the supposition that the conditions of all the orbits with reference to the major axis shall be nearly identical, but the appearances would not be very greatly altered if we take the more probable case, in which there will be plus and minus values.
+
+[Fig. 64. --- Suggested Origin of the Appearance presented by a Planetary Nebula. The luminosity is due to the collisions occurring along the sphere of intersection of the elliptic orbits of the meteorites. The left-hand diagram is a cross-section of the meteoric system, and the right-hand one shows the appearance of the collision shell as seen from a point outside.]()
+
+_Globular Nebulæ showing Condensation until finally a Nebulous Star is reached._
+
+If we grant the initial condition of the formation of a collision shell, we can not only explain the appearances put on by planetary nebulæ, but a continuation of the same line of thought readily explains those various other classes to which Herschel has referred, in which condensations are brought about, either by a gradual condensation towards the centre, or by what may be termed successive jumps. These condensations doubtless are among the earliest stages of nebular development.
+
+To explain these forms we have only to consider what will happen to the meteorites which undergo collision in the first shell. They will necessarily start in new orbits, and it is suggested that an interior collision shell will in this way be formed.
+
+In consequence of the collisions the orbits will have a tendency to get more and more elliptic, while the pericentric distance will at the same time be reduced; the swarm will, in consequence of this action, gradually brighten towards the centre through collisions being possible nearer the centre, and ultimately we shall have nebulæ with a distinct nucleus, the nucleus then representing the _locus_ of most collisions. This brightness may be sudden in certain spherical surfaces, or quite gradual, according to the collision conditions in each swarm.
+
+[Fig. 65. --- Suggestion as to the Origin of a Globular Nebula with a Brighter Central Portion. As in the former case, the luminosity of the fainter portion is due to the collisions which occur along the sphere of intersection represented by the larger circle. After collision the meteorites will travel in new orbits, and there will be an additional sphere of intersection, represented by the smaller circle. The left-hand diagram is a cross-section, and the right-hand one represents the appearance of the two collision shells as seen from a point outside.]()
+
+The final stage will be the formation of a nebulous star.
+
+_Effects of Subsequent Rotation --- Spheroidal Nebulæ._
+
+In such meteor swarms as those we have considered, it must be that rotation is, sooner or later, set up. Otherwise it would be impossible to account for the spheroidal nebulæ at all. I am aware that in Newton's opinion the cause of this rotation was not mechanical, but the moment we assume a meteoric origin of these globular clusters, it is straining the facts to assume that the intake will be exactly the same at all points, and the moment the bombardment is more or less localised, rotation must follow sooner or later.  Sir William Herschel, in his paper of 1811 (p. 319), says ---
+
+If we consider this matter in a general light, it appears that every figure which is not already globular must have eccentric nebulous matter, which, in its endeavour to come to the centre, will either dislodge some nebulosity which is already deposited, or slide upon it sideways, and in both cases produce a circular motion; so that, in fact, we can hardly suppose a possible production of a globular form without a subsequent revolution of nebulous matter, which in the end may settle in a regular rotation about some fixed axis.
+
+[Fig. 66. --- Suggestion as to the Origin of a Nebulous Star. The orbits of the inner set of meteorites are very elliptic, so that the shell of intersection appears almost as a point. As in the previous cases, the left-hand diagram represents the meteoric systems in section, and the right-hand one the appearance from a point outside.]()
+
+Given, then, a globular swarm with a rotation around an axis, we have to discuss the phenomena produced by collisions under a new set of circumstances.
+
+Here at once we have to account for the fact that the nearly spherical forms are very short-lived, for they are very rare; we seem to jump, as it were, from globes to very extended spheroids.
+
+If it be conceded that from the above considerations we are justified in supposing that the elliptic and other spheroidal nebulæ really represent a higher stage of evolution than those presented to us by the globular form, it is clear that on the meteoritic hypothesis the greater part of the phenomena will represent to us what happens to such a system under the condition of a continuous bombardment of meteorites from without.
+
+So soon as we have a minor axis, there will at first be most collisions caused by meteoritic masses, the paths of which are most nearly parallel to it; the result of this will be that the equatorial plane will be intensified, and then, later on, if we conceive the system as a very extended spheroid, it is obvious that meteorites approaching it in directions parallel to its minor axis will have fewer chances of collisions than those which approach it, from whatever azimuth, in what we may term the equatorial plane. These evidently --- at all events if they enter the system in any quantity --- will do for the equatorial plane exactly what their fellows were supposed to do for the section in Fig. 65.
+
+_Spiral Nebulæ._
+
+Next let us suppose such a system as this invaded from various parts of space by other swarms which feel its attraction and have their paths deflected: we shall have on the general background of the symmetrically rotating nebula, which may almost be invisible in consequence of its constituent meteorites all travelling the same way and with nearly equal velocities, curves indicating the regions along which the entrance of the new swarm is interfering with the movements of the old one; if they enter in excess from any direction, we shall have the appearance of broken rings or spirals.
+
+[Plate 3. --- The Nebula of Andromeda, showing surrounding Spirals and Secondary Swarms. Photographed by Mr. Roberts, F. R. S., December 29, 1888.]()
+
+This I suggested in 1887. Various parabolic currents* will indicate the regions where most collisions are possible, and even absence of luminosity in the centre would by no means demonstrate the absence of meteorites there.
+
+*) See _ante_, p. 252.
+
+Here, fortunately, we enter a region where photography already helps us. One of the chief of Mr. Roberts's present achievements is a photograph of the Nebula of Andromeda with an exposure of four hours. In this nebula the spirals assume gigantic proportions. Plate 3, which is an untouched reproduction of Mr. Roberts's photograph, will give a just idea of the orderly stupendousness of the actions which are going on in this part of space, where the naked eye only sees a dim glimmer of light. And yet, after all, the action is of the quietest, for the detection of carbon in the spectrum indicates that the temperature of even the nucleus of the nebula is about that of an ordinary comet approaching perihelion.
+
+Plate 4, which I also owe to the kindness of Mr. Roberts, gives us nebulæ, in Canes Venatici and Ursa Major, in which the spirals are much more clearly marked. The condensations along the spirals are of primary theoretical importance, as they show that the condensation of a nebulous swarm results in the formation of secondary centres if streams of foreign meteorites pour in.
+
+Researches by Lord Rosse and others have given us forms of nebulæ which may be termed sigmoid, and these suggest that they and the elliptical nebulæ themselves are really produced by the rotation of what was at first a globular rotating swarm of meteorites, and that in these later revelations we pick up those forms which are produced by the continued flattening of the sphere into a spheroid under the meteoric conditions stated. It is worthy of remark that many of the forms taken on by the so-called elliptic nebulæ described by the two Herschels, and by the spiral, sigmoid, and similar forms which have been added to them by the labours of Lord Rosse and others, are recalled in the most striking manner by the ball of oil in Plateau's experiment, when rotations of different velocities are imparted to it.
+
+_Cometic Nebulæ._
+
+I do not know that any explanation has, so far, been suggested as to the origin of these curious forms which were first figured by Sir William Herschel, and of which a number have recently been observed in the southern hemisphere.* It is clear that in them the conditions are widely different from those hitherto considered in this chapter. I think that the meteoritic hypothesis satisfactorily explains them, on the supposition that we have either a very condensed swarm moving at a very high velocity through a sheet of meteorites at rest, or the swarm at rest surrounded by a sheet all moving in the same direction. It is a question of relative velocity.
+
+*) _Observations of the Southern Nebulæ, made with the Great Melbourne Telescope_, Part 1.
+
+If we consider the former case, it is clear that the collision region will be in the rear of the swarm; that the collisions will be due to the convergence of the members of the sheet due to the gravity of the swarm; and that the collision region will spread out like a fan behind the swarm.
+
+The angle of the fan, and the distance to which the collisions are valid, will depend upon the velocity of the condensed swarm.
+
+[Plate 4. --- The Nebulæ in Canes Venatici (M51) and Ursa Major (M81). Photographed by Mr. Roberts, F. R. S.]()
+
+## Section 2. The Stars.
+
+### Chapter 31. Historical Notice relating to the Classification of Stars.
+
 ...
