@@ -3736,4 +3736,200 @@ The angle of the fan, and the distance to which the collisions are valid, will d
 
 ### Chapter 31. Historical Notice relating to the Classification of Stars.
 
+In the preceding chapters we have seen that the spectroscope indicates that nebulæ, like comets, are swarms of meteorites. If this be so, it is perfectly obvious that they must be almost infinitely sparse, for they are not only amongst the faintest objects in the heavens, but occupy enormous spaces. But if nebulæ are of this nature, it is equally obvious that they must ultimately condense by collisions due to gravity. Hence we have next to inquire if partly condensed swarms, as distinguished from stars like the sun, really exist.
+
+In such swarms we should expect to find spectra almost, if not quite, cometary; we should expect to find bright lines as in the nebulæ, and in both we should, in some cases, expect to find evidences of further condensation. In such an inquiry, however, we must not forget the vast difference in the way in which the phenomena of distant and near meteoric groups are necessarily presented to us; and further, we must bear in mind that in the case of comets, however it may arise, there is an action which drives the vapours produced by impacts outward from the swarm in a direction opposite to that of the sun.
+
+But even in the nucleus of a comet, as in a star, it is much more easy to be certain of the existence of bright lines than to record their exact positions; it is only in comets which approach as near the sun as Comet Wells and in the Great Comet of 1882 that these observations can be made with certainty.*
+
+*) "_Observations of Comet 3 1881, 25th June._ --- The spectrum of the nucleus is continuous; that of the coma shows the usual bands. With a narrow slit there are indications of many lines just beyond the verge of distinct visibility." --- Copeland, _Copernicus_, vol. 2. p. 226.
+
+I shall show in the sequel that stars with spectra such as these, and therefore with physical constitutions such as these, have long been observed, but that their spectra have been entirely misread and therefore misunderstood.
+
+In the classifications of stars, adopted up to the present time, the prevailing idea has been that comets, nebulæ, and stars represent different orders of bodies in the cosmos; and hence they have all been treated apart, and all classifications have proceeded on the assumption not only that these bodies are variously constituted, but that in the case of the "stars" all are becoming cooler. I have to show that it is not only unnecessary but unphilosophical to make such a distinction. Before I do this, however, it is important that I should state the various spectroscopic classifications which have been attempted in the case of the stars. With this information before us, we shall be better able to see the definite lines on which any new classification must be based to include all celestial forms.
+
+_Fraunhofer, Rutherfurd, and Secchi._
+
+When we inquire into the various labours upon which our present knowledge of the spectra of the various orders of "stars" is based, the first we come across are those of Fraunhofer, who may be said to have founded this branch of scientific inquiry in the year 1814.
+
+Fraunhofer not only instituted the method of work which is still found to be the most effective, but his observations at that time were so excellent that he had no difficulty in finding coincidences between lines in the spectrum of the sun and of Venus.
+
+Fraunhofer's reference in his observations runs as follows --- I have also made several observations on some of the brightest fixed stars. As their light was much fainter than that of Venus, the brightness of their spectrum was consequently still less. I have nevertheless seen, without any illusion, in the spectrum of the light of Sirius, three large lines, which apparently have no resemblance with those of the sun's light. One of them is in the green, and two in the blue space. Lines are also seen in the spectrum of other fixed stars of the first magnitude; but these stars appear to be different from one another in relation to these lines. As the object-glass of the telescope of the theodolite has only thirteen lines of aperture, these experiments may be repeated, with greater precision, by means of an object-glass of greater dimensions.*
+
+*) "On the Refractive and Dispersive Power of Different Species of Glass, with an Account of the Lines which cross the Spectrum." --- Fraunhofer, translated in _Edinburgh Philosophical Journal_, vol. 10., October to April 1823-24, p. 39.
+
+He did not attempt to classify his observations on stellar spectra, but, as pointed out by Professor Dunér,* those that he most particularly mentions are really remarkably diverse in their characteristics.
+
+*) _Sur les Étoiles à Spectres de la Troisième Classe_, p. 3.
+
+In these researches Fraunhofer was followed by Rutherfurd, who, in the year 1863, was the first to indicate that the various stellar spectra which he had then observed were susceptible of being arranged into different groups. His paper,* after giving an account of the observations actually made, continues as follows ---
+
+*) Silliman's _Journal_, vol. 35. p. 71.
+
+[Plate 5. --- Photographs of Stellar Spectra (Henry Draper Memorial), showing Distended Hydrogen Absorption Lines, Bright Lines and Fluting...]()
+
+The star spectra present such varieties that it is difficult to point out any mode of classification. For the present, I divide them into three groups:--- First, those having many lines and bands, and mostly resembling the sun, _viz._ Capella, β Geminorum, α Orionis, Aldebaran, γ Leonis, Arcturus, and β Pegasi. These are all reddish or golden stars. The second group, of which Sirius is the type, presents spectra wholly unlike that of the sun, arid are white stars. The third group, comprising α Virginis, Rigel, _etc._, are also white stars, but show no lines; perhaps they contain no mineral substance, or are incandescent without flame.
+
+Soon afterwards Secchi carried on the inquiry, and began in 1865 by dividing the objects he had then observed into two types. These two types were subsequently expanded in 1867 into three:* First, white stars, like α Lyræ; secondly, yellow stars, like Arcturus; and thirdly, deeply coloured stars, like α Herculis and α Orionis. The order of these types was not always as stated, but I have not been able to find the exact date at which the order was changed.* Secchi subsequently added a fourth type, in which the flutings were less numerous. There is little doubt that Secchi was led to these types not so much by any considerations relating to the chemical constitution of the atmospheres of these bodies, as in relation to their colours. His first classifications, in fact, simply separated the white stars from the coloured ones.*
+
+*) _Catalogo delle Stelle di cui si è determinato lo Spettro Luminoso_, Secchi, Parigi, 1867.
+
+*) Dunér, _Sur les Étoiles_, p. 128.
+
+*) See on this point _Le Scopirte Spettroscopiche_, A. Secchi, Roma, 1865.
+
+The fourth type included, therefore, stars of a deeper red colour than those of the third, and Secchi pointed out that this change of colour was accompanied by a remarkable change in the spectrum; in fact, of Secchi's four types thus established, the first and second had line spectra and the third and fourth had fluted ones. At that time the important distinction to be drawn between line and fluted spectra was not so well recognised as it is at present; and further, the relation of spectra to temperature was not so fully considered. Secchi, as a result of laboratory work, however, at once showed a possible connection between the absorption flutings in the stars of the fourth type and the bright ones seen in the spectrum of carbon under certain conditions; and although this conclusion has been denied by Dr. Huggins and some other observers, it has since been abundantly confirmed by Vogel and others.*
+
+*) See Vogel, _Publicationen_, _etc._, Potsdam, No. 14, 1884, p. 31.
+
+_Relation to Temperature._
+
+At the time that Secchi was thus classifying the stars, the question was taken up also by Zöllner, who in 1865 first threw out the suggestion that the spectra might probably enable us to determine somewhat as to the relative ages of these bodies; and he suggested that the yellow and red light of certain stars were indications of a reduction of temperature.*
+
+*) Zöllner, _Photometrische Untersuchungen_, p. 243.
+
+In 1868 this subject occupied the attention of Ångström with special reference to the contrasted spectra of lines and flutings. On this he wrote as follows, showing that temperature considerations might help us in the matter of variable stars.*
+
+*) _Recherches sur le Spectre solaire_, Upsala, 1868.
+
+D'après les observations faites par MM. Secchi et Huggins, les raies d'absorption dans les spectres stellaires sont de deux espèces : chez l'une, le spectre est rayé de lignes très-fines, comme le spectre solaire ; chez l'autre, les raies constituent des groupes entiers à espaces égaux ou des bandes nuancées. Ces derniers groupes appartiennent vraisemblablement aux corps composés, et je mentionnerai, en particulier, que ceux trouvés dans le spectre de α Orionis ressemblent fort aux bandes lumineuses que donne le spectre de l'oxyde de manganese. Supposé que ma théorie soit juste, l'apparition de ces bandes doit donc indiquer que la température de l'étoile est devenue assez basse pour que de telles combinaisons chimiques puissent se former et se conserver.
+
+Entre ces deux limites de température chez les étoiles, limites que l'on peut caractériser par la présence de l'une ou de l'autre espèce des raies d'absorption, on peut s'imaginer aussi un état intermédiaire, dans lequel les gaz composés peuvent se former ou se dissocier, suivant les variations de température auxquelles ils sont assujettis par l'action chimique même. Dans cette classe doivent probablement être comprises les étoiles dont l'intensité de lumière varie plus ou moins rapidement, et avec une périodicité plus ou moins constante.
+
+In the year 1873 I referred to this subject in my Bakerian Lecture,* in which I attempted to bring to bear some results obtained in solar inquiries upon the question of stellar temperatures. And I stated that although our knowledge of the spectra of stars was lamentably incomplete, the following facts could be gathered from the work already accomplished with marvellous skill and industry by Secchi.
+
+*) _Phil. Trans._, vol. 164., 1874, p. 492.
+
+1\. The sun, so far as the spectrum goes, may be regarded as a representative of class (β), intermediate between stars (α) with much simpler spectra of the same kind, and stars (γ) with much more complex spectra of a different kind.
+
+2\. Sirius, as a type of α, is 1. the brightest (and therefore hottest ?) star in our northern sky; 2. the blue end of its spectrum is open, --- it is only certainly known to contain hydrogen, the other metallic lines being exceedingly thin, thus indicating a small proportion of metallic vapours; while 3. _the hydrogen lines in this star are enormously distended_, showing that the chromosphere is largely composed of that element. There are other bright stars of this class.
+
+3\. As types of γ the red stars were referred to, the spectra of which are composed of channelled spaces and bands, and in which naturally the blue end is closed. Hence the reversing layers of these stars probably contain metalloids, or compounds, or both, in great quantity; and in their spectra not only is hydrogen absent, but the metallic lines are reduced in thickness and intensity, which may indicate that the metallic vapours are being _associated_. It is fair to assume that these stars are of a lower temperature than our sun.
+
+In the same year, in a letter to M. Dumas, published in the _Comptes Rendus_,* I again pointed out that, if we consider merely the scale of temperature, a celestial body with flutings in its spectrum would be cooler than one which had lines in its spectrum; and I also pointed out that, taking the considerable development of the blue end of the spectrum in white stars as contrasted with its feeble exhibition in stars like our sun, we had strong presumptive evidence to the effect that the stars like α Lyræ, with few lines in their spectra, were hotter than those resembling our sun, in which the number of lines was very much more considerable, and I added an inference from this: "Plus une étoile est chaude, plus son spectre est simple."  This related merely, as I have said before, to the consideration of one line of temperature.
+
+*) "Il semble que plus une étoile est chaude, plus son spectre est simple et que les éléments métalliqués se font voir dans l'ordre de leurs poids atomiques. Ainsi nous avons :---  1\. Des étoiles très brillantes, où nous ne voyons que l'hydrogène _en quantité énorme_, et le magnésium.  2\. Des étoiles plus froides, comme notre soleil, où nous trovons :---  H + Mg + Na.  H + Mg + Na + Ca, Fe, _etc._ ;  dans ces étoiles, pas de métalloïdes.  3\. Des étoiles plus froides encore, dans lesquelles tous les éléments metalliques sont associés, où leurs lignes ne sont plus visibles, et où nous n'avons que les spectres des métalloïdes et des composés.  4\. Plus une étoile est âgée, plus l'hydrogène libre disparaît ; sur la terre, nous ne trouvons plus l'hydrogène en liberté."
+
+_Vogel's Classification._
+
+In the year following my paper, the most considerable classification which has been put forward of late years was published by Dr. Vogel,* who, basing his work on the previous types of Secchi, and also taking into account the inference I drew in my letter to Dumas, modified Secchi's types to a certain extent, but always along one line of temperature, the leading idea being, as I gather from his memoir and many remarks made in Dunér's admirable introduction to his own observations, to be referred to presently, that the classification is based upon descending temperatures, _so that all the stars included in it are supposed at one time or other to have had a spectrum similar to that of α Lyræ_.*
+
+*) _Astr. Nachr._, No. 2000.
+
+*) "Car selon la théorie il faudra que tôt ou tard toutes les étoiles de la première classe deviennent de la seconde, et celles-ci de la troisième." --- Dunér.
+
+This classification is as follows ---
+
+Class 1. _Spectra in which the Metallic Lines are extremely Faint or entirely Invisible._ --- The most refrangible parts, blue and violet, are very vivid. The stars are white.
+
+a\. Spectra in which the lines of hydrogen are very strong.
+
+b\. Spectra in which the lines of hydrogen are wanting.
+
+c\. Spectra in which the lines of hydrogen and D3 are bright.
+
+Class 2. _Spectra in which the Metallic Lines are Numerous and very Visible._ --- The blue and violet are relatively weaker; in the red part there are sometimes faint bands. The colour of the star is clear bluish-white to deep reddish-yellow.
+
+a\. Spectra with numerous metallic lines, especially in the yellow and green. The lines of hydrogen are generally strong, but never as strong as in the stars of Class 1. In some stars they are invisible, and then faint bands are generally seen in the red formed by very close lines.
+
+b\. Spectra in which, besides dark lines and isolated bands, there are several bright lines.
+
+Class 3. _Spectra in which, besides the Metallic Lines, there are numerous Dark Bands in all parts of the Spectrum, and the Blue and Violet are remarkably Faint._ --- The stars are orange or red.
+
+a\. The dark bands are fainter towards the red.
+
+b\. The bands are very wide, and the principal are fainter towards the violet.
+
+It is pointed out that if this classification be true, there must be links between all the classes given. Now it is perfectly obvious that if this classification includes in its view all the stars, and if there is a line of ascending as well as descending temperatures --- that is to say, if some of the stars are increasing their temperatures, while others are diminishing them --- the classification must give way.
+
+I repeat that the idea which underlies the classification is that a star of Class 1 on cooling becomes a star of Class 2, and that a star of Class 2 has, as it were, a choice before it of passing to Class 3_a_ or Class 3_b_. Thus under certain conditions its spectrum will take on the appearance of Secchi's third type, Class 3_a_ (Vogel); on certain other conditions it will take on the appearance of Secchi's fourth type, Class 3_b_ (Vogel).
+
+Pechüle* was the first to object to Vogel's classification, mainly on the ground that Secchi's types 3 and 4 had been improperly brought together; I shall subsequently show how very just his objection was, and how clear-sighted was his view as to the true position of stars of Class 3_b_. I give the following extract from his memoir:---
+
+*) C. F. Pechüle, _Expédition Danoise pour l'Observation du Passage de Vénus_, 1882, p. 25 (Copenhagen, J. H. Schultz, 1883).
+
+M. Vogel a proposé une classification suivant les diverses phases de refroidissement indiquées par les spectres, dans laquelle il fait des types 3 et 4 de Secchi deux subdivisions d'une même classe, 3_a_ et 3_b_. Mais je trouve certaines difficultés négatives contre cette classification relativement au rôle qu'y joue le 3_b_. En effet, il est admis que le 4 type de Secchi se distingue nettement du 3 type, non seulement par la position et la quantité des zones obscures, mais aussi par le fait très-remarquable, que les principales de ces zones sont bien définies et brusquement interrompues du côté du violet dans le 3 type, du côté du rouge dans le 4. Or, si le 4 type doit représenter une des phases de refroidissement, par lesquelles passent les étoiles, on peut faire deux hypothèses. La première est que le spectre du 4 type soit co-ordonné au spectre du 3 type, de manière qu'il y ait des étoiles, qui passent de la phase représentée par le 2 type, à la phase représentée par le 3 type, et d'autres, qui passent directement du 2 type au 4. Mais cette hypothèse est inadmissible. Car on connaît des spectres intermédiaires entre le 1 et le 2 type, et entre le 2 et 3 ; mais on ne connaît pas, à ce que je sache, des spectres du 2 type tendant au 4. Reste done l'hypothèse, que la phase de refroidissement, représentée par le spectre du 4 type, soit postérieure à la phase représentée par le 3 type, de manière que les spectres des étoiles passent du 3 au 4 type. Si ce passage se fait peu à peu, il devrait y avoir des spectres intermédiaires entre le 3 et le 4 type ; mais quoique Secchi par exemple le 17 Janvier 1868, ait déterminé le spectre de l'étoile 273 Schjell., comme semblant intermédiaire entre le 3 et le 4 type, il l'a plus tard reconnu du 4 type, et l'existence des spectres de 3-4 type n'est nullement prouvée. On pourrait objecter que les étoiles du 4 type sont peu nombreuses et en général si petites que leurs spectres sont difficiles à voir, et que par conséquent il pourrait y avoir parmi ces spectres quelquesuns, qui se rapprochassent du 3 type. Mais je réponds à cette remarque, que les spectres du 3-4 type, indiquant une phase moins refroidie, devraient au contraire en général appartenir à des étoiles plus grandes que celles ayant des spectres du 4 type. Si on veut supposer que le passage du 3 au 4 type se fasse subitement, ou par une catastrophe, pendant laquelle apparaissent des lignes brillantes, cette supposition même constituerait une différence physique bien plus distincte entre le 3 et le 4 type qu'entre le 2 et le 3 ; et le 4 type représenterait une phase bien distincte, la dernière peut-être avant l'extinction totale. Le rôle physique du 4 type est done encore si mystérieux, que j'ai cru pouvoir encore me conformer à l'exemple de d'Arrest, en suivant la classification formelle de Secchi.
+
+It must again be stated that in the classifications so far considered the stars are regarded as completely distinct from the nebulæ, and that in the last of them even, stars having bright lines in their spectra, and in that resembling the nebulse, are brought together into the same class as such stars as α Lyræ and Sirius.
+
+### Chapter 32. New Views.
+
+The first step towards my present views was taken when one day I attempted to trace the origin of the absorption flutings in stars of Vogel's Class 3_a_. So far, no one had attempted to gain any information from them or to trace their origin, all the work having been confined to the absorption _lines_. It is true that both Dr. Huggins and Vogel, as well as others, had published maps of the spectra of these stars, showing the absorption flutings as well as the lines, but the origins of the former were not inquired into.
+
+It was at once perfectly obvious that among the chief absorption flutings were the most prominent of those seen in the spectrum of manganese at the temperature of the oxy-coal-gas flame --- a temperature at which only one line is visible, while in the sun all the lines of manganese are visible.
+
+Then the researches detailed in Chapter 4 were undertaken: all the flutings seen when the principal metals were exposed to this temperature were mapped, with a view of determining whether any others besides those of manganese were visible in the stellar spectra. Several others, notably one of lead, was found to be present.
+
+Here, then, was proof positive of low temperature; from solar absorption to the absorption of these stars of Class 3_a_, we passed from phenomena produced at the temperature of the arc to those visible at the temperature of the oxy-coal-gas flame.
+
+In Chapter 17 it has been shown that these identical absorption phenomena are seen in comets long before they reach perihelion.
+
+We must, however, consider the vast difference in the way in which the phenomena of distant and near meteoric groups are necessarily presented to us; and, further, we must bear in mind that in the case of comets, however it may arise, there is an action which drives the vapours produced by impacts outward from the swarm in a direction opposite to that of the sun.
+
+It must be a very small comet which, when examined spectroscopically in the usual manner, does not, in consequence of the size of the image on the slit, enable us to differentiate between the spectra of the nucleus and envelopes. The spectrum of the latter is usually so obvious, and the importance of observing it so great, that the details of the continuous spectrum of the nucleus, however bright it may be, are almost overlooked.
+
+A moment's consideration, however, will show that if the same comet were so far away that its whole image would be reduced to a point on the slit-plate of the instrument, the differentiation of the spectra would be lost; we should have an integrated spectrum in which the brightest edges of the carbon bands, or some of them, would or would not be seen superposed on a continuous spectrum.
+
+The conditions of observation of comets and stars being so different, any very detailed comparison is really very difficult; but the best way of proceeding is to begin as we have begun with the spectrum of comets, in which, in most cases, for the reason given, the phenomena are much more easily and accurately recorded.
+
+But another revelation still more startling was in store for me, when my assistants and myself had exhausted all the flutings then known to us as origins for the so-called dark bands which remained, and found that none would fit, and we seemed at the end of our tether.
+
+My ten years' work on carbon made itself quite unconsciously felt at this juncture. It suddenly flashed upon me that the 517.2, 516.7, 516.6, 516.7, 517.1, _etc._, recorded by Dunér in his observation of α Orionis as the edge of a dark band, _could be nothing but the edge of the brightest band of carbon_,* the bright cometary band _par excellence_; and therefore that these so-called stars not only resemble comets in their absorption flutings, as we now learn, but in their radiation flutings as well; in short, these stars _were_ comets, with the difference --- a trifling one from my then point of view --- that they were not moving round our sun.
+
+*) Dr. Copeland arrived at the same conclusion in 1886 in the case of a "new star" in Orion (_Monthly Notices_, _R. A. S._, vol. 46. p. 112).
+
+This surmise has since been abundantly confirmed. The dark band of Dunér is a _contrast band_ --- the spectrum looks dark there on account of the extreme brilliancy of the carbon fluting. The other carbon flutings were next sought for and easily found, proving that these "stars" consisted of swarms of meteorites.
+
+The most prominent bright flutings of carbon therefore are not only observed in luminous meteors, comets, and nebulæ, like that in Andromeda, but in stars of Class 3_a_. So far, then, these bodies may be classed with luminous meteors, comets, and nebulæ. The discussion further showed that the dark (or absorbing) flutings in these bodies were partly due to the absorption of light by the most prominent flutings of manganese and lead, seen at low temperatures. We have, then, in these bodies a spectrum integrating the _radiation_ of carbon and the _absorption_ of manganese and lead vapour, as in the case of some comets.
+
+The law of parsimony compels us to ascribe the bright fluting of carbon in these "stars" to the same cause as that at work in comets, where we know it is produced by the vapours between the individual meteorites or repelled from them. Hence we are led to conclude that the absorption phenomena are produced by incandescent vapour surrounding individual meteorites which have been rendered intensely hot by collisions, while the carbon light comes from the interspaces.
+
+These "stars," therefore, cannot be masses of vapour like our sun, but they are unquestionably clouds of incandescent stones.
+
+This is one of the _new views_.
+
+I next refer to those "stars," few in number, in the spectra of which bright lines had been recorded. These stars, as I have already stated, are classed by Vogel with α Lyræ, in which no bright lines are seen.
+
+The first point that came out was that, if we make due allowance for the discrepancies likely to occur in observations attended with great difficulties, the bright lines observed were lines which either have been observed in the vapours and gases given off by meteorites in vacuum tubes, or which we might expect to see in a combined series of observations on meteorites having different chemical constituents. Among these lines are Hα, Hβ, Hγ, Hδ, 464, 540, 570, 580, 587; in one case (1st Cygnus) there are lines at 5065 and 5268, the latter due to iron.
+
+The next point was that there is the same progression in the absorption as there is in the bright line phenomena. In those stars in which bright lines are seen without the lines of hydrogen, we have no marked absorption lines, but rather bands. When the hydrogen lines are added, as in γ Cassiopeiæ, then we get the line absorption of sodium and magnesium.
+
+In these stars, as in those of Class 3_a_, carbon was first traced by the blue fluting, and afterwards by the one at 517. In both cases these flutings, though recorded, were not recognised by previous observers. The difficulties of the stellar observations must always be borne in mind. It will also be abundantly clear that a bright fluting added to a continuous spectrum may produce the idea of a bright line at the sharpest edge to one observer, while to another the same edge will appear to be preceded by an absorption band.
+
+_Reference to the Old View, by which it was supposed some of the Bright-line Phenomena might be accounted for._
+
+In the views which, some years ago, were advanced by myself and others, to account for the bright lines seen in some of the "stars" to which reference has been made, the analogy on which they were based was founded on solar phenomena, the "stars" in question being supposed to be represented in structure by our central luminary. The main constituent of the solar atmosphere outside the photosphere is hydrogen, and it was precisely this substance which was chiefly revealed by these stellar observations and in the Novas, in which cases it was sometimes predominant. A tremendous development of an atmosphere, like that of the sun, seemed to supply the explanation of the phenomena.
+
+Acting on this view in 1878,* I attempted to catch these chromospheric lines in α Lyræ, abandoning the use of a cylindrical lens in front of the slit with this object in view.
+
+*) "...The sun which we see, the sun which sends us the majority of the light we receive, is but a small kernel in a gigantic nut, so that the diameter of the real sun may be, say, 2,000,000 miles. Suppose, then, that some stars have very large coronal atmospheres; if the area of the coronal atmosphere is small compared with the area of the section of the true disc of the sun, of course we shall get an ordinary spectrum of the star; that is to say, we shall get the indications of absorption which make us class the stars apart --- we shall get a continuous spectrum barred by dark lines. But suppose that the area of the coronal atmosphere is something very considerable indeed --- let us assume that it has an area, say fifty times greater than the section of the kernel of the star itself: now, although each unit of surface of that coronal atmosphere may be much less luminous than an equal unit of surface of the true star at the centre, yet, if the area be very large, the spectroscopic writing of that large area will become visible side by side with the dark lines due to the brilliant region in the centre where we can study absorption; other lines (bright ones) proceeding from the exterior portion of that star will be visible in the spectrum of the apparent _point_ we call a star. Now it is difficult to say whether such a body as that is a star or a nebula. We may look upon it as a nebula in a certain stage of condensation; we may look upon it as a star at a certain stage of growth" (_Roy. Soc. Proc._, vol. 27., 1876, p. 50).
+
+Further, it was quite clear that if such gigantic supraphotospheric atmospheres existed, their bright lines might much modify their real absorption spectra; even "worlds without hydrogen" might be thus explained without supposing a _lusus naturæ_, and so I explained them.
+
+That this view is untenable, as I now believe, and that it is unnecessary, will, I think, be seen from what follows. A long series of newly described phenomena, which are absolutely incomprehensible while it is applied to them, find, I think, a simple and sufficient explanation. I must hold that the view is untenable, because how a body constituted in any way like the sun could change its magnitude from the thirteenth to the sixth every year or so, or change its hydrogen lines from bright to dark once a week, passes comprehension; and the more closely a "star" resembles the sun, the less likely are such changes to happen. Even the minor evolutionary changes are inexplicable on this hypothesis, chiefly because in a completely condensed mass the temperature must be very high and constant, while I have shown that the spectroscopic phenomena are those of a specially low temperature; and I may now add that many of the objects are extremely variable in the quantity and quality of the light they emit.
+
+Another cause of the appearance of the hydrogen lines has been suggested by Mr. Johnstone Stoney.* He considers it due to the clashing together of the atmospheres of two stars, the outer constituent of the atmosphere --- hydrogen --- alone being raised by the friction to brilliant incandescence.
+
+*) _Roy. Soc. Proc._, vol. 17. p. 54.
+
+Another objection we can urge against the old view is that all bodies in the universe cannot be finished suns in the ordinary sense, and that it leaves out of account all possible processes of manufacture, not only of single stars, but of double and multiple systems, at all stages between nebula and sun; while the new one, by simply changing the unit from the star to each individual constituent, it is hardly too much to say, explains everything, though it is perfectly true that in some of the steps a considerable acquaintance with spectroscopic phenomena is necessary to realise the beauty and the stringency of the solutions.
+
+_The Question of Hydrogen in the Case of Bright-line Stars._
+
+It may be convenient also that I should summarise the various conditions under which the lines of hydrogen are observed in the meteoritic swarms we are now considering.
+
+In the "nebulæ" we begin with the widest interspaces. Future investigation may, as I have suggested, show that those in which both hydrogen and carbon are absent are the most widely spaced of all. Be this as it may, it is a matter of common knowledge that in the brighter nebulæ, such as that of Orion, we have hydrogen probably associated with the low-temperature radiation of olivine. That the hydrogen is electrically excited to produce this glow is suggested by the fact that the temperature of the meteorites themselves must be very low; otherwise the magnesium would not show itself without the manganese and iron constituents, and the continuous spectrum would be much brighter and longer than it is.
+
+In a former chapter I showed that in my laboratory experiments, when the pressure was slightly increased in a tube containing gases obtained from meteorites, the carbon bands began to be visible. We should expect this to happen therefore in a meteor swarm at some point at which the mean interstitial space was smaller than that accompanied by the appearance of the hydrogen lines; and it would be natural that both should be seen together at an early stage and both feeble, by which I mean not strongly developed, as hydrogen is not strongly developed even in the nebula of Orion.
+
+The association of the low-temperature lines of hydrogen with the flutings of carbon was therefore to be expected, and I shall subsequently show that we have such an association in the so-called bright-line stars; and even at a further stage of development, in stars like α Orionis, the hydrogen is still associated with carbon.
+
+To sum up then: These new spectrum comparisons had revealed _among the stars_ bodies which _must_ resemble nebulæ, if nebulæ are anything like what I suppose them to be.
+
+From the planetary nebulæ there is an undoubted orderly sequence of phenomena, if successive stages of condensation are conceded, through two of Vogel's classes of "stars."
+
+We must now go into more detail.
+
+### Chapter 33. Comparison of the Spectra of some Stars, Comets, and Nebulæ.
+
 ...
