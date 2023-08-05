@@ -4742,4 +4742,749 @@ Group 6, as has been before stated, is denned by enormous carbon absorption, whi
 
 ## Chapter 39. General Considerations relating to Colour and Magnitude.
 
-...
+In the last part we considered how the Meteoritic Hypothesis fully accounted for the spectrum observed in the case of each celestial body, and enabled us to classify all of them along one line of evolution. We have now to pass from single to double and multiple systems of nebulæ and stars. Here we are driven to the conclusion that in most cases double stars have at one time existed as double nebulæ, although it is possible that in some the companion is a late addition to the system, as a periodical comet is an addition to our own.
+
+In discussing this matter, however, a difficulty arises on account of the fact that on the new view there will be no constant relation between the mass of a swarm and its brightness. When we see a "star" of a certain magnitude, we cannot tell from its light alone whether it is a large faint one or a small bright one, for a large body at a low temperature may be equalled or even excelled in brightness by a smaller "star" at a higher temperature. When we know the spectra of the bodies, we also know their relative temperatures, and no doubt can arise; but, in the absence of spectroscopic details, it is possible that colour may help us to a certain extent.
+
+So far as we at present know, the colours associated with the different groups of celestial bodies are in all probability as follows:---
+
+Group 1 --- Blue, greenish-blue, white, or pale gray.  
+Group 2 --- Yellowish-red.  
+Group 3 --- Yellow to white.  
+Group 4 --- Bluish-white.  
+Group 5 --- White to yellow.  
+Group 6 --- Reddish-yellow to blood-red.  
+Group 7 --- Dark bodies.
+
+The blue colour of some of the more advanced members of Group 1, which are all faint, is probably due to the bright blue fluting of carbon which stands out beyond the end of the continuous spectrum. They are really blue, and not apparently so because of an absorption of the red. That in the case of double stars this colour is not due to optical causes or complementary colours is shown by the fact that there are some equally faint stars which are seen to be red under similar contrast and instrumental conditions.
+
+Pechüle has observed the spectrum of one faint blue star, and his observation bears out my view of their nature. He says ---
+
+...15′ au Nord de cette étoile je trouve une étoile de 7m., qui a un spectre très singulier ni du 3 ni du 4 type. La partie moins réfrangible du spectre n'est qu'indistinctement coupée et un peu plus lumineuse du côté du rouge. Après une large intervalle noire vient une zone étroite d'un éclat tout-à-fait prédominant qui s'éteint rapidement du côté plus réfrangible, et forme la fin du spectre. La couleur de l'étoile est bleuâtre.*
+
+*) Pechüle, _Expédition Danoise_, 1882, p. 40.
+
+The green colour of the unadvanced members of Group 1 is probably due to the magnesium radiation; thus, the Eing Nebula in Lyra is green, and we find that its radiation consists almost entirely of the magnesium fluting at wave-length 500. The bodies in the same group which are white, or pale gray, in all probability add the radiation of carbon and incandescent meteorites to the foregoing. How far spectroscopic observations made with the assistance of large telescopes will confirm these views or prove them to be erroneous remains to be seen; for the present, however, we may take the colours associated with bodies in Group 1 as I have stated them.
+
+The colours which I have associated with Groups 2 and 6 are those given by Dunér.
+
+The prevailing tint in bodies of Groups 3 and 5 is yellow or orange, so that when we see a yellow star we cannot say from colour alone what group it belongs to.
+
+The stars of Group 4, α Lyræ, and Sirius being the most brilliant types, are white; but some of them, such as the most brilliant named, are bluish-white.
+
+The bodies of Group 7 have no inherent luminosity.
+
+_General Statement of Conditions._
+
+In discussing the question whether the components of a binary star have condensed from the same nebulosity or not, a difficulty arises on account of the fact that, according to my theory of their constitution, there will be no constant relation between the mass of a swarm and its brightness.
+
+If a pair of stars of unequal masses have condensed from a double nebula, the smaller one will be further advanced along the temperature curve than the larger one; the colours and spectra will be different, _but it is not imperative that the magnitudes shall be unequal_. The smaller swarm, because of the greater amount of variation in its radius vector, will suffer more quasi-tidal action, and therefore more collisions per unit volume must occur; it will therefore condense more rapidly than the larger one; it will soon become as luminous, and afterwards will for a time be considerably hotter than the larger one.
+
+If the masses be very unequal, the smaller one will have the smaller brilliancy for a longer time. When there is a great difference in magnitude, therefore, it is fair to assume that the one with the smaller magnitude has also the smaller mass.
+
+Another difficulty in the discussion, in the absence of spectroscopic details, is due to the similarity in colour of bodies at equal heights on the opposite sides of the temperature curve. Thus, as already stated, bodies in Group 3 have, so far as we at present know, exactly the same colour, namely, yellow, as those in Group 5.
+Again, many of the members of Group 2 have the same colour as some in Group 6.
+
+The general conditions with regard to this subject may be thus briefly stated: If the _magnitudes_, colour, and spectra of the two components of a physical double are identical, both had their origin in the same nebulosity with two condensations, or in a double nebula.
+
+If the _magnitudes are nearly equal_, but the colours and spectra different, it may be that the one with the most advanced spectrum has the smaller mass; and if the advance is in due proportion, we are justified in regarding them as having had a common origin.
+
+If the _magnitudes are very unequal_, we may take the one with the smaller magnitude as having the smaller mass; and if it is proportionately in advance, as indicated by its spectrum, or colour, we may regard both components as having had a common origin. If the smaller one be less advanced than the larger one, we have to regard it as a late addition to the system.
+
+_If the two stars are of equal mass_ and revolve round their common centre of gravity, they have in all probability done so from the nebulous stage, and therefore they will have arrived at the same stage along the evolution road, and their colours and spectra will be identical.
+
+_If, however, the masses are very different_, then the smaller mass will run through its changes at a much greater rate than the larger one. In this way it is possible that the stars seen so frequently associated with globular nebulæ may be explained; while the nebula with a larger mass remains still in the nebulous condition, the smaller one may be advanced to any point, and may indeed even be totally invisible (Group 7), while the parent nebula is still a nebula. This condition may be stated most generally by pointing to those double stars in which the companions are small and red, although we know nothing for certain with regard to their masses. But if we pass to the other category, in which it may be suggested that the companion is added afterwards, the most extreme form would be a nebula revolving round a completely formed star, like an enormous comet round the Sun; a less extreme form would be a bright-line star, or a star of the second group, revolving round one of a higher group. In this case the colour would be blue or greenish-blue or gray.
+
+_Light Curves._
+
+I find that the best way of dealing with this question is to represent the life of each component by a curve, in which the ordinates represent time and the magnitude of the star. Then, if the colours and magnitudes are consistent with the curves beginning at the same point, we are justified in regarding both as having condensed from the same nebulosity. If not, in all probability the companion would be a later addition.
+
+The form of the light curve, which represents the effect of increase and decrease of temperature, will probably be something like Fig. 80.
+
+[Fig. 80. --- Form of Light Curve.]()
+
+We should expect the curve to be somewhat similar to the light curves of the regular variables of Group 2, where the increase in luminosity is due to the collision of two meteor-swarms. Here there is a rapid rise to maximum, and a steadier fall to minimum. This is confirmed by the fact that there is apparently a greater number of stars of Group 5 than of Group 3, though on this point I cannot yet speak with any certainty. If this should turn out to be so, the fact would appear to indicate that the time of existence of a body as a star of Group 5 is probably longer than the time during which it exists as a condensed meteor-swarm under the conditions of Group 3. During its existence as an uncondensed swarm, however, the increase of luminosity of the swarm will be very steady; hence there will first of all be a gradual increase of luminosity; this will be followed by a rapid rise to maximum, and afterwards a steady fall, until finally all luminosity disappears. The light curves being of this form, if we begin with two uncondensed swarms of equal masses and conditions, the curve for each will be the same in length and in the point of maximum luminosity. It will be a neck-and-neck race, and we shall have equal brilliancy, similar colour and spectrum throughout. Such stars I call Class 1.
+
+## Chapter 40. Details of the Various Colour Classes and Conclusions.
+
+_Binary Stars, Class 1. --- Equal Magnitudes and Similar Colours (not Yellow)._
+
+The first question is, Are there any such stars, for, from the existence of so many nearly equal double nebulæ in the heavens, we should expect a large number.
+
+For the purpose of this inquiry I have used the Bedford Catalogue,* and have limited myself to the stars which afford the strongest evidence of being binary systems. In the absence of any spectroscopic survey of such systems, I am forced to content myself with similar or nearly similar colours.
+
+*) _A Cycle of Celestial Objects_, Smyth and Chambers. Second edition, 1881.
+
+The following is a list of the binary stars given by Smyth, in which the magnitudes and colours of the components are almost identical. I except for the present those in which both components are yellow, for a reason before stated.
+
+In these cases the two curves representing the lives of the components will be identical, or nearly so, and will be as in Fig. 80. One of the components may have a somewhat smaller mass, and, therefore, a shorter time of existence, as a self-luminous body, than the other, but the magnitudes and colours may still be nearly equal, or sufficiently so for my present purpose in the present state of our knowledge.
+
+[TABLE]
+
+_Binary Stars, Class 2. --- Equal Magnitudes and Similar Colours (Yellow)._
+
+The following list contains those binary stars in which both components are yellow and of nearly equal magnitudes.  If both components shall be found to have identical spectra, thus placing them in the same group, a point which their colour leaves indeterminate, their "life curves" will be coincident. If one is found to belong to Group 3, however, and the other to Group 5, they can still be represented by two curves beginning at the same point, but with the ascending side of one intersecting the descending side of the other, as in Fig. 81. In the former case the masses of the two components would evidently be equal, or nearly so, while in the latter case one would be considerably larger than the other. Hence, in all cases where the components are yellow and of nearly equal magnitudes, we are justified in regarding them as having possibly condensed from the same nebulosity.
+
+[Fig. 81. --- Forms of Light Curves (Class 2).]()
+
+_Binary Stars, Class 3. --- Equal or Nearly Equal Magnitudes, one Star being Blue._
+
+There is a considerable number of binary stars in which the magnitudes of the components do not differ very much, but where one star is blue. If we take these blue stars as belonging to Group 1, we shall have an average case represented by Fig. 82, both curves starting at the same point. From this point of view the companion which has the smaller magnitude has the greater mass, and the system is young.
+
+[Fig. 82. --- Forms of Light Curves (Class 3).]()
+
+If these curves are a fair representation of binary stars of this class, it is clear that we ought to find the primaries in every case, white or yellow. This is a severe test, but yet on referring to the following table, which is a list of such binary stars, it will be seen that there is not a single case in which the primary is not white or yellow:---
+
+[TABLE]
+
+_Binary Stars, Class 4. --- Very Unequal Magnitudes, the smaller Star being Blue._
+
+The next class to be considered is that in which the companion is of relatively small magnitude, and is blue, green, or gray, the primary usually being white or yellow.
+
+A binary star of this class can be equally well explained by starting the two curves at the same point, or starting one later than the other. In the former case we should have to regard the one with the smaller magnitude as having the greater mass, and the two curves would be as in Fig. 83 (left). If we take the one with the smaller magnitude as having the smaller mass, we shall have the curves as in Fig. 83 (right).
+
+It seems probable, therefore, that we cannot at present tell whether the components of a binary star of this class have both condensed from the same nebulosity or not; but since the components of the majority of binary stars appear so far to have had in all probability a common origin, there is no reason why we should rather regard these as having had a different one.  The following is a list of them taken from Smyth's _Celestial Cycle_:---
+
+[Fig. 83. --- Forms of Light Curves (Class 4).]()
+
+_Binary Stars, Class 5. --- Unequal Magnitudes, the fainter Star being Red._
+
+There are a few binary stars in which the companion is red. The red component has probably a smaller mass than the primary, and is, consequently, further advanced along the temperature curve. Fig. 84 represents an average case of such a binary star; both curves starting at the same point.
+
+[Fig. 84. --- Forms of Light Curves (Class 5).]()
+
+We have here again a severe test, for if these curves represent anything like the truth, the primaries ought in every case to be white or yellow. On referring to the list it will be seen that this condition is satisfied in every case.
+
+Only a small number of such binaries have been recorded. They are as follows ---
+
+[TABLE]
+
+The remaining four are as follows ---
+
+[TABLE]
+
+_Outstanding Cases._
+
+Out of all the binary stars of which there is any record in Smyth's _Celestial Cycle_, there are only nine which cannot be included in any of the five classes which have been dealt with. Five of these are totally indeterminate on account of the absence of a statement of the colours; they are as follows ---
+
+[TABLE]
+
+In the first of these, λ Geminorum, the companion has probably been added since the primary condensed, for we cannot place the two components on curves which begin at the same point.
+
+With regard to γ Leonis, there is a difficulty as to what spectrum should be associated with the greenish-yellow component, so for the present it cannot be stated whether both have condensed from the same nebulosity or not.
+
+We cannot include ζ Herculis in Class 2, because the difference between the magnitudes of the two components is too great, but we can represent the case by starting the companion curve a little later than the primary curve. We may, therefore, conclude that we have here to deal with an added companion.
+
+Both components of γ Aquarii are probably in the nebulous condition, and the difference between the magnitudes of the components is probably entirely due to the difference between the masses. It is probable that this is a case where the meteor-swarms are in a very early stage of condensation.
+
+_Conclusions._
+
+From the foregoing lists and discussions it will be seen that in nearly all cases the components of a binary can be shown with much probability to have had their origin in double nebulae. There are exceedingly few cases in which it seems at all likely that the companion is an addition of a cometary nature, and it is possible that even these few exceptions may be due to errors of observation. Indeed, a study of cometary phenomenon leads us to expect this result, for they seem to be shortlived.
+
+I cannot omit to point out how very admirable the colour observations must have been to stand the strain to which the foregoing generalisation has subjected them; and that if equal skill be now applied to observation of the spectra of these bodies, a considerable advance in our knowledge may be looked for.
+
+The conclusions we have thus been driven to are very important. First, they suggest that we may have even bodies of Group 7, _i. e. planets_, revolving round a still uncondensed nebula, and that, secondly, in the case of multiple stars they have, in the vast majority of cases, all sprung from multiple nebulæ. What must happen with regard to the light emitted by these bodies thus gravitationally united _ab origine_, if they interfere at all with each other's movements so far as the meteorites in a swarm are concerned, or if members of the later groups come in the Earth's line of sight, has next to be discussed.
+
+# Part 8. On the Variability in Light and Colour of Cosmical Bodies.
+
+## Chapter 41. An Introductory Statement.
+
+On the hypothesis we are considering there is a grand and orderly variation, both in light and colour, in the case of every undisturbed swarm during its condensation from its most nebulous condition to that of a cool dark globe.
+
+As by virtue of the ordinary evolutionary process an _undisturbed_ swarm successively passes through the changes, the results of which define the various groups, the light will wax through Groups 1 to 4, and then wane till it is finally extinguished; at the same time, the colour sequences defined in Chapter 39 will be successively passed through. But with such a variability as this, compared with the period of which our _annus magnus_ is but a point of time, we have now nothing to do. We have to deal really with _disturbed_ swarms or with double or multiple swarms through their various stages of condensation.
+
+Let us take the purely disturbed swarms first. Imagine a nebula, sparse, and therefore so dim as hardly to be visible at all. Then, further, imagine the appulse of another, or the approach of a meteoritic stream. We shall have the condition which must bring about increased luminosity, the outburst may be short or sudden; the greater luminosity may last a short or a long time; the dying down of the light may be fast or slow. In that we shall have the possibilities of new and dying stars.
+
+If the spectrum of the light produced by this clashing be observed, we may not have precisely the same phenomenon as that noted in the various groups defining the result of the orderly condensation of a single swarm, for the simple reason that we shall have two swarms or bodies to deal with. Even if the very highest temperature be reached, we shall not have _exactly_ the same spectrum as that presented by Group 4.
+
+The most stupendous case illustrating the above remarks is to be found in the Pleiades, the true structure of which has been revealed to us by Mr. Roberts, a copy of whose long-exposure photograph forms the frontispiece to this volume. The principal stars are not really stars at all; they are simply _loci_ of inter-crossings of meteoritic streams, the velocities of which have been sufficiently great to give us, as the result of collisions, a temperature approaching that of α Lyræ, so far as we can judge by the spectrum; but that the α Lyræ conditions are not present is evidenced by the fact that in Pleione the dark hydrogen lines have a bright line running down their centres. Hence we have intensely-heated hydrogen outside that which is absorbing.*
+
+*) Miss A. C. Maury in _Astronomische Nachrichten_, No. 2934.
+
+So long as these meteoritic streams are interpenetrating and disturbing each other, so long the Pleiades will shine; but their light may soon cease if the disturbance comes to an end, for we are not dealing with masses of vapour like α Lyræ. Indeed, one of them seems to have already become invisible. Of the seven daughters of Atlas, one has disappeared. The "septem radiantia sidera" are seven no longer, the seventh had vanished before the time of Aratus.
+
+"The Pleiades: small the region  They fill, and pale the light they dart.  Seven journeyers men call them  Though only six are visible to ken.  No star, I wis, has vanished from Heaven's floor  Within mortal tradition, and idly is that number  Fabled. Natheless seven the names they bear:  Alcyone, Merope, Celæno, Electra,  Sterope, Taygete, and stately Maia."*
+
+*) Poste's translation, p. 13.
+
+At the beginning of the action to which I have ascribed the present light of the Pleiades, we should have the appearance of a "new star," and the greater the light produced and the more sudden the outburst the more certainly would the appearance of a new star be chronicled. Many such stars have burst forth, and the phenomena recorded have been entirely in harmony with the explanation afforded by the hypothesis; but, as the discussion of these phenomena is not yet complete, I shall not in the present volume touch further upon them; but I may point out that before the existence of "variable stars" was recognised, as it is now, the increase in magnitude of a variable at maximum, rendering visible to the naked eye what was before invisible, was attributed to the creation of a new star. Hence it is that the first work done on the periodicity of variable stars grew out of observations of so-called Novæ.
+
+Leaving on one side, then, any question of Novæ we will inquire into the growth of our knowledge of stars, the light of which is known to wax and wane with more or less regularity, and see to what causes this variability has been ascribed. We have to consider those shorter periods of light variation, well within human ken, light changes which, instead of taking millions and perhaps billions of years, are undergone in a few days, or weeks, or months. Such changes have been abundantly chronicled from the earliest times, and acknowledged to be among the most mysterious phenomena presented to us in the skies.
+
+In this historical survey we must first consider the case of _Mira_ or ο Ceti. It is now nearly three centuries ago since Fabricius noticed this star (August 1596), thinking it to be a _nova_, and watched its disappearance in the following October.*
+
+*) Kepler, _de Stella Nova_, chap. 22. p. 112.
+
+Not only Fabricius but Kepler looked upon Mira Ceti as a new star similiar to those of 1572 and 1604. Indeed, it was regarded as such until 1638, when some observations by Phocylides Holwarda brought out for the first time the fact that the changes in magnitude repeated themselves. The work done by this astronomer is quoted by Hevelius, from whose complete history of Mira Ceti* the particulars given in the note have been taken.*
+
+*) _Historiola Miræ Stellæ Gedani_, 1654, p. 147.
+
+*) "Denique magnitudo erat tam nudis oculis, quam per telescopium, quæ stellas tertii fulgoris excederet, quales in ore et gena Ceti, ut et nodus Piscium sunt, verum sensibiliter quoque minor erat stellis secundæ magnitudinis, mandibula nimirum, atque lucida in capite Arietis. Interim decrescebat paulatim, atque pedetentim, usque dum in occasu suo Heliaco æquaretur quarti circiter honoris et magnitudinis stellis... Nos novo isti a nobis observato phænomeno disparitionem adscripsisse... Et revera sic se res habet. Media æstate, aliquoties summo mane surreximus, postquam illud ipsum Heliace ortum alias fuisset; cœlum diligentissime intentis oculis lustravimus, vidimus Nodum, Os, Genam, Mandibulam Cete, aliasque vicinas circumcirca stellas, nullum tamen novæ stellæ tunc vestigium observari potuit. Neque ego unicus observator fui, plures mecum testes idonei: quin et clarissimus vir Bernardus Fullenius, Matheseos Professor, phænomenon multoties inquisivit. Frustra omnia. Certum indicium illud quasi disparuisse. At die 7 Novembris anni jam labentis 1639 Juliani, post continua aliquot dierum, imo septimanarum apud nos nubila, vesperi Cœlo tandem aliquando claro, forte egressus illud observavi, atque etiamnum cuivis observare liberum relinquitur, eodem præcise loco, eodem situ quo ante."
+
+Holwarda first observed the star in December 1638, when it was brighter than a third magnitude; he watched it decrease to the fourth, and disappear during the summer of 1639. On December of the same year he again observed it. There is no doubt, indeed, that Holwarda was the first to demonstrate by these observations that the light of stars is liable to periodic changes in intensity.
+
+Fullenius, a teacher of mathematics at Franecker, was the next to observe Mira.* He noted that the star was visible on September 23, 1641, and on the same date in the following year. In August 1644, however, no trace of it could be made out.
+
+*) _Ibid._ p. 148 --- "Observavi aliquot abhinc annorum in cœlo phænomenon, instar stellæ tertiæ ut plurimum magnitudinis; quae secundum anni tempora autem non tantum suam magnitudinem mutavit, sed etiam quandoque per dies, imo menses delituit, ut et hoc anno, ubi ad hunc usque diem nondum apparuit, quod et annis retro duobus evenit, ubi ante 23 Septembris illam videre non licuit."
+
+Junquis, a professor at Hamburg, recorded* that Mira was of the third magnitude on February 18, 1647, and was invisible from July 1648 to November of the same year.
+
+*) _Ibid._
+
+It was Hevelius, however, who made the first detailed investigation into the variations of the light of this star. Beginning in January 1648 he assiduously watched the changes in magnitude until March 1662, and placed the question of variability beyond the possibility of doubt.*
+
+*) "Hæc sunt, benigne lector, miræ hujus stellæ observationes, quascunque impetrare hujusque potuimus. Quibus diligenter perpensis, manifestissime liquebit, insolitum prorsus, et admirandurn esse phænomenum; quod certo tempore, in summo æthere penitus latet, certo tempore rursus affulget, successive crescit; vicissim sensim decrescit; denique evanescit, et quasi penitus exstinguitur, ita tamen ut rursus quasi resurgat, atque accendatur. Adhæc, dum splendet, non eadem semper facie, hoc est magnitudine, lumine et colore micat, sed omnino, radiis disparibus; modo lumine hebetiori, et subruffo colore, modo colore albicante et clarissimis radiis undique vibrantibus coruscat; diversaque magnitudine, nunc sextæ, quintæ, quartæ; nunc tertiæ et secundæ gaudet. De cœtero, nee eodem semper anni tempore disparet, nee denuo elucescit, neque easdem perpetuo servat vicissitudines; sed modo mense Julio, ut hoc anno factum est 1661, modo primum mense Septembri, ut anno 1641 et 42 et 1660 accidit; modo tardius ut 1648 contigit, primum in conspectum venit."  "In disparitione etiam stella hæcce varia est; nunc citius, nunc tardius sese abscondit. Sæpius siquidem ad occasum usque heliacum decrescendo perdurat, ut anno 1638, 1648, et 1659; non raro etiam maturius; mense Januario imo Novembri extinguitur, velut anno præterito 1660, et hoc anno 1661 clare observatum est. Quinetiam, quod probe notandum, nonnunquam uno eodemque anno bis evanescit; quemadmodum pariter hoc currente anno 1661 contigit. Namque sub finem Januarii prima vice, antequam ad occasum heliacum pervenisset, deleta est; rursus mense Julio accensa et mense Novembri, hæc dum scribo, secunda vice sese subducit. Sic ut ex superioribus observationibus certissime constet, miram hanc stellam, nunc diutius, nunc brevius nobis affulgere, aut delitescere: interdum per septem menses, interdum, ut hoc anno labente factum, vix quinque mensium spatio abfuit. Pariter hoc anno tantum per quatuor menses in cœlo sese exhibuit, cum tamem alio tempore sex, septemve menses, ut diximus, continenter perdurasset. " --- _Ibid._ p. 155.
+
+During the fifteen years of observation Hevelius saw the star go though its changes in magnitude many times, and noted that it was always invisible for several months in the year. He did not, however, determine the period, although it will be seen that the following observations would have been sufficient for him to have deduced an approximate value:---
+
+Sept. 10, 1660 --- "Instar stellæ 4 magn. fere."  Aug. 20, 1661 --- " Vix quartæ magnitudinis extitit."  Interval, 344 days.  Sept. 20, 1660 --- "Æqualls illi in ore Ceti."  Aug. 29, 1661 --- "Æqualls illi in ore Ceti."  Interval, 353 days.
+
+The determination of the period of Mira Ceti was deduced by Bouillaud in 1667 from all the observations which had been made from its discovery in 1638 to 1660. This discussion occurs in a rare book having the title "Ismaelis Bullialdi ad Astronomos monita duo: Primum. de Stella Nova, quæ in Collo Ceti ante annos aliquot visa est. Alterum. de nebulosa in Andromedæ cinguli parte Borea, ante biennium iterum orta."
+
+A review of the book appeared in the first volume of the _Philosophical Transactions_ (p. 381), from which the following account of Bouillaud's conclusions have been taken: "...That one _period_ from the _greatest phase_ to the next consists of 333 days; but that the interval of time betwixt the times of its beginning to appear equal to stars of the _sixth magnitude_, and of its ending to do so consists of about 120 days; and that its _greatest appearance_ lasts about 15 days: all which yet he would have understood with some latitude.
+
+"This done, he proceeds to the investigation of the causes of the vicissitudes in the emersion and disappearance of this star, and having determined that the apparent increase and decrement of every lucid body proceeds _either_ from its changed distance from the eye of the observer, _or_ from its various site and position in respect of him, whereby the angle of vision is changed, or from the increase or diminution of the bulk of the lucid body itself; and having also demonstrated it impossible that this star should move in a _circle_ or in an _ellipsis_, and proved it improbable that it should move in a _strait line_, he concludes that there can be no other genuine, or at least no other more probable cause of the emersion and occultation than this: That the bigger part of that round body is obscure and inconspicuous to us, and its lesser part lucid, the whole body turning about its own center and one axe, whereby for one determinate space of time it exhibits its lucid part to the Earth, for another, subducts it, it not being likely that fires should be kindled in the body of that star, and that the matter thereof should at certain times take fire and shine, at other times be extinguist upon the consumption of that matter."
+
+This, so far as I know, is the first proposed explanation of stellar variability on record.
+
+The next star in which variability of light was observed was χ Cygni.* Kirch's observations made in 1686 and subsequent years* were communicated to the Royal Society. He observed the star with the aid of an eight-foot tube in August 1687. It became visible to the naked eye in October, increased in brightness and reached a maximum in November, and finally disappeared. This observer also found that the star had always the same brightness at a maximum, and in assigning it a period of 404 1/2 days, he noted that this duration was irregular.
+
+*) _Phil. Trans._, 1715, No. 343, p. 227.
+
+*) "Ut mutabilem apparentiam stellæ χ in collo Cygni deprehenderem, occasionem dedit stella capiti Cygni vicina quam Hevelius, Astronomus solertissimus, anno 1670 et 1671 observavit. Cum enim spem conciperem fore ut eadem stella nunc iterum sæpius esset apparitura, non secus ac stella in collo Ceti, quam Hevelio post primam disparitionem mox iterum apparuisse constabat, quærebarn eam 1° et 6to (11° et 16°) Julii 1686 noctibus serenis, non autem reperiebam, sed potius animadvertebam stellam illam 5tæ magnitudinis in collo Cygni, a Bayero græca litera χ signatam desiderari.  Die vero 9 (19) Octobris deprehendi eam nudis oculis distincte omnino. Et quia facile adducebar ut existimarem eandem nudis nostris oculis iterum disparituram, delineavi aliquot ipsam circumstantes stellulas, ope bipedalis magnæque capacitatis Tubi, ut ex harum cum illa comparatione magnitudinem ejus, cum decresceret, expenderem, uti Fig. A exhibetur... Ab illo tempore quærebam quidem stellam istam variis noctibus frustra, tandem vero tamen earn reperi 6to (16°) Aug. 1687 iterum ope octopedalis Tubi, at vero exiguam valde."  "Inde de die in diem crevisse deprehendebatur; et factum est, ut die 23 Oct. (2 Nov.) iterum prima vice, nudo oculo, se se conspiciendam præberet, valde licet adhuc dum exiguam. Die 2do (12°) Nov. optime erat conspicua, etiam post 26tum Nov. (6 Dec. ) ut ut hoc ultimo die jam iterum in statu decrescendi existeret. Postmodum non nisi per Tubos dignosci potuit, tandemque adeo exigua evasit, ut iterum Tubo 8 pedum earn deprehendere non potuerim. Atque ita animadversum est hac vice ab una disparitione usque ad alteram, annum unum, mensem unum, unamque hebdomadam circiter effluxisse. Sequentes quoque observationes docuerunt hancce stellam tempus satis constans in sua apparitione servare, non tamen quavis vice ad requalem magnitudinem pervenire. Imo aliquando accidit, ut nudo oculo plane invisibilis maneat, dum per tubum est conspicua, et maximam suam magnitudinem assecuta est; prout anno 1688 in fine, et 1689 in principio anni accidit. E contrario, sequente anno 1690, stella hæc eo melius videri poterat. et quidem notabiliter major quam sua vicina, quam Bayerus juxta χ collocavit extra collum Cygni, nullaque litera notavit, quam ego solius memoriæ juvandæ gratia, Hebraica litera [HEBREW], notavi. Et postquam hujus stellæ apparentiam et disparentiam sæpius observavi, comperi eam valde esse regularem, revolutionemque 404 1/2 dierum servare."
+
+These observations bring us to the time of Newton, who at once saw that the cause of true Novæ must be distinct from that producing variability pure and simple. He ascribed the sudden appearance of new stars as possibly due to the appulse of comets.
+
+Sic etiam stellae fixæ, quæ paulatim expirant in lucem et vapores, cometis in ipsas incidentibus refici possunt, et _novo alimento accensæ pro stellis novis haberi_. Hujus generis sunt stellæ fixæ, quæ subito apparent, et sub initio quam maxime splendent, et subinde paulatim evanescunt. Talis fuit stella in cathedra Cassiopeiæ quam Cornelius Gemma octavo Novembris 1572 lustrando illam cœli partem nocte serena minime vidit; at nocte proxima (Novem. 9) vidit fixis omnibus splendidiorem, et luce sua vix cedentem Veneri. Hanc Tycho Brahæus vidit undecimo ejusdem mensis ubi maxime splenduit; et ex eo tempore paulatim decrescentem et spatio mensium sexdecim evanescentem observavit.*
+
+*) _Principia_, p. 525, Glasgow, 1871.
+
+But with regard to the ordinary variables, he accepts Bouillaud's suggestion, and adds another ---
+
+Sed fixæ, quæ per vices apparent et evanescunt, quæque paulatim crescunt, et luce sua fixas tertiæ magnitudinis vix unquam superant, videntur esse generis alterius, et revolvendo partem lucidam et partem obscuram per vices ostendere. Vapores autem, qui ex sole et stellis fixis et caudis cometarum oriuntur, incidere possunt per gravitatem suam in atmosphæras planetarum et ibi condensari et converti in aquam et spiritus hurnidos, et subinde per lentum calorem in sales et sulpnura et tincturas et limum et lutum et argillam et arenam et lapides et coralla et substantias alias terrestres paulatim migrare.
+
+Both Montanari in 1669 and Maraldi in 1692 observed that the magnitude of β Persei or Algol was variable.
+
+Id quoque testatur D. Montarari stellam lucidiorem Medusæ, diversis annis, variæ esse magnitudinis: nullam pene in ea mutationem potuit advertere D. Maraldi annis 1692 et 1693, sed anno 1694 aucta est et imminuta insignitur, modo quarti, modo tertii, modo secundi, ordinis stella apparuit.*
+
+*) _Historia Regiæe Scientiarum Academiæ_, liber 4. sect. 6. caput 8. p. 362.
+
+This information with respect to changes of the star from the second to the fourth magnitude, though important, is not very definite, and it was left to Goodricke, an English astronomer, to discover, in 1782, the periodicity of these variations and to conelude* --- 1. "That the star changes from about the second to the fourth magnitude in nearly three hours and a half and then back to the second magnitude again in the same time. 2. That this variation occurs about every two days and twenty-one hours." Flamsteed observed the star in 1696, and found it to be of the third magnitude, and Goodricke, by comparing it with one of his own, deduced the more accurate value of 2 days, 20 hours, 48 minutes, 56 seconds. At the end of the observations Goodricke added the note --- "I should imagine that the cause of this variation could hardly be accounted for otherwise than either by the interposition of a large body revolving round Algol, or some kind of motion of its own whereby part of its body covered with spots or such-like matter is periodically turned towards the earth."
+
+*) _Phil. Trans._, 1783, p. 474.
+
+Another variable observed by Goodricke was β Lyræ.* His first observations brought him to the conclusion that the star had a periodical variation of nearly six days and nine hours, but a further investigation showed that the true period was twelve days nineteen hours, there being two maxima and minima. At one minimum the magnitude of the star is between four and five, at the other between three and four.*
+
+*) _Ibid._ 1785, p. 153.
+
+*) Arago in his _Astronomy_ and Sir J. Herschel in his _Outlines_, and also many writers following them, give the honour of discovering that β Lyræ had two maxima to Argelander; but the words of the English astronomer Goodricke are explicit,* his conclusions being summed up as follows:---  1\. The star is of the third magnitude for about two days.  2\. It diminishes in about one day and a quarter.  3\. It is between the fifth and fourth magnitude for less than a day.  4\. It increases in about two days.  5\. It is of the third magnitude for about three days.  6\. It diminishes in about one day.  7\. It is something larger than a star of the fourth magnitude for little less than a day.  8\. It increases in about one day and three-quarters to the first point, and so completes a whole period.
+
+Zöllner, in a relatively recent discussion, advances little beyond the views advocated by Bouillaud and Newton.* In considering the causes of variability, he lays the greatest stress upon an advanced stage of cooling, and the consequent formation of scoriæ which float about on the molten mass. Those formed at the poles are driven towards the equator by the centrifugal inertia, and by the increasing rapidity of rotation they are compelled to deviate from their course. These facts, and the meeting which takes place between the molten matter flowing in an opposite direction, influence the form and position of the cold non-luminous matter, and hence vary the rotational effects, and therefore the luminous or non-luminous appearance of the body to distant observers. This general theory, however, does not exclude other causes, such as, for instance, the sudden illumination of a star by the heat produced by collision of two dark bodies, variability produced by the revolution of a dark body, or by the passage of the light through nebulous light-absorbing masses.
+
+*) The views advanced by Sir Wm. Herschel and Maupertuis were really covered by Bouillaud's general statement.  Herschel laid stress upon the variability of lustre which might be produced by the existence of spots on the stars similar to those on the sun. Maupertuis considered some of the stars which varied their light as having the form of thin, flat discs, the axis of rotation being subject to a kind of nutation. Dunn's view (_Phil. Trans._, vol. 52.) of an unequally transparent atmosphere is more original.
+
+Among modern inquirers Professor Pickering has been more original in his hypothesis, though it is not very different from that of Maupertuis. He has suggested that the light changes of some variables may be explained by supposing them to have axes of different lengths with dark portions at the ends symmetrically situated as regards the larger axis.
+
+In the following discussion of the cause of variability suggested by the meteoritic hypothesis, I shall divide variability into regular and irregular, defining regularity by constantly recurring maxima and minima on the light curves.
+
+## Chapter 42. The Causes of Variability suggested by the Meteoritic Hypothesis.
+
+_Regular Variability._
+
+All regular variability in the light of cosmical bodies is caused by the revolution of one swarm or body round another (or their common centre of gravity).
+
+In the case of the revolution of one swarm round another an elliptic orbit is assumed, and the increase of the light _at maximum_ is produced by collisions among the meteorites at periastron.
+
+In the case of the revolution of a swarm round a condensed body, the increase of the light _at maximum_ is produced by the tidal action set up in the secondary swarm.
+
+In the case of one condensed body revolving round another, the reduction of the light _at minimum_ is caused by an eclipse of one body by the other. This can only happen when the plane of revolution of the secondary body passes very nearly through the earth.
+
+_Irregular Variability._
+
+All irregular variability in the light of cosmical bodies is caused _a._ by the revolution of more than one swarm or body round another (or their common centre of gravity); or _b._ by the interpenetration of meteoritic sheets or streams.
+
+In the case of the revolution of more than one swarm round another in elliptic orbits, the irregular maxima are caused by differences of period and periastric conditions.
+
+So far as I know, the only previous explanation of variability on such a basis as the one above stated, which assigns the revolution of one mass round another as a cause of variability, is the one we owe to Newton, who suggested that such stellar variability as we are now considering was due to conflagrations brought about at the maximum by the appulse of comets; and no doubt his idea would have been more thoroughly considered than it has been hitherto, if for a moment the true nature of the special class of bodies we are now dealing with had been _en évidence_. We know that some of them at their minimum put on a special appearance of their own in that haziness to which I have before referred as having been observed by Mr. Hind. My researches show that they are all nebulæ in a further stage of condensation; and such a disturbance as the one I have suggested would be certain to be competent to increase the luminous radiations of such a congeries to the extent indicated.
+
+Some writers have objected to Newton's hypothesis on the ground that such a conflagration as he pictured could not occur periodically; but this objection I imagine chiefly depended upon the idea that the conflagration brought about by one impact of this kind would be quite sufficient to destroy one or both bodies, and thus put an end to any possibilities of rhythmically recurrent action. It was understood that the body conflagrated was solid like our earth. However valid this objection might be as urged against Newton's view, it cannot apply to mine, because in such a swarm as I have suggested, an increase of light to the extent required might easily, be produced by the incandescence of a few hundred tons of meteorites.
+
+I have already referred to the fact that the initial species of the stars we are now considering have spectra almost cometary, and this leads us naturally to the view that we may have among them in some cases swarms with double nuclei-incipient double stars, a smaller swarm revolving round the larger condensation, or rather both round their common centre of gravity. In such a condition of things as this, it is obvious that, as before stated, in the swarms having a mean condensation this action is the more likely to take place, for the reason that at first the meteorites are too sparse for many collisions to occur, and that, finally, the outliers of the major swarm are drawn within the orbit of the smaller one, so that it passes clear. The tables, which will be subsequently given, show that this view is entirely consistent with the facts observed, for the greater number of instances of variability occur in the case of those stars in which, on other grounds, mean spacing seems probable.
+
+I propose in this chapter to consider the suggested cause of variability somewhat in detail, but only that part of it which touches non-condensed swarms. I will begin with Groups 1 and 2.
+
+In these groups the variability is produced by the revolution of one or more smaller swarms round the central swarm, the maximum luminosity occurring at periastron passages, when the revolving swarms are most involved in the central one.
+
+According to the theory, the normal light condition is that which exists at minimum, and in this respect it resembles that suggested by Newton, namely, that the increase of luminosity at maximum was caused by the appulse of comets. All other theories take the maximum as the normal condition, and the minimum as a reduction of the light by some cause, large proportion of spotted surface, or what not.
+
+Anything which in the normal minimum condition of light-equilibrium will increase the amount of incandescent gas and vapour in the interspaces will bring about the appearance of the hydrogen lines and carbon flutings as bright ones. The thing above all things most capable of doing this in a very transcendental fashion is the invasion of one part of the swarm by another one moving with a high velocity. This is exactly what I postulate. The wonderful thing under these circumstances then would be that bright hydrogen and carbon should _not_ become more luminous, not only in bright-line stars, but in those the spectrum of which consists of mixed flutings, bright carbon representing the radiation.
+
+We may consider three cases of revolution. Taking that first in order which will give us the greatest light range, we find that this obviously will occur in those systems in which the orbits are most elliptic and the periastric distances least.
+
+[Fig. 85. --- Explanation of the Variability of Bodies of Groups 1 and 2. 1. Maximum variation. The ellipse represents the orbit of the smaller swarm, which revolves round the larger. The orbit of the revolving swarm is very elliptical, so that at periastron the number of collisions is enormously increased.]()
+
+On the other hand, a mean ellipticity will give us a mean range.
+
+In these two cases, in order to account for the greatest difference in luminosity at periastron passage, we have supposed the minor swarm to be only involved in the larger one during a part of its revolution, but we can easily conceive a condition of things in which its orbit is so nearly circular that it is almost entirely involved in the larger swarm. Under these conditions, collisions would occur in every part of the orbit, and they would only be more numerous at periastron in the more condensed central part of the swarm, and it is to this that I ascribe the origin of the phenomena in those systems --- small in number --- in which the variation of light is very far below the normal range, one or two magnitudes instead of six or seven.
+
+[Fig. 86. --- Explanation of the Variability of Bodies of Groups 1 and 2. 2. Medium variation. In this case there will be a greater number of collisions at periastron than at other parts of the orbit. The variation in the light, however, will not be very great under the conditions represented, as the revolving swarm never gets very near the middle of the central one.]()
+
+Now it is at once obvious that we should get more variability in these early groups than in any of the more condensed ones, for the reason that in the latter we require the conditions either that the plane of revolution should pass through the earth, or that the light of the central star shall be relatively dim.
+
+This point is best studied in relation to Group 2.
+
+[Fig. 87. --- Explanation of the Variability of Bodies of Groups 1 and 2. 3. Minimum variation. Under the conditions shown, the smaller swarm will never be entirely out of the larger one, and at periastron the number of collisions will not be very greatly increased. Consequently, the variation in the amount of light given out will be small.]()
+
+The total number of stars included in Argelander's Catalogue, which deals generally with stars down to the ninth magnitude, but in which, however, are many stars between the ninth and tenth, is 324,118. The most complete catalogue of variables (without distinction) that we have has been compiled by Mr. Gore, and published in the _Proceedings of the Royal Irish Academy_ (Series 2, vol. 4., No. 2, July 1884, pp. 150-163). I find 191 known variables are given; of these 111 are in the northern hemisphere and 80 in the southern hemisphere.
+
+In the catalogue of _suspected_ variable stars given in No. 3 of the same volume (January 1885, pp. 271-310), I find 736 stars, of which 381 are in the northern and 355 in the southern hemisphere. Taking, then, those in the northern hemisphere, both known and suspected, we have the number 492. We have then as a rough estimate for the northern heavens one variable to 659 stars taken generally.
+
+The number of objects of Group 2 observed by Dunér, and recorded in his admirable memoir, is 297; of these forty-four are variable. So that here we pass from 1 in 657 to 1 in 7. Of the great development of variability conditions in this group there can be, therefore, no question.
+
+Further, while by the hypothesis there is no limit to the increase of luminosity, the variability presented by these objects is remarkable for its great range. The light may be stated in the most general terms to vary about six magnitudes --- from the sixth to the twelfth. This, I think, is a fair average; sometimes a difference of eight magnitudes has been observed; the small number of cases with a smaller variation I shall refer to afterwards. A variation of six magnitudes means roughly that the variable at its maximum is somewhere about 250 times brighter than at its minimum; a variation of eight magnitudes means that it is 1600 times* brighter at maximum than minimum.
+
+*) These values are obtained by the formula L(m) = (2.512)^n * L(m+n).  
+For differences of 5, 6, 7, and 8 mag we get  
+L(m) = 100.02 * L(m+5)  = 251.24 * L(m+6)  
+= 631.11 * L(m+7)  
+= 1585.35 * L(m+8)  
+L(m) = light of a star of magnitude m.  
+L(m+n) = light of a star n manitudes fainter.
+
+These values alone would indicate a condition of things in which the minimum represents the constant condition, and the maximum, one imposed by some cause which produces an excess of light. These various conditions having been premised in considering these groups, I will first deal with the nebulæ.
+
+That many of the nebulæ are variable is well known, though, so far as I am aware, there are no complete records of the spectroscopic result of the variability. But bearing in mind that in some of these bodies we have the olivine line almost by itself, and in others, which are usually brighter, we have the lines of hydrogen intensified, and in others more condensed still the flutings of carbon added, it does not seem unreasonable to suppose that any increase of temperature brought about by tlie increased number of collisions should increase the intensity of the lines of hydrogen or carbon in the spectrum of a nebula.
+
+The observations already accumulated show conclusively that in the nebulæ --- even those so far condensed as the one in Andromeda--- the temperature is low; in other words, the meteorites are very far apart; regular variability, therefore, would for this reason be very difficult to detect. It is probable, therefore, that in all the cases previously recorded, we are not dealing with the results of rhythmic action, but the interpenetration of nebulous streams or sheets.
+
+When, however, we come to the stars --- that is, the more condensed nebulæ --- in Group 1, the temperature is higher, the condensation is greater, and the interaction of double or multiple nebulas can be more easily traced.
+
+The fundamental difference of structure between these bodies and stars like the sun should be revealed in the phenomena of variability; that is to say, the variability of the uncondensed swarms should be different in _kind_ as well as in degree from that observed in bodies like the sun or α Lyræ, taken as representing highly condensed types.
+
+Since the stars with bright lines, as I have shown, belong to the former group, and since, therefore, they are very akin to nebulæ, we might, reasoning by analogy, suppose that any marked variability in their case also would be accompanied by the coming out of the bright hydrogen lines. This is really exactly what happens both in β Lyræ and in γ Cassiopeiæ. In β Lyræ the appearance of the lines of hydrogen has a period of between six and seven days, and in γ Cassiopeiæ they appear from time to time, although the period has not yet been determined.
+
+I append the light curve of β Lyræ. It has a secondary minimum. At maximum it reaches 3 1/4 mag. In three and a half days it descends to 4 1/4 mag.; it will be noticed that the difference is small. In six days it regains its original brilliancy. It then descends to its true minimum, 5 3/4 mag., and finally ends the sequence by regaining its maximum. It has already been stated that the double oscillation is gone through in thirteen days.
+
+Another star of Group 1, η Argus, is also remarkable from the fact that its light varies in the same sort of way.
+
+This star is in the southern hemisphere, and during the last twenty or thirty years a considerable discussion has been going on among astronomers as to whether the surrounding nebula is or is not changing its position with regard to the star in question, which has a bright-line spectrum like β Lyræ, and a period not of thirteen days, but of seventy years. The light varies from the sixth to the first magnitude.
+
+[Fig. 88. --- Light Curve of β Lyræ.]()
+
+Leaving Group 1 and coming to Group 2 there is one star, Mira Ceti, whose variations in light intensity may be taken as characteristic. The history of the discovery of this star's variability has already been given, and from the light curve it will be seen that what happens to it in just a little less than a year is this. First, it is of the second magnitude, and then in about eighty days it descends to the tenth, and, so far as observations with ordinary instruments go, it is invisible. In about another hundred days it again becomes visible as a star of the tenth magnitude. It then increases its light to the second magnitude, and begins the story over again. But sometimes at the maximum its brilliancy is not quite constant. That is to say, sometimes it goes nearer the first magnitude than the second. What happens to the light of the star below the tenth magnitude it is impossible to say. Whether it follows more nearly either of the dotted curves in the diagram is not known. Below the tenth magnitude no observations have been made, because it is very difficult to observe a star under those conditions. What one knows is that it remains invisible for about 140 days or something like that, and then it begins its cycle over again.
+
+[Fig. 89. --- Light Curve of Mira.]()
+
+I owe to the kindness of Mr. Knott the opportunity of studying several light curves of "stars" of this group, and they seem to entirely justify the explanation which I have put forward. It is necessary, however, that the curves should be somewhat carefully considered, because in some cases the period of the minimum is extremely small, as if the secondary body scarcely left the atmosphere of the primary one but was always at work. But when we come to examine the shape of the curves more carefully, what we find is that the rise to maximum is extremely rapid; in the case of U Geminorum, for instance, there is a rise of five magnitudes in a day and a half; whereas the fall to minimum is relatively slow. The possible explanation of this is that the rise of the curve gives us the first sudden luminosity due to the collisions of the swarms, while the descent indicates to us the gradual toning down of the disturbance. If it be considered fair to make the descending curve from the maximum exactly symmetrical with the ascending one on the assumption that the immediate effect produced is absolutely instantaneous, then we find in all cases that I have so far studied that the star would continue for a considerable time at its minimum.
+
+Broadly speaking, then, we may say that the variables in this group are _close doubles_, the invisibility of the companion being due to its nearness to the primary or to its faintness.
+
+We now pass from Groups 1 and 2 to 3, 4, and 5. These contain the hottest, and therefore brightest, bodies in the heavens. They are, moreover, more condensed than those we have considered. On this ground, their normal light cannot be _increased_ to any very great extent by any constantly recurring action, but it may be _reduced_ by eclipses caused by the revolution of still further condensed secondary swarms. The nearer the primary, and therefore the smaller the period of the secondary body, the more likely is the eclipse to occur regularly. There are several stars of this class, notably Algol, to the first observations of which we have already referred.
+
+This body, which is always visible in our latitudes, well illustrates this class of variable. If we take the beginning of a cycle, it is a star of the second magnitude; suddenly in three hours it goes down to the fourth, and then it comes up in another three hours to the second, and goes on again for very nearly three days; and then it goes down again, comes up again, and goes on again for another three days, and so on. The diagram shows the exact shape of the light curve as it has been determined by Professor Pickering, dividing the light into a thousand parts.
+
+There is another star very like this --- a star which is in 81° N. declination, No. 25 in Argelander's Catalogue. The difference between Algol and this is that the rise and fall are a little more rapid. Its light is feeble for about the same time as Argol, but the light curve is flat at the bottom, by which I mean that, instead ot going suddenly down and coming suddenly up again, it stops at its least luminosity for some little time.
+
+[Fig. 90. --- Light Curve of Algol (Pickering).]()
+
+Professor Pickering* has demonstrated by photographs of the spectra of Algol that Goodricke's explanation of its periodical variability is correct. Let this diagram represent in section and plan a large star A giving out light, and B, C, D, E, F different positions of a dark body revolving in an orbit round the central star. If we take a section, so that the star and its satellite are represented as they really are in the plane which joins the earth and the star, we see that in one part of the revolution of the dark body it eclipses the light body. A further investigation of those conditions in the case of the second star has shown that there must be a total eclipse, and therefore Professor Pickering draws the conclusion that in the former case the light of the body which revolves round the central one may be considered as _nil_ --- that is to say, that it is a dark body; but that in the case of the star D. 81° N. 25 there must be luminosity from the star which eclipses the other. And a very beautiful justification of this view has recently been noted, because, although there is no change in the spectrum of Algol, there is a considerable change in the spectrum of the star, the light curve of which is flat at bottom, showing that probably the companion has an absorbing action of some kind on the light of the central star passing through it or its surroundings. The light practically changes very much as our sunlight would change if it had to pass through the atmosphere of another sun somewhat like itself coming between us.
+
+*) _Proc. Amer. Acad. Sci._, vol. 16. p. 17.
+
+[Fig. 91. --- Plan and Section of the Orbit of the Companion of Algol (Pickering).]()
+
+In Group 6 we again have a new condition. In these stars the light is relatively faint, and the variation would seem to be due to swarms of meteorites moving round a _dim_ or _nearly dark_ body, the maximum light occurring at periastron, when the tidal action in the swarm is greatest; in consequence of this dimness the addition of the light of what we, with our solar conditions, should term a large comet, would make a great difference in the total radiation. We must expect considerable similarity between the variability phenomena of Groups 2 and 6: this subject will be discussed when the details of Group 2 have been further considered.
+
+## Chapter 43. The Conditions of Variability in Group 2.
+
+It is not within the scope of the present inquiry to discuss at any length the phenomena of variability in stars of the Algol class where we deal with eclipse effects merely, but it is imperative that the cases presented by Groups 1, 2, and 6, where, according to the hypothesis, the increased luminosity is produced by subsidiary swarms, should be fully considered.
+
+So far my time has only permitted me to discuss with all the requisite care and detail the variability conditions in Group 2. These have been brought together not only to illustrate the physical conditions of the group, but in order to search for tests, and to see in what manner the hypothesis meets them.
+
+It will be remembered that the first test I employed was that the bodies in Group 2 should be more visibly variable than the bodies in any other group. This was satisfied.
+
+The other tests were: 2. When the swarm is least condensed, we shall have the least results from collisions; 3. when it is fairly condensed, the effect at periastron passage (if we take the simplest case, where there is only a single revolving swarm) will be greatest of all; 4. in the most condensed swarms there will be little or no variability, because the outliers of the central swarm may be drawn entirely within the orbit of the secondary body; in which case no collisions could happen.
+
+To apply these tests, I have made a special study of the observations of each variable recorded by Dunér. I find they may be grouped in the following way:---
+
+[TABLE]
+
+The above table shows most conclusively that the greatest number of variables occurs among the swarms of mean condensation, which is indicated by the bands being wide and strong. Indeed, it will be seen that by far the greater number of variables in the group under discussion falls in species 9 and 10, which may fairly be taken to represent the mean condensation, there being in all 15 species. There can, therefore, be no doubt that the three tests just referred to are fully satisfied.
+
+In what follows, I propose to further test the theory by the colour observations of Chandler, and by the question of irregularity; confining myself to stars known to belong to Group 2, of which Chandler gives the degree of redness. The stars selected for discussion are the Group 2 variables from Gore's revised catalogue.
+
+_The Relation of Colour to Period._
+
+Mr. Chandler has shown* that there is an intimate connection between the length of period of a variable star and its colour. In general, the longer the period the redder the tint. If the period is between 500 and 600 days, the mean redness on his scale is about 7.5; for periods of about 300 days, it is about 3; and for shorter periods it is 1 or 2.
+
+*) _Astronomical Journal_, Nos. 179, 180.
+
+I have to show that this is a necessary consequence of the stellar conditions suggested by my hypothesis.
+
+To do this, I begin by tabulating all the particulars of stars with periods varying from 50 to 500 days. Gore's, Chandler's, and Dunér's star numbers* are given as well as the star's name. The magnitudes of the variable at maximum and minimum, and also the period, have been taken from Gore.
+
+*) _Les Étoiles a Spectres de la troisième Classe_ (Stockholm, 1884).
+
+The particulars relating to period and range of variability are taken from Gore, and Chandler's colour-numbers are placed in a separate column.
+
+On Chandler's colour scale 0 corresponds to pure white, 1 to white very slightly tinged with yellow, 2 and 3 to deeper yellow tinges, 4 to orange, 5, 6, 7, 8, and 9 to gradually deepening reds, and finally 10 corresponds to the deepest red stars known, such as R Leporis.
+
+The colour notation employed by Dunér is as follows ---
+
+Rrrj|Almost absolute red.  Rrj|Red-yellow foncé.  Rj|Red-yellow.  Jr|Yellow-red.  Jjr|Clear yellow-red.
+
+In order to bring these data in relation to the various species, I give with each variable the number expressing the species to which it belongs. In some cases the details have not been sufficient to assign the star to a definite species, but have been enough to determine whether it was near the first (Species 1) or the last (Species 15). In such cases the words "early" or "late" are appended. Where the species of a star is doubtful, the word "indeterminate" expresses that fact.
+
+In addition to the information given in the following tables, the reader is referred to Appendix A, in which are given the stars in Dunér's important catalogue arranged in species.
+
+[TABLE]
+
+[TABLE]
+
+Having these data, if the degree of condensation of a swarm defined by the Species 1 to 15 has any relation to colour, the work of Chandler on the colours, taken in conjunction with the classification according to condensation, ought to enable us to determine the nature of such relation.
+
+We have, then, next to determine Chandler's colour-numbers corresponding to each species. As a first step the following tables compare Dunér's colours of the variable stars of the group with the colours assigned by Chandler to the same stars.
+
+[TABLE]
+
+Two stars which Dunér gives as Rrrj occur in Chandler's list, the colours being 6.9 and 8.1 respectively, or a mean of 7.5.
+
+Chandler's colour-number corresponding to Dunér's Rrrj has therefore been taken as 7.5. Similarly, there are ten Rrj stars in Dunér's list for which the mean colour-number assigned by Chandler is 5.9, and so on.
+
+It will be seen that the increments for one colour stage of Dunér are 1.6, 1.7, and 1.8 respectively, or a mean of 1.7. Since there are none of Dunér's Jjr stars in Chandler's list, we may use this increment to approximate to the colour; this gives us the number 0.7. We thus get---
+
+Dunér's Colour.|Chandler's Number.  Rrrj|7.5  Rrj|5.9  Rj|4.2  Jr|2.4  Jjr|0.7
+
+Next comes the second stage. Using these mean numbers, we may determine the mean colour-number associated with each of the fifteen species into which Group 2 has been divided. The tables showing the results obtained are given in Appendix B.
+
+We finally get the following colour-numbers corresponding to the fifteen species:---
+
+[TABLE]
+
+The remaining stars observed by Dunér are not included in the classification at present, owing to insufficient details.
+
+The result of this comparison of Dunér's and Chandler's observations, taken in conjunction with my classification in species of the bodies of Group 2, goes then to show that _the swarms with a mean condensation are the reddest_. For, although the results are not quite so uniform as might be desired, there is a decided maximum of redness in Species 9 and 10, which may fairly be taken as the swarms with mean spacing. The greatest discrepancy is in Species 1, but here the result depends upon the observations of one star, and even that is not definitely known to belong to Species 1.
+
+It may be objected that the foregoing series of numbers is not sufficiently regular for any trustworthy conclusions to be arrived at. But the very decided maximum in Species 10 is of itself sufficient evidence that the irregularities on both sides of it are due to the difficulties of observation.
+
+I have gone over Dunér's observations of the spectra and colours of the bodies of Group 2 without reference to my temperature classification, and the result of this investigation shows that where the spectra are described as identical the colours sometimes differ considerably. Thus the same spectrum is apparently not invariably associated with exactly the same colour. The table on p. 501 shows that this is the case.
+
+It is clear, therefore, that, quite independently of my classification into species, the relation between colour and spectrum in the present state of our knowledge is not absolutely definite.
+
+This is probably to a great extent due to the variability of the stars of the group. All of them may be more or less variable, and it may often have happened that the colour of a star has been recorded at one time and its spectrum at another, when the colour was slightly different. Some of the slight variations observed may also be due to variation in atmospheric absorption.
+
+In the table in question the numbers in the vertical columns indicate the numbers of stars of any particular colour associated with a particular spectrum, and it will be seen that amongst the stars with a spectrum containing the bands 1-10 uniformly developed, 3 have the colour Rrj, and 5 are Rj.
+
+[TABLE]
+
+On reference to the tables of variables which I have given, it will be seen also that the relation between colour and period observed by Chandler is only a general one.
+
+We may, therefore, for the present regard the swarms with mean spacing as the reddest. The sparsest swarms vary from blue to greenish-white, so that the redness will gradually deepen in passing from these to the mean swarms. Again, in passing from the mean swarms to the most condensed ones, the redness must gradually disappear, for we know that the stars of Group 3 are yellow or white.
+
+The following represents the colour-condition of stars of Group 2 both more and less condensed than the mean swarms:---
+
+Group 2 --- {reddish-yellow. yellowish-red. red. yellowish-red. reddish-yellow.}
+
+Hence no definite conclusion as to the temperature of Group 2 stars can be arrived at by colour observations alone, since stars cooler than the mean, as well as hotter, give the same colour.
+
+_The Cause of the Relation between Colour and Period._
+
+On reference to the tables of variables on pp. 496, 497, it will be seen that there are none less condensed than Species 7. This means that the sparsest swarms either exhibit no variability at all, or their variability is of such a character as to escape notice. The reason for this is not far to seek. First, if there be any revolving swarms with small orbits, they will never be entirely out of the central swarm, and their effect will simply be to produce a general increase of brightness of the swarm. Only revolving swarms with large orbits will therefore be effective in producing variability, but even these will only cause variability of short range, since the number of collisions at periastron passage will be small, the swarm being sparse. In the sparsest swarms, therefore, the variability will be of a long period and the range will be small. These are no doubt the causes of the variability having been overlooked.
+
+When we pass to the mean swarms, however, the variability becomes more strongly marked. Cometic swarms of short period, if they exist at all, will still only produce a general brightening of the central swarm, and the swarms most effective in producing variability will therefore be those with moderately long periods. The range of variability will depend upon the eccentricity of orbit and the periastron distance of the revolving swarm, as in the general case.
+
+As the central swarm becomes more and more condensed, and therefore gradually loses its redness, only shorter period swarms will be effective in producing variability, as the outliers will have been drawn entirely within the orbits of longer period swarms, if they exist at all.
+
+Still further condensation of the central swarm will draw the outliers within the orbits of the revolving swarms, which would produce variability in the swarms last considered, and now only very short period swarms are concerned. At the same time the colour will have become yellow or yellowish-white, the swarm having passed from Group 2 to Group 3.
+
+It will be seen that my theory perfectly explains the general relation of period to colour which has been observed by Chandler, and previously by Schmidt,* and in fact demands it.
+
+*) Quoted in _Observatory_, February 1889.
+
+The range of variability does not appear to bear any relation to the periodicity (except perhaps in the sparsest swarms), and this is only what we should expect, as the conditions on which the range depends (periastron distance, and eccentricity of orbit of revolving swarm) are special to each star. Cometic swarms in our own system follow no general rule as regards the eccentricities of their orbits, or their perihelion distances.
+
+The Irregular Variables of Group 2
+
+The next test is that of irregularity. The apparent irregularities in the variability of stars in the group under discussion are, on my theory, produced by the revolution of several swarms of meteorites at different rates and different distances round the central one. The swarms most subject to irregularity should, therefore, on this view, be those which are most likely to suffer from the effects of the greatest number of revolving swarms. These will not be the sparsest swarms, for the reason that the short period swarms will only produce a general brightening, as already pointed out, leaving the long period swarms predominant. Neither will they be the most condensed, because most of the cometic swarms will sweep clear of the central swarm at periastron passage. They must, therefore, occur in the swarms of mean condensation, if anywhere at all, though mean swarms need not necessarily exhibit irregular variability. The facts observed show that out of the five irregular variables of Group 2, three have colours indicating a mean condensation, while two appear to be a little further condensed.
+
+[TABLE]
+
+The spectroscopic observations confirm the conclusion that irregularity mostly occurs in mean swarms; it will be seen that with the exception of α Orionis, which is only very slightly variable, the species to which the irregular variables belong are 7-10, indicating mean condensation.
+
+Bright Hydrogen in Variable Stars of Group 2.
+
+I have pointed out (p. 477) that in the class of variable stars under consideration the bright lines of hydrogen might be expected to make their appearance at maximum, accompanying the greatly increased intensity of the carbon flutings. For since the bodies of Group 2 are very much akin to nebulæ, an increase of temperature such as occurs at maximum should be accompanied by the appearance of bright hydrogen, because a greater quantity of incandescent gas would occupy the interspaces at that time.
+
+Under normal conditions there are neither bright nor dark hydrogen lines in the spectra of bodies of Group 2, the simple and sufficient explanation being that the bright lines from the inter-spaces balance the dark lines from the meteoritic nuclei. "Anything which in this condition of light-equilibrium will increase the amount of incandescent gas and vapour in the interspaces will bring about the appearance of the hydrogen lines as bright ones. The thing above all things most capable of doing this in a most transcendental fashion is the invasion of the part of the swarm by another moving with a high velocity. This is exactly what I postulate. The wonderful thing under these circumstances then would be that bright hydrogen should _not_ add itself to the bright carbon, not only in bright-line stars, but in those the spectra of which consist of mixed flutings, bright carbon representing the radiation."*
+
+*) Bakerian Lecture, 1888, p. 83.
+
+That the bright lines of hydrogen do make their appearance at maximum, in some of the stars at all events, is placed beyond doubt by the recent important observations of Mr. Espin. On 13th August 1888 he* noted "a very bright line, apparently F," in the spectrum of R Cygni, the maximum occurring on 19th July. The spectrum of ο Ceti was also observed by him* on 23d and 30th October 1888, the maximum of the star occurring on 28th September. Dunér's bands from 1 to 10 were seen, and the observer noted that on 30th October, when the star had faded considerably, bands 8, 9, and 10 seemed to be broken into two, but he was doubtful whether these interferences were due to bright lines or not. A brilliant line was observed in the violet, which was thought to be _h_ (hydrogen). It is very probable also that bright F was present on this date and caused the second maximum in band No. 9.*
+
+*) _Monthly Notices_, R. A. S., vol. 49.
+
+*) _Ibid._ vol. 49. p. 304.
+
+*) Bright lines of hydrogen and other substances were photographed in the spectrum of Mira by Professor Pickering in November 1886, the maximum occurring on 14th November.
+
+Mr. Espin has also announced in a recent circular (2d April 1889) that there are bright lines in the spectra of R Leonis and R Hydræ. He states that "the spectra of R Leonis and R Hydræ contain bright (hydrogen?) lines, first seen on 25th February. Observations confirmed, through the kindness of Mr. Common, by Mr. Taylor, at Ealing, who sees two in R Leonis and one in R Hydræ." Both these stars were near their maxima at the time of observation, that of R Leonis occurring on 23d March, and that of R Hydræ on 17th February. Another circular (3d October 1889) states that "bright lines were seen in the spectrum of R Andromedæ on 25th September, the F line being very bright." The maximum occurred on 25th July.
+
+The appearance of the hydrogen lines at the maximum, and their disappearance as the stars fade, will no doubt eventually be found to be among the characteristic variations of the spectrum which accompanies the variation of light in some stars of this class with mean spacing.
+
+Increased Intensity of the Carbon Flutings.
+
+The brightening of the hydrogen lines, however, is not the chief variation in the spectra of these variables at maximum. We must "rather look to the brightening of the carbon vapour in the interspaces. I made observations of Mira in October 1888 (the maximum occurring on loth October) to test this view. Near maximum its brightness was such that a 12-inch mirror and a Maclean's spectroscopic eye-piece were all that were necessary to see in how striking a manner the test was borne. The two brightest bands visible were at λ 517 and	λ 546, precisely where these are seen in the brightest comets. The former is the brightest carbon fluting seen in the spectrum of the Bunsen flame or spirit-lamp, and the other, at 546, is the citron carbon fluting beginning at 564, but modified by the masking effects of the manganese absorption fluting at 558, and also that of lead at 546.
+
+The blackness of the spaces between the bright flutings showed that there could be very little continuous spectrum from the meteorites, and, therefore, that the light which was masked was that due to the carbon flutings.
+
+The mean spectrum of Mira is that of a star like β Pegasi, which I have shown to consist of bright carbon flutings, and dark flutings of magnesium, manganese, iron, lead, and barium. In β Pegasi, as in Mira under mean conditions, the carbon is somewhat faint, but in α Herculis it is very bright. The general effect of the conditions of maximum of Mira, therefore, seems to be that it changes its spectrum from one like that of β Pegasi to one like that of α Herculis. In variable stars of this class the proof is now complete that the increase of luminosity is accompanied by cometary conditions, and that it is due to the increased radiation of carbon.
+
+[Fig. 92. --- Comparision of the Spectrum of Mira with that of β Pegasi and Encke's Comet.]()
+
+In the accompanying woodcut the spectrum of Mira is compared with that of β Pegasi and Encke's comet. In some comets the carbon fluting is cut off at 546, exactly as it is in Mira. These observations of Mira, and others which Mr. Fowler and myself have made on other stars with Bunsen comparisons, entirely justify the conclusion drawn by Dr. Copeland from his work on U Orionis (when it was thought to be a Nova), that bright flutings of carbon were in question in that star, although that conclusion has been contested.
+
+So far as Group 2 is concerned, I think it will be granted that the meteoritic theory of variability is quite in harmony with the facts observed, considering that the observations are still incomplete. The theory does not require that all the swarms of the group should be variable, but only those which are condensing double or multiple nebulæ. At the same time, it requires that this group should be more subject to variability than any of the others, and this is one of the best-established facts of modern astronomy. Not only are these general demands satisfied, but, as I have shown, the theory bears the strain put upon it when it is used to explain the finer details as to colour and irregularity.
+
+## Chapter 44. The General Phenomena of Groups 1, 2, and 6.
+
+Having now discussed the special variability condition of Group 2, we can proceed to consider stars of the Groups 1 and 2 and 6 together, since by the hypothesis this variability is due to the same cause; all differences in the details of the effects being due to the different physical nature of the central body. In Groups 1 and 2 it is a swarm of meteorites with which we have to deal. In Group 6 it is a condensed star of low radiation surrounded by a dense atmosphere containing carbon in some combination.
+
+In both cases the bodies are normally dim. In Groups 1 and 2 they are so because the meteorites, when undisturbed, are relatively free from collisions. In Group 6 they are so for the reason stated above, the star being on the verge of extinction.
+
+I insist upon this dimness, because the dimmer the central body the more important becomes the luminosity caused by, or set up in, secondary swarms. Further, such variability as we are now considering is unknown in the case of the hotter stars.
+
+It is clear that phenomena produced in either group _by the action of two swarms_ should strongly resemble each other, and that if it be found that this explanation holds good in one case it should be found to hold equally good in the other. It is to be expected, then, that phenomena observed in each may throw light upon the other, and that the view advanced may be tested by the differences observed.
+
+Let us consider two hypothetical cases, to start with, in Groups 1 and 6.
+
+In Group 1 we have a condensing nebula, the light of which when undisturbed is, say 6 mag. Round this there revolves a cometary swarm, say in six time-units. At periastron collisions occur which raise the light of the combined swarms to 3 mag. There is also another similar swarm revolving in, say twelve time-units. The conditions are such that this second swarm produces a smaller disturbance, which only raises the light to 4 1/2 mag. We will assume the periods to be exactly commensurable, and the apastra to occur together. It is obvious that alternate minima will be raised by this second revolving swarm, _but the maxima will be constant_.
+
+In order to put results of this nature into diagrammatic form, we must consider that we are dealing with certain additions of light to the constant light of the star. These additions must be shown as such.
+
+It is very important that I should point out that for this method of direct integration to be adopted a scale of light-units must be employed, _for the reason that the amount of light which is sufficient to produce a change of a magnitude in a faint star would only produce a change of a fraction of a magnitude in a brighter star_.
+
+Taking the light of a star of magnitude m as a unit, and using the formula ---
+
+L(m-n) = (2.512)^n * L(m),
+
+in which L(m) represents the light of a star of magnitude _m_ and L(m-n) the light of a star _n_ magnitude brighter, we get ---
+
+L(m-1) = 2.51 * L(m)  
+L(m-2) = 6.31 * L(m)  
+L(m-3) = 15.85 * L(m)  
+L(m-4) = 39.78 * L(m)  
+L(m-5) = 100.02 * L(m).
+
+The amount of light to be added for the different magnitudes will, therefore, be as follows ---
+
+[TABLE]
+
+It is obvious that these figures are in the same proportion to each other as the numbers representing the light of stars of different magnitudes, and if in our diagrams we take a certain length of line to represent the added light equivalent to one magnitude, about 2 1/2 times this will represent the added light for the next magnitude, and each succeeding magnitude will be represented by a line 2 1/2 times as long as the preceding one. A scale of this kind must be adopted in integrating the effects of two sources of added light for the reason already stated. Thus, while the amount of light to be added to a sixth magnitude star, to take an instance, to increase it to the fifth is 1 1/2 units, the number of the same units to be added to a fourth magnitude star to make it a third is 9 1/2. Hence 1 1/2 units, which raise a star of the sixth to the fifth magnitude --- that is, one whole magnitude --- would only increase a fourth magnitude star by about one-sixth of a magnitude.
+
+To graphically represent what happens, when, by cometary action, a star is raised three magnitudes above magnitude _m_, we get as the above light-units ---
+
+1.512 addition for one magnitude.  3.80 addition for the next magnitude.  9.54 addition for the next magnitude.
+
+The sum of these numbers, 14.85, represents the added light.
+
+The plan on which the following curves have been drawn will be gathered from the table given on the next page, which shows how, on the above basis, the light-units and magnitudes correspond.
+
+[TABLE]
+
+In the hypothetical case represented in Fig. 93 the constant light of the central swarm may be taken as 6 mag., and the added light of the two secondary swarms as varying from _nil_ to 3 mag. and from _nil_ to 4 1/2 mag. respectively. It is then obvious that the integrated effects of the light added produce constant maxima of 14.85 units, and minima alternately of 0 and 2.97. We can in this way represent the light-curve of a star which changes its magnitude from 3 to 4 1/2 and 3 to 6 alternately.
+
+The relative scales of light-units to brightnesses shown by the foregoing figures, however, enable us to transpose the diagram to one in which equal spaces represent equal differences of magnitudes. This is shown in Fig. 94.
+
+In the diagrams the light-curves of the two subsidiary swarms are represented by dotted lines, and the integrated result by the continuous line. One of the revolving swarms has a period of 6 units of time, and the other a period twice as long. The eccentricity of the primary swarm is such that it adds, at maximum, 14.85 light-units, while the secondary swarm adds 2.97 light-units. A comparison of the two diagrams will make clear what has already been said about the relative value of the light of one magnitude at the top and bottom of the curve.
+
+We next take a hypothetical case from Group 6.
+
+Here, instead of a nebula, dim owing to absence of collisions brought about by disturbances, we have to deal with a condensed body of small luminosity, the light of which is strongly absorbed by a carbon atmosphere.
+
+We first consider the action of two subsidiary swarms, one producing more light with a short period, the other less light with a period say fifteen times longer. In fact, we have one comet with an orbit of great eccentricity and short period, and another of small eccentricity and long period. We will assume the periastra to be coincident.
+
+[Fig. 93. --- Hypothetical Light-Curve in Light-Units.]()
+
+[Fig. 94. --- Hypothetical Light-Curve in Magnitudes.]()
+
+As the light is generally feeble, we may take the constant luminosity of the star as of the twelfth magnitude, and that it is raised to the eighth magnitude by the added light of the swarms at perihelion.  We have then a difference of four magnitudes.
+
+[Fig. 95. --- Hypothetical Curve in Light-Units.]()
+
+[Fig. 96. --- Hypothetical Curve in Magnitudes.]()
+
+Proceeding as before we have ---
+
+[TABLE]
+
+The sum of the added light gives us 38.81 light-units.
+
+The continuous curve represents in Fig. 95 the integrated effects expressed in light-units of the two added light sources, and it will be seen that the result is a variable with both maxima and minima also periodically variable. But although both maxima and minima are variable by an equal number of light-units, the effect on magnitude is totally different; whereas the minimum varies by two magnitudes, the maximum only varies by about one-tenth of a magnitude. In the hypothetical case represented, the maximum varies between 7.8 and 7.9, whilst the minimum varies between 10.0 and 12.0.
+
+Like the curve for the variable of Group 2, this may also be transferred to one in which equal differences of magnitudes are represented by equal spaces. This is shown in Fig. 96, and here again it will be seen that, as in the former case, in adding a change of magnitude at the bottom of the curve to the top of the curve, the magnitude is diminished according to the ratio of light-units.
+
+The question now arises: Are there any stars in the heavens the phenomena of which can be represented by the hypothetical curves which we have just given? If so, we shall be justified in tracing a _vera causa_ in the hypothesis under consideration. It may be here stated that one of the received explanations of such a variability as is represented on our first hypothetical diagram is that due to Professor Pickering, who conceived that the observed effect might be produced by a surface of revolution, the ratio of the axes being 5:3, with a dark portion at one of the ends and symmetrically situated as regards the longer axis.*
+
+*) Gore in _Astronomy for Amateurs_, p. 238.
+
+A reference to page 483 will show that the hypothetical curve shown in Fig. 94 strikingly represents the actual light-curve of β Lyræ (actual magnitudes are not in question), and I submit therefore that the well-known phenomena of that star are produced by the causes I have suggested rather than by the complicated apparatus suggested by Professor Pickering, to say nothing of the earlier suggestions of Maupertuis and others.
+
+I append another diagram (Fig. 97) to show that the second hypothetical curve is a close approximation to the light-curve of U Cygni, one of the best-observed variables in Group 6; and here I must express my obligations to Mr. Knott, who has freely communicated all his observations of this star to me, and has permitted me to publish them in this form.
+
+Unfortunately, though the observations are of such a high order of exactness, they are not continuous. The parts of the curve in which the line is continuous represent the actual observations. The dotted lines added are for the purpose of enabling a comparison to be made with Figs. 95 and 96, in which the probable relations of the periods and intensities of the two hypothetic swarms are shown in light-units and magnitudes respectively. The similarity between the hypothetic case represented and Mr. Knott's actual observations greatly strengthens my view.
+
+It follows very clearly froto the above considerations that on my hypothesis there should be frequently found rhythmical variations at the minimum, while the change at maximum is so slight that our best observers fail to notice it.
+
+The smaller the range, the more will both maxima and minima be affected by the subsidiary swarms. W Cygni is a case in point.
+
+It has been before remarked that the hypothesis demands that in sparse swarms of meteorites (Groups 1 and 2) the ascent to maximum, due to the sudden action of the colliding swarms, should be much more rapid than the descent to minimum, for the reason that the descent must represent a gradual cooling down of the disturbance. This more rapid ascent has been noted in ---
+
+[TABLE]
+
+I have also suggested that the short minimum is a measure of the indirect disturbance, but it is easy to imagine that this short minimum will not be invariable under all conditions, and accordingly we find in R Persei with a period of 212 days, a long minimum. In stars of Group 6, on the other hand, where we have simply to deal with the added light of comets passing perihelion, there is no reason why this should happen; indeed, it ought to be rather the other way, since comets put on their greatest brilliancy after perihelion. As a matter of fact, so far as my inquiries have gone, I have not yet come across a case of a Group 6 star showing any great difference in the times spent in rising and falling.
+
+On the hypothesis a _perfectly_ constant period can only occur in the case of those double swarms in which the central one has a regular figure and density. The moment this condition is departed from, seeing that the central swarm is certain to be in rotation, variation of period as well as of maximum must be expected.
+
+Nor is this the only variation which depends upon the central body. In the absence of knowledge in each case, we must assume that the structure of the central swarm resembles that of those which have been examined in Andromeda, Ursa Major, and Canes Venatici --- that is, _the meteoritic density will vary locally_ (S Aquilæ), and some of the observations made may be explained on the supposition that the subsidiary swarm breaks into regions in which the density is suddenly increased, as if we were noting the result of a ring being pierced (R Aurigæ).
+
+[Fig. 97. --- Light-Curve of U Cygni, showing Mr. Knott's actual Observations.]()
+
+We have only to look at Mr. Eoberts's photograph of the nebula in Andromeda, and consider under what different conditions a secondary swarm might reach the same periastric distance if there were any rotation in the nebula or any movement of the nodes, to recognise the importance of taking the above points into consideration.
+
+If there be a condition of the central body anything like that of the nebulæ named, it must be borne in mind that in the struggle for existence those swarms moving in the plane of the intakes and in the same direction, will be those that will longest survive; hence we ought to be able to explain the light-curves on the supposition that the conditions of the secondary swarms are as stated above, and it is seen that we can so explain them.
+
+When we have to deal with more than one subsidiary swarm it is easy to see that certain relations of the regular periods of their orbital motions will produce an irregularity in the compound period; so that a rhythmic change of period will enable us to learn somewhat of the relation of the relative intensity and period of each of the swarms. We are really in presence of a _light-tide_, the elements of which can be found by analysis, as occurs with other tides nearer home.
+
+The explanation suggested by the hypothesis of the variability of stars of Group 6 seems also to throw light upon the strange colours of some of them. R Leporis, for instance, one of the most marked variables in the group, is the famous crimson star observed by Mr. Hind. Now crimson = red + blue. All these stars are red, and in many of them the absence of the blue is one of the most emphasised characteristics of the spectrum.
+
+But suppose that the secondary swarm which adds its light at maximum is a comet with the usual carbon bands, we shall get this condition of things:---
+
+[TABLE]
+
+In other words, the bright fluting of carbon in the green and blue of the subsidiary swarm will just _mask_ the absorption bands. They will _pale_, and the colour of the star (red) will be but slightly affected from this cause; but the blue flutings will be clear gain to the blue end of the spectrum, and crimson will result.
+
+If this explanation be conceded, it is clear that comets travelling round such stars are conditioned very much like comets travelling round our own sun.
+
+The general colour of the stars in Group 6 indicates that they are near the point of invisibility, the conditions being no doubt a red- or white-hot crust with a strongly absorbing atmosphere. It is worth while to point out that the cessation of all radiation of light from the central body need not prevent its passing on as a variable star to Group 7. As we must assume comets to be shreds of nebulæ, _i. e._ meteoritic fields or streams, filched by masses which pass near them, since the mass remains after the light has gone, there will be the same attraction at work, and we have no right to assume that it will not act in the same way as heretofore.
+
+We can gather from this that practically there can be no permanently dark bodies in space; they _must_ at one time or another be accompanied by comets, and they must therefore be variables.
+
+Here a most interesting point comes in: if the phenomena of the repulsion of comets' tails, or, in other words, the repulsion of carbon in some form or other from cometary swarms, depends upon the thermal energy of the central body, this result can no longer happen when the central body has cooled down. The effect of this upon the spectrum of such a compound system is well worth inquiring into.
+
+In the hypothetical curves I have already given, I have dealt with simple cases. But in the stars there will be certain to be complex ones brought about by the successive periastra or apastra not being coincident in the two swarms (to deal only with two), and by different relationships in the periods.
+
+I append (Figs. 98-101) some hypothetical curves worked out both in light-units and magnitudes, the conditions being stated for each. The paucity of actual light-curves available prevents any inquiry as to the stars in which the conditions here imagined actually exist, but in the absence of such knowledge it is still easy to gather that different periods separating maxima, secondary minima of unequal periods, and great variations in the rise to and fall from maximum, instead of necessarily being the result of "irregularity," are all demanded by the most perfect regularity, provided we have more than one swarm to deal with under conditions anything like those employed in the hypothetical curves above given.
+
+[Fig. 98. --- Periods 2 to 1: Apastra Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+
+[Fig. 99. --- Periods 2 to 1: Apastra not Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+
+[Fig. 100. --- Periods 5 to 3: Periastra Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+
+[Fig. 101. --- Periods 5 to 3: Apastra not Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+
+If there is anything of value in what I have advanced, it is quite clear that the observations of variable stars and variable star catalogues require considerable revision. First, arrangements should be made with the observatories of America and India so that the observations of a certain number of stars in the northern hemisphere should be taken as continuously as possible. The relative brightening of the bright carbon flutings in stars of Groups 1 and 2, and the paling of the dark carbon flutings in Group 6, should be spectroscopically watched in each case.
+
+It is highly important also that the precise group to which each variable belongs should be determined, and that this datum should take the first place in the working catalogues employed.
+
+# Part 9. Conclusion.
+
+## Chapter 45. General Conclusions.
+
+I propose in this concluding chapter to state in their most general aspects the views of the structure, and therefore of the classification, of the various orders of cosmical bodies which the investigations and discussions detailed in this volume suggest.
+
+It will be seen that one of the corner-stones on which the new hypothesis has been founded is the evidence afforded by the spectroscope that many so-called stars are swarms of meteorites.* The establishing of this proposition has necessitated a detailed discussion of the sequence of spectroscopic phenomena in stars, comets, and nebulae in relation to the spectra of meteorites observed in the laboratory. From these observations many subsidiary points in the hypothesis have been obtained.
+
+*) I suggested this possible cause of a "new star" in 1866, and the view was strengthened on spectroscopic evidence by Dr. Copeland in 1886.
+
+The new view of star structure when carefully considered suggested a new view of the cause of variability, and hence of the origin of multiple systems --- even of a system like our own.
+
+The general conclusions, then, to which the investigations discussed in this volume lead may be thus stated ---
+
+1\. All self-luminous bodies in the celestial spaces are composed either of swarms of meteorites or of masses of meteoritic vapour produced by heat. The heat is brought about by the condensation of meteor-swarms due to gravity, the vapour being finally condensed into a solid globe.
+
+2\. The existing distinction between stars, comets, and nebulæ rests on no physical basis.
+
+3\. Stars, the temperatures of which are increasing, do not resemble the sun, but consist chiefly of discrete meteoritic particles just as comets do on Schiaparelli's hypothesis.
+
+4\. The spectra of all cosmical bodies depend upon either the heat of the meteorites produced by collisions, and the average space between the meteorites in the swarm; or, in the case of swarms wholly volatilised, upon the loss by radiation since complete vaporisation.
+
+5\. The temperature of the most prominently radiating vapours produced by collisions in nebulæ, stars without the hydrogen lines but with other bright lines, and in comets away from perihelion, is about that of the Bunsen burner.
+
+6\. The temperature of the most prominently absorbing vapours produced by collisions in α Orionis and similar stars is about that of the Bessemer flame.*
+
+*) If we assume the specific heat of the meteorites to be 0.10, the increase in their temperature when their motions are arrested by impacts will be roughly as follows:---  Velocity 1 mile per second|3,000° C.  Velocity 10 mile per second|300,000° C.  Velocity 20 mile per second|1,200,000° C.  Velocity 30 mile per second|2,700,000° C.  Velocity 60 mile per second|10,800,000° C.  It is clear, however, that in the majority of cases grazes and not end-on collisions will occur. The _most prominent_ radiating or absorbing vapours will be those produced in greatest quantity, that is, by the average velocity of impact.
+
+7\. In a single swarm of sufficient magnitude, the ordinary processes of evolution will in time produce successively the luminous phenomena, the sequence and characteristics of which are defined by the Groups 1-7.
+
+8\. Apparent stars of any group up to the 4th may, however, be formed in a less regular manner by the collision of two meteor streams or swarms, or stream with swarm, provided the velocity is sufficient to raise the meteoritic vapour to the required temperature.
+
+9\. The line of increase of temperatures of the swarms of meteorites and of subsequent cooling of the mass of vapour produced, and the accompanying phenomena, may be stated generally as follows ---
+
+[TABLE]
+
+10\. The brilliancy of the aggregations, at each increasing temperature, depends on the number of meteorites in the swarm, _i. e._ the difference depends upon the quantity, and not the intensity, of the light.
+
+11\. The main factor in the various spectra of those bodies, the temperature of which is increasing, is the ratio of the interspaces between the meteorites to their incandescent surface.
+
+12\. When the interspace is very great, the tenuity of the gases given off by collisions will be so considerable that little luminous spectrum will be produced. When the interspace is less, the tenuity of the gas will be reduced, and the vapours occupying the inter-spaces will give us bright lines or flutings. When the interspace is relatively small, and the temperature of the individual meteorites therefore higher, the preponderance of the bright lines or flutings in the spectrum of the interspaces will diminish, and the incandescent vapour surrounding each meteorite will indicate its presence by absorbing the continuous spectrum-giving light of the meteorites themselves.
+
+13\. With each reduction of interspace the absorption phenomena will change from those special to a low, to those special to a high, temperature.
+
+14\. The radiation and absorption flutings of carbon afford the best means of establishing the connection between the physical and chemical nature of the various groups of bodies.
+
+15\. It follows from the experiments recorded that the line at λ 500, of so far unknown origin, seen in some nebulse, comets, and also in Nova Cygni, may be the remnant of the magnesium fluting seen most brilliantly at lower temperatures, and is due to the olivine present in the various swarms of meteorites.
+
+16\. The spectrum of hydrogen seen in the case of the nebula3 with bright lines seems to be due to low electrical excitation, as happens with the spectrum of carbon in the case of other nebulæ and comets. Sudden changes from one spectrum to the other are seen in the glow of meteorites in vacuum tubes when a current is passing, and the change from hydrogen to carbon can always be brought about by increased heating of the meteorite.
+
+17\. The spectrum of hydrogen seen in variables of Group 2 at maximum is due to the emission of that gas from the meteorites in the colliding swarms which encounter each other with the highest velocities.
+
+18\. The brighter arcs in spiral nebulae, and in those in which a rotation has been set up, are in all probability due to streams of meteorites, with irregular motions out of the main streams, in which the collisions would be almost _nil_. It has already been suggested by Professor G. H. Darwin* --- using the gaseous hypothesis --- that in such nebulæ "the great mass of the gas is non-luminous, the luminosity being an evidence of condensation along lines of low velocity, according to a well-known hydrodynamical law. From this point of view the visible nebula may be regarded as a luminous diagram of its own stream-lines."
+
+*) _Nature_, vol. 31. p. 25.
+
+19\. The colours of stars follow in orderly sequence through the different groups, and depend both upon temperature and the physical condition of the swarm or condensed mass with absorbing atmosphere. They are liable to change in each group in the case of variables. The order is as follows:---  Group 1 Blue, greenish-blue, white, or pale gray.  Group 2 Yellowish-red (variables less red at maximum).  Group 3 Yellow to white.  Group 4 Bluish-white.  Group 5 White to yellow.  Group 6 Reddish-yellow to blood-red (variables less red at maximum, and in some cases crimson).  Group 7 Dark or nearly dark bodies.
+
+20\. Double and multiple stars have condensed from double or multiple nebulæ. In the cases of double stars examined, it is probable that in no case does the comparison represent an addition to the original system.
+
+21\. Most of the variable stars which have been observed belong to those classes of bodies which I now suggest are uncondensed meteor-swarms, or condensed stars, the light of which is nearly extinct, round which a swarm (or swarms) is circulating.
+
+22\. All regular variability in the light of cosmical bodies is caused by the revolution of one swarm or body round another (or their common centre of gravity). The revolution of a secondary swarm is in an ellipse, and the maximum occurs at periastron ; in the case of condensed bodies the minimum is produced by the secondary eclipsing the light of the primary.
+
+23\. All irregular variability in the light of cosmical bodies is caused _a._ by the revolution of more than one swarm or body round another (or their common centre of gravity), or _b._ by the interpenetration of meteoritic sheets or streams.
+
+24\. New stars, whether seen in connection with nebulae or not, are produced by the clash of meteor-swarms; the bright lines seen being, in the majority of cases, low-temperature lines of elements the spectra of which are most brilliant at a low stage of heat;* the same lines are seen in comets and other uncondensed swarms.
+
+*) Long period variables are here excluded. The reduction of all the observations extant on new stars is nearly complete, and entirely bear out the statement made above.
+
+25. The relatively small number of bodies in Group 6 seems to suggest that in the part of space open to our inquiries, bodies, of which the temperature is increasing, are more numerous than those in which the temperature is being reduced.
+
+26\. There may be an action in space, away from large collections of matter, which gradually reduces the complexity of chemical forms.
+
+27\. In recorded time there has been no such thing as "a world on fire," or the collision of masses of matter as large as the earth, to say nothing of masses as large as the sun; but the indicated distribution of meteorites throughout space indicates that such collisions form an integral part of the economy of nature.
+
+_Special Solar Applications._
+
+α\. The view that many solar phenomena are produced by meteoritic falls on the sun's surface is greatly strengthened by the result of the present inquiry.
+
+β\. The solar spectrum can be very fairly reproduced (in some parts of the spectrum almost line for line) by taking a composite photograph of the arc spectrum of several stony meteorites, chosen at random, between iron meteoritic poles.
+
+γ\. The carbon which originally formed part of the swarm, the condensation of which produced the solar system, may either have been repelled, as it is repelled from comets, or it may have been dissociated by the high temperature brought about by condensation.
+
+δ\. The indications of carbon which I discovered in 1874 (_Roy. Soc. Proc._, vol. 37. p. 308) will go on increasing in intensity slowly, until a stage is reached when, owing to the reduction of temperature of the sun and the reduced repellent action which follows from it, the chief absorption will be that of carbon --- a stage in which we now find the stars of Group 6.
+
+ε\. At the present time it seems probable that among the chief changes going on in the solar spectrum are the widening of K and the thinning of the hydrogen lines.
+
+# Appendices.
+
+## A.
+
+[TABLE]
+
+[TABLE]
+
+## B.
+
+[TABLE]
+
+[TABLE]
