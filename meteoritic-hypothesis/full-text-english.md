@@ -515,7 +515,46 @@ The following table shows the positions of the principal lines, bands, and fluti
 
 It should here be stated that as some of the researches have had to deal with feeble illumination small dispersion has been of necessity employed; and to make the observations along the several lines comparable, a one-prism spectroscope was in the first instance used throughout. Hence the wave-lengths given are in all cases only approximate. With this proviso the lines observed have been as follows ---
 
-[TABLE]
+|           |                                                                                          |      |      |      |      |      |
+|-----------|------------------------------------------------------------------------------------------|------|------|------|------|------|
+| Lines     | In Bunsen ---                                                                            |      |      |      |      |      |
+| Magnesium | 5183                                                                                     | 5172 | 5167 | 4586 |      |      |
+| Sodium    | 5889                                                                                     | 5895 |      |      |      |      |
+| Lithium   | 6705                                                                                     |      |      |      |      |      |
+| Thallium  | 5349                                                                                     |      |      |      |      |      |
+| Strontium | 4607                                                                                     |      |      |      |      |      |
+| Barium    | 5534                                                                                     |      |      |      |      |      |
+| Calcium   | 4226                                                                                     |      |      |      |      |      |
+| Manganese | 5395                                                                                     |      |      |      |      |      |
+| Potassium | 6950                                                                                     |      |      |      |      |      |
+| Bismuth   | 4722                                                                                     |      |      |      |      |      |
+| Lines     | Seen on passing from the temperature of the Bunsen to that of the oxy-coal-gas flame --- |      |      |      |      |      |
+| Iron      | 5268                                                                                     | 5327 | 5371 | 4383 | 5790 | 6024 |
+| Copper    | 5105                                                                                     | 5781 | 5700 |      |      |      |
+| Chromium  | 5202                                                                                     | 5203 | 5207 | 5410 |      |      |
+| Lead      | 4810                                                                                     | 4911 |      |      |      |      |
+| Cadmium   | 5085                                                                                     |      |      |      |      |      |
+| Nickel    | 5476                                                                                     |      |      |      |      |      |
+| Titanium  | 5128                                                                                     | 5338 |      |      |      |      |
+| Tungsten  | 5490                                                                                     | 5511 |      |      |      |      |
+| Silver    | 5208                                                                                     | 5464 |      |      |      |      |
+| Mercury   | 5460                                                                                     |      |      |      |      |      |
+| Cerium    | 5273                                                                                     | 5160 |      |      |      |      |
+| Bands     | In Bunsen ---                                                                            |      |      |      |      |      |
+| Calcium   | 5535                                                                                     | 6250 | 6500 | 6000 |      |      |
+| Strontium | 6050                                                                                     |      |      |      |      |      |
+| Barium    | 5150                                                                                     | 5250 | 5330 | 4860 |      |      |
+| Bands     | Seen on passing from the temperature of the Bunsen to that of the oxy-coal-gas flame --- |      |      |      |      |      |
+| Cobalt    | 4710                                                                                     | 4920 | 5170 | 5460 |      |      |
+| Flutings  | In Bunsen ---                                                                            |      |      |      |      |      |
+| Magnesium | 5000                                                                                     | 5210 |      |      |      |      |
+| Manganese | 5580                                                                                     | 5860 | 6145 | 5340 |      |      |
+| Lead      | 5460                                                                                     | 5680 | 4985 | 5140 | 5340 |      |
+| Flutings  | Seen on passing from the temperature of the Bunsen to that of the oxy-coal-gas flame --- |      |      |      |      |      |
+| Barium    | 6010                                                                                     | 6350 | 6480 |      |      |      |
+| Chromium  | 5360                                                                                     | 5570 | 5800 | 6040 |      |      |
+| Iron      | 6150                                                                                     |      |      |      |      |      |
+| Copper    | 6050                                                                                     | 6130 |
 
 [Fig. 3. --- Spectra of Metals at the Temperature of the Oxy-Coal-Gas Blowpipe.]()
 
@@ -1044,7 +1083,36 @@ The sequence of the various flutings and lines is shown in Fig. 15. Below the va
 
 Excluding for the present Gyllenskiöld's observations, the general results arrived at may now be tabulated. I should add that since I communicated to the Royal Society in 1888 some of the results embodied in the table, a further inquiry has suggested that the lines F and G of hydrogen (λ 486 and 434) have been really seen, as well as those of the substances indicated in the map given in Fig. 16.
 
-[TABLE]
+|                                       |     |     |     |     |         |                  |     |     |       |       |     |     |     |        |        |        |     |
+|---------------------------------------|-----|-----|-----|-----|---------|------------------|-----|-----|-------|-------|-----|-----|-----|--------|--------|--------|-----|
+| Table of Wavelengths of Auroral Lines |     |     |     |     |         |                  |     |     |       |       |     |     |     |        |        |        |     |
+| Barker                                |     |     | 431 |     | 470     | 482              |     | 502 | 517   |       |     | 533 |     |        | 562    |        | 623 |
+| Smyth                                 |     |     | 432 |     | 464     | 480              |     |     |       | 520   |     |     |     |        | 558    |        | 635 |
+| Zöllner                               |     |     |     | 435 |         |                  |     |     |       |       |     |     |     |        |        |        | 628 |
+| A. Clerke                             |     |     |     |     |         |                  | 485 |     |       |       | 532 |     |     |        |        |        |     |
+| Herschel                              |     |     |     |     |         |                  |     |     |       |       | 531 |     |     |        |        |        |     |
+| Backhouse                             |     |     | 431 |     | 463     |                  |     | 501 | 516.5 |       | 532 |     |     |        |        | 606    |     |
+| Lord Crawford                         |     |     |     |     |         | More ref. than F |     |     |       | 523   |     |     |     |        |        |        |     |
+| Proctor (R. H.)                       |     |     |     |     |         | More ref. than F |     |     | 519   | 523   |     |     | 539 |        | 557    |        | 630 |
+| Vogel                                 |     |     |     |     | 463-469 |                  |     |     |       |       |     |     |     |        |        |        |     |
+| Ellery                                |     |     |     |     |         |                  |     |     |       |       |     |     |     |        | 560    |        | 635 |
+| O. Struve                             |     |     |     |     |         |                  |     |     |       |       |     |     |     |        | 555    |        |     |
+| Ångström                              |     |     |     |     | 472     |                  | 487 | 501 |       | 521   |     |     |     |        | 557    |        |     |
+| Lemström                              | 411 | 426 |     |     | 469-471 |                  |     | 499 |       | 525   |     |     |     |        | 557    |        |     |
+| German N. P. Ex.                      |     |     |     |     |         |                  |     |     |       |       |     |     |     |        | 557    |        |     |
+| Respighi                              |     |     |     |     |         |                  |     |     |       |       |     |     |     |        | 557    |        |     |
+| Peirce                                |     |     | 431 |     | 464     |                  | 486 |     |       | 520   | 531 |     |     | 545    | 557    |        |     |
+| Winlock                               |     |     |     |     |         |                  |     |     |       |       |     |     |     | 544    | 557    |        |     |
+| Wijkander                             |     | 428 |     | 436 | 469     | 484              |     | 500 |       | 524   |     | 536 |     |        | 557    |        |     |
+| Oettingen                             |     | 424 |     |     | 466     |                  |     |     |       |       |     |     |     |        | 555    |        | 630 |
+| Probable origin                       |     |     | CH  | H   | C Hot   | C Cool           | H   | Mg  | C hot | Mg    | *   | Tl  | Mn  | Pb(1)* | Mn(1)* | Fe(1)* | *   |
+| Wavelengths of probable origin        |     |     | 431 | 434 | 467-474 | 483              | 486 | 500 | 516-5 | 520.1 |     | 535 | 540 | 546    | 558    | 615    |
+
+*) Coronal line.
+
+*) This means brightest fluting.
+
+*) Origin not determined, but the line is seen in the spectrum of the Limerick meteorite.
 
 [Fig. 15. --- Map showing the Sequence of Spectra in a Large Air-Vacuum Tube as the Pressure is reduced.]()
 
@@ -1078,7 +1146,47 @@ The following tables contain all the observations in which not more than four li
 
 [Fig. 16. --- Map showing probable Origin of the Spectrum of the Aurora.]()
 
-[TABLE]
+|      |      |      |      |          |      |       |      |       |       |       |       |      |       |       |      |                                  |
+|------|------|------|------|----------|------|-------|------|-------|-------|-------|-------|------|-------|-------|------|----------------------------------|
+| H    | ?    | ?    | C    | C (cool) | ?    | Mg(1) | ?    | Ba(2) | Mg(2) | Fe(3) | Tl(1) | Mn   | Pb(1) | Fe(1) | ?    | Meteoritic Origins.              |
+|      |      |      |      | 483      |      | 500   |      | 515   | 521   | 527   | 535   | 540  | 546   | 579   |      | Wavelengths of probable origins. |
+|      |      |      |      |          |      |       |      |       | 5249  |       |       |      |       |       |      | 1. November 11, 22 Hours.        |
+|      |      |      |      |          |      |       |      |       | 5249  |       |       |      |       |       |      | 1. November 11, 22 Hours.        |
+|      |      |      |      |          |      |       |      |       |       | 5283  |       |      |       |       |      | 1. December 11, 12 Hours.        |
+|      |      |      |      |          |      |       |      |       |       | 5285  |       |      |       |       |      | 1. December 11, 12 Hours.        |
+|      |      |      |      |          |      |       |      |       |       | 5253  |       |      |       |       |      | 1. December 11, 12 Hours.        |
+|      |      |      |      |          |      |       |      |       |       | 5290  |       |      |       |       |      | 1. December 11, 12 Hours.        |
+|      |      |      | 4799 |          |      |       |      |       |       |       |       |      |       |       |      | 1. December 11, 18.25 Hours.     |
+|      |      |      |      |          |      |       |      |       |       | 5277  |       |      |       |       |      | 1. December 11, 20 Hours.        |
+|      |      |      |      |          |      |       |      |       |       |       | 5338  |      |       |       |      | 1. December 11, 21.45 Hours.     |
+|      |      |      |      |          |      |       |      |       |       |       |       |      | 5483  |       |      | 1. December 12, 17.30 Hours.     |
+|      |      |      |      |          |      |       |      |       |       |       |       |      | 5451  |       |      | 1. December 20, 16.5 Hours.      |
+|      |      |      |      | 4834     |      |       |      |       |       |       |       | 5417 |       |       |      | 1. December 26, 18.30 Hours.     |
+|      |      |      | 4716 |          |      |       |      |       |       |       |       |      |       |       |      | 1. December 28, 11 Hours.        |
+|      |      |      | 4723 |          |      |       |      |       |       |       |       |      |       |       |      | 1. December 29, 11.55 Hours.     |
+|      |      |      |      |          |      |       |      |       |       |       |       |      |       |       |      | 1. December 29, 21,12 Hours.     |
+|      |      |      |      |          |      |       |      |       |       | 5296  |       |      |       |       |      | 1. December 30, 0.5 Hours.       |
+|      |      |      |      |          |      |       |      |       | 5217  |       |       |      |       |       |      | 1. December 30, 21.17 Hours.     |
+|      |      |      |      |          |      | 4992  |      |       |       |       |       |      |       |       |      | 1. January 2, 14.25 Hours.       |
+|      |      |      |      |          |      |       |      |       |       |       |       | 5411 |       |       |      | 1. January 2, 20.30 Hours.       |
+|      |      |      | 4696 |          |      |       |      |       |       |       |       |      |       |       |      | 1. January 6, 18.9 Hours.        |
+|      |      |      | 4756 |          |      |       |      |       |       |       |       |      |       |       |      | 1. January 6, 18.9 Hours.        |
+| 4088 |      |      |      |          |      |       |      |       |       |       |       |      |       |       |      | 1. January 10, 22.19 Hours.      |
+|      |      |      |      |          | 4925 |       |      |       | 5218  |       |       |      |       |       |      | 2. November 11, 20 Hours.        |
+|      |      |      |      |          | 4937 |       |      |       |       | 5273  |       |      |       |       |      | 2. November 11, 22 Hours.        |
+|      |      |      |      |          |      |       |      |       |       | 5295  | 5373  |      |       |       |      | 2. December 11, 12 Hours.        |
+|      |      |      |      |          |      |       | 5065 |       |       |       | 5326  |      |       |       |      | 2. December 11, 20 Hours.        |
+|      |      |      |      |          |      |       |      |       |       |       | 5319  |      | 5451  |       |      | 2. December 12, 16.25 Hours.     |
+|      |      |      |      |          |      |       |      |       |       |       | 5391  |      | 5483  |       |      | 2. December 12, 16.50 Hours.     |
+|      | 4475 |      | 4663 |          |      |       |      |       |       |       |       |      |       |       |      | 2. December 29, 11.45 Hours.     |
+|      |      |      | 4687 |          |      |       |      |       |       | 5290  |       |      |       |       |      | 2. December 29, 20 Hours.        |
+|      |      |      |      |          |      |       |      | 5123  | 5220  |       |       |      |       |       |      | 2. December 30, 21.17 Hours.     |
+|      |      |      |      |          |      |       |      |       |       |       | 5330  | 5450 | 5493  |       |      | 3. December 26, 18.30 Hours.     |
+|      |      | 4643 |      |          | 4930 |       |      |       |       |       |       |      |       | 5753  |      | 3. January 2, 14.40 Hours.       |
+|      |      |      | 4706 |          |      |       |      |       |       |       | 5354  | 5389 |       |       | 5952 | 4. January 2, 20.30 Hours.       |
+|      |      | 4650 | 4661 |          |      |       |      |       | 5233  |       |       | 5406 |       |       |      | 4. January 6, 18.9 Hours.        |
+|      |      | 4651 | 4684 |          |      |       |      |       |       | 5274  |       | 5382 |       |       |      | 4. January 6, 18.9 Hours.        |
+| 4127 | 4448 | 4645 | 4696 |          |      |       |      |       |       |       |       |      |       |       |      | 4. January 10, 23.2 Hours.       |
 
 [TABLE]
 
