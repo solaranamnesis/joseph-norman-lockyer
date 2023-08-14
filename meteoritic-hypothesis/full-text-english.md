@@ -1188,7 +1188,48 @@ The following tables contain all the observations in which not more than four li
 |      |      | 4651 | 4684 |          |      |       |      |       |       | 5274  |       | 5382 |       |       |      | 4. January 6, 18.9 Hours.        |
 | 4127 | 4448 | 4645 | 4696 |          |      |       |      |       |       |       |       |      |       |       |      | 4. January 10, 23.2 Hours.       |
 
-[TABLE]
+| Ba(2) | C(1)  | Mg(2) | Fe(3) | ?    | Tl(1) | ?    | Mn(2) | Pb(1) | Ba(1) | Mn(1) | Pb(2) | Fe(1) | ?    | Fe(2) | Limerick Meteorite | Meteoritic Origins.              |
+|-------|-------|-------|-------|------|-------|------|-------|-------|-------|-------|-------|-------|------|-------|--------------------|----------------------------------|
+| 515   | 516.4 | 521   | 527   |      | 535   |      | 540   | 546   | 553   | 558   | 568   | 579   |      | 615   | 634                | Wavelengths of probable origins. |
+|       |       |       |       |      |       |      |       |       |       | 5582  |       |       |      |       |                    | 1. December 23, 12 Hours.        |
+|       |       |       |       |      |       |      |       |       |       | 5579  |       |       |      |       |                    | 1. December 23, 12 Hours.        |
+|       |       |       |       |      |       |      |       |       |       | 5575  |       |       |      |       |                    | 1. December 23, 12 Hours.        |
+|       |       |       |       |      |       |      |       |       |       | 5553  |       |       |      |       |                    | 1. December 23, 20 Hours.        |
+|       |       | 5237  |       |      |       |      |       |       |       |       |       |       |      |       |                    | 1. December 23, 21 Hours.        |
+|       |       |       |       |      |       |      |       |       |       | 5546  |       |       |      |       |                    | 1. December 25, 12.5 Hours.      |
+|       |       |       |       |      |       |      |       |       |       | 5563  |       |       |      |       |                    | 1. December 25, 12.6 Hours.      |
+|       |       |       |       |      |       |      |       |       |       | 5564  |       |       |      |       |                    | 1. December 28, 11 Hours.        |
+|       |       | 5242  |       |      |       |      |       |       |       |       |       |       |      |       |                    | 1. December 29, 21.25 Hours.     |
+|       |       |       |       |      |       |      |       |       |       | 5566  |       |       |      |       |                    | 1. January 6, 18.9 Hours.        |
+|       |       |       |       |      |       |      |       | 5490  |       |       |       |       |      |       |                    | 1. January 6, 23.2 Hours.        |
+|       |       |       |       |      |       |      |       |       |       |       |       | 5797  |      |       |                    | 1. January 8, 8.3 Hours.         |
+|       |       |       |       |      |       |      |       |       |       |       |       | 5753  |      |       |                    | 1. January 10, 22.2 Hours.       |
+|       |       |       | 5265  |      |       |      |       |       |       |       |       |       |      |       |                    | 1. January 10, 23.5 Hours.       |
+|       | 5178  |       |       |      |       |      |       |       |       |       |       |       |      |       |                    | 1. January 12, 23.20 Hours.      |
+|       | 5157  |       |       |      |       |      |       |       |       |       |       |       |      |       |                    | 1. January 12, 23.20 Hours.      |
+|       |       | 5200  |       |      |       |      |       |       |       |       |       |       |      |       |                    | 1. February 24, 12.20 Hours.     |
+|       |       |       | 5266  |      |       |      |       |       |       |       | 5645  |       |      |       |                    | 2. December 23, 12 Hours.        |
+|       |       |       | 5267  | 5308 |       |      |       |       |       |       |       |       |      |       |                    | 2. December 23, 20 Hours.        |
+|       |       |       |       |      |       |      |       |       |       |       |       | 5797  | 5963 |       |                    | 2. January 8, 8.30 Hours.        |
+|       |       |       | 5265  |      | 5363  |      |       |       |       |       |       |       |      |       |                    | 2. January 10, 23.5 Hours.       |
+|       | 5178  |       |       |      |       |      |       |       |       |       |       |       |      |       | 6259               | 2. January 12, 23 Hours.         |
+|       | 5168  |       |       |      |       |      |       |       |       |       |       |       |      |       | 6333               | 2. January 12, 23 Hours.         |
+| 5135  |       |       |       |      |       |      |       |       | 5508  |       |       |       |      |       |                    | 2. March 1, 19.25 Hours.         |
+|       |       |       |       |      | 5347  |      | 5422  |       |       | 5573  |       |       |      |       |                    | 3. December 23, 12 Hours.        |
+|       |       |       |       |      |       | 5381 |       | 5484  | 5534  |       |       |       |      |       |                    | 3. December 29, 20.5 Hours.      |
+|       |       |       |       |      |       |      |       |       |       |       | 5662  | 5753  |      |       | 6265               | 3. January 10, 22 Hours.         |
+|       |       | 5211  | 5265  |      | 5325  |      |       |       |       |       |       |       |      |       |                    | 3. January 10, 23 Hours.         |
+|       |       | 5247  |       | 5300 |       |      |       | 5476  |       | 5560  |       |       |      |       |                    | 4. December 23, 19.40 Hours.     |
+|       |       | 5247  |       |      | 5343  | 5387 |       | 5466  |       |       |       |       |      |       |                    | 4. December 23, 20.45 Hours.     |
+|       |       |       |       |      | 5367  | 5387 | 5416  | 5453  |       |       |       |       |      |       |                    | 4. December 23, 20.55 Hours.     |
+|       |       |       | 5288  |      | 5349  |      |       |       | 5514  | 5560  |       |       |      |       |                    | 4. December 25, 12.30 Hours.     |
+|       |       |       |       |      |       |      |       | 5490  | 5544  | 5570  | 5683  |       |      |       |                    | 4. January 6, 23.4 Hours.        |
+|       |       |       |       |      |       |      |       |       |       |       | 5662  | 5775  |      | 6120  | 6287               | 4. January 10, 22.19 Hours.      |
+|       |       |       |       |      |       |      |       |       |       |       | 5662  | 5753  |      | 6120  | 6333               | 4. January 10, 22.19 Hours.      |
+|       |       |       |       |      |       |      |       |       |       |       | 5647  | 5770  |      | 6120  | 6356               | 4. January 10, 22.19 Hours.      |
+|       |       | 5206  | 5296  |      |       |      |       |       | 5505  |       |       |       |      |       |                    | 4. February 24, 12.20 Hours.     |
+|       |       | 5232  | 5296  |      | 5357  | 5381 |       |       | 5516  |       |       |       |      |       |                    | 4. February 24, 12.20 Hours.     |
+|       |       | 5221  | 5296  |      |       | 5370 |       |       | 5505  |       |       |       |      |       |                    | 4. February 24, 12.30 Hours.     |
 
 It will be observed that the characteristic line was seen alone eight times by Gyllenskiöld out of the thirty-eight observations recorded in the first table.
 
@@ -1439,7 +1480,13 @@ The August meteors (Perseids) also show a long duration, the entire interval ove
 
 *) Denning first announced this fact in _Nature_, vol. 16. p. 362.
 
-[TABLE]
+|R. A. Dec.  
+July 3|3° +49°  
+July 19|19° +51°  
+July 30|31° +55°  
+August 10|46° +57°  
+August 22|77° +56 1/2°  
+...|...
 
 The April meteors (Lyrids) give similar indications that their radiant point is in rapid motion eastward amongst the stars.*
 
@@ -1471,7 +1518,23 @@ In the year 599, on the last day of Muharram, stars shot hither and thither, and
 
 This table for the November display, from Professor Newton, shows what the result of searching the old records was ---
 
-[TABLE]
+Epochs of November Star-Showers.
+
+Year.|Day on which the star-shower was seen.|Paris dates and hours.* d. h.  
+902|October 13|12 17  
+931|October 16|14 10  
+934|October 14|13 17  
+1002|October 15|14 10  
+1101|October 17|16 17  
+1202|October 19|18 14  
+1366|October 23|22 17  
+1533|October 25|24 14  
+1602|October 28*|27 10  
+1698|November 9*|8 17  
+1799|November 12|11 21  
+1832|November 13|12 16  
+1833|November 13|12 22  
+1863-1868|November 14|13 14  
 
 *) H. A. Newton, _Bul. Ac. R. Belg._, 17. No. 6.
 
@@ -1539,7 +1602,21 @@ Thus the greatest number of meteors are encountered when the observer's meridian
 
 M. Coulvier-Gravier's numbers were as follows ---
 
-[TABLE]
+Time of Observation.|Number seen per hour.  
+5-6 p. m.|7.2  
+6-7 p. m.|6.5  
+7-8 p. m.|7.0  
+8-9 p. m.|6.3  
+9-10 p. m.|7.9  
+10-11 p. m.|8.0  
+11-12 p. m.|9.5  
+12-1 a. m.|10.7  
+1-2 a. m.|13.1  
+2-3 a. m.|16.8  
+3-4 a. m.|15.6  
+4-5 a. m.|13.8  
+5-6 a. m.|13.7  
+6-7 a. m.|13.0
 
 Fig. 25 will make Mr. Bompas's idea clear. The front half of the earth ploughing its way through space is unshaded; an observer is being carried along the line of the earth's motion at sunrise, the earth is behind him, so to speak, and the point towards which the earth is travelling lies 90° in longitude behind the sun.
 
@@ -1587,7 +1664,21 @@ The monthly number of meteors revealed by a large mass of observations in Englan
 
 *) Denning, _Monthly Notices_, vol. 47. p. 37.
 
-[TABLE]
+Month.|Meteors catalogued.|Percentage.  
+January|2,804|3.4  
+February|1,826|2.2  
+March|1,764|2.1  
+April|5,585|6.8  
+May|2,120|2.6  
+June|2,353|2.9  
+First half of year|16,452|20.0  
+July|10,670|12.1  
+August|31,516|38.1  
+September|4,304|5.1  
+October|6,840|8.3  
+November|8,319|11.3  
+December|4,055|4.9  
+Last half|65,704|79.8
 
 The relatively excessive numbers in April and August are due in a great measure to the occurrence of the rich displays of 20th April (Lyrids) and 10th August (Perseids), which have induced a large number of observations at these special epochs.
 
@@ -1599,7 +1690,10 @@ A season of frequency of aërolites, shooting-stars, and bolides must be expecte
 
 The same fact, which appears strongly marked with regard to shooting-stars in the eight years' summary of Dr. Schmidt, is found repeated in a striking manner in the existing _Northern Catalogues of Star-showers, Fire-balls, and Aëroliths_. The following references may be taken as examples: ---
 
-[TABLE]
+Appearances.|Number --- July to December.|Number --- January to June.  
+Star-showers from 1800 B. C. In M. Quetelet's catalogue (_Physique du Globe_, 1861)|72|28  
+Aërolitic meteors, from the Christian era. In Mr. Greg's catalogue (_British Assoc. Report_, 1860)|216|186 1/2  
+Large and small fire-balls. In same catalogue (_ibid._)|843|553
 
 It was next pointed out, by Newton* and Schiaparelli,* that, provided the actual facts of the daily and yearly variation were sufficiently assured, the true velocities of these bodies in space could not be just simply similar to the earth's velocity, nor their paths in space planetary orbits like that of the earth, and of about the same dimensions; but that, as their motion was much faster, their orbits would be variously distributed parabolas, and they would consequently be more akin to comets.
 
@@ -1625,7 +1719,14 @@ With special reference to the November ring, Professor Schiaparelli* came to the
 
 *) _Monthly Notices_, vol. 26. p. 247, April 1867.
 
-[TABLE]
+Period|33.25 years (assumed)  
+Mean distance|10.3402  
+Eccentricity|0.9047  
+Perihelion distance|0.9855  
+Inclination|16° 46′   
+Longitude of node|51.28°  
+Distance of perihelion from node|6.51°  
+Motion retrograde.
 
 Aided by considerations depending upon observations of the conditions under which the meteors were seen --- from a particular part of the sky; in a particular part of the earth's orbit; at a particular time; and from a particular point of the earth's surface, --- we can understand at once that it was as practicable to determine the orbit of the swarm as it is to determine the orbit of a planet or of a comet.
 
