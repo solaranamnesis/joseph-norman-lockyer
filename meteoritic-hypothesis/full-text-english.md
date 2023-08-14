@@ -1754,7 +1754,16 @@ With regard to the systematic meteorites --- those, namely, that are massed in s
 
 *) Denning, _Monthly Notices_, vol. 48. p. 111.
 
-[TABLE]
+Name of shower.|Duration.|Date of maximum.|Radiant point. α (°) δ (°)|Sun's longitude. (°)  
+Quadrantids|Dec. 28-Jan. 4|Jan. 2|229.8 +52.5|281.6  
+Lyrids|April 16-22|April 20|269.7 +32.5|31.3  
+η Aquarids|April 30-May 6|May 6|337.6 -2.1|46.3  
+δ Aquarids|July 23-Aug. 25|July 28|339.4 -11.6|125.6  
+Perseids|July 11-Aug. 22|Aug. 10|45.9 +56.9|138.5  
+Orionids|Oct. 9-29|Oct. 18|92.1 +15.5|205.9  
+Leonids|Nov. 9-17|Nov. 13|150.0 +22.9|231.5  
+Andromedes|Nov. 25-30|Nov. 27|25.3 +43.8|245.8  
+Geminids|Dec. 1-14|Dec. 10|108.1 +32.6|259.5
 
 With regard to these showers much still remains to be done before their density can be stated. Professor Newton has, however, calculated that in the Biela swarm the meteorites are 20 miles apart.
 
@@ -1786,7 +1795,14 @@ Schiaparelli computed the elements of the orbit of the August meteors, supposing
 
 *) _Astr. Nach._, No. 1384.
 
-[TABLE]
+|Elements of August Meteors.|Elements of Comet, 1862, 3.  
+Long. of perihelion|343° 28′|344° 41′  
+Long. of node|138° 16′|137° 27′  
+Inclination|64° 3′|66° 25′  
+Perihelion distance|0.9643|0.9626  
+Motion|retrograde|retrograde  
+Perihelion passage|July 23, 1862|Aug. 22.9, 1860  
+Period|...|123.4 years
 
 As remarked by Professor Newton,* we come thus to the unexpected conclusion _that the comet of 1862 is nothing else than one of the August meteoroids, and probably the largest of them all_.
 
@@ -1800,7 +1816,17 @@ When this relation of the comet of 1862 with the August meteors was discovered b
 
 *) _Bulletino Meteor._, 28th February 1867.
 
-[TABLE]
+|Nov. Meteors.|Comet, 1866, 1.  
+Perihelion passage|Nov. 10.092, 1866|Jan. 11.160, 1866  
+Passage of descending node|Nov. 13.576, 1866|Jan. 11.160, 1866  
+Long. of Perihelion|56° 25.9|60° 28.0  
+Long. of ascending node|231° 28.2|231° 26.1  
+Inclination|17° 44.5|17° 18.1  
+Perihelion distance|0.9873|0.9765  
+Eccentricity|0.9046|0.9054  
+Semi-major axis|10.340|10.324  
+Periodic time|33.250|33.176  
+Motion|retrograde|retrograde
 
 Tempel's comet has been found not only to describe the same orbit as the November swarm, but to occupy the same portion of the orbit, probably nearer the head than the tail of the swarm. The observations of 13th November 1865 showed that the earth traversed the anterior portion of the swarm at that time. Two months later the cornet passed the node, and ten months afterwards the earth, returning to the node, encountered the dense portion of the stream, which gave rise to the glorious display in 1866, hence the total length of the stream would exceed 500,000,000 miles.
 
@@ -1819,6 +1845,13 @@ This work was chiefly done in the first instance by a Committee of the British A
 Working on these data, Professor Herschel* in 1878 gave a list of seventy-one instances of approximate agreements between the elements of certain comets and meteor showers, but many of these are likely to be accidental agreements. There are only five cases known in which all the conditions favour the idea of absolute identity, _viz._ ---
 
 *) _Monthly Notices_, vol. 38. 1878.
+
+Date and radiant of comet.|Date and radiant of meteor shower.  
+1861, 1., April 20, 270.5° +32°|Lyrids, April 20, 270° +32.5°  
+1835, 3., May 4, 337° +0°|Aquarids, May 6, 338° -2°  
+1862, 3., Aug. 10, 43° +57.5°|Perseids, Aug. 10, 46° +57°  
+1866, 1., Nov. 13, 150.5° +23.5°|Leonids, Nov. 13, 150° +23°  
+1852, 3., Nov. 27, 24° +42°|Andromedes, Nov. 27, 25° +43°
 
 Although we owe the final demonstration of the meteoritic nature of comets, as we have seen, to the labours of Newton, Adams, and Schiaparelli chiefly, long before their time the connection between shooting-stars (and even meteorites) and comets had been suspected on various grounds.*
 
@@ -2187,7 +2220,9 @@ _Magnesium Radiation 521._
 
 While comets at their lowest temperatures give the magnesium fluting at 500, as they approach perihelion to this is added the fluting at 521. The result when this is seen with the 517 fluting of carbon, which is always present, is an apparent displacement of the carbon fluting to a less refrangible position, as shown in Fig. 47. This probably occurred in the following comets:---
 
-[TABLE]
+Wavelength.|Name of Comet.|Date of Observation.|P. P.|P. D.|Observer.  
+520.1|_d_ 1880|Oct. 7, 1880|Sept. 6|...|Christie.*  
+520.0|3 1881|June 27, 1881|June 16|0.7345|Hasselberg.*
 
 *) _Astron. Soc. Monthly Notices_, vol. 41. p. 53.
 
