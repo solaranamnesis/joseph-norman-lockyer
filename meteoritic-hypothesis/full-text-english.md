@@ -2238,7 +2238,20 @@ With these conditions, under which comets generally lend themselves best to spec
 
 The three chief flutings of hot carbon have their least refrangible maxima at approximately 517, 564, and 474. The accompanying table indicates some of the comets in which they have been observed. The variations in the position of the citron band will be again referred to.
 
-[TABLE]
+Wavelengths.|Name of Comet.|When observed.|P. P.|P. D.|Observer.|Reference.  
+475, 513, 555|Comet 2 1864|Aug. 5, 1864|Aug. 15, 1864|0.90929|Donati|_Astr. Nachr._ No. 1488.  
+473, 516, 553|Brorsen's 1 1868|April 29, 1868|April 17, 1868|0.596762|Secchi|_C. R._ vol. 66. p. 882.  
+473, 512, 557|Tuttle's 3 1871|Nov. 11, 1871|Nov. 30, 1871|1.03011|Vogel|_Bothk. Beob._ p. 62.  
+474, 516, 564|Encke's 5 1871|Nov. 8, 1871|Dec. 28, 1871|0.332875|Huggins|_Proc. Roy. Soc._ vol. 20. p. 45.  
+473, 516, 552|Comet 5 1873|...|Sept. 10, 1873|0.7940|Vogel|_Astr. Phys. Obs._ vol. 11. p. 180.  
+472, 515, 564|Coggia's 3 1874|June 15, 1874|July 8, 1874|0.6757|Vogel|_Astr. Phys. Obs._ vol. 11. p. 180.  
+470, 514, 558|Comet 5 1874|Sept. 7, 1874|Aug. 27, 1874|0.9826|Konkoly|_Spect. der Cometen_, p. 60.  
+476, 517, 556|Comet 1 1877|Mar. 2, 1877|Jan. 19, 1877|0.8074|Secchi|_Spect. der Cometen_, p. 63.  
+472, 516, 556|Winnecke's 1877|April 18, 1877|April 17, 1877|0.8499|Copeland|_Monthly Not._ vol. 37 p. 430.  
+470, 516, 546|Brorsen's 1 1879|April 16, May 23|March 30, 1879|0.589892|Copeland and Lohse|_Monthly Not._ vol. 40. p. 23.  
+474, 517, 564|Comet 3 1881|June 28, 1881|June 16, 1881|0.7345|Copeland|_Cops._ vol. 2. p. 237.  
+Band, 516, Band|Well's 1 1882|April 6 and 12, May 12 and 22|June 10, 1882|0.06076|Vogel|_Astr. Nachr._ No. 2434.  
+471, 516, 562|Great Comet of 1882|Nov. 6-18|Sept. 17, 1882|0.007753|Gothard|_Astr. Nachr._ No. 2716.  
 
 It is necessary to state that under some conditions the maximum luminosity of the blue band is at about 468 (Fig. 8). The conditions under which the band has its maximum luminosity at this position _when seen in Geissler tubes_ seem to be those of maximum conductivity. If the pressure be high all the members of the group are sharp, and the luminosity of the band is almost uniform throughout; this always occurs when the pressure is very low. At intermediate stages of pressure, however, the luminosity of the band has a very decided maximum at about 468. This latter condition has been reproduced in many comets, though generally the band has been stated to end at 474, or thereabouts, the maximum possibly having been overlooked.
 
@@ -2250,7 +2263,10 @@ To measure a maximum in any band is at all limes difficult --- and extremely so 
 
 The following table includes the above case, and gives also two other comets in which the blue band had the same appearance:---
 
-[TABLE]
+Edge of Band.|Maximum of Band.|Name of Comet.|When observed.|P. P.|P. D.|Observer.  
+473|469|Coggia's 3 1874|June 4, 1874|July 8, 1874|0.6757|Vogel.*  
+473|468|Comet 3 1881|June 28, 1881|June 16, 1881|0.7345|Copeland.*  
+474|470|Comet 4 1881|Aug. 22, 1881|Aug. 22, 1881|0.6311|Copeland.*  
 
 *) _Copernicus_, vol. 2. p. 227.
 
@@ -2286,7 +2302,12 @@ In the Great Comet of 1882, when at a considerable distance from the sun, on 22d
 
 This also occurred in the following comets:---
 
-[TABLE]
+Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.  
+556|Encke's 5 1871|Vogel*|Nov. 11, 1871|Dec. 28, 1871|0.332875  
+558|Comet 5 1874|Konkoly*|Sept. 7, 1874|Aug. 27, 1874|0.9826  
+556|Comet 1 1877|Secchi*|Mar. 2, 1877|Jan. 19, 1877|0.8074  
+558|Winnecke's 1877|Copeland*|May 5, 1877|Apr. 17, 1877|0.007753  
+557|Great Comet of 1882|Copeland*|Oct. 22, 23|Sept. 17, 1882|0.9499  
 
 * _Bothk. Beob._, vol. 1. p. 60.
 
@@ -2306,7 +2327,9 @@ When to the radiation of carbon and manganese that of lead (546 fluting) is adde
 
 This condition has been recorded in two comets, as in the following table:---
 
-[TABLE]
+Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.  
+563, 556, 546|Comet 3 1881|Copeland*|July 27|June 16, 1881|0.7345  
+561, 557, 544|Comet 4 1881|Copeland*|August 22|August 22|0.6311
 
 * _Copernicus_, vol. 2. p. 225.
 
@@ -2322,7 +2345,16 @@ It has been pointed out that in the case of a comet approaching perihelion, mang
 
 I have obtained abundant evidence that the masking phenomena manifest themselves in the spectra of comets, but since there is in general so little continuous spectrum to be absorbed, we have chiefly to deal, when discussing absorption, with the masking of the radiating citron fluting of carbon by the absorption of metallic vapours. The way in which the manganese absorption shows itself in comets is generally by the obliteration of the red end of the citron fluting, which produces an apparent shifting of the carbon fluting towards the more refrangible part of the spectrum. The way in which this comes about is shown in Fig. 50. The manganese absorption masks the brightest part of the carbon fluting, leaving a sharp edge at 558. This has been observed in eight comets when not far from perihelion, namely ---
 
-[TABLE]
+Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.  
+555|Comet 2 1864|Donati*|Aug. 6|Aug. 15|0.90929  
+559|Winnecke's 2 1868|Huggins*|June 22|June 26|0.781538  
+558|Tuttle's 3 1871|Vogel*|Nov. 13|Nov. 30|1.03011  
+559|Encke's 5 1871|Young*|Dec. 1|Dec. 28|0.332875  
+557|Coggia's 3 1874|Vogel*|June 7|July 8|0.6757  
+556|Winnecke's 1877|Copeland*|April 18|April 17|0.9499  
+559|Palisa's _d_ 1879|Konkoly*|Oct. 6|Oct. 4|0.9896  
+558|Well's 1 1882|Copeland*|May 28|June 10|0.06076  
+557|Great Comet 2 1882|Copeland*|Sept. 18|Sept. 17|0.007783
 
 *) _Spectra der Cometen_, p. 24.
 
@@ -2354,7 +2386,11 @@ _Lead Absorption._
 
 In other cases we have, in addition to the absorption of manganese, the absorption of the lead fluting at 546. The result of this is a much greater apparent shifting of the carbon fluting at 564, as shown in Fig. 51. In the absence of the carbon fluting 564, which is not so persistent as the one at 517, we should still get pretty nearly the same result by contrast --- that is, the darkening due to absorption commencing at 545 would give rise to an apparent bright fluting at 546, fading away on the more refrangible side. This occurred in the following comets:---
 
-[TABLE]
+Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.  
+544|Brorsen's 1 1868|Huggins*|April 29|April 17|0.596762  
+546.8|Well's 1 1882|Copeland*|June 1|June 10|0.06076  
+547.4|Great Comet 2 1882|Copeland*|Sept. 18|Sept. 17|0.007753  
+547.6|Brorsen's _a_ 1879|Copeland*|April 2|March 30|0.589
 
 *) _Roy. Soc. Proc._, vol. 16. p. 386.
 
@@ -2380,7 +2416,9 @@ With regard to the other hot carbon fluting at 517, we have the cool carbon abso
 
 It is probable, too, that at this stage the outer layers of the hot carbon vapour would also begin to absorb; this would show itself in the brightest least refrangible maxima. Just as the masking of D by the balancing of absorption and radiation gives us the green line of sodium in the absence of D in our laboratories, we should here get the second maxima of the two flutings brighter than the first. This double effect on the carbon flutings at 564 and 517 of masking by cool carbon and manganese was indicated in Coggia's comet when it was about a month from perihelion, and in Comet 3 1881, twelve days after perihelion, as shown below ---
 
-[TABLE]
+Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.  
+554-563|Coggia's 3 1874|Vogel*|June 13|July 8|0.6757  
+553-563|Comet 3 1881|Copeland*|June 28|June 16|0.7345
 
 *) _Astr. Nachr._, vol. 85. p. 12.
 
@@ -2444,7 +2482,15 @@ In describing the spectrum of the Great Comet of 1882,* as seen on the morning o
 
 *) _Copernicus_, vol. 2. p. 238.
 
-[TABLE]
+D1  
+D2  
+547.4  
+542.8  
+539.5  
+536.9  
+532.9  
+526.9 (E)  
+517.6
 
 Besides these there were two bright bands, one at 560.1, and the other at 557.4, both as broad as the interval of D, which had sharp dark lines on their redward sides. In all probability these two bands were the first two maxima of the manganese fluting at 558.
 
