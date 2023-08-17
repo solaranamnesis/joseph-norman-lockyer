@@ -2508,7 +2508,29 @@ The following is a complete list of the lines recorded by Copeland and Lohse* on
 
 *) _Copernicus_, vol. 2. p. 239.
 
-[TABLE]
+|Wavelengths.|Probable origins.  
+Bright line|602.8|Iron 602.4  
+Bright line|596.3|  
+Bright line|595.3|  
+Bright line|593.3|  
+Bright line|592.1|  
+Faint soft brightness|590.0|  
+Bright D1|589.3|Sodium.  
+Bright D2|588.9|Sodium.  
+Short bright line|579.7|Iron 579.0  
+Broad band|560.1|2d max. of Mangan. 558 fluting.  
+Broad band|557.4|Manganese 558.  
+Bright line|547.4|Lead 546.0  
+Bright line|542.8|  
+Bright line|539.5|Manganese 540.0.  
+Bright line|536.9|Iron 537.0.  
+Bright line|532.9|Iron 532.7.  
+Bright line|526.9|Iron 526.9.  
+Bright part|520.7|Magnesium 521.0.  
+Bright part|520.3|  
+A brightness|517.6|Magnesium (_b_).  
+Soft band|511.5|  
+Bright band|510.5|  
 
 Fig. 53 shows the probable origins of some of the lines in the spectrum of the Great Comet of 1882. The horizontal line which runs through the spectrum represents the continuous spectrum due to the bright nucleus.
 
@@ -2522,7 +2544,18 @@ The spectrum was again observed by Copeland on 31st May,* when the comet was sli
 
 *) _Copernicus_, vol. 2. p. 229.
 
-[TABLE]
+Phenomena observed.|Wavelength.|Probable Origins.  
+A brightness|638.2|  
+Bright line or nearly so|625.5|  
+Bright part, line ?|613.3|Iron 615.  
+Bright part, line ?|598.8|  
+Bright D1|589.3|Sodium.  
+Bright D2|588.8|Sodium.  
+Sharp bright part|580.3|Iron 579.  
+Slightly brighter than neighbourhood|573.8|  
+A bright part, maximum|540.6|Manganese 540.  
+Brightest part in green|512.7|Carbon 513.*  
+Another maximum|501.7|Magnesium 500.
 
 *) The reason why we get the second maximum of the carbon fluting without the first is explained on p. 185.
 
@@ -2760,11 +2793,32 @@ As the comet recedes from perihelion, these changes take place in inverse order.
 
 The map (Fig. 56) represents the sequence which the discussion has shown to be the most probable. The following is a list of the comets which most nearly approach the conditions represented, the numbers referring to those placed opposite the various horizons in the map:---
 
-[TABLE]
+13\. Great Comet 1882; Copeland.  
+12\. Great Comet 1882; Copeland.  
+11\. Comet _b_ 1881; Huggins.  
+10\. Comet 1 1882; Vogel.  
+9\. Comet 1 1868;Huggins.  
+8\. Coggia's Comet 1874; Vogel.  
+7\. Comet 3 1868; Huggins.  
+6\. Comet 3 1881; Copeland.  
+5\. Great Comet 1882; Copeland.  
+4\. Comet _d_ 1880; Christie.  
+3\. Comet 3 1881; Copeland.  
+2\. Winnecke's Comet 1868; Wolf.  
+1\. Comet 1 1866; Huggins.
 
 This complete sequence has never been observed in any single comet, but it has been continued in some comets where it has been left off in others. Many comets have never been observed beyond the hot carbon stage, whilst others, like Wells's comet, have not been observed below it. Again, this sequence is what we should expect from laboratory observations. The following table shows the sequence of the different spectra in a few cases, and it will be seen that in each one, so far as the observations go, the different bands appear in the foregoing order:
 
-[TABLE]
+Wavelength.|Remarks.|Name of Comet.|When observed.|P. P.|P. D.|Observer.|  
+564|Carbon radiation|Encke's 5 1871|Nov. 8, 1871|Dec. 28, 1871|0.33287|Huggins|_Roy. Soc. Proc._, vol. 20. p. 45.  
+556|Manganese radiation|Encke's 5 1871|Nov. 11, 1871|Dec. 28, 1871|...|Vogel|_Bothk. Beob._, vol. 1. p. 60.  
+559|Manganese absorption|Encke's 5 1871|Dec. 1, 1871|Dec. 28, 1871|...|Young|_Amer. Journ._, vol. 3. p. 81.  
+
+556.6|Manganese radiation|Comet 3 1881|July 27, 1881|June 16, 1881|0.7345|Copeland|_Copernicus_, vol. 2. p. 223.  
+Mn absorption|Indicated by masking|Comet 3 1881|June 28, 1881|June 16, 1881|...|Copeland|_Copernicus_, vol. 2. p. 223.  
+
+562|Carbon radiation|Great Comet 2 1882|Nov. 1-18|Sept. 17|0.00775|Gothard|_Astr. Nachr._, No. 2716.  
+557|Manganese radiation|Great Comet 2 1882|Oct. 22 and 23|Sept. 17|...|Copeland|_Copernicus_, vol. 2. p. 241.
 
 In the case of Encke's Comet, 1871 (p. p., 28th December), as the comet approached perihelion, hot carbon radiation was succeeded by the integrated radiations of hot carbon and manganese, and this again by the integration of hot carbon radiation and manganese absorption as shown in Fig. 57.
 
@@ -2794,7 +2848,47 @@ In making this comparison, it must be remembered that the vapours produced in th
 
 During the passage from aphelion to perihelion the temperature of a comet gradually increases, and we have found that the spectrum changes with it. We have also seen that the observations suggest that in all probability aurorse are of varying temperature, _i. e._ that the electric tension varies from aurora to aurora; and it is only fair, therefore, that we should compare individual aurorse with individual comets. First of all, however, I give the comparison in its most general form.
 
-[TABLE]
+| Comets.                |                          |                                 |                           |                          |                 |                            |                 | Auroræ.                   |                       |
+|------------------------|--------------------------|---------------------------------|---------------------------|--------------------------|-----------------|----------------------------|-----------------|---------------------------|-----------------------|
+| 1866-67, near aphelion | Winnecke's 1868, June 17 | _d_ 1880, October 7             | Winnecke's 1877, April 15 | Brorsen's 1879, April 16 | 3 1881, June 28 | Great Comet 1882, Sept. 18 | Lines observed. | Probable origin of lines. | λ of Probable origin. |
+|                        |                          |                                 |                           |                          |                 |                            | 411             | H                         | 410                   |
+|                        |                          |                                 |                           |                          |                 |                            | 426             |                           |                       |
+|                        |                          |                                 |                           |                          | 430.2           |                            | 431             | C H                       | 431                   |
+|                        |                          |                                 |                           |                          | 434.3           |                            |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 |                            | 435.5           | H                         | 434                   |
+|                        |                          |                                 | 472                       | 470                      | 468-474         |                            | 474-478         | C                         | 468-474               |
+|                        | 480                      |                                 |                           |                          |                 |                            | 482             | C (cool)                  | 483                   |
+|                        |                          |                                 |                           |                          |                 |                            | 486             | H                         | 486                   |
+| 500                    |                          |                                 |                           |                          |                 |                            | 500             | Mg                        | 500                   |
+|                        |                          |                                 |                           |                          |                 | 510.5                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 511.5                      |                 |                           |                       |
+|                        | 517                      |                                 | 516                       | 516                      | 516.3           |                            | 516.5           | C (hot)                   | 517                   |
+|                        |                          |                                 |                           |                          |                 | 517.6                      |                 | Mg (b)                    |                       |
+|                        |                          |                                 |                           |                          |                 |                            | 519             | C (cool)                  | 519                   |
+|                        |                          | 520 and two others not measured |                           |                          |                 | 520.3                      | 522             | Mg                        | 521                   |
+|                        |                          |                                 |                           |                          |                 | 520.7                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 526.9                      |                 | Fe                        | 526.8                 |
+|                        |                          |                                 |                           |                          |                 | 531                        |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 532.9                      |                 | Fe                        | 532.7                 |
+|                        |                          |                                 |                           |                          |                 | 536.9                      | 535             | Tl                        | 535                   |
+|                        |                          |                                 |                           |                          |                 | 539.5                      | 539             | Mn                        | 539.5                 |
+|                        |                          |                                 |                           |                          |                 | 542.8                      |                 |                           |                       |
+|                        |                          |                                 |                           | 546                      |                 | 547.4                      | 545             | Pb                        | 546                   |
+|                        |                          |                                 | 556                       |                          | 553             | 557.4                      | 558             | Mn                        | 558                   |
+|                        | 560                      |                                 |                           |                          |                 | 560.1                      |                 | C (cool)                  | 561                   |
+|                        |                          |                                 |                           |                          | 563             |                            |                 | C (hot)                   | 564                   |
+|                        |                          |                                 |                           |                          |                 | 579.7                      |                 | Fe                        | 579                   |
+|                        |                          |                                 |                           |                          |                 | 588.9                      |                 | Na                        | 5889                  |
+|                        |                          |                                 |                           |                          |                 | 589.3                      |                 | Na                        | 5895                  |
+|                        |                          |                                 |                           |                          |                 | 590.0                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 592.1                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 593.3                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 595.3                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 596.3                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 | 602.8                      |                 |                           |                       |
+|                        |                          |                                 |                           |                          |                 |                            | 606             |                           |                       |
+|                        |                          |                                 |                           |                          |                 |                            | 620             |                           |                       |
+|                        |                          |                                 |                           |                          |                 |                            | 630             |
 
 It will be seen that the wave-lengths of lines given on the same horizon are not always the same, but this only happens when there is evidence to show that they have the same origin. For example, in Winnecke's Comet, 1868, I have placed 517 on the same horizon as 519 in the aurora, although it is nearer to 516; this is because the presence of the characteristic cool carbon fluting at 483 shows that we have to deal with the cool carbon fluting at 519 and not the hot carbon fluting at 517. In this case, therefore, 517 is in all probability an error of measurement for 519.
 
