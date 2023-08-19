@@ -2902,7 +2902,13 @@ We next pass to the comparison of individual observations of auroral with cometa
 
 *) _Observations faites au Cap. Thorsden_, vol. 2. p. 1.
 
-[TABLE]
+Auroræ.|Comets.  
+Gyllenskiöld, Dec. 23; 499.2|Comets 1866-67, Huggins. 500.  
+Gyllenskiöld, Jan. 12; 520|Comet _d_ 1880, Christie. 520 and two others not measured.  
+Gyllenskiöld, Jan. 12; 625.9, ..., 517.8, 480.3, 470.5, 463.7|Brorsen's Comet 1879, Copeland. ..., 546, 516, ..., 470, ...  
+Gyllenskiöld, Dec. 11; 558, 537.3, 530.4, 512.2, 504.6, 493.7, 470.3|Winnecke's Comet 1877, Copeland. 556, ..., ..., 516, ..., ..., 470  
+Gyllenskiöld, Jan. 12; 625.9, ..., 517.8, 480.3, 470.5, 463.7|Winnecke's Comet 1868, Huggins. ..., 560, 517, 480, ..., ...  
+Lemstrom; ..., ..., 557, 525, ..., 499, 469-471, 426, 411|Well's 1882, June 10. 5895, 5889, 558, ..., 516, 500, 468, 426, ...
 
 The spectrum of the aurora is therefore very similar to the spectra of acknowledged swarms of meteorites, and the view that it is produced by meteoritic dust in our atmosphere is thus greatly strengthened. The near coincidences, therefore, between the principal lines of the spectra of auroræ and of comets, and those in the spectra of meteorites when observed at a low temperature, suggest a common origin. This is already conceded in the case of comets and meteorites.
 
@@ -2966,7 +2972,23 @@ These differences are what we should expect from the known perihelion distances;
 
 I have prepared the following list of the perihelion distances of the comets which have been discussed, the distances being given in terms of the astronomical unit, derived from the data given in the _Annuaire du Bureau des Longitudes_. The date of observation, perihelion passage, and perihelion distance are stated for each comet in the various tables which precede.
 
-[TABLE]
+Name of Comet.|Perihelion Passage.|P. Distance.|Reference. _Annuaire Bureau des Long._  
+Comet 2 1864|Aug. 15, 1864|0.90929|1885, p. 199  
+Brorsen|April 17, 1868|0.596762|1874, p. 100  
+Brorsen|March 30, 1879|0.589892|1883, p. 240  
+Winnecke 2 1868|June 26, 1868|0.781538|1874, p. 100  
+Comet 1 1871|June 10, 1871|0.6543|1883, p. 210  
+Tuttle's|Nov. 30, 1871|1.03011|1883, p. 240  
+Encke|Dec. 28, 1871|0.332875|1874, p. 100  
+Comet 4 1873|Sept. 10, 1873|0.7940|1883, p. 216  
+Coggia's 1874|July 8, 1874|0.6757|1884, p. 262  
+Comet 5 1874|Aug. 27, 1874|0.9826|1883, p. 221  
+Comet 1 1877|Jan. 19, 1877|0.8074|1883, p. 222  
+Winnecke 2 1877|April 17, 1877|0.9499|1883, p. 223  
+Comet _d_ 1879|Oct. 4, 1879|0.9896|1883, p. 227  
+Comet 3 1881|June 16, 1881|0.7345|1884, p. 252  
+Comet Wells|June 10, 1882|0.06076|1884, p. 258  
+Great Comet 1882|Sept. 17, 1882|0.007753|1884, p. 262  
 
 _External Collisions._
 
@@ -3026,7 +3048,22 @@ That there is such a shortening was proved by Encke for the comet which bears hi
 
 _Returns of Encke's Comet, showing Reduced Period of Revolution._
 
-[TABLE]
+|Observed Period of Revolution. (days. hrs. mins.)|Difference.(hrs. mins.)  
+From 1786 to 1795, three times|1212 15 7|3 7  
+From 1795 to 1805, three times|1212 12 0|11 31  
+From 1805 to 1819, four times|1212 0 29|4 39  
+From 1819 to 1822|1211 15 50|2 38  
+From 1822 to 1825|1211 13 12|2 38  
+From 1825 to 1829|1211 10 34|2 53  
+From 1829 to 1832|1211 7 41|2 24  
+From 1832 to 1835|1211 5 17|2 39  
+From 1835 to 1838|1211 2 38|3 7  
+From 1838 to 1842|1210 23 31|2 24  
+From 1842 to 1845|1210 21 7|2 38  
+From 1845 to 1848|1210 18 29|1 27  
+From 1848 to 1852|1210 17 2|5 45  
+From 1852 to 1855|1210 11 17|21 36  
+From 1855 to 1858|1209 13 41|
 
 To sum up, then, we may have to do with three sources of collisions ---
 
@@ -3171,7 +3208,31 @@ Two years later, in a communication to the American Philosophical Society,* Prof
 
 *) Quoted in Luminous Meteors Committee's Report, 1870-71, p. 48.
 
-[TABLE]
+Ordinal Number.|Comets.|Aphelion Distance.|  
+1|Encke's|4.09|Mean distance of Jupiter from the sun 5.20  
+2|1819 4|4.81|  
+3|De Vico's|5.02|  
+4|Pigott's 1783|5.28|  
+5|1867 2|5.29|  
+6|1743 1|5.32|  
+7|1766 2|5.47|  
+8|1819 3|5.55|  
+9|Brorsen's|5.64|  
+10|D'Arrest's|5.75|  
+11|Faye's|5.93|  
+12|Biela's|6.19|  
+  
+1|Peters's 1846 6|9.45|Saturn's mean distance 9.54  
+2|Tuttle's 1858 1|10.42|  
+1|1867 1|19.28|Uranus's mean distance 19.18  
+2|Nov. meteors|19.65|  
+3|1866 1|19.92|  
+1|Westphal's 1852 4|31.97|Neptune's mean distance 30.04  
+2|Pons 1812|33.41|  
+3|Olbers 1815|34.05|  
+4|De Vico's 1846 4|34.35|  
+5|Brorsen's 1847 5|35.07|  
+6|Halley's|35.37|  
 
 He further pointed out the probability that the aphelion distances of the meteoritic rings of 18th to 20th April, 15th to 21st October, and 11th to 13th December are also nearly equal to the mean distance of Uranus.
 
@@ -3506,7 +3567,14 @@ Vogel made a series of observations of the spectra of nebulæ in 1871.* The foll
 
 *) _Both. Beob._, Heft 1, 1872, p. 56.
 
-[TABLE]
+Orion nebula|500.3|495.9|486.0  
+Orion nebula|500.2|495.7|486.2  
+General Catalogue, No. 4234|500.5|495.6|486.2  
+General Catalogue, No. 4373|500.7|495.6|486.9  
+General Catalogue, No. 4390|500.5|495.8|486.3  
+General Catalogue, No. 4447|500.7|495.9|...  
+General Catalogue, No. 4510|500.8|495|...  
+Mean wavelengths|500.53|495.64|486.32  
 
 In the spectra of other nebulæ, bright parts, similar to those described by Dr. Huggins as occurring in apparently continuous spectra, had their wave-lengths determined by Vogel. Thus in H 4234 he noted that in addition to the three nebula lines there were bright parts at 518 and at 554. The continuous spectrum extended from 570 to 480. Again, in H 4373 the continuous spectrum extended from 530 to 450, and bright stripes were seen at 527, 518, 509, and 479. This was in addition to the three bright nebular lines. In the spectrum of H 4390 also bright lines were measured at 554, 518, and 479, in addition to the other nebular lines.
 
@@ -3526,7 +3594,20 @@ D'Arrest published an exhaustive account of nebular spectra in 1872.* He mainly 
 
 *) _Proc. R. S._, vol. 16. p. 451.
 
-[TABLE]
+General Catalogue, No.|Wavelength of Line.  
+1179 (Orion neb.)|501.7  
+1567|501.0  
+2102|500.8  
+2197|493.4  
+2581|499.8  
+2917|500.6  
+4066|499.8  
+4361|497.2  
+4390|504.9  
+4403|499.8  
+4407|499.4  
+4510|504.4  
+4628|501.9  
 
 The mean wave-length given by this series is 500.36, and from a consideration of all the measurements that had been made of the bright nebula lines, D'Arrest adopted the mean wave-lengths 500.40, 495.66, and 486.06 for the nebula lines 1, 2, and 3 respectively.
 
@@ -3589,7 +3670,18 @@ The 5001 line is by far the brightest in the spectrum... The F line was a little
 
 I have tabulated below the reduced micrometer readings and the other determinations of the wave-lengths of the three brightest nebula lines that have been referred to in this chapter. Following this will be found another tabular statement setting forth all the chief observations of nebula lines up to the end of 1888.
 
-[TABLE]
+Huggins, 1864|486.1|...|500.3  
+Secchi, 1865|486.1|497.0|500.8  
+Huggins, 1868|486.1|...|500.8  
+Herschel, 1868|486.0|496.0|500.36  
+Professor Winloch, 1868 (mean)|485.0|496.0|500.5  
+Vogel, 1871 (mean)|486.3|495.6|500.5  
+Huggins, 1872|486.1|495.7|500.5  
+Bredichin, 1876 (mean)|485.92|495.79|500.39  
+Copeland, 1879 (mean)|486.7|496.3|501.05  
+Huggins, 1882|486.1|495.7|500.5  
+Copeland, 1886|486.1|495.8|500.4  
+Taylor, 1888|486.3|495.3|500.1
 
 [TABLE]
 
