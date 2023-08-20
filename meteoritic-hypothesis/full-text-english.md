@@ -5188,7 +5188,14 @@ _Chemical Substances indicated by the Absorption Flutings and Bands._
 
 I may state that I have now obtained evidence to show that the origin of the following _absorption_ flutings is probably as under ---
 
-[TABLE]
+No. of Fluting.|Origin.|Wavelength of darkest most refrangible edge.|Wavelength of less refrangible edge, given by Dunér as measured in α Orionis.  
+2|Iron|616|628  
+3|Manganese(2)|585|595  
+4|Manganese(1)*|558|564  
+5|Lead(1)*|544|550  
+6|Barium*|524|526  
+7|Magnesium|521|517  
+8|Magnesium|500|495  
 
 *) Means strongest fluting.
 
@@ -5200,7 +5207,20 @@ These flutings are characteristic of the whole class, and Dunér's catalogue con
 
 He gives other bands and wide lines which he has measured, specially in α Orionis. I have also, I think, determined the origin of the majority of these. They are as follows ---
 
-[TABLE]
+||Wavelength.  
+1.|Fluting of Chromium(1)|581  
+2.|?|570-577  
+3.|Fluting of Lead(2)|567  
+4.|?|543  
+5.|Line of Manganese seen in Bunsen|538-540  
+6.|Band of Barium|532-534  
+Lines 1.|Fluting of Chromium(2)|559*  
+Lines 2.|Fluting of Chromium(3)|536  
+Lines 3.|Line of Chromium seen in Bunsen|520  
+Lines 4.|Barium band|514*  
+Lines 5.|1st, 2d, and 3d Barium flutings|601  
+Lines 6.|1st, 2d, and 3d Barium flutings|634  
+Lines 7.|1st, 2d, and 3d Barium flutings|649  
 
 *) This is not given by Dunér. It would be masked by the Manganese fluting in the star. I have inserted it to show that we could not be dealing with the 3d fluting of Chromium at 536 if we could not explain the apparent absence of the 2d.
 
@@ -5402,9 +5422,27 @@ Sp\. 14. Characteristics: All the bands are pale and narrow; 2 and 3 will still 
 
 Sp\. 15. Characteristics: In ordinary members of this group, 2 and 3 now alone remain visible; they are wide, but feeble, as the continuous spectrum which has been rapidly developing during the last changes is now strong.
 
-[TABLE]
+Specific Differences in Group 2.
 
-[TABLE]
+|                               |                               |                               |                               |                               |                                     |                                       |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |                                     |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------------|---------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+| Radiation Flutings of Carbon. | Radiation Flutings of Carbon. | Radiation Flutings of Carbon. | Radiation Flutings of Carbon. | Radiation Flutings of Carbon. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands.   | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. | Absorption Flutings. Dunér’s Bands. |
+| Species.                      | Hydrocarbon, 431.             | Carbon B, 461.                | Carbon A, 474.                | Carbon A, 517.                | Carbon A, 564.                      | 10.                                   | 9.                                  | 8. Mg.                              | 7. Mg.                              | 6. Ba.                              | 5. Pb(1).                           | 4. Mn(1).                           | 3. Mn(2).                           | 2. Fe.                              | 1.                                  | Whether bright Hydrogend Lines. |
+| 1                             | |                             | |                             | Very wide and pale            | Wide and pale                 | Wide and pale                       | |                                     | |                                   | If present masked by 517            | Thin and dark                       | |                                   | |                                   | Present, but masked by 564          | Thin and pale                       | Absent                              | |                                   | Yes                             |
+| 2                             | |                             | |                             | Very wide and pale            | Wide and pale                 | Wide and pale                       | |                                     | |                                   | If present masked by 517            | Thin and dark                       | |                                   | |                                   | Present, but masked by 564          | Thin and pale                       | Appears thin and pale               | |                                   | No                              |
+| 3                             | |                             | |                             | Narrowing and brightening     | Narrowing and brightening     | Narrowing and brightening           | |                                     | |                                   | Appears dark                        | Thin and dark                       | |                                   | |                                   | Present, but masked by 564          | Thin and pale                       | Appears thin and pale               | |                                   | No                              |
+| 4                             | |                             | |                             | Narrowing and brightening     | Narrowing and brightening     | Narrowing and brightening           | |                                     | |                                   | Widens                              | Darkens                             | |                                   | Appears dark                        | Present, but masked by 564          | Thin and pale                       | Appears thin and pale               | |                                   | No                              |
+| 5                             | |                             | |                             | Narrowing and brightening     | Narrowing and brightening     | Very narrow                         | |                                     | |                                   | Widens                              | Darkens                             | |                                   | …                                   | Unmasked, dark                      | Darkens                             | Darkens                             | |                                   | No                              |
+| 6                             | |                             | |                             | Narrowing and brightening     | Brighter and narrower         | Very narrow                         | |                                     | |                                   | Still darker and wider              | Widens                              | Appears                             | Appears dark                        | …                                   | …                                   | …                                   | |                                   | No                              |
+| 7                             | |                             | |                             | Narrowing and brightening     | Brighter and narrower         | Very narrow                         | |                                     | Appears                             | Still darker and wider              | Widens                              | Darkens                             | Widens                              | Widens                              | Widens                              | Widens                              | |                                   | No                              |
+| 8                             | Very narrow                   | Very narrow                   | Narrowing and brightening     | Brighter and narrower         | Very narrow                         | |                                     | Darkens                             | Narrows                             | Narrows                             | Darkens                             | Widens                              | Widens                              | Widens                              | Widens                              | |                                   | No                              |
+| 9                             | Widens                        | Widens                        | Narrowing and brightening     | Brighter and narrower         | Very narrow                         | |                                     | Strong                              | Narrows                             | Narrows                             | Darkens                             | Widens                              | Widens                              | Widens                              | Widens                              | Appears                             | Yes, but variable               |
+| 10                            | Widens                        | Widens                        | Fading                        | Fading                        | Very narrow                         | Appears                               | Strong                              | Narrows                             | Narrows                             | …                                   | …                                   | Widens                              | Widens                              | Widens                              | Still present                       | Yes, but variable               |
+| 11                            | Narrows                       | Narrows                       | Fading                        | Fading                        | Very narrow                         | Narrow in all but the brightest stars | Pales                               | Pales                               | Pales                               | Darkens                             | Pales                               | Pales                               | Now very broad and faint            | Now very broad and faint            | Fading                              | Yes, but variable               |
+| 12                            | Gone                          | Narrows                       | Fading                        | Almost gone                   | Very narrow                         | Disappears                            | Almost gone                         | Pales                               | Pales                               | Pales                               | Pales                               | Pales                               | Pales                               | Pales                               | Gone                                | No                              |
+| 13                            | |                             | Gone                          | Fading                        | Almost gone                   | Very narrow                         | |                                     | Gone                                | Pales                               | Pales                               | Pales                               | Pales                               | Pales                               | Wide and faint                      | Wide and faint                      | |                                   | No                              |
+| 14                            | |                             | |                             | Gone                          | Almost gone                   | Very narrow                         | |                                     | |                                   | Pales                               | Thin and faint                      | Thin and faint                      | Thin and faint                      | Thin and faint                      | Narrows                             | Narrows                             | |                                   | No                              |
+| 15                            | |                             | |                             | …                             | (?) Gone                      | Gone                                | |                                     | |                                   | Gone                                | Gone                                | Gone                                | Gone                                | Gone                                | Narrows                             | Narrows                             | |                                   | No                              |
 
 ## Chapter 37. Sub-Groups and Species of Group 3.
 
@@ -5474,7 +5512,28 @@ The results of the observations which have been referred to are embodied in Fig.
 
 The wave-lengths and origins of the lines and flutings recorded in the observations are shown in the following table:---
 
-[TABLE]
+Wavelength.|Origin.  
+434 (G)|Hydrogen.  
+486 (F)|Hydrogen.  
+499|?  
+5166 (_b_)|Magnesium.  
+5172 (_b_)|Magnesium.  
+5183 (_b_)|Maganese.  
+5268 (E)|Iron.  
+5327|Iron.  
+5400|Manganese.  
+546 (fluting)|Lead(1).  
+546 (line)|?  
+552|Magnesium.  
+558 (fluting)|Manganese(1) . 
+558 (line)|?  
+568|Sodium.  
+579|Iron.  
+586 (fluting)|Manganese(2).  
+589 (D)|Sodium.  
+598|?  
+612|?  
+615 (fluting)|Iron.  
 
 _Tests._
 
