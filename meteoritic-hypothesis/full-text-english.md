@@ -3683,7 +3683,25 @@ Huggins, 1882|486.1|495.7|500.5
 Copeland, 1886|486.1|495.8|500.4  
 Taylor, 1888|486.3|495.3|500.1
 
-[TABLE]
+| Lines seen in Nebulæ.     | 373 | 4101 (_h_) | 434 (G) | 447 | 470 | 479 | 486 (F) | 495 | 500 | 509 | 518 | 520 | 527 | 547 | 554 | 559 | 587 (D3)   |
+|---------------------------|-----|------------|---------|-----|-----|-----|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------------|
+| Huggins, 1864-66          |     |            |         |     | +   |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Secchi, 1865              |     |            |         |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Herschel, 1868            |     |            | +       |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Winlock, 1868             |     |            |         |     | +   |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Le Sueur, 1870            |     |            | +       |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Vogel, 1871               |     |            | +       |     |     | +   | +       | +   | +   | +   | +   |     | +   |     | +   |     |            |
+| Huggins, 1872             |     |            | +       |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Bredichin, 1876           |     |            |         |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Copeland, 1879            |     |            | +       |     | +   |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Lohse, 1879               |     |            | +       |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Huggins, 1882             | +   |            | +       |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Draper, 1882              |     | +          | +       |     |     |     | +       | +   | +   |     |     |     |     |     |     |     |            |
+| Copeland, 1886            |     |            | +       | +   |     |     | +       | +   | +   |     |     |     |     |     |     |     | +          |
+| Taylor, 1888, Orion       |     |            | +       | +   | +   |     | +       | +   | +   |     |     | +   |     |     |     | +   | +          |
+| Fowler, 1888, Androm.     |     |            |         |     |     |     |         |     |     |     | +   |     |     | +   |     |     |            |
+| Taylor, 1888, Androm.     |     |            |         |     | +   |     |         |     |     |     | +   |     |     | +   |     |     |            |
+| Probable Origins of Lines |
 
 ### Chapter 26. Comparison between the Spectra of Nebulæ and Comets.
 
@@ -3711,7 +3729,29 @@ In cases, however, where any of these higher temperature lines correspond to lin
 
 The comparison then stands as follows ---
 
-[TABLE]
+Comets.|Nebulæ.|Probable Origins.|λ of Probable Origins.  
+...|411|H|410  
+431|...|CH|431  
+...|434|H|434  
+...|447|?|...  
+468-474|468-474|C (hot)|468-474  
+...|479|?|...  
+483|...|C (cool)|483  
+486|486.3|H|486  
+...|495|?|...  
+500|500|Mg|500  
+...|509|?|...  
+517|517|C (hot)|517  
+519|...|C (cool)|519  
+521|520|Mg|521  
+[527]|527|Fe|527  
+546|546|Pb|546  
+...|554|?|...  
+558|559|Mn|558  
+561|...|C (cool)|561  
+564|...|C (hot)|564  
+568|...|Pb, Na|568  
+|5872|? (D3)|...  
 
 The table shows that there are many striking similarities between the two spectra, and there is no doubt that many of the lines are identical. The flutings of hot carbon, for example, are common to both, as are also the flutings of magnesium, manganese, and lead. The hydrogen line 486 has only been seen in one comet, namely, Comet 3 1880, by Konkoly.*
 
@@ -3778,7 +3818,8 @@ Another direct comparison was made in 1868, and is thus referred to ---*
 
 It will be noticed that in these observations Dr. Huggins informs us to what extent his observations were trustworthy, and, taking Thalén's measures for D, _viz._ ---
 
-5895.0  5889.0
+5895.0  
+5889.0
 
 we find the probable error to be sixty units. In the diagram which accompanies the above description the nebula line is shown coincident with the _less_ refrangible component of the nitrogen double, in contradistinction to the former observation, which placed the line midway between them.
 
@@ -3808,7 +3849,10 @@ In the high dispersion work, dispersions varying from that given by a Liveing di
 
 The first thing to do was to test the idea that the line seen in the glow was really produced by magnesium proceeding from the silicates found in most meteorites. With this object I tried terrestrial olivine, and I again saw the line in its spectrum. Subsequent work with a large model Steinheil spectroscope (four prisms and a high power eye-piece) showed that the line was coincident with the least refrangible member of one of the flutings seen in the name-spectrum of magnesium, the wave-length of which had been given as follows ---
 
-Lecoq de Boisbaudran|5006.0  Watts|5006.5  Liveing and Dewar (1878)*|5000.0  Liveing and Dewar (1888)*|5006.4
+Lecoq de Boisbaudran|5006.0  
+Watts|5006.5  
+Liveing and Dewar (1878)*|5000.0  
+Liveing and Dewar (1888)*|5006.4
 
 *) _Proc. R. S._, vol. 27. p. 353.
 
@@ -3824,7 +3868,14 @@ It may be mentioned here that the secondary maxima of the fluting succeed each o
 
 *) _Proc. R. S._, vol. 44. p. 242.
 
-[TABLE]
+Liveing and Dewar.|Lockyer.  
+5006.4; 10.8|5006.5; 10.4  
+4995.6; 10.2|4996.1; 11.0  
+4985.4; 11.8|4985.1; 11.6  
+4973.6; 12.0|4973.5; 12.2  
+4961.6; 13.0|4961.3; 12.9  
+4948.6; 14.2|4948.4; 14.0  
+4934.4;|4934.4;
 
 The comparisons employed by Dr. Huggins in his observations of the chief nebula line were the double green line of nitrogen, and a line of lead; the relative positions of these were then observed in relation to the magnesium fluting, _en attendant_ the direct comparison with the nebula line with which Dr. Huggins states the least refrangible of the nitrogen lines to be coincident.
 
@@ -3852,7 +3903,10 @@ No doubt this displacement can be (and was) abolished by perfect focussing, but 
 
 These experiments, therefore, show that many precautions have to be taken before the coincidence or non-coincidence of one line with another can be determined with absolute certainty even when large dispersion and stable laboratory conditions are employed. The general results of the laboratory comparisons may be briefly stated thus ---
 
-[TABLE]
+|Huggins.|Thalén.|Liveing and Dewar (1878).|Liveing and Dewar (1888).|Lockyer.  
+Mg fluting|5006.5|...|5000.0|5006.4|5006.5  
+N line|5004.6|5005.1|...|...|5005.1  
+Pb line|5004.5|5004.6|...|...|5005.0  
 
 It must be remembered that ordinary observatory conditions are not nearly so favourable for accurate measurements of the positions of lines in spectra as those possible in a laboratory: the apparatus is not so stable, and must of necessity be in motion, and again, the collimator of the spectroscope with its slit exactly central must be demonstrated to be absolutely in the optic axis of the telescope before a measurement can be taken as final. Two series of observations should therefore be made, one with the spectroscope in one position, and the other when it has been turned through 180°.
 
@@ -4428,6 +4482,63 @@ Measurements have also been made of the brightenings in the spectrum of γ Cassi
 
 To show the similarity of these spectra the following comparisons are given between individual stars and individual comets:---
 
+Arg. Oeltzen, 17681|Coggia's Comet, June 15, 1874  
+468-474|472  
+(517 ?)|515  
+540|...  
+564|564  
+579|...  
+Lalande, 13412|Encke's Comet, Nov. 8, 1871  
+468-474|4735  
+486|...  
+(517)|5160  
+540|...  
+564|563.2  
+579|...  
+2d Cygnus|Encke's Comet, Nov. 8, 1871  
+468-474|4735  
+517|5160  
+540|...  
+564|563.2  
+568|...  
+579|...  
+635|...  
+1st Cygnus|Great Comet, Oct. 22, 1882  
+465-470|471.2 (max.)  
+486|...  
+507|...  
+(517 ?)|517.1  
+527|...  
+541|...  
+558|557  
+564|564  
+571|...  
+583|...  
+3d Cygnus|Comet 3, July 27, 1881  
+468-474|468-474  
+517|517  
+540|...  
+...|546  
+556|556  
+564|564  
+568|...  
+579|...  
+635|...  
+γ Argus|Comet Wells, June 10, 1882  
+468-474|...  
+...|501.7  
+...|512.7  
+(517)|...  
+...|540.6  
+564|...  
+...|573.8  
+579|580.3  
+589|588.8 (D)  
+...|589.3 (D)  
+...|613.3  
+...|625.5  
+...|638.2  
+
 These examples are sufficient to show that comets and "bright-line stars," as they are called, are very intimately connected with each other. It will be seen that in five out of the six comparisons given, the blue band of hot carbon, 468-474, and the citron band at 564 are common to both comet and star; and in the sixth case, that of Comet Wells, there is a good reason for their absence, as I shall subsequently show. The other carbon fluting, at 517, which is so commonly observed in cometary spectra, has only been recorded in 3d Cygnus by Vogel, but it has also been observed in all three stars at Kensington. But since the other two flutings are never seen in laboratory experiments without the fluting at 517, it is perfectly fair to assume that in some of the "stars," the 517 fluting is masked by the bright continuous spectrum on which it is superposed. Accordingly, when 564 and 468-474 have been recorded, 517 (in brackets) has also been entered in the tables. This being allowed, the carbon flutings are common to all the comets and stars given in the tables, with the exception of Comet Wells. In 1st and 3d Cygnus the manganese fluting at 558 is also common to the stars and comparison comets.
 
 In the first five cases the coincidences are between the flutings of carbon and manganese, but in the last case we have a different relation. On the date given, Comet Wells was at perihelion, and the perihelion distance being small, high temperature phenomena were exhibited. The bright lines of sodium and iron became visible, and all traces of carbon flutings disappeared. We know that γ Argus is hotter than the other bright-line stars in the tables, because of the greater length of its continuous spectrum (420 to 675), and it is therefore necessary to compare it with a hotter comet. Comet Wells has accordingly been selected, and it will be seen that the iron line at 579 and the D lines of sodium are common to both. The greater number of lines seen in Comet Wells was no doubt due to the better conditions of observation.
@@ -4440,7 +4551,29 @@ To show that the coincidences are not limited to individual stars and comets, th
 
 In the following table, all the lines and flutings recorded in bright-line stars, with the exception of γ Cassiopeiæ, are given. The lines recorded by Sherman in γ Cassiopeiæ have not yet been confirmed:---
 
-[TABLE]
+Comets.|Bright-line Stars.|Probable Origins.|λ of Probable Origins.  
+...|4101|H|4101  
+431|...|CH|431  
+...|434|H|434  
+468-474|468-474|C (hot)|468-474  
+483|...|C (cool)|483  
+486|486|H|486  
+500|...|Mg|500  
+...|507|? Cd|508  
+517|517|C (hot)|517  
+519|...|C (cool)|519  
+521|...|Mg|521  
+[527]|527|Fe|527  
+...|540|Mn|540  
+546|...|Pb|546  
+558|558|Mn|558  
+561|...|C (cool)|561  
+564|564|C (hot)|564  
+568|568|Pb, Na|568  
+[579]|579|Fe|579  
+...|5872|? (D3)|...  
+[589 (D)]|589|Na (D)|5889, 5894  
+...|635|?|...  
 
 The coincidences here are between the flutings of hot carbon, manganese 558, and Pb, Na 568. D has only been seen bright in one of the stars (γ Argus), which is probably one of the hottest; since D was seen bright in two of the hottest comets, I have inserted it in the list of cometary lines and flutings, and [527] and [579] are added for the same reason.
 
@@ -4472,7 +4605,25 @@ Under the heading of "Dunér's Bands" I give the mean wavelengths measured by Du
 
 The figures first given refer to the sharp edges of the flutings; the other figures indicate approximately where the flutings fade away.
 
-[TABLE]
+Comets.|Dunér's Bands.|Probable Origins.|λ of Probable Origin.  
+...|461-451; Bright space|C-subscript(B)|460-451  
+...|461-473; (10) Dark space|...|...  
+468-474|472-476; Bright space|C (hot)|468-474  
+...|476-486; (9) Dark space|...|...  
+483|...; ...|C (cool)|483  
+...|495-486; ? Bright fluting|?|...  
+500|495-502; (8) Dark fluting|Mg|500  
+517|516-502; Bright fluting|C (hot)|517  
+519|...; ...|C (cool)|519  
+521|516-522; (7) Dark fluting|Mg|521  
+...|524-527; (6) Dark fluting|Ba (2)|526  
+546|544-551; (5) Dark fluting|Pb|546  
+558|559-564; (4) Dark fluting|Mn(1)|558  
+561|...; ...|C (cool)|561  
+564|...; ...|C (hot)|564  
+...|585-594; (3) Dark fluting|Mn(2)|586  
+[615]|616-630; (2) Dark fluting|Fe|615  
+...|647-668; (1) Dark fluting|?|...  
 
 This comparison shows that there is a very close relation between comets and these stars independent of the probable chemical origins of the lines suggested. Bright carbon flutings, the manganese fluting at 558, the lead fluting at 546, the iron fluting at 615, and the magnesium fluting 521 are common.
 
@@ -4484,7 +4635,68 @@ Dunér's band 1, 647 to 668, has not yet had an origin assigned to it.
 
 All the bands observed by Duner are not seen in every star, of the mixed fluting group, but, as shown in Chapter 36, some of them contain only three or four bands, whilst others contain more, and a few of the brightest contain all the bands. It is shown that the number and intensities of the bands enable us to arrange the stars in order of temperatures. If, then, comets are like the stars of this group, we should find individual stars and comets to correspond with each other, due account being taken of the fact that the stars are not subjected to any repulsion like that exercised by the sun upon comets. A few cases are given below.
 
-[TABLE]
+Dunér's No. 56.|Great Comet 1882, Oct. 22  
+(468-474)|471.5  
+516-522|517.1  
+(558 masked by 564)|558  
+585-594|...  
+616-630|615*  
+Dunér's No. 93.|Comet 3 1881, July 27  
+(468-474)|468-474  
+516-522|517  
+544-551|546.8  
+559-564|556.6  
+585-594|...  
+616-630|...  
+Dunér's No. 7.|Brorsen's Comet 1879, April 16  
+(468-474)|470  
+495-502|...  
+516-522|516  
+544-551|546  
+585-594|...  
+616-630|...  
+Dunér's No. 153.|Comet 3 1881, June 28  
+(468-474)|468-474  
+495-502|...  
+516-522|516.3  
+544-551|...  
+559-564|553  
+(564 masked)|563  
+585-594|...  
+616-630|...  
+Dunér's No. 101.|Comet Wells 1882, May 31  
+495-502|501.7  
+...|512.7  
+516-522|...  
+...|540.6  
+...|573.8  
+...|580.3  
+585-594|...  
+...|{5893, 5898} D  
+...|598.8  
+616-630|613.3  
+...|625.5  
+...|638.2  
+Dunér's No. 153.|Great Comet 1882, Sept. 18  
+495-502|...  
+...|510  
+...|511.5  
+516-522|517.6  
+...|520.3  
+522|520.7  
+...|526.9  
+...|532.7  
+...|537.0  
+...|540.0  
+...|542.8  
+544-551|547.4  
+559-564|557.4  
+...|579.7  
+585-594|588.9 D  
+...|589.3 D  
+...|590.0  
+
+*) Observed on 18th September by Copeland.
 
 These tables show again that the stars with mixed flutings are very closely related to comets. The number of bands seen in the stars is generally greater than that seen in the comets, but all the cometary bands are amongst those seen in the stars. Two of the bands which have not been seen in comets are 495-502 and 585-594, but that at 616 was seen in Comet Wells when near perihelion.
 
@@ -4496,13 +4708,75 @@ In preceding chapters and in the present one I have shown that the spectra of br
 
 It will be seen that there are three flutings which run through the five columns, namely, 468-474, 517, and 558; and four more, H 486, Mg 500, Mg 521, and Pb 546, occur in four out of the five columns. Out of the thirty-four lines or flutings given, there are nineteen which occur in less than three columns, but this number is greatly reduced when slight differences of temperature, masking effects, and the exceptional conditions of comets are taken into account.
 
-[TABLE]
+Nebulæ.|Aurora.|Comets.|Bright-line Stars.|Stars with Mixed Flutings.  
+4101|411|...|4101|...  
+...|426|[426]|...|...  
+...|431|431|...|449 (bright space)  
+434|435|...|434|...  
+447|...|...|...|...  
+...|...|...|461-451 bright  
+468-474|474-478|468-474|472-476 bright  
+479|482|483|...|...  
+486|486|486|486|...  
+4958|...|...|...|4958-486 bright  
+500|500|500|...|502-4959 dark  
+509|...|...|507|...  
+517|517|517|517|516-502 bright  
+...|519|519|...|...  
+520|522|521|...|522-516 dark  
+...|...|...|...|524-527 dark  
+527|...|[527]|527|...  
+...|531|...|...|...  
+...|535|...|...|...  
+...|539|...|540|...  
+546|545|546|...|544-551 dark  
+554|...|...|...|...  
+559|558|558|558|559-564 dark  
+...|...|561|...|...  
+...|...|564|564|...  
+...|...|568|568|...  
+...|...|[579]|579|...  
+...|...|...|...|585-594 dark  
+5872 (D3)|...|...|5872|...  
+...|...|[589]|589|...  
+...|606|...|...|...  
+...|620|[615]|...|616-630 dark  
+...|630|...|635|...  
 
 The facts to which reference has just been made may perhaps conveniently be put in another way, with special reference to carbon, by the table on page 368. It consists of a list of the bodies which contain either one or both of the carbon flutings near 517 and 468-474, the latter being a group of flutings, which, as I have before shown,* sometimes has its point of maximum brightness shifted from 474 to 468.  The fluting near 564 has been omitted from the table, as it is generally masked, either by continuous spectrum, or by the superposition of the fluting of manganese near 558. The wave-lengths given are as measured by the various observers stated.
 
 *) _Roy. Soc. Proc._, vol. 35. p. 167.
 
-[TABLE]
+| Name.                       | Fluting 468-474.           | Fluting 517.             | Reference.                                             |
+|-----------------------------|----------------------------|--------------------------|--------------------------------------------------------|
+| Planetary nebula            | 469.4 (Copeland)           | …                        | _Copernicus_, vol. 1. p. 2                             |
+| Nebula in Orion             | 470 (Taylor)               | …                        | _Monthly Notices_, vol. 49. p. 126.                    |
+| Nebula, Gen. Cat., No. 4373 | …                          | 518 (Vogel)              | _Bothk. Beob._, Leipzig, Heft 1, 1872, p. 57.          |
+| Nebula, Gen. Cat., No. 4234 | …                          | 518 (Vogel)              | _Bothk. Beob._, Leipzig, Heft 1, 1872, p. 57.          |
+| Nebula, Gen. Cat., No. 4390 | …                          | 518 (Vogel)              | _Bothk. Beob._, Leipzig, Heft 1, 1872, p. 58.          |
+| Nebula in Andromeda         | 468-474 (Fowler)           | 517 (Fowler)             | _Roy. Soc. Proc._, vol. 45. p. 216                     |
+| Nebula in Andromeda         | …                          | 517 (Taylor)             | _Monthly Notices_, vol. 49. p. 126.                    |
+| γ Argus                     | 468 (Ellery)               | …                        | _Observatory_, vol. 2. p. 418.                         |
+| γ Argus                     | 464.6 (Copeland)           | …                        | _Copernicus_, vol. 3. p. 205.                          |
+| Arg, Oeltzen, 17681         | 461-470 (Vogel)            | …                        | _Astro-Phys. Obs. zu Potsdam_, vol. 4. No. 14, p. 16.  |
+| Arg, Oeltzen, 17681         | 473 (Pickering)            | …                        | _Astr. Nachr._, No. 2376.                              |
+| Lalande, 13412              | 469 (Vogel)                | …                        | _Astro-Phys. Obs. zu Potsdam_, vol. 4. No. 14, p. 17.  |
+| 1st Cygnus                  | 470 (Wolf and Rayet)       | …                        | _Comptes Rendus_, vol. 45. p. 292.                     |
+| 1st Cygnus                  | 465-470 (Vogel)            | …                        | _Astro-Phys. Obs. zu Potsdam_, vol. 4. No. 14, p. 17.  |
+| 1st Cygnus                  | 468-474 (Fowler)           | 517 (Fowler)             | New observations.                                      |
+| 2d Cygnus                   | 470 (Wolf and Rayet)       | …                        | _Comptes Rendus_, vol. 45. (1867) p. 292.              |
+| 2d Cygnus                   | 464 (Vogel) middle of band | …                        | _Astro-Phys. Obs. zu Potsdam_, vol. 4. No. 14, p. 17.  |
+| 2d Cygnus                   | 468-474 (Fowler)           | 517 (Fowler)             | New observations.                                      |
+| 3d Cygnus                   | 470 (Wolf and Rayet)       | …                        | _Comptes Rendus_, vol. 45. (1867) p. 292.              |
+| 3d Cygnus                   | 461-468 (Vogel)            | 517 (Vogel)              | _Astro-Phys. Obs. zu Potsdam_, vol. 4. No. 14, p. 292. |
+| 3d Cygnus                   | 468-474 (Fowler)           | 517 (Fowler)             | New observations.                                      |
+| γ Cassiopeiæ                | …                          | 517 (Sherman)            | _Astr. Nachr._, No. 2691.                              |
+| γ Cassiopeiæ                | 468-474 (Fowler)           | 517 (Vogel)              | New observations.                                      |
+| ο Ceti                      | 468-474 (Fowler)           | 517 (Lockyer and Fowler) | New observations.                                      |
+| α Herculis                  | 468-474 (Fowler)           | 517 (Lockyer and Fowler) | New observations.                                      |
+| α Orionis                   | …                          | 517 (Lockyer and Fowler) | New observations.                                      |
+| Aurora                      | 474-478 (Vogel)            | …                        | _Bothk. Beob._, Leipzig, Heft 1, 1872, p. 43.          |
+| Aurora                      | …                          | 517 (Backhouse)          | _Nature_, vol. 7. p. 463.                              |
 
 It will be seen that the record of the presence of the flutings of carbon, seen in comets, is unbroken from a planetary nebula through stars with bright lines to those resembling α Herculis.
 
@@ -4543,7 +4817,7 @@ In order to bring these results in a definite form before my own mind, I prepare
 
 We had condensing swarms of meteorites on the ascending-arm; globes of meteoritic vapours produced, as the final result of condensation, at the top; and cooling globes of gas, with finally the formation of a crust on the other arm. To state this conclusion in greater detail: On the arm of the curve representing increasing temperature, we shall have at various heights those aggregations which give us indications of a gradually increasing temperature brought about by collisions, beginning with meteorites as widely separated as they can be to _keep up_ any luminosity at all, and finally vaporous condensations due to gravity. At the top of such a curve we shall of course have that condition in which the highest temperature must be assumed to exist. This is brought about by the final change of all the motions of a swarm into heat. In a letter to M. Dumas in the year 1872, I suggested that possibly the simplification of the spectrum of a star might be associated with the highest temperature of the vapour, and that idea seems to have been accepted by other observers since that time. We shall have then stars of Vogel's Class 1 at the top of the temperature curve. On the arm of the curve descending from stars of the first class to those in which we get first vaporous combination --- those bodies in which the absorption of compound molecules is indicated, without any radiation, and then ultimately the formation of a crust due to the gradual cooling of the mass, which in time produces dark bodies like, say, the companion to Sirius or our own earth. On this arm the stars of Class 3_b_ of Vogel must undoubtedly be placed.
 
-[TABLE]
+[Fig. 67. --- Temperature Curve (provisional).]()
 
 I do not suppose that there will be any difficulty in recognising that if the nebulæ, stars with bright lines, and stars of the present Class 3_a_ and 3_b_ are constituted as I state them, all the hottest stars and those more closely resembling the sun in structure, must find places on the temperature curve pretty much as I have suggested; the origin of these groups being, first, still further condensation, then the condition of maximum temperature, and finally the formation of a photosphere and crust.
 
@@ -4782,7 +5056,35 @@ Sherman,* at Yale College Observatory, recorded (1885) all the bright lines prev
 
 *) Konkoly's D3 extends quite up to D dark, and seems more like a fluting than a bright line.
 
-[TABLE]
+Table of Bright Lines in γ Cassiopeiæ.
+
+| Secchi.    | Vogel. | Huggins. | Gothard.  | Konkoly.  | Sherman.  | Probable Origin.   |
+|------------|--------|----------|-----------|-----------|-----------|--------------------|
+| C.         | ...    | C.       | C.        | C.        | C.        | H.                 |
+|            |        |          |           |           | 635.6     | (?) Limerick Met.  |
+|            |        |          |           |           | 616       | Fe.                |
+| D3.        | D3.    | D3.      | D3.       | D3.       | D3.       | Mn.                |
+|            |        |          |           |           | 584 ? D3. | Mn.                |
+|            |        |          |           |           | 555.75    | Mn.                |
+|            |        |          |           |           | 542.2     | Mn.                |
+|            |        |          |           |           | 530.98    | (?) Coronal line.  |
+|            |        |          |           |           | 516.75    | C.                 |
+|            |        |          |           |           | 499       | Mg.                |
+| F.         | F.     | F.       | F.        | F.        | F.        | H.                 |
+|            |        |          |           |           | 462.3     |                    |
+|            |        |          |           | G.        | G.        | H.                 |
+|            |        |          |           |           | 418       |                    |
+|            |        |          |           |           | _h_.      | H.                 |
+| Dark Lines |        |          |           |           |           |                    |
+|            |        |          |           | 666.2-656 |           |                    |
+|            |        |          | 633       | 659.0-624 | 628       |                    |
+|            |        |          | 589       | 589       |           | Na (D.)            |
+|            |        |          |           |           | 576       |                    |
+|            |        |          | 517 (_b_) | 516 (_b_) |           | Mg (_b._)          |
+|            |        |          |           |           | 502       |                    |
+|            |        |          |           |           | 492       |                    |
+|            |        |          |           |           | 467.35    |                    |
+|            |        |          |           | 431       | 399.3     |
 
 Sherman does not record dark _b_ lines, although Konkoly observed them several times. Sherman, however, saw the bright carbon fluting at 517. It seems possible, therefore, that Konkoly saw this bright carbon, and by contrast with the surrounding-spectrum, imagined he saw the dark _b_ lines --- at any rate no other observer has recorded dark _b_.
 
@@ -4844,7 +5146,11 @@ _The Radiation Flutings._
 
 We will first deal with the radiation flutings --- those of carbon. The brightest less refrangible edge of the chief one is at wave-length 517, where it sharply cuts off the tail end of the absorption of the magnesium  fluting,  the  darkest edge of which begins at 520, as the carbon light from the interspace pales the absorption. The same thing happens at the more refrangible edge of the other absorption of magnesium at 500, as Dunér's figures show.
 
-[TABLE]
+|Less refrangible edge.|More refrangible sharp edge.  
+Band 8 (absorption of Magnesium).|502|496 in α Herculis.  
+Band 8 (absorption of Magnesium).|501|496 in ρ Persei.  
+Band 8 (absorption of Magnesium).|503|496 in R Leonis Min.  
+Band 8 (absorption of Magnesium).|505|496 in β Pegasi.  
 
 If this explanation of the rigidity of the less refrangible edge may be accepted, it is suggested that the rigidity of the end of band 8 at 496, near the nebula line 495, seems to indicate that we may have that line as the bright, less refrangible boundary of another radiation fluting.
 
@@ -4854,7 +5160,11 @@ The fluting at 517 is the chief radiation fluting of carbon. The next more refra
 
 This in all probability has been seen by Dunér, though, as before stated, there is here a discrepancy between his maps and his text. It lies between his dark bands 9 and 10, the measurements of which are as follows:---
 
-[TABLE]
+|Less refrangible edge.|More refrangible edge.  
+Band 9|482|476 in α Orionis.  
+Band 9|484|477 in β Pegasi.  
+Band 10|472|460 in α Orionis.  
+Band 10|474|462 in α Herculis.  
 
 It is not necessary for me to point out the extreme and special difficulty of observations and determinations of wave-lengths in this part of the spectrum. Taking this into consideration, and bearing in mind that my observations of the chemical elements have shown me no other bands or flutings in this region, I feel justified in looking upon the narrow bright space between bands 9 and 10 as an indication of another carbon fluting --- the one we should expect to find associated with the one at 517, with its bright edge at 473 instead of 476, where Dunér's measurements place it. There is a bright fluting in this position in Nova Orionis.
 
