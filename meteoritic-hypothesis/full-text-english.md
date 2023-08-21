@@ -6513,7 +6513,11 @@ L(m-5) = 100.02 * L(m).
 
 The amount of light to be added for the different magnitudes will, therefore, be as follows ---
 
-[TABLE]
+Addition for one magnitude = (2.51 - 1) * L(m) = 1.51 * L(m)  
+Addition for the next magnitude = (6.31 - 2.51) * L(m) = 3.80 * L(m)  
+Addition for the next magnitude = (15.85 - 6.31) * L(m) = 9.54 * L(m)  
+Addition for the next magnitude = (39.78 - 15.85) * L(m) = 23.93 * L(m)  
+Addition for the next magnitude = (100.02 - 39.78) * L(m) = 60.24 * L(m)  
 
 It is obvious that these figures are in the same proportion to each other as the numbers representing the light of stars of different magnitudes, and if in our diagrams we take a certain length of line to represent the added light equivalent to one magnitude, about 2 1/2 times this will represent the added light for the next magnitude, and each succeeding magnitude will be represented by a line 2 1/2 times as long as the preceding one. A scale of this kind must be adopted in integrating the effects of two sources of added light for the reason already stated. Thus, while the amount of light to be added to a sixth magnitude star, to take an instance, to increase it to the fifth is 1 1/2 units, the number of the same units to be added to a fourth magnitude star to make it a third is 9 1/2. Hence 1 1/2 units, which raise a star of the sixth to the fifth magnitude --- that is, one whole magnitude --- would only increase a fourth magnitude star by about one-sixth of a magnitude.
 
@@ -6525,7 +6529,18 @@ The sum of these numbers, 14.85, represents the added light.
 
 The plan on which the following curves have been drawn will be gathered from the table given on the next page, which shows how, on the above basis, the light-units and magnitudes correspond.
 
-[TABLE]
+Magnitude step.|Light addition for Integral part of step.|Light addition for Fractional part of step.|Total light addition.  
+1/2|0|0.58|0.58  
+1|1.51|0|1.51  
+1 1/2|1.51|1.46|2.97  
+2|5.31|0|5.31  
+2 1/2|5.31|3.66|8.97  
+3|14.85|0|14.85  
+3 1/2|14.85|8.61|23.46  
+4|38.78|0|38.78  
+4 1/2|38.78|23.08|61.86  
+5|100.02|0|100.02  
+_etc._|_etc._|_etc._|_etc._  
 
 In the hypothetical case represented in Fig. 93 the constant light of the central swarm may be taken as 6 mag., and the added light of the two secondary swarms as varying from _nil_ to 3 mag. and from _nil_ to 4 1/2 mag. respectively. It is then obvious that the integrated effects of the light added produce constant maxima of 14.85 units, and minima alternately of 0 and 2.97. We can in this way represent the light-curve of a star which changes its magnitude from 3 to 4 1/2 and 3 to 6 alternately.
 
@@ -6551,7 +6566,10 @@ As the light is generally feeble, we may take the constant luminosity of the sta
 
 Proceeding as before we have ---
 
-[TABLE]
+1.51|addition for one magnitude.  
+3.80|addition for the next magnitude.  
+9.54|addition for the next magnitude.  
+29.96|addition for the next magnitude.  
 
 The sum of the added light gives us 38.81 light-units.
 
@@ -6575,7 +6593,18 @@ The smaller the range, the more will both maxima and minima be affected by the s
 
 It has been before remarked that the hypothesis demands that in sparse swarms of meteorites (Groups 1 and 2) the ascent to maximum, due to the sudden action of the colliding swarms, should be much more rapid than the descent to minimum, for the reason that the descent must represent a gradual cooling down of the disturbance. This more rapid ascent has been noted in ---
 
-[TABLE]
+Known Group 2 stars.  
+R Piscium  
+S Vulpeculæ  
+R Leonis Minoris  
+R Ursæ Majoris  
+R Corvi  
+W Cygni  
+S Cassiopeiæ  
+R Arietis  
+R Orionis  
+T Delphini  
+T Vulpeculæ  
 
 I have also suggested that the short minimum is a measure of the indirect disturbance, but it is easy to imagine that this short minimum will not be invariable under all conditions, and accordingly we find in R Persei with a period of 212 days, a long minimum. In stars of Group 6, on the other hand, where we have simply to deal with the added light of comets passing perihelion, there is no reason why this should happen; indeed, it ought to be rather the other way, since comets put on their greatest brilliancy after perihelion. As a matter of fact, so far as my inquiries have gone, I have not yet come across a case of a Group 6 star showing any great difference in the times spent in rising and falling.
 
@@ -6595,7 +6624,9 @@ The explanation suggested by the hypothesis of the variability of stars of Group
 
 But suppose that the secondary swarm which adds its light at maximum is a comet with the usual carbon bands, we shall get this condition of things:---
 
-[TABLE]
+|Blue.|Green.|Citron.  
+Bands in star|masked by continuous absorption|absorbed|absorbed  
+Bands in subsidiary swarm|bright|bright|bright  
 
 In other words, the bright fluting of carbon in the green and blue of the subsidiary swarm will just _mask_ the absorption bands. They will _pale_, and the colour of the star (red) will be but slightly affected from this cause; but the blue flutings will be clear gain to the blue end of the spectrum, and crimson will result.
 
@@ -6657,7 +6688,29 @@ The general conclusions, then, to which the investigations discussed in this vol
 
 9\. The line of increase of temperatures of the swarms of meteorites and of subsequent cooling of the mass of vapour produced, and the accompanying phenomena, may be stated generally as follows ---
 
-[TABLE]
+Sequences of Spacing and Temperatures (Provisional).  
+|                                                         |                         |                                  |                                  |                                                            |
+|---------------------------------------------------------|-------------------------|----------------------------------|----------------------------------|------------------------------------------------------------|
+| Spectrum of Interspace.                                 | Spectrum of Interspace. | Spectrum of Vapour of Meteorite. | Spectrum of Vapour of Meteorite. | Spectrum of Meteorite.                                     |
+|                                                         | H.                      | C.                               | Radiation.                       | Absorption.                                                | Radiation.                                                                                                                                                  |
+| _Increasing Temperature_.                               |                         |                                  |                                  |                                                            |                                                                                                                                                             |
+| From Cold to Hot = Sparse to Dense Swarms.              |                         |                                  |                                  |                                                            |                                                                                                                                                             |
+| Nebulæ (without hydrogen)                               | Nil                     | Nil                              | (500) ± 495                      | Nil                                                        | Dimly discontinuous                                                                                                                                         |
+| Comets 1866 and 1867                                    | Nil                     | Nil                              | (500)                            | Nil                                                        | Dimly discontinuous                                                                                                                                         |
+| Nova Cygni after collision                              | Nil                     | Nil                              | (500)                            | Nil                                                        | Dimly discontinuous                                                                                                                                         |
+| Nebulæ (with hydrogen)                                  | H                       | Nil                              | Mg (500) ± 495                   | (?)                                                        | Continuous                                                                                                                                                  |
+| Stars with bright lines (with hydrogen)                 | H                       | Nil                              | Fe, Mn                           | (?)                                                        | Continuous                                                                                                                                                  |
+| Nebulæ like Andromeda                                   | Nil                     | C                                | (?)                              | (?)                                                        | Continuous                                                                                                                                                  |
+| Stars with bright lines (without hydrogen)              | Nil                     | C                                | Fe, Mn                           | Absorption of Manganese and Lead                           | Continuous                                                                                                                                                  |
+| Comets under mean conditions of collision               | Nil                     | C                                | Mg(_b_), Mn and Pb               | (?)                                                        | Continuous                                                                                                                                                  |
+| Comets near perihelion                                  | Nil                     | C                                | Meteorite lines                  | (?)                                                        | Continuous                                                                                                                                                  |
+| Stars, Group 2 undisturbed                              | Nil                     | C                                | …                                | Meteorite flutings and lines                               | Vividly continuous                                                                                                                                          |
+| Disturbed.                                              | H                       | C                                | Meteorite lines                  | Meteorite flutings and lines                               |                                                                                                                                                             |
+| Stars of Group 3                                        | Nil                     | Nil                              | Meteorite lines                  |                                                            |                                                                                                                                                             |
+| _Complete Condensation of Meteorites_.                  |                         |                                  |                                  |                                                            |                                                                                                                                                             |
+| Stars, Group 4                                          |                         |                                  | Continuous                       | High temperature lines of substances present in meteorites | The radiation from individual meteorites now gives place to radiation from the interior vaporous and subsequently consolidated mass of the condensed swarm. |
+| _Decreasing Temperatures (Subsequent Cooling)_.         |                         |                                  |                                  |                                                            |                                                                                                                                                             |
+| Stars {Group 5, some stars, including the Sun; Group 6} |                         |                                  | Continuous                       | K in excess; Flutings of carbon                            | The radiation from individual meteorites now gives place to radiation from the interior vaporous and subsequently consolidated mass of the condensed swarm. |
 
 10\. The brilliancy of the aggregations, at each increasing temperature, depends on the number of meteorites in the swarm, _i. e._ the difference depends upon the quantity, and not the intensity, of the light.
 
@@ -6715,9 +6768,149 @@ _Special Solar Applications._
 
 ## A.
 
-[TABLE]
+See Chapters 36 and 43.
 
-[TABLE]
+Showing the stars in Dunér's catalogue arranged in species.
+
+_Species 1._  
+No. of Star.|Bands Visible.  
+(150)|Narrow band in the red and a wider one in the green.  
+
+_Species 2._  
+No. of Star.|Bands Visible.  
+(56)|2, 3, 7.  
+(93)|2, 3, 7; perhaps 4 and 5.  
+(220)|2, 3, 7.  
+(233)|2, 3, 7.  
+(246)|2, 3, 7; possibly 4 and 5. Feebly developed.  
+
+_Species 3._  
+No. of Star.|Bands Visible.  
+(42)|Bands weak; 2, 3, 7, 8 best visible.  
+(53)|2, 3, 7, 8.  
+(70)|2, 3, 7, 8; weak.  
+(185)|2, 3, 7, 8.  
+(198)|2, 3, 7, 8; narrow.  
+(228)|2, 3; weak. 7 and 8 are well seen.  
+(276)|2, 3, 7, 8; not very strong.  
+(290)|2, 3, 7, 8.  
+
+_Species 4._  
+No. of Star.|Bands Visible.  
+(7)|2, 3, 5, 7, 8.  
+(95)|2, 3, 7, 8; possibly also 4 and 5.  
+(110)|2, 3, 7, 8; narrow; 4 and 5 suspected.  
+
+_Species 5._  
+No. of Star.|Bands Visible.  
+(89)|2, 3, 7, 8; 4 and 5 very weak.  
+(153)|2, 3, and 7 wide; 4, 5, 8 pale.  
+(154)|2, 3, 7, 8 narrow; 4 and 5 very narrow.  
+(173)|Feebly developed; the six ordinary bands feebly visible.  
+(253)|The six ordinary bands are plainly seen.  
+(258)|The six ordinary bands, but not very strong.  
+(267)|2, 3, 7 well marked; 4, 5, 8 pale.  
+(271)|The six ordinary bands, feebly developed.  
+
+_Species 6._  
+No. of Star.|Bands Visible.  
+(6)|2-8; wide and dark.  
+(19)|2-8; 4 and 5 rather weak.  
+(39)|2-8; strong and wide.  
+(48)|2-8; well marked.  
+(67)|2-8; wide and dark.  
+(74)|2-8; wide and dark.  
+(76)|2-8; well marked.  
+(83)|2-8; wide and dark.  
+(99)|2-8; well seen but not very strongly marked.  
+(188)|2-8; wide and dark.  
+(189)|2-8; wide and dark.  
+(194)|2-8; wide, but not very dark.  
+(202)|2-8; wide and dark in the red and green-blue.  
+(208)|2-8; well developed, especially in the blue-green.  
+(214)|2-8; wide and dark.  
+(227)|2-8; dark but narrow.  
+(247)|Bands plainly seen, but they are very pale, except 7 and 8.  
+(254)|2-8; wide and dark.  
+(259)|2-8; wide and dark, 7 and 8 strongest.  
+(260)|2-8; dark, but not very wide.  
+(273)|2-8; dark, but rather narrow.  
+(274)|There are seven bands, wide and rather dark. (I assume these to be 2-8.)  
+(285)|2-8; well seen, not remarkably wide.  
+(289)|2-8; very distinctly visible; 4 and 5 weak and narrow.  
+
+_Species 7._  
+No. of Star.|Bands Visible.  
+(24)|2-9; pretty wide and dark, especially 7 and 8.  
+(97)|2-9; _very dark_, rather narrow.  
+(115)|2-9; wide, especially in the blue.  
+(143)|2-9; wide and dark, especially in the green-blue.  
+(181)|2-9; very wide and dark, especially 7 and 8.  
+(195)|2-9; 7 and 9 especially strong.  
+(229)|2-9; very wide, but rather pale; 7 and 8 very wide and dark.  
+(241)|2-9; well seen. Those in the green-blue wide and strong.  
+(249)|7, 8, 9 are very wide and dark, others very narrow.  
+(252)|2-10; wide and dark, especially in the blue.  
+(256)|2-10 are seen.  
+(269)|2-9; very dark, but not very wide.  
+(270)|2-6; wide and dark, especially those in the blue.  
+(275)|2-9; wide and dark, especially in the blue.  
+(284)|2-9; wide and dark, especially in the green-blue.  
+
+_Species 8._  
+No. of Star.|Bands Visible.  
+(15)|2-9; strongly developed, wide and dark.  
+(29)|2-9; wide and dark.  
+(57)|2-10; wide and dark.  
+(88)|2-9; wide and strong.  
+(103)|2-9; wide and dark.  
+(108)|2-9; well marked.  
+(112)|2-9; wide, dark.  
+(137)|2-9; wide and dark.  
+(161)|1-9; wide and dark throughout the spectrum.  
+(166)|2-9; wide and dark, 4 and 5 darker than usual.  
+(184)|9-9; wide and black, 6 rather weak.  
+(225)|2-9; well seen throughout the spectrum.  
+(230)|2-9; wide and rather dark.  
+(242)|2-9; seen; _strong_ and wide.  
+(251)|2-9; wide and dark.  
+(263)|2-9; wide and dark.  
+(278)|2-9; wide and dark.  
+(283)|2-9; wide and dark.  
+(286)|2-9; wide and dark.  
+(291)|2-9; wide and strong.  
+(295)|2-9; wide and dark, but spectrum is not very remarkable.  
+(297)|2-9; well marked, wide and dark.  
+
+_Species 9._  
+No. of Star.|Bands Visible.  
+
+_Species 10._  
+No. of Star.|Bands Visible.  
+
+_Species 11._  
+No. of Star.|Bands Visible.  
+
+_Species 12._  
+No. of Star.|Bands Visible.  
+
+_Species 13._  
+No. of Star.|Bands Visible.  
+
+_Species 14._  
+No. of Star.|Bands Visible.  
+
+_Species 15._  
+No. of Star.|Bands Visible.  
+
+_Indefinite --- Early Stages._  
+No. of Star.|Bands Visible.  
+
+_Indefinite --- Later Stages._  
+No. of Star.|Bands Visible.  
+
+_Totally Indeterminate, on Account of Absence of Details._  
+No. of Star.|Bands Visible.  
 
 ## B.
 
