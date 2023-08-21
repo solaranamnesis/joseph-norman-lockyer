@@ -5664,13 +5664,74 @@ The following is a list of the binary stars given by Smyth, in which the magnitu
 
 In these cases the two curves representing the lives of the components will be identical, or nearly so, and will be as in Fig. 80. One of the components may have a somewhat smaller mass, and, therefore, a shorter time of existence, as a self-luminous body, than the other, but the magnitudes and colours may still be nearly equal, or sufficiently so for my present purpose in the present state of our knowledge.
 
-[TABLE]
+Table 1. --- Binary Stars, Class 1.  
+| Smyth’s No. | Name.                  | Magnitudes. | Colours.                        |
+|-------------|------------------------|-------------|---------------------------------|
+| 13          | 38 Piscium             | 7 ½ ; 8     | Light yellow ; Flushed white    |
+| 40          | 181 P. O. Cassiopeiæ   | 8 ; 8 ½     | Flushed white ; White           |
+| 85          | 123 Piscium            | 6 ½ ; 8 ½   | Yellowish ; Pale white          |
+| 108         | 209 P. I. Piscium      | 7 ; 7 ½     | White ; White                   |
+| 117         | α Piscium              | 5 ; 6       | Whitish-yellow ; White          |
+| 170         | ε Arietis              | 5 ; 6 ½     | Pale yellow ; White             |
+| 201         | 7 Tauri                | 6 ; 6 ½     | White ; Pale yellow             |
+| 337         | 32 Orionis             | 5 ; 7       | Bright white ; Pale white       |
+| 449         | 301 P. 6 Lyncis        | 6 ; 6 ½     | White ; White                   |
+| 480         | 1104 ε Puppis          | 7 ; 9       | White ; White                   |
+| 484         | α Geminorum            | 3 ; 3 ½     | Bright white ; Pale white       |
+| 492         | 170 P. 7 Canis Minoris | 7 ; 8       | White ; Ash-coloured            |
+| 562         | ι Cancri               | 5 ½ ; 7     | White ; Yellow                  |
+| 586         | 157 B. Lyncis          | 7 ½ ; 8     | White ; White                   |
+| 681         | 229 P. γ Leonis        | 8 ; 8       | White ; White                   |
+| 698         | ζ Ursæ Majoris         | 4 ; 5 ½     | Subdued white ; Grayish-white   |
+| 779         | 1606 ε Can. Venatico   | 6 ½ ; 7 ½   | White ; White                   |
+| 851         | γ Virginis             | 4 ; 4       | Silvery-white ; Pale yellow     |
+| 860         | 1678 ε Virginis        | 6 ½ ; 7 ½   | Very white ; Yellow-white       |
+| 915         | 127 P. 13 Virginis     | 8 ; 9       | Pale white ; Yellowish          |
+| 946         | 238 P. 13 Virginis     | 7 ; 8 ½     | White ; White                   |
+| 961         | B. Bootis              | 7 ½ ; 9     | White ; White                   |
+| 986         | ζ Bootis               | 3 ½ ; 4 ½   | Bright white ; Bright white     |
+| 1007        | 44 Bootis              | 5 ; 6       | Pale white ; Lucid gray         |
+| 1026        | 1 B. Coronea Borealis  | 6 ; 6 ½     | Very white ; Very white         |
+| 1031        | η Coronea Borealis     | 6 ; 6 ½     | White ; Golden-yellow           |
+| 1035        | μ² Bootis              | 8 ; 8 ½     | Greenish-white ; Greenish-white |
+| 1077        | 49 Serpentis           | 7 ; 7 ½     | Pale white ; Yellowish          |
+| 1130        | 2106 ε Ophiuchi        | 7 ; 9       | White ; White                   |
+| 1150        | μ Draconis             | 4 ; 4 ½     | White ; White                   |
+| 1213        | τ Ophiuchi             | 5 ; 6       | Pale white ; Pale white         |
+| 1227        | 73 Ophiuchi            | 6 ; 7 ½     | Silvery-white ; Pale white      |
+| 1274        | E. Lyræ                | 5 ; 5 ½     | White ; White                   |
+| 1326        | 108 P. 19 Draconia     | 8 ; 9       | White ; White                   |
+| 1442        | λ Cygni                | 5 ; 6       | Bluish ; Bluish                 |
+| 1457        | 2744 ε Aquarii         | 6 ½ ; 7 ½   | White ; White                   |
+| 1490        | 29 B. Pegasi           | 7 ½ ; 8     | White ; White                   |
+| 1515        | ξ Cephei               | 5 ; 7       | Bluish ; Bluish                 |
+| 1523        | 148 B. Pegasi          | 7 ; 8 ½     | White ; White                   |
+| 1535        | ζ Aquarii              | 4 ; 4 ½     | Very white ; White              |
+| 1536        | 37 Pegasi              | 6 ; 7 ½     | White ; White                   |
+| 1552        | 219 P. 12 Aquarii      | 7 ½ ; 8     | Yellow ; Flushed white          |
+| 1573        | 69 P. 23 Aquarii       | 8 ; 8 ½     | Flushed ; Flushed               |
 
 _Binary Stars, Class 2. --- Equal Magnitudes and Similar Colours (Yellow)._
 
 The following list contains those binary stars in which both components are yellow and of nearly equal magnitudes.  If both components shall be found to have identical spectra, thus placing them in the same group, a point which their colour leaves indeterminate, their "life curves" will be coincident. If one is found to belong to Group 3, however, and the other to Group 5, they can still be represented by two curves beginning at the same point, but with the ascending side of one intersecting the descending side of the other, as in Fig. 81. In the former case the masses of the two components would evidently be equal, or nearly so, while in the latter case one would be considerably larger than the other. Hence, in all cases where the components are yellow and of nearly equal magnitudes, we are justified in regarding them as having possibly condensed from the same nebulosity.
 
 [Fig. 81. --- Forms of Light Curves (Class 2).]()
+
+Table 2. --- Binary Stars, Class 2.  
+| Smyth’s No. | Name.             | Magnitudes. | Colours.                    |
+|-------------|-------------------|-------------|-----------------------------|
+| 3           | 316 B. Cephei     | 6 ½ ; 7     | Yellow ; Deeper yellow      |
+| 12          | 318 B. Cephei     | 7 ; 7 ½     | Yellow ; Yellowish white    |
+| 46          | 36 Andromeda      | 6 ; 7       | Bright orange ; Yellow      |
+| 487         | 149 P. 3 Puppis   | 6 ; 6       | Topaz tinted ; Topaz tinted |
+| 524         | ζ Cancri          | 6 ; 7       | Yellow ; Orange tint        |
+| 689         | 9 P. 11 Leonis    | 7 ½ ; 7 ½   | Faint yellow ; Faint yellow |
+| 690         | 1516 ε Draconis   | 7 ½ ; 8     | Yellowish ; Ashy yellow     |
+| 895         | 42 Comæ Berenicis | 4 ½ ; 5     | Pale yellow ; Pale yellow   |
+| 981         | α Centauri        | 1 ; 2       | Yellow ; Yellow             |
+| 1463        | 61 Cygni          | 5 ½ ; 6     | Yellow ; Yellow             |
+| 1483        | 20 B. Pegasi      | 7 ; 7       | Yellowish ; Yellowish       |
+| 1598        | 37 B. Andromedæ   | 6 ; 6       | Yellowish ; Yellowish       |
 
 _Binary Stars, Class 3. --- Equal or Nearly Equal Magnitudes, one Star being Blue._
 
@@ -5680,7 +5741,39 @@ There is a considerable number of binary stars in which the magnitudes of the co
 
 If these curves are a fair representation of binary stars of this class, it is clear that we ought to find the primaries in every case, white or yellow. This is a severe test, but yet on referring to the following table, which is a list of such binary stars, it will be seen that there is not a single case in which the primary is not white or yellow:---
 
-[TABLE]
+Table 3. --- Binary Stars, Class 3.  
+| Smyth’s No. | Name.                | Magnitudes. | Colours.                     |
+|-------------|----------------------|-------------|------------------------------|
+| 1           | 1. Cassiopeiæ        | 7 ; 8       | Yellowish-white ; Bluish     |
+| 21          | 49 Piscium           | 7 ; 10 ½    | White ; Blue                 |
+| 24          | 51 Piscium           | 6 ½ ; 9     | Pearl-white ; Lilac          |
+| 50          | 251 Piscium          | 8 ; 9       | Pale orange ; Clear blue     |
+| 63          | φ Piscium            | 6 ; 8       | White ; Pale gray            |
+| 120         | 10 Arietis           | 6 ½ ; 8 ½   | Yellow ; Pale gray           |
+| 150         | 33 Arietis           | 6 ½ ; 8 ½   | Pale topaz ; Light blue      |
+| 202         | 98 Eridani           | 6 ½ ; 9     | Yellow ; Plum colour         |
+| 438         | 14 Lyncis            | 5 ½ ; 7     | Golden-yellow ; Purple       |
+| 442         | 38 Geminorum         | 5 ½ ; 8     | Light yellow ; Purple        |
+| 507         | 5 Puppis             | 7 ½ ; 9     | Pale yellow ; Light blue     |
+| 596         | ω Leonis             | 6 ½ ; 7 ½   | Pale yellow ; Greenish       |
+| 671         | 54 Leonis            | 4 ½ ; 7     | White ; Gray                 |
+| 706         | ι Leonis             | 4 ; 7 ½     | Pale yellow ; Light blue     |
+| 722         | 17 Crateris          | 5 ½ ; 7     | Lucid white ; Violet tint    |
+| 922         | 25 Canum Venaticorum | 6 ; 8       | White ; Blue                 |
+| 939         | 1785 ε Bootis        | 7 ½ ; 8     | White ; Bluish               |
+| 971         | 70 P. 14 Libræ       | 7 ½ ; 9 ½   | Pale yellow ; Greenish       |
+| 995         | ξ Bootis             | 3 ½ ; 6 ½   | Orange ; Purple              |
+| 1081        | σ Coronæ Borealis    | 6 ; 6 ½     | Creamy-white ; Smalt blue    |
+| 1101        | λ Ophiuchi           | 4 ; 6       | Yellow-white ; Smalt blue    |
+| 1132        | 167 B. Herculis      | 7 ; 8 ½     | Yellowish ; Bluish           |
+| 1219        | 70 Ophiuchi          | 4 ½ ; 7     | Pale topaz ; Violet          |
+| 1229        | 417 B. Herculis      | 6 ; 7 ½     | Yellow ; Bluish              |
+| 1444        | 4 Aquarii            | 6 ; 8       | Pale yellow ; Purple         |
+| 1498        | μ Cygni              | 5 ; 6       | White ; Blue                 |
+| 1522        | 41 Aquarii           | 6 ; 8 ½     | Topaz-yellow ; Cerulean blue |
+| 1524        | 33 P. 22 Pegasi      | 7 ½ ; 10 ½  | Lucid yellow ; Sea-green     |
+| 1531        | 33 Pegasi            | 6 ½ ; 10    | Yellowish ; Blue             |
+| 1586        | 107 Aquarii          | 6 ; 7 ½     | Bright white ; Blue          |
 
 _Binary Stars, Class 4. --- Very Unequal Magnitudes, the smaller Star being Blue._
 
@@ -5689,6 +5782,31 @@ The next class to be considered is that in which the companion is of relatively 
 A binary star of this class can be equally well explained by starting the two curves at the same point, or starting one later than the other. In the former case we should have to regard the one with the smaller magnitude as having the greater mass, and the two curves would be as in Fig. 83 (left). If we take the one with the smaller magnitude as having the smaller mass, we shall have the curves as in Fig. 83 (right).
 
 It seems probable, therefore, that we cannot at present tell whether the components of a binary star of this class have both condensed from the same nebulosity or not; but since the components of the majority of binary stars appear so far to have had in all probability a common origin, there is no reason why we should rather regard these as having had a different one.  The following is a list of them taken from Smyth's _Celestial Cycle_:---
+
+Table 4. --- Binary Stars, Class 4.  
+| Smyth’s No. | Name.           | Magnitudes. | Colours.                      |
+|-------------|-----------------|-------------|-------------------------------|
+| 2           | α Andromeda     | 2 ; 11      | White ; Purplish              |
+| 9           | γ Pegasi        | 2 ½ ; 11    | White ; Pale blue             |
+| 14          | ι Ceti          | 4 ; 11      | Bright yellow ; Deep blue     |
+| 16          | 42 Piscium      | 7 ; 13      | Topaz-yellow ; Emerald-green  |
+| 48          | μ Andromeda     | 4 ; 16      | Bright white ; Dusky gray     |
+| 83          | 40 Cassiopeiæ   | 6 ; 11      | Yellow ; Pale blue            |
+| 118         | ε Trianguli     | 5 ½ ; 15    | Bright yellow ; Dusky         |
+| 128         | 259 β Andromeda | 5 ½ ; 15    | Bright yellow ; Pale gray     |
+| 330         | δ Orionis       | 2 ; 7       | White ; Pale violet           |
+| 440         | 59 Aurigæ       | 6 ; 11      | Pale yellow ; Livid           |
+| 463         | δ Aurigæ        | 3 ½ ; 9     | Pale white ; Purple           |
+| 533         | 67 P. 8 Cancri  | 6 ; 13      | Pearl-white ; Violet          |
+| 551         | δ Cancri        | 4 ½ ; 12    | Straw-coloured ; Blue         |
+| 554         | ε Hydræ         | 4 ; 8 ½     | Pale yellow ; Purple          |
+| 565         | ι Ursæ Majoris  | 3 ½ ; 11    | Topaz-yellow ; Purple         |
+| 569         | σ² Ursæ Majoris | 5 ½ ; 9 ½   | Flushed white ; Sapphire-blue |
+| 926         | 1 Bootis        | 6 ; 10      | Sapphire-blue ; Smalt blue    |
+| 1354        | δ Cygni         | 3 ½ ; 9     | Pale yellow ; Sea-green       |
+| 1499        | κ Pegasi        | 4 ; 15      | Pale white ; Purple           |
+| 1550        | ξ Pegasi        | 5 ; 15      | Pale yellow ; Blue            |
+| 1567        | π Cephei        | 5 ; 10      | Deep yellow ; Purple          |
 
 [Fig. 83. --- Forms of Light Curves (Class 4).]()
 
@@ -5702,17 +5820,35 @@ We have here again a severe test, for if these curves represent anything like th
 
 Only a small number of such binaries have been recorded. They are as follows ---
 
-[TABLE]
-
-The remaining four are as follows ---
-
-[TABLE]
+Table 5. --- Binary Stars, Class 5.  
+| Smyth’s No. | Name.              | Magnitudes. | Colours.                   |
+|-------------|--------------------|-------------|----------------------------|
+| 42          | η Cassiopeiæ       | 4 ; 7 ½     | Yellow ; Red               |
+| 1157        | δ Herculis         | 4 ; 8 ½     | Greenish-white ; Grape-red |
+| 1274        | ε Lyræ             | 5 ; 6 ½     | Yellow ; Ruddy             |
+| 1297        | 287 P. 18 Draconis | 7 ; 8       | White ; Pale red           |
+| 1551        | τ Aquarii          | 6 ; 9 ½     | White ; Pale garnet        |
 
 _Outstanding Cases._
 
 Out of all the binary stars of which there is any record in Smyth's _Celestial Cycle_, there are only nine which cannot be included in any of the five classes which have been dealt with. Five of these are totally indeterminate on account of the absence of a statement of the colours; they are as follows ---
 
-[TABLE]
+| Smyth’s No. | Name.              | Magnitudes. | Colours.                  |
+|-------------|--------------------|-------------|---------------------------|
+| 22          | λ Cassiopeiæ       | 6 ; 6 ½     | Colours not stated        |
+| 491         | α Canis Minoris    | 1 ½ ; …     | Yellowish-white ; …       |
+| 872         | 35 Comæ Berenicis  | 5 ; …       | Pale yellow ; Indistinct  |
+| 1053        | γ Coronæ Borealis  | 6 ; …       | Flushed white ; Uncertain |
+| 1303        | γ Coronæ Australis | 6 ; 6       | … ; …                     |
+
+The remaining four are as follows ---
+
+| Smyth’s No. | Name.       | Magnitudes. | Colours.                        |
+|-------------|-------------|-------------|---------------------------------|
+| 460         | λ Geminorum | 4 ½ ; 11    | Brilliant white ; Yellowish     |
+| 635         | γ Leonis    | 2 ; 4       | Bright orange ; Greenish-yellow |
+| 1114        | ζ Herculis  | 3 ; 6       | Yellowish-white ; Orange        |
+| 1528        | γ Aquarii   | 4 ; 14      | Greenish tinge ; Purple         |
 
 In the first of these, λ Geminorum, the companion has probably been added since the primary condensed, for we cannot place the two components on curves which begin at the same point.
 
@@ -5748,7 +5884,15 @@ The most stupendous case illustrating the above remarks is to be found in the Pl
 
 So long as these meteoritic streams are interpenetrating and disturbing each other, so long the Pleiades will shine; but their light may soon cease if the disturbance comes to an end, for we are not dealing with masses of vapour like α Lyræ. Indeed, one of them seems to have already become invisible. Of the seven daughters of Atlas, one has disappeared. The "septem radiantia sidera" are seven no longer, the seventh had vanished before the time of Aratus.
 
-"The Pleiades: small the region  They fill, and pale the light they dart.  Seven journeyers men call them  Though only six are visible to ken.  No star, I wis, has vanished from Heaven's floor  Within mortal tradition, and idly is that number  Fabled. Natheless seven the names they bear:  Alcyone, Merope, Celæno, Electra,  Sterope, Taygete, and stately Maia."*
+"The Pleiades: small the region  
+They fill, and pale the light they dart.  
+Seven journeyers men call them  
+Though only six are visible to ken.  
+No star, I wis, has vanished from Heaven's floor  
+Within mortal tradition, and idly is that number  
+Fabled. Natheless seven the names they bear:  
+Alcyone, Merope, Celæno, Electra,  
+Sterope, Taygete, and stately Maia."*
 
 *) Poste's translation, p. 13.
 
@@ -5952,7 +6096,74 @@ The other tests were: 2. When the swarm is least condensed, we shall have the le
 
 To apply these tests, I have made a special study of the observations of each variable recorded by Dunér. I find they may be grouped in the following way:---
 
-[TABLE]
+Table of Variables  
+1\. _All Bands Visible but Narrow._  
+| No. in Dunér Cat. | Name.    | Max. | Min. | Period. |
+|-------------------|----------|------|------|---------|
+| 269               | μ Cephei | 4 ?  | 5 ?  | irreg.  |
+
+2\. _Bands Well Marked, but Feebler in Red._  
+| No. in Dunér Cat. | Name.            | Max. | Min. | Period. |
+|-------------------|------------------|------|------|---------|
+| 186               | W Herculis (? 5) | > 8  | < 12 | 290 ?   |
+| 222               | R Sagittarii     | 7    | 12   | 270     |
+| 81                | S Hydræ          | 7.8  | < 12 | 256     |
+
+3\. _Bands Wide and Strong, especially 7 and 8._  
+| No. in Dunér Cat. | Name.         | Max. | Min.     | Period. |
+|-------------------|---------------|------|----------|---------|
+| 23                | T Arietis     | 8    | 9-10     | 324     |
+| 37                | R Tauri       | 7.8  | < 13     | 326     |
+| 68                | S Canis Min.  | 7    | < 11     | 332     |
+| 76                | R Cancri      | 6    | < 11-12  | 360     |
+| 91                | R Leonis Min. | 5    | 10       | 313     |
+| 100               | R Urs. Maj.   | 6    | 12       | 303     |
+| 106               | R Crateris    | > 8  | < 9      | 160 ?   |
+| 118               | R Corvi       | 7    | < 11-13  | 319     |
+| 159               | R Boötis      | 6    | 12       | 223     |
+| 165               | S Libræ       | 8    | 12-13    | 190 ?   |
+| 170               | R Serpentis   | 5.6  | < 11     | 358     |
+| 181               | U Herculis    | 6.7  | 11-12    | 408     |
+| 192               | S Herculis    | 6    | 12       | 303     |
+| 195               | R Ophiuchi    | 7.8  | 12       | 302     |
+
+4\. _All Bands Markedly Wide and Strong._  
+| No. in Dunér Cat. | Name.        | Max. | Min.   | Period. |
+|-------------------|--------------|------|--------|---------|
+| 18                | ο Ceti       | 2-5  | 8-9    | (331)   |
+| 20                | R Ceti       | 8    | < 13 ? | 167     |
+| 29                | ρ Persei     | 3.4  | 4.2    | irreg.  |
+| 92                | R Leonis     | 5    | 10     | 313     |
+| 141               | R Hydræ      | 4.5  | 40 ?   | (437)   |
+| 158               | V Boötis     | …    | …      | …       |
+| 166               | S Coronæ     | 6    | 12     | 361     |
+| 184               | _g_ Herculis | 5    | 6      | irreg.  |
+| 196               | α Herculis   | 3    | 4      | irreg.  |
+| 217               | R Lyræ       | 4.3  | 4.6    | 46      |
+| 221               | R Aquilæ     | 6.7  | 11     | 345     |
+| 239               | χ Cygni      | 4    | 13     | 406     |
+| 293               | R Aquarii    | 6    | 11     | 388     |
+
+5\. _Bands Wide but Pale._  
+| No. in Dunér Cat. | Name.        | Max. | Min.    | Period. |
+|-------------------|--------------|------|---------|---------|
+| 3                 | T Cassiopeiæ | 6.7  | 11      | 436     |
+| 125               | T Urs. Maj.  | 7    | 12      | 256     |
+| 127               | R Virginis   | 6.7  | 11      | 146     |
+| 157               | R Camel      | 8    | 12 ?    | 266     |
+| 231               | R Cygni      | 6    | 13      | 425     |
+| 281               | β Pegasi     | 7    | 12      | 382     |
+| …                 | T Herculis   | 7    | 12      | 165     |
+| 4                 | R Androm.    | 5.6  | < 12-13 | 405     |
+
+6\. _Bands Thin and Pale._  
+| No. in Dunér Cat. | Name.       | Max. | Min.   | Period. |
+|-------------------|-------------|------|--------|---------|
+| 50                | Orionis     | 1    | 1.4    | irreg.  |
+| 128               | S Urs. Maj. | 7.8  | 11     | 225     |
+| 187               | R Draconis  | 6.7  | 11-12  | 247     |
+| 238               | S Vulpec.   | …    | …      | …       |
+| 261               | R Vulpec.   | 7.8  | 13     | 137     |
 
 The above table shows most conclusively that the greatest number of variables occurs among the swarms of mean condensation, which is indicated by the bands being wide and strong. Indeed, it will be seen that by far the greater number of variables in the group under discussion falls in species 9 and 10, which may fairly be taken to represent the mean condensation, there being in all 15 species. There can, therefore, be no doubt that the three tests just referred to are fully satisfied.
 
@@ -5982,15 +6193,142 @@ In order to bring these data in relation to the various species, I give with eac
 
 In addition to the information given in the following tables, the reader is referred to Appendix A, in which are given the stars in Dunér's important catalogue arranged in species.
 
-[TABLE]
+Variables with Periods of 50 to 100 Days.  
+| Gore. | Chandler. | Dunér. | Name.            | Max. | Min. | Period. | Colour --- Chandler. | Colour --- Dunér. | Species.       |
+|-------|-----------|--------|------------------|------|------|---------|----------------------|-------------------|----------------|
+| 121   | 5912      | 184    | _g_(30) Herculis | 5    | 6.2  | 40-125  | 3                    | Jr                | 8              |
+| 153   | 7106      | 238    | S Vulpeculæ      | 8.85 | 9.95 | 67.795  | 3                    | Rj                | Indeterminate. |
 
-[TABLE]
+Variables with Periods of 100 to 200 Days.  
+| Gore.  | Chandler. | Dunér. | Name.       | Max.    | Min.    | Period. | Colour --- Chandler. | Colour --- Dunér. | Species.       |
+|--------|-----------|--------|-------------|---------|---------|---------|----------------------|-------------------|----------------|
+| 16     | 845       | 20     | R Ceti      | 7.9-8.7 | < 12.8  | 167.1   | 2.4                  | Jr                | 9              |
+| 38     | 2213      | 55     | Geminorum   | 3.2     | 3.7-4.2 | 135-151 | 3                    | Jr                | 11             |
+| 83     | 4521      | 127    | R Virginis  | 6.5-7.5 | 10-10.9 | 145.7   | 1.3                  | Jr                | Late.          |
+| 101    | 5494      | 165    | S Libræ     | 8.0     | 12.5    | 190     | 3.0                  | Rj                | Early.         |
+| 125    | 5948      | …      | R Ursæ Min. | 8.6     | 10.5    | 166     | 3.2                  | …                 | Not in Dunér.  |
+| 171    | 7560      | 261    | R Vulpeculæ | 7.5-8.5 | 12.5-13 | 137.5   | 2.0                  | Jr                | Indeterminate. |
+| 176_a_ | 7754      | 266 ?  | W Cygni     | 5.8-6.2 | 6.7-7.3 | 120-138 | 5                    | Rj                | 9              |
+
+Variables with Periods of 200 to 300 Days.  
+| Gore.  | Chandler. | Dunér. | Name.         | Max.    | Min.      | Period. | Colour --- Chandler. | Colour --- Dunér. | Species.       |
+|--------|-----------|--------|---------------|---------|-----------|---------|----------------------|-------------------|----------------|
+| 60     | 3170      | 81     | S Hydræ       | 7.5-8.5 | < 12.2    | 256.4   | 2.1                  | Jr                | Early.         |
+| 82     | 4511      | 125    | T Ursæ Maj.   | 6.4-8.5 | 13        | 255.6   | 2                    | Jr                | Late.          |
+| 85     | 4557      | 128    | S Ursæ Maj.   | 7.2-8.2 | 10.2-12.8 | 224.8   | 3.2                  | Rj                | Indeterminate. |
+| 86     | 4596      | …      | U Virginis    | 7.7-8.1 | 12.2-12.8 | 207.4   | 1.1                  | …                 | …              |
+| 94_a_  | 5194      | 158    | V Boötis      | 7.0     | 9.4       | 266.5   | 3.6                  | Rjj               | 9              |
+| 95     | 5190      | 157    | R Camelopardi | 7.8-8.6 | 12 ?      | 258.5   | 2.1                  | Rrj               | Late.          |
+| 96     | 5237      | 159    | R Boötis      | 5.9-7.8 | 11.3-12.2 | 223     | 2.7                  | Jr                | Early.         |
+| 124    | 5950      | 186    | W Herculis    | 8       | 11.5      | 281.2   | 3.2                  | Rj                | 9              |
+| 125_a_ | 5955      | 187    | R Draconis    | 7.0-8.7 | < 13      | 244.5   | 2.0                  | Jr                | 14             |
+| 135    | 6512      | …      | T Herculis    | 6.9-8.3 | 11.4-12.7 | …       | 1.4                  | …                 | …              |
+| 148    | 6905      | 222    | R Sagittarii  | 7.0-7.2 | < 12      | 270     | 3.6                  | Rj                | Early.         |
+
+Variables with Periods of 300 to 400 Days.  
+| Gore.  | Chandler. | Dunér. | Name.            | Max.    | Min.      | Period. | Colour --- Chandler. | Colour --- Dunér. | Species. |
+|--------|-----------|--------|------------------|---------|-----------|---------|----------------------|-------------------|----------|
+| 11     | 513       | 9      | R Piscium        | 7-8.3   | < 12.5    | 345     | 2                    | Rj                | 9        |
+| 14     | 806       | 18     | (Mira) Ceti      | 1.7-5.0 | 8.7-9.5   | 331.3   | 5.9                  | Rj                | 10       |
+| 17     | 976       | 23     | T Arietis        | 7.9-8.2 | 9.4-9.7   | 324     | 3.2                  | Rj                | 9        |
+| 23     | 1577      | 37     | R Tauri          | 7.4-9.0 | < 13      | 326.6   | 4.5                  | Rrj               | 9        |
+| 37_a_  | 2100      | …      | U (Nova) Orionis | 6.1-7.5 | < 12      | 365±    | 7                    | …                 | …        |
+| 48     | 2684      | 68     | S Canis Min.     | 7.2-8.0 | < 11      | 332.2   | 4.1                  | Rj                | Early.   |
+| 56     | 2946      | 76     | R Cancri         | 6.2-8.3 | < 11.7    | 354.4   | 5.3                  | Rj                | 6        |
+| 64     | 3477      | 91     | R Leonis Min.    | 6.1-7.5 | < 11      | 374.7   | 6.0                  | Rrj               | 10       |
+| 65     | 3493      | 92     | R Leonis         | 5.2-6.7 | 9.4-10    | 313     | 6.9                  | Rrj               | 10       |
+| 71     | 3825      | 100    | R Ursæ Maj.      | 6.0-8.1 | 13.2      | 302.2   | 1.6                  | Jr                | Early.   |
+| 74     | 3934      | 106    | R Crateris       | 8       | 9         | 395     | 8.1                  | Rrj               | Early.   |
+| 80     | 4407      | 118    | R Corvi          | 6.8-7.3 | < 11.5    | 318.6   | 3.7                  | Rj                | 9        |
+| 103    | 5504      | 166    | S Coronæ         | 6.1-7.8 | 12.5      | 360.4   | 4.9                  | Rj                | 8        |
+| 108    | 5677      | 170    | R Serpentis      | 5.6-7.6 | < 11      | 357.6   | 3.7                  | Rj                | Early.   |
+| 126    | 6044      | 192    | S Herculis       | 5.9-7.7 | 11.5-12.2 | 303     | 5.6                  | Rj                | Early.   |
+| 128    | 6132      | 195    | R Orphiuchi      | 7.6-8.1 | < 12      | 302.4   | 4.5                  | Rj                | 7        |
+| 138_a_ | 6682      | …      | --- Serpentis    | 6.8     | 9         | 300     | 5                    | …                 | …        |
+| 146    | 6849      | 221    | R Aquilæ         | 6.4-7.4 | 10.9-11.2 | 345     | 5.5                  | Rrj               | 9        |
+| 175    | 7609      | …      | T Cephei         | 6.2-6.7 | 9.5-9.9   | 390     | 6.3                  | …                 | …        |
+| 187    | 8512      | 293    | R Aquarii        | 5.8-8.5 | 11        | 388     | 4.3                  | Jr                | 9        |
+
+Variables with Periods of 400 to 500 Days.  
+| Gore. | Chandler. | Dunér. | Name.        | Max.    | Min.      | Period. | Colour --- Chandler. | Colour --- Dunér. | Species. |
+|-------|-----------|--------|--------------|---------|-----------|---------|----------------------|-------------------|----------|
+| 1     | 107       | 3      | T Cassiopeiæ | 6.5-7.0 | 11-11.2   | 436     | Rrj                  | 7.3               | Early.   |
+| 2     | 112       | 4      | R Andromedæ  | 5.6-8.6 | < 12.8    | 404.7   | Rrj                  | 5.0               | 10       |
+| 32    | 1855      | …      | R Aurigæ     | 6.5-7.4 | 9.2-12.7  | 465     | …                    | 6.5               | …        |
+| 34    | 1944      | …      | S Orionis    | 8.3-9   | < 12.3    | 413     | …                    | 6.4               | …        |
+| 89    | 4826      | 141    | R Hydræ      | 4-5     | 10 ?      | 434±    | Rrj                  | 5.9               | 10       |
+| 119   | 5889      | 181    | U Herculis   | 6.6-7.7 | 11.4-11.6 | 408.3   | Rrj                  | 6.5               | 7        |
+| 151   | 7045      | 231    | R Cygni      | 5.9-8   | 13        | 425.3   | Rrj                  | 6.0               | Late.    |
+| 154   | 7120      | 239    | χ Cygni      | 4-6     | 12.8      | 406.5   | Rrj                  | 6.3               | 10       |
+| 189   | 8600      | …      | R Cassiopeiæ | 4.8-6.8 | …         | 429±    | …                    | 6.5               | …        |
 
 Having these data, if the degree of condensation of a swarm defined by the Species 1 to 15 has any relation to colour, the work of Chandler on the colours, taken in conjunction with the classification according to condensation, ought to enable us to determine the nature of such relation.
 
 We have, then, next to determine Chandler's colour-numbers corresponding to each species. As a first step the following tables compare Dunér's colours of the variable stars of the group with the colours assigned by Chandler to the same stars.
 
-[TABLE]
+_Dunér's Colour_ = _Rrrj_.  
+No. (Dunér).|Colour (Chandler).  
+92|6.9  
+106|8.1  
+|Mean 7.5  
+
+_Dunér's Colour_ = _Rrj_.  
+No. (Dunér).|Colour (Chandler).  
+37|4.5  
+91|6.0  
+221|5.5  
+3|7.3  
+4|5.0  
+141|5.9  
+181|6.5  
+231|6.0  
+239|6.3  
+269|6.2  
+|Mean 5.9  
+
+_Dunér's Colour_ = _Rj_.  
+No. (Dunér).|Colour (Chandler).  
+196|5.0  
+238|3.0  
+165|3.0  
+266|5.0  
+128|3.2  
+158|3.6  
+186|3.2  
+9|2.0  
+18|5.9  
+23|3.2  
+68|4.1  
+76|5.3  
+118|3.7  
+166|4.9  
+170|3.7  
+192|5.6  
+195|4.5  
+50|6.0  
+|Mean 4.2  
+
+_Dunér's Colour_ = _Jr_.  
+No. (Dunér).|Colour (Chandler).  
+281|2.0  
+184|3.0  
+20|2.4  
+55|3.0  
+127|1.3  
+261|2.0  
+81|2.1  
+125|2.0  
+159|2.7  
+187|2.0  
+222|3.6  
+100|1.6  
+293|4.3  
+29|2.0  
+|Mean 2.4  
+
+_Dunér's Colour_ = _Jjr_.  
+None common to Dunér and Chandler.  
+Mean colour, say, 0.7. 
 
 Two stars which Dunér gives as Rrrj occur in Chandler's list, the colours being 6.9 and 8.1 respectively, or a mean of 7.5.
 
@@ -5998,13 +6336,33 @@ Chandler's colour-number corresponding to Dunér's Rrrj has therefore been taken
 
 It will be seen that the increments for one colour stage of Dunér are 1.6, 1.7, and 1.8 respectively, or a mean of 1.7. Since there are none of Dunér's Jjr stars in Chandler's list, we may use this increment to approximate to the colour; this gives us the number 0.7. We thus get---
 
-Dunér's Colour.|Chandler's Number.  Rrrj|7.5  Rrj|5.9  Rj|4.2  Jr|2.4  Jjr|0.7
+Dunér's Colour.|Chandler's Number.  
+Rrrj|7.5  
+Rrj|5.9  
+Rj|4.2  
+Jr|2.4  
+Jjr|0.7
 
 Next comes the second stage. Using these mean numbers, we may determine the mean colour-number associated with each of the fifteen species into which Group 2 has been divided. The tables showing the results obtained are given in Appendix B.
 
 We finally get the following colour-numbers corresponding to the fifteen species:---
 
-[TABLE]
+Species.|Mean Colour-Number.  
+1 (1 star) (?)|4.2  
+2 (5 stars)|3.1  
+3 (8 stars)|2.4  
+4 (3 stars)|1.8  
+5 (8 stars)|2.85  
+6 (24 stars)|2.9  
+7 (15 stars)|3.6  
+8 (23 stars)|2.9  
+9 (30 stars)|3.9  
+10 (13 stars)|5.0  
+11 (18 stars)|2.7  
+12 (14 stars)|2.5  
+13 (45 stars)|2.4  
+14 (17 stars)|2.5  
+15 (12 stars)|2.7  
 
 The remaining stars observed by Dunér are not included in the classification at present, owing to insufficient details.
 
@@ -6020,7 +6378,33 @@ This is probably to a great extent due to the variability of the stars of the gr
 
 In the table in question the numbers in the vertical columns indicate the numbers of stars of any particular colour associated with a particular spectrum, and it will be seen that amongst the stars with a spectrum containing the bands 1-10 uniformly developed, 3 have the colour Rrj, and 5 are Rj.
 
-[TABLE]
+Spectra.|Rrj.|Rj.|Jr.|Jjr.  
+Bands narrow and pale, red stronger|...|2|10|...  
+2-8 bands narrow and pale|...|...|15|...  
+Bands wide and pale|3|5|9|...  
+2-8 bands moderately wide and dark, 2 and 3 strong|...|5|36|4  
+Bands wide and dark, red strongest|...|...|3|2  
+2-9 bands moderately wide and dark, 2 and 3 strongest|...|4|6|...  
+1-9 bands moderately wide and dark, 2 and 3 strongest|...|1|2|...  
+1-10 bands wide and moderately dark, red strongest|...|...|1|...  
+1-10 bands well developed and equal|3|5|...|...  
+1-9 blue bands most strongly developed|...|1|1|...  
+1-9 wide and dark|...|5|4|...  
+2-9 wide and dark, blue strongest|1|5|4|1  
+2-9 wide and dark|1|5|21|...  
+2-10 wide and dark|...|3|...|...  
+Bands wide and dark, blue strongest|4|13|5|...  
+2-8 wide and dark, blue strongest|...|1|...|1  
+Bands wide and dark|5|10|6|1  
+2-8 wide and dark|...|6|20|1  
+2-8 narrow and dark|...|1|1|...  
+Bands narrow and pale, blue strongest|...|...|5|...  
+2, 3, 4, 5, 7 and 8, 7 and 8 strongest|...|2|6|...  
+2, 3, 5, 7, 8|...|...|2|1  
+2, 3, 7, and 8|...|1|6|1  
+2, 3, 7|...|3|3|...  
+Indeterminate|3|8|10|...  
+|20|86|176|12  
 
 On reference to the tables of variables which I have given, it will be seen also that the relation between colour and period observed by Chandler is only a general one.
 
@@ -6052,7 +6436,14 @@ The Irregular Variables of Group 2
 
 The next test is that of irregularity. The apparent irregularities in the variability of stars in the group under discussion are, on my theory, produced by the revolution of several swarms of meteorites at different rates and different distances round the central one. The swarms most subject to irregularity should, therefore, on this view, be those which are most likely to suffer from the effects of the greatest number of revolving swarms. These will not be the sparsest swarms, for the reason that the short period swarms will only produce a general brightening, as already pointed out, leaving the long period swarms predominant. Neither will they be the most condensed, because most of the cometic swarms will sweep clear of the central swarm at periastron passage. They must, therefore, occur in the swarms of mean condensation, if anywhere at all, though mean swarms need not necessarily exhibit irregular variability. The facts observed show that out of the five irregular variables of Group 2, three have colours indicating a mean condensation, while two appear to be a little further condensed.
 
-[TABLE]
+Irregular Variables.  
+| Gore. | Chandler. | Dunér. | Name.      | Max. | Min. | Period. | Colour --- Chandler. | Colour --- Dunér. | Species. |
+|-------|-----------|--------|------------|------|------|---------|----------------------|-------------------|----------|
+| 18    | 1072      | 29     | ρ-Persei   | 3.4- | 4.2  | …       | 2                    | Jr                | 8        |
+| 37    | 2098      | 50     | α-Orionis  | 1    | 1.4  | …       | 6                    | Rj                | 15       |
+| 129   | 6181      | 196    | α-Herculis | 3.1  | 3.9  | …       | 5                    | Rj                | 10       |
+| 179   | 7803      | 269    | μ-Cephei   | 2.7  | 4.8  | …       | 6.2                  | Rrj               | 7        |
+| 184   | 8273      | 281    | β-Pegasi   | 2.2  | 2.7  | …       | 2                    | Jr                | 9        |
 
 The spectroscopic observations confirm the conclusion that irregularity mostly occurs in mean swarms; it will be seen that with the exception of α Orionis, which is only very slightly variable, the species to which the irregular variables belong are 7-10, indicating mean condensation.
 
