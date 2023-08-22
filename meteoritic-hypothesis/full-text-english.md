@@ -6884,36 +6884,544 @@ No. of Star.|Bands Visible.
 
 _Species 9._  
 No. of Star.|Bands Visible.  
+(9)|Bands wide and dark.  
+(12)|Bands wide and dark.  
+(20)|Bands wide and dark.  
+(23)|Bands very wide; those in the green-blue are dark.  
+(25)|1-9; 7 and 8 darker than 2 and 3.  
+(37)|Some of the bands very wide; 7 and 8 strongest.  
+(44)|1-9; very fine.  
+(65)|1-9; wide and dark.  
+(66)|1-9; very wide and dark; 6 well seen.  
+(118)|Bands wide and dark, especially in green-blue.  
+(123)|Bands wide dark; full spectrum.  
+(148)|Bands wide and dark, even in the blue.  
+(156)|Band well marked and very wide throughout the whole spectrum.  
+(158)|Bands wide and dark, even in the blue.  
+(162)|1-9; wide and dark.  
+(174)|Bands wide and dark.  
+(175)|Bands wide and dark.  
+(176)|Bands visible, even in the blue; not very dark.  
+(183)|1-9; wide and dark. A narrow band between 3 and 4.  
+(186)|Bands well developed, even beyond the blue, but weak in red.  
+(204)|Bands wide and dark, even in the blue.  
+(216)|Bands wide and dark.  
+(217)|1-9; including 6, are very wide and dark.  
+(221)|Bands wide and dark throughout the spectrum.  
+(237)|2, 3, 7, 8 are strong; 1, 4, 5 well seen (6 and 9 also most likely there).  
+(255)|Bands very dark and of extraordinary width.  
+(266)|1-9; wide and dark.  
+(277)|1-9; wide and dark. 4 and 5 wider than usual.  
+(281)|1-9; wide and dark.  
+(293)|Bands wide and dark throughout the spectrum.  
 
 _Species 10._  
 No. of Star.|Bands Visible.  
+(4)|  
+(R Andromedæ)|Variable.  
+(18)|1-11 inclusive.  
+(28)|Bands rather pale; like that of α Orionis.  
+(30)|Bands wide, both in green-blue and red.  
+(86)|1-10; very wide and dark.  
+(91)|Bands very wide and dark, even in the blue.  
+(92)|1-10; very wide and dark.  
+(131)|1-10; 2 and 3 wide, others relatively narrow.  
+(141)|1-10; very wide and dark.  
+(172)|2-10; possibly 1; wide and dark.  
+(196)|1-10; very wide and black.  
+(232)|1-10.  
+(239)|1-10; very fine.  
 
 _Species 11._  
 No. of Star.|Bands Visible.  
+(5)|2-9; 3 is very wide.  
+(55)|2-9; fine.  
+(87)|2-9; wide and dark, especially 2 and 3.  
+(98)|2-9; wide and visible, even in the blue; rather pale.  
+(135)|1-9; wide and pale.  
+(149)|1-9; wide and very _dark_. Bands in the red fine.  
+(152)|1-9; well marked, fine in the red.  
+(171)|2-9; 2 and 3 strongest.  
+(177)|2-9; strong and wide, especially in the red.  
+(191)|2-9; wide and dark, especially 2 and 3.  
+(193)|2-9; 2 and 3 strongly marked.  
+(197)|2-9; wide.  
+(199)|2-9; very wide and _dark_, especially in the red. 4 and 5 are also wider than usual.  
+(212)|2-9; wide and dark. 2 and 3 are the strongest.  
+(218)|Bands wide, but not very dark, as far as 9.  
+(234)|2-9; wide.  
+(245)|Bands wide, but pale. Strongest in the red.  
+(288)|Bands wide and pale, but visible even in the blue.  
 
 _Species 12._  
 No. of Star.|Bands Visible.  
+(27)|2-8; wide and pale.  
+(46)|2-8, possibly 9.  
+(51)|2-8, possibly 9.  
+(52)|2-8, possibly also 9; wide, but not very dark.  
+(60)|2-8, possibly 9; wide and dark.  
+(78)|Bands visible even in the blue; wide but pale.  
+(117)|2-8; feebly developed.  
+(122)|2-8; wide, but rather pale.  
+(126)|2-8, possibly 9; 2 and 3 strong.  
+(129)|2-8; wide and pale.  
+(133)|Bands wide and dark, especially in the red.  
+(164)|2-8, probably also 9; red bands darkest.  
+(215)|2-8; not very strong.  
+(264)|2-8, possibly 9; wide, but not very dark.  
 
 _Species 13._  
 No. of Star.|Bands Visible.  
+(1)|2-8; red bands strongest.  
+(2)|2-8; 2 and 3 strongest.  
+(16)|2 and 3 pretty strong; 4-8 wide and pale.  
+(17)|2-8; 2 and 3 strongest.  
+(26)|2-8; 2 and 3 strongest.  
+(32)|2-8; 2 and 3 strongest.  
+(33)|2-8; 2 and 3 strongest.  
+(36)|2-8; 2 and 3 terminated by strong lines. _b_ present.  
+(38)|2-8; 2 and 3 strongest.  
+(40)|2-8; 2 and 3 strongest.  
+(54)|2-8; 2 and 3 strongest.  
+(61)|2-8; 2 and 3 strongest.  
+(62)|Red bands fairly strong; 7 and 8 weak; 4 and 5 narrow.  
+(64)|2-8; 2 and 3 strong.  
+(69)|2-8; 2 and 3 very dark.  
+(71)|2-8; 2 and 3 strong.  
+(75)|2-8; wide and dark, especially in the red.  
+(82)|2-8; all strong, but especially 2 and 3.  
+(104)|2 and 3 strong and wide, 7 and 8 fairly strong, 4 and 5 weak.  
+(109)|2-8; wide and dark, especially in the red.  
+(116)|2-8; very pale, except 2 and 3.  
+(120)|2-8; well seen, 2 and 3 widest.  
+(121)|2-8; 2, 3, 7 strongest.  
+(124)|2-8; 2 and 3 especially wide and dark.  
+(130)|2-8; well seen, 2 and 3 strong.  
+(132)|2-8; narrow, except 2 and 3.  
+(144)|2-8; well seen, 2 and 3 strongest.  
+(145)|2-8; well seen, 2 and 3 strongest.  
+(146)|2-8; rather narrow, 2 and 3 widest.  
+(155)|2-8; 2 and 3 strong, but not very wide.  
+(160)|2, 3, 4, 5, 7, 8; 2 and 3 wide and dark.  
+(182)|2-8; 2 and 3 strongest.  
+(200)|2-8; well seen, 2 and 3 are the strongest.  
+(203)|2-8; seen with difficulty, 2 and 3 strongest.  
+(205)|2-8 are visible, 2 and 3 darkest.  
+(207)|2-8; 2 and 8 strongest.  
+(211)|2-8; red strongest.  
+(240)|The six ordinary bands are strong, but only those in the red are wide.  
+(243)|The six ordinary bands; wide and dark in the red; 4 and 5 narrow.  
+(244)|2 and 3; ratherwide. Also 7 and 8 seen (not well marked).  
+(268)|2 and 3 wide and dark; 7 and 8 rather narrow; 4 and 5 not easily seen.  
+(280)|Six bands, strongest in the red.  
+(287)|2 and 3 wide and strongly marked; the others not so strong.  
+(292)|The six ordinary bands are visible, widest in the red.  
+(294)|2-8; 2, 3 strong, the others narrow.  
 
 _Species 14._  
 No. of Star.|Bands Visible.  
+(22)|2-8 are seen, but they are not well marked.  
+(49)|2-8; narrow and not very dark.  
+(90)|2-8; narrow and not very dark.  
+(94)|2-8; not strongly marked; 4 and 5 weak.  
+(107)|2-8; very narrow.  
+(111)*|2-9; narrow.  
+(113)|2-8; feebly developed.  
+(138)|2-8; not strongly marked. 4 and 5 are very narrow.  
+(140)|2, 3, 5, 7, 8; pale and narrow, feebly developed.  
+(142)|2-8; not very wide.  
+(167)|2-8; narrow and not very dark.  
+(169)|2-8; narrow.  
+(179)|2-8; narrow and not very dark.  
+(180)|2-8; narrow.  
+(187)|2-8; weak.  
+(250)|Bands plain, but neither wide nor dark.  
+(282)|The six ordinary bands, but only 2, 3, and 7 are passably wide.  
+
+*) In this case the carbon has not died out as early as it usually does, so that band 9 is seen in addition to 2-8.
 
 _Species 15._  
 No. of Star.|Bands Visible.  
+(41)|2 and 3 wide and dark, others feeble and narrow.  
+(50)*|1-10; rather pale and narrow.  
+α Orionis|  
+(96)|Bands very narrow; 2 and 3 strongest.  
+(101)|2 and 3 very well seen, 7 and 8 weak, 4 and 5 doubtful.  
+(136)|Bands in the red are wide, the others narrow.  
+(139)|Bands weak and narrow. Something like the spectrum of Aldebaran.  
+(147)|2, 3, 7; others extremely narrow.  
+(190)|2, 3, 7, narrow bands; the rest almost like lines.  
+(226)|Feebly developed, 2 and 3 strongest.  
+(235)|Bands neither wide nor dark; feebly developed.  
+(265)|Bands plainly seen, but extremely narrow.  
+(279)|2, 3, 7 dark, not very wide; 4 and 5 narrow.  
+
+*) The additional bands seen in this "star" are in all probability due to its great brilliancy as compared with other members of the group.
 
 _Indefinite --- Early Stages._  
 No. of Star.|Bands Visible.  
+(3)|Bands weak, but very wide, especially in the green and blue.  
+(11)|Bands wide, especially in the green and blue.  
+(21)|Bands wide and dark, especially in the green and blue.  
+(34)|Bands dark, but rather narrow.  
+(45)|Bands wide; those in the blue are stronger than those in the red.  
+(59)|Fairly well developed; 4 and 5 narrow.  
+(68)|Bands wide and dark, especially in the green and blue.  
+(72)|Feebly developed; bands widest in green and blue.  
+(81)|Feebly developed; 7 and 8 are best visible.  
+(100)|Bands wide and dark, especially 7 and 8.  
+(106)|Bands dark, and wide in the blue and green.   
+(134)|Bands wide and dark, especially in green and blue.  
+(151)|Bands wide and dark, especially in the green and blue.  
+(159)|Bands in blue and green are very wide and dark.  
+(165)|Bands wide and well seen, especially in green and blue.  
+(168)|Bands wide and strong, especially in the green and blue.  
+(170)|The bands in the blue are very wide.  
+(192)|Bands are wide, especially in the green and blue.  
+(201)|Bands wide and well seen, especially 7 and 8.  
+(206)|Bands easily seen in green and blue; feebly developed.  
+(209)|Bands well seen, especially in green and blue.  
+(222)|Bands wide and dark, especially in green and blue.  
+(223)|Bands visible throughout the spectrum, strongest in green and blue.  
+(224)|Bands in green and blue are very wide and dark.  
+(248)|Bands dark and visible even in the blue.  
+(262)|Bands visible even in the blue, weakest in the red.  
 
 _Indefinite --- Later Stages._  
 No. of Star.|Bands Visible.  
+(8)|Bands pretty wide, and visible even in blue.  
+(10)|Bands enormously wide.  
+(14)|Bands narrow and dark throughout the spectrum, but especially in the red.  
+(35)|Feebly developed, but the bands seem to be wide.  
+(43)|Bands enormously wide, but very feeble.  
+(47)|Bands wide, spectrum weak.  
+(77)|Bands wide and dark in the red, weaker in the blue and green.  
+(80)|Bands wide, but not very dark; seen in blue also.  
+(84)|Feebly developed, but 2-8 are seen (Dunér's "feebly developed" means much developed from my point of view, if the bands are thin).  
+(102)|Bands wide, but pale.  
+(114)|Bands wide and pale, except 2 and 3, which are strong.  
+(119)|Bands wide throughout the spectrum.  
+(125)|Bands wide and pale, but visible even in the blue.  
+(127)|Bands wide, but very pale.  
+(157)|Bands wide, but pale.  
+(163)|Bands are pale, but visible even in the blue.  
+(210)|Bands wide, but feeble.  
+(213)|Bands in the red well marked; 4 and 5 weaker.  
+(219)|The six ordinary bands are seen, but they are rather pale.  
+(231)|Bands not very dark, but wide and visible even in the blue.  
+(236)|Bands wide, but weak.  
 
 _Totally Indeterminate, on Account of Absence of Details._  
 No. of Star.|Bands Visible.  
+(13)|Feebly developed. (No details given.)  
+(31)|Feebly developed.  
+(58)|Feebly developed; bands very indistinct.  
+(63)|Doubtful whether 3_a_ or 3_b_.  
+(73)|Only recognised as 3_a_ on one occasion.  
+(79)|Feebly developed.  
+(85)|Doubtful whether 3_a_ or 3_b_.  
+(105)|Feebly developed; somewhat uncertain.  
+(128)|Very feebly developed,  
+(178)|Feebly developed.  
+(238)|Feebly developed.  
+(257)|Very feebly developed.  
+(261)|Very feebly developed.  
+(272)|Not well marked.  
+(296)|? 3_a_.  
 
 ## B.
 
-[TABLE]
+See Chapter 43.
 
-[TABLE]
+Tables showing how the mean colour-numbers in end of chapter 43 have been obtained.
+
+_Species 2._  
+Dunér's No.|Colour.  
+56|4.2  
+93|4.2  
+220|2.4  
+223|2.4  
+246|2.4  
+|Mean 3.1  
+
+_Species 3._  
+Dunér's No.|Colour.  
+42|2.4  
+53|2.4  
+70|2.4  
+185|2.4  
+198|2.4  
+228|4.2  
+276|0.6  
+290|2.4  
+|Mean 2.4  
+
+_Species 4._  
+Dunér's No.|Colour.  
+7|0.6  
+95|2.4  
+110|2.4  
+|Mean 1.8  
+
+_Species 5._  
+Dunér's No.|Colour.  
+89|4.2  
+153|2.4  
+154|2.4  
+173|2.4  
+253|4.2  
+258|2.4  
+267|2.4  
+271|2.4  
+|Mean 2.85  
+
+_Species 6._  
+Dunér's No.|Colour.  
+6|2.4  
+19|2.4  
+39|2.4  
+48|4.2  
+67|2.4  
+74|2.4  
+76|4.2  
+83|2.4  
+99|2.4  
+188|4.2  
+189|4.2  
+194|2.4  
+202|2.4  
+208|4.2  
+214|4.2  
+227|2.4  
+247|2.4  
+254|4.2  
+259|2.4  
+260|2.4  
+273|4.2  
+274|2.4  
+285|2.4  
+289|0.6  
+|Mean 2.9  
+
+_Species 7._  
+Dunér's No.|Colour.  
+24|0.6  
+97|2.4  
+115|2.4  
+143|2.4  
+181|5.9  
+195|4.2  
+229|2.4  
+241|4.2  
+249|4.2  
+252|4.2  
+256|4.2  
+269|5.9  
+270|4.2  
+275|4.2  
+284|2.4  
+|Mean 3.6  
+
+_Species 8._  
+Dunér's No.|Colour.  
+15|2.4  
+29|2.4  
+57|4.2  
+88|2.4  
+103|2.4  
+108|2.4  
+112|0.6  
+137|4.2  
+161|4.2  
+166|4.2  
+184|2.4  
+216|4.2  
+225|4.2  
+230|2.4  
+242|2.4  
+251|4.2  
+263|2.4  
+278|2.4  
+283|2.4  
+286|2.4  
+291|2.4  
+295|2.4  
+297|2.4  
+|Mean 2.9  
+
+_Species 9._  
+Dunér's No.|Colour.  
+9|4.2  
+12|5.9  
+20|2.4  
+23|4.2  
+25|2.4  
+37|5.9  
+44|4.2  
+65|2.4  
+66|2.4  
+118|4.2  
+123|5.9  
+148|2.4  
+156|5.9  
+158|4.2  
+162|4.2  
+165|4.2  
+174|4.2  
+175|4.2  
+176|4.2  
+183|4.2  
+186|4.2  
+204|4.2  
+217|4.2  
+221|5.9  
+237|2.4  
+255|2.4  
+266|4.2  
+277|2.4  
+281|2.4  
+293|2.4  
+|Mean 3.9  
+
+_Species 10._  
+Dunér's No.|Colour.  
+4|5.9  
+18|4.2  
+28|4.2  
+30|4.2  
+86|4.2  
+91|5.9  
+92|7.5  
+131|2.4  
+141|5.9  
+172|5.9  
+196|4.2  
+232|4.2  
+239|5.9  
+|Mean 5  
+
+_Species 11._  
+Dunér's No.|Colour.  
+5|2.4  
+55|2.4  
+87|4.2  
+98|2.4  
+135|2.4  
+149|4.2  
+152|2.4  
+171|2.4  
+177|2.4  
+191|2.4  
+193|2.4  
+197|2.4  
+199|2.4  
+212|2.4  
+218|4.2  
+234|2.4  
+245|2.4  
+288|2.4  
+|Mean 2.7  
+
+_Species 12._  
+Dunér's No.|Colour.  
+27|2.4  
+46|2.4  
+51|2.4  
+52|2.4  
+60|2.4  
+78|4.2  
+117|2.4  
+122|0.6  
+126|2.4  
+129|2.4  
+133|2.4  
+164|4.2  
+215|2.4  
+264|2.4  
+|Mean 2.5
+
+_Species 13._  
+Dunér's No.|Colour.  
+1|2.4  
+2|4.2  
+16|0.6  
+17|2.4  
+26|0.6  
+32|2.4  
+33|2.4  
+36|2.4  
+38|4.2  
+40|2.4  
+54|4.2  
+61|2.4  
+62|2.4  
+64|2.4  
+69|2.4  
+71|2.4  
+75|2.4  
+82|0.6  
+104|2.4  
+109|2.4  
+116|2.4  
+120|2.4  
+121|2.4  
+124|2.4  
+130|2.4  
+132|2.4  
+144|2.4  
+145|2.4  
+146|2.4  
+155|2.4  
+160|2.4  
+182|4.2  
+200|0.6  
+203|2.4  
+205|2.4  
+207|2.4  
+211|2.4  
+240|2.4  
+243|2.4  
+244|2.4  
+268|2.4  
+280|2.4  
+287|2.4  
+292|2.4  
+294|2.4  
+|Mean 2.4
+
+_Species 14._  
+Dunér's No.|Colour.  
+12|2.4  
+49|2.4  
+90|2.4  
+94|2.4  
+107|2.4  
+111|4.2  
+113|2.4  
+140|2.4  
+142|2.4  
+167|2.4  
+169|2.4  
+179|2.4  
+180|2.4  
+187|2.4  
+250|4.2  
+282|0.6  
+138|2.4  
+|Mean 2.5
+
+_Species 15._  
+Dunér's No.|Colour.  
+41|2.4  
+50|4.2  
+96|2.4  
+101|2.4  
+136|4.2  
+139|2.4  
+147|0.6  
+190|4.2  
+226|2.4  
+235|2.4  
+265|2.4  
+279|2.4  
+|Mean 2.7  
