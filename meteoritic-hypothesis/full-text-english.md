@@ -658,7 +658,7 @@ In a paper which I communicated to the Royal Society in 1879* I described the re
 
 *) _Roy. Soc. Proc._ vol. 30. p. 27.
 
-[Fig. 5. --- Changes in the Spectrum of Magnesium. 1. Arc Spectrum. 2. Flame Spectrum.]()
+[Fig. 5. --- Changes in the Spectrum of Magnesium. 1. Arc Spectrum. 2. Flame Spectrum.](https://cdn.solaranamnesis.com/Lockyer/Fig-5.jpeg)
 
 In the Bunsen, as ordinarily employed, the fluting at 500 far eclipses the other parts of the spectrum in brilliancy, and at this temperature I have also photographed a close triplet in the ultraviolet at wavelength 373.
 
@@ -680,7 +680,7 @@ When a strong electric current is passed between carbon poles, the gases in the 
 
 The spectrum of a gas rendered incandescent by an electric current may be obtained in several ways. We may either use a short spark and pass it through the gas at ordinary pressure, or we may enclose the gas in a glass tube fitted with platinum points, connected at one end to a Sprengel pump so that a vacuum can be produced, and at the other end with an apparatus for generating the gas. At reduced pressures, when there is but little of the gas to be rendered incandescent, very long sparks can be made to pass; in my own investigations I have employed tubes of various lengths, the distance between the platinum points varying from about 1/16 of an inch to 6 feet. In all these experiments it is desirable to use what are called end-on tubes, so that the light throughout the length of the tube may be made to fall on the slit of the spectroscope. A form of tube which I have found to be very convenient is shown in Fig. 6. This permits of discharges of various kinds being passed through the same gas without the necessity of changing the tube each time, a change in the pressure, at the most, being all that is required for a change of spark. It will be noted that the tube is partly a capillary tube and partly one with a wide bore; this is very important, as with the same length of spark the temperature is greater in the capillary tube. Simpler forms of end-on tubes have also been employed. In working with a tube of this description, it is best to place it at a distance of about 2 feet from the slit, in the same line as the collimator of the spectroscope, and to focus the light on the slit by interposing a lens of suitable focal length.
 
-[Fig. 6. --- End-on Tube.]()
+[Fig. 6. --- End-on Tube.](https://cdn.solaranamnesis.com/Lockyer/Fig-6.jpeg)
 
 In these experiments all the joints between the tubes are made air-tight by surrounding the short indiarubber tubes joining them with mercury or glycerine.
 
@@ -702,13 +702,13 @@ Besides these flutings there is another at wavelength 431, which is special to t
 
 But even now we have not considered all the flutings of carbon. There are others about which there is room for difference of opinion. These, some ascribe to cyanogen, while I still attribute them to slightly different groupings of the carbon molecules, and these it has been found convenient to call carbon B, to distinguish them from the flutings previously mentioned, which have been called carbon A. These and their relation to temperature are shown in Fig. 7. The principal line of carbon is in the blue part of the spectrum at wavelength 4266. The diagram shows the passage from the line stage to the other stages, first to the ultra-violet group, and then to the less refrangible group. It will be seen that at one temperature both lines and flutings are present. While the blue line gradually thins out, the ultra-violet flutings appear first and grow in intensity. As these increase, the blue flutings become visible, and further, as the latter augment and the line disappears, the ultra-violet flutings die out altogether.
 
-[Fig. 7. --- Part of the Spectrum of Carbon B.]()
+[Fig. 7. --- Part of the Spectrum of Carbon B.](https://cdn.solaranamnesis.com/Lockyer/Fig-7.jpeg)
 
 There is one other point which is of great importance. This is the variation in the appearance of the blue band beginning at 474. Under some conditions the maximum luminosity of this band is not at 474, but at 468, whilst under other conditions the band is almost uniform from 474 to 461. This is shown in Fig. 8, which is engraved from a photograph of the spectrum of alcohol vapour at three temperatures, the top one being at the highest and the bottom one the lowest temperature.
 
 When we come to study the spectra of those celestial bodies in which carbon appears, we shall see the importance of this; if we had not this evidence, we should not be in a position to assign the same origin to two apparently different bands.
 
-[Fig. 8. --- Change in the Appearances presented by the Band at 474.]()
+[Fig. 8. --- Change in the Appearances presented by the Band at 474.](https://cdn.solaranamnesis.com/Lockyer/Fig-8.jpeg)
 
 In what has been said the red end of the spectra has been left out of consideration; it is sufficient to state here that in this region are chiefly found those appearances _special_ to each compound.
 
@@ -750,7 +750,7 @@ _Spectra of Meteorites in the Oxy-Coal-Gas Flame._
 
 From such a method of research as the above we can pass to one in which, by means of the oxy-coal-gas flame, the spectrum of any vapour given off, provided any vapour _is_ given off at a still higher temperature, can be observed. Many meteorites have been examined in this way, and the main result is that, in the case of an "iron," the first substance to make its appearance is manganese, and the next substance to become obvious is iron.
 
-[Fig. 9a. --- Arrangement of Apparatus for observing the Oxy-Coal-Gas Flame Spectra of Meteorites.]()
+[Fig. 9a. --- Arrangement of Apparatus for observing the Oxy-Coal-Gas Flame Spectra of Meteorites.](https://cdn.solaranamnesis.com/Lockyer/Fig-9a.jpeg)
 
 Here a very important remark must be made. The substance which will give us the predominant spectrum at lowest temperature must be that substance the volatility of which, at that temperature, is greatest. If, however complicated the chemical constitution of one of these meteorites may be, there is one substance which volatilises out of it more readily than another at a low temperature, that substance will be the first to give us its characteristic spectrum at that temperature --- and in fact we may get the spectrum of that substance alone, although its percentage in the meteorite may be extremely small. It is therefore an important result to find that, in meteorites in which the quantity of iron is very considerable, it is always the manganese that makes itself visible first, because its volatility is greater than that of iron. The point to bear in mind is that when we pass to the temperature of the oxy-coal-gas flame we get predominant evidence of the existence of manganese, and afterwards of iron.
 
@@ -770,11 +770,13 @@ At this temperature there are so many lines visible that it is most satisfactory
 
 A photograph of the spectrum of the Obernkirchen meteorite, taken in this way, shows no less than 378 lines, of which 348 are due to iron. This latter fact is ascertained from a comparison of the spectrum of the meteorite with that of very pure iron, which was kindly supplied to me by Professor Roberts-Austen, of the Royal Mint, taken under exactly the same conditions. Besides the iron lines, the photograph also shows 16 lines of nickel, 3 of chromium, 1 of cobalt, 4 of manganese, 2 of titanium, and four unknown lines. It is also worth noting that this particular meteorite shows practically no sodium, although the nickel line, between the two D lines, is pretty bright.
 
-[Fig. 10. --- Arrangement of Apparatus for observing the Spark Spectra of Meteorites.]()
+[Fig. 10. --- Arrangement of Apparatus for observing the Spark Spectra of Meteorites.](https://cdn.solaranamnesis.com/Lockyer/Fig-10.jpeg)
 
 _Spectra of Meteorites in Quantity Spark without Jar._
 
 A still higher temperature may be obtained by using an electric spark. But in order that we may pass, by small stages, from low to high temperatures, we must begin the spark experiments by using a coil without a Leyden jar in the circuit. Fig. 10 shows how the apparatus is arranged for an experiment of this kind. Two of the thick wires connected with the coil proceed from the battery shown in the cupboard behind, and the other two lead to a condenser beneath the table. A finer wire leads from one terminal of the coil to the discharging apparatus, while the other terminal is connected in such a manner that an air-break can be introduced. In the diagram a Leyden jar in circuit is shown; it can be thrown out of the circuit by simply lifting it from the insulated metal disc on which it rests. The outer coating of the jar is connected with one terminal of the coil, and the inner coating with the other terminal.
+
+[Fig. 11. --- Spectra of Olivine and Meteorites under various Conditions.](https://cdn.solaranamnesis.com/Lockyer/Fig-11.jpeg)
 
 The sparking arrangement itself consists of two insulated pairs of forceps arranged so that the distance between them can be changed at will, and the whole system may either be raised or lowered. Two fragments of the meteorite to be examined are then placed in the forceps and the spark passed. In order that the space between the fragments may be filled with vapour, the distance between them is usually made about 1/16 or 1/8 of an inch. With a longer spark, it generally happens that the air spectrum is more prominent than the spectrum of the meteorite, especially when the jar is in circuit.
 
