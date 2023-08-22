@@ -14,6 +14,8 @@
 
 ---
 
+[Frontispiece. --- The Chief Stars in the Pleiades. Photographed by Mr. Roberts, F. R. S., December 8, 1888.](https://cdn.solaranamnesis.com/Lockyer/Fig-Frontpage.jpeg)
+
 # Preface.
 
 This volume has for its object the bringing together and coordinating of the observations which have been made up to the present time on the spectra of the various orders of cosmical bodies, in connection with laboratory work on which I have been engaged since 1868. It embodies in a connected form, among other matters, various Reports presented by me to the Solar Physics Committee, and subsequently communicated to the Royal Society; the President of the latter body having given me permission to utilise them as I have done in the present publication.
@@ -140,7 +142,7 @@ We can assert that this aërolite acquired, after coming into our atmosphere, a 
 
 The supposition is that the temperature is practically high enough to melt the meteorite, and that its surface as we see it after it has fallen does not in all cases represent the surface exposed to the air during the whole of the flight, but that it represents the last surface. The meteorite may have been twenty times bigger, but the rest may have been melted-off like tallow would be, so that finally there is very little visible effect towards the interior, as the melting is more rapid than the conduction. The thinness of the so-called crust or varnish, then, is caused by the air molecules carrying away the results of fusion as fast as the heat penetrates towards the interior, so leaving only, as a rule, a very thin film behind.
 
-[Fig. 1. --- Mazapil Meteoric Iron (3/4 natural size), showing Thumb-Marks.]()
+[Fig. 1. --- Mazapil Meteoric Iron (3/4 natural size), showing Thumb-Marks.](https://cdn.solaranamnesis.com/Lockyer/Fig-1.jpeg)
 
 This crust is usually dull, but sometimes, as in the Stannern meteorite, bright and shining, like a coating of black varnish. Sorby,* on examining with a microscope a thin section of a meteorite, cut perpendicular to the crust, found that it is a true black glass filled with small bubbles, and that the contrast between it and the main mass of the meteorite is as complete as possible, the junction between them being sharply defined, except when portions have been injected a short distance between the crystals. He writes ---
 
@@ -229,7 +231,7 @@ Further, these constituent particles, as pointed out by Sorby, are often themsel
 
 On examining thin sections of stony meteorites by means of polarised light, they are found to be crystallised throughout, the interference tints colouring the different crystals of which the sections are composed, thus showing the crystalline character of the whole. The stony part of both siderolites and aërolites is almost entirely crystalline, and presents a peculiar "chondritic" structure, which makes meteorites differ from ordinary terrestrial rocks; the loose grains are found to be more or less aggregated into little spherules, and to be of similar minerals to those which enclose them.
 
-[Fig. 2. --- Section of Mazapil Meteoric Iron (natural size), showing Widmanstätten Figures.]()
+[Fig. 2. --- Section of Mazapil Meteoric Iron (natural size), showing Widmanstätten Figures.](https://cdn.solaranamnesis.com/Lockyer/Fig-2.jpeg)
 
 These spherules, or chondroi --- their sizes varying very considerably, some of them being seen only under a microscope, while others are as large as a cherry --- are found embedded in a matrix, made up, as it appears, of minute splinters such as would result from the disintegration of other chondroi.
 
@@ -556,7 +558,7 @@ It should here be stated that as some of the researches have had to deal with fe
 | Iron      | 6150                                                                                     |      |      |      |      |      |
 | Copper    | 6050                                                                                     | 6130 |
 
-[Fig. 3. --- Spectra of Metals at the Temperature of the Oxy-Coal-Gas Blowpipe.]()
+[Fig. 3. --- Spectra of Metals at the Temperature of the Oxy-Coal-Gas Blowpipe.](https://cdn.solaranamnesis.com/Lockyer/Fig-3.jpeg)
 
 All the flutings, with the exception of those seen in the case of magnesium, have their maxima towards the blue, and shade off towards the red end of the spectrum.
 
@@ -568,7 +570,7 @@ Fig. 4 is a map of a few of the more important elements which enter into our dis
 
 A glance at the map shows that if there are any indications of magnesium, for instance, in bodies at low temperatures, the fluting at wave-length 500 will be seen, possibly without the other fluting or lines. The first indication of manganese will be the fluting at 558, and so on.
 
-[Fig. 4. --- Spectra of Metals showing the Changes brought about by Change of Temperature.]()
+[Fig. 4. --- Spectra of Metals showing the Changes brought about by Change of Temperature.](https://cdn.solaranamnesis.com/Lockyer/Fig-4.jpeg)
 
 _Experiments upon the Luminous Phenomena of the various Metals volatilised in the Bunsen Burner and the Oxy-coal-gas Blowpipe Flame as compared with the Phenomena seen at higher Temperatures._
 
