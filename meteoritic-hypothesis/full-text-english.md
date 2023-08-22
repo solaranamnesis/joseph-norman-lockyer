@@ -4,7 +4,7 @@
 
 ### By Joseph Norman Lockyer, F. R. S.
 
-#### ...
+#### Correspondant of the Institute of France; The Society for the Promotion of National Industry of France; The Royal Academy of Science, Göttingen; The Franklin Institute, Philadelphia; The Royal Medical Society of Brussels; Societa Spettroscopisti Italiani; The Royal Academy of Palermo; and Natural History Society of Geneva; Member of the Royal Academy of Lyncei, Rome; and the American Philosophical Society, Philadelphia; Honorary Member of the Academy of Natural Science of Cantania, Philosophical Society of York, Literary and Philosophical Society of Manchester, and Lehigh University; Member of the Committee on Solar Physics; Professor of Astronomical Physics in the Normal School of Science.
 
 #### London and New York, 1890. MacMillan and Co.
 
