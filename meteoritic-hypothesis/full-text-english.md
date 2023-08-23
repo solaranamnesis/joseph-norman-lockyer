@@ -778,6 +778,8 @@ A still higher temperature may be obtained by using an electric spark. But in or
 
 [Fig. 11. --- Spectra of Olivine and Meteorites under various Conditions.](https://cdn.solaranamnesis.com/Lockyer/Fig-11.jpeg)
 
+[Fig. 12. --- Spectra of Olivine and Meteorites under various Conditions.](https://cdn.solaranamnesis.com/Lockyer/Fig-12.jpeg)
+
 The sparking arrangement itself consists of two insulated pairs of forceps arranged so that the distance between them can be changed at will, and the whole system may either be raised or lowered. Two fragments of the meteorite to be examined are then placed in the forceps and the spark passed. In order that the space between the fragments may be filled with vapour, the distance between them is usually made about 1/16 or 1/8 of an inch. With a longer spark, it generally happens that the air spectrum is more prominent than the spectrum of the meteorite, especially when the jar is in circuit.
 
 An image of the spark is formed on the slit of the spectroscope in the usual way by means of a lens mounted on an adjustable stand. The spectroscope shown in the diagram is of the form known as the direct-vision spectroscope. Unlike an ordinary spectroscope, this shows a spectrum when the source of light is in the line of sight. A system of prisms in it, made of two kinds of glass, is so arranged that deviation is corrected whilst dispersion is retained, this being possible from the fact that particular kinds of glass have a particular proportion of deviating to dispersing power.
@@ -985,7 +987,7 @@ Although this coincidence is rather striking, it must be remembered that there a
 
 Capron remarks that "if the violet pole glow spectrum is to represent the aurora spectrum, it must be under conditions different from those by which it obtains in dry-air vacuum tubes or flasks at ordinary temperatures" (_Auroræ_, p. 126).
 
-[Fig. 13. --- Diagram showing that the Aurora Spectrum is not a Spectrum of Nitrogen or Oxygen.]()
+[Fig. 13. --- Diagram showing that the Aurora Spectrum is not a Spectrum of Nitrogen or Oxygen.](https://cdn.solaranamnesis.com/Lockyer/Fig-13.jpeg)
 
 There can, therefore, be little doubt that the aurora spectrum has nothing in common with the negative pole spectrum of nitrogen, and that the three close coincidences noted by Ångström are merely accidental.
 
@@ -1083,7 +1085,7 @@ When the spark first passed only a few of the strongest nitrogen flutings in the
 
 The sequence of the various flutings and lines is shown in Fig. 15. Below the various air spectra the principal lines of the aurora spectrum are given for comparison. It will be seen at a glance that there are no coincidences with the most persistent flutings, which are all that need be considered.
 
-[Fig. 14. --- Large end-on Vacuum-Tube, arranged for an Observation of the Spectrum of Air at varying Pressures.]()
+[Fig. 14. --- Large end-on Vacuum-Tube, arranged for an Observation of the Spectrum of Air at varying Pressures.](https://cdn.solaranamnesis.com/Lockyer/Fig-14.jpeg)
 
 Excluding for the present Gyllenskiöld's observations, the general results arrived at may now be tabulated. I should add that since I communicated to the Royal Society in 1888 some of the results embodied in the table, a further inquiry has suggested that the lines F and G of hydrogen (λ 486 and 434) have been really seen, as well as those of the substances indicated in the map given in Fig. 16.
 
@@ -1118,7 +1120,7 @@ Excluding for the present Gyllenskiöld's observations, the general results arri
 
 *) Origin not determined, but the line is seen in the spectrum of the Limerick meteorite.
 
-[Fig. 15. --- Map showing the Sequence of Spectra in a Large Air-Vacuum Tube as the Pressure is reduced.]()
+[Fig. 15. --- Map showing the Sequence of Spectra in a Large Air-Vacuum Tube as the Pressure is reduced.](https://cdn.solaranamnesis.com/Lockyer/Fig-15.jpeg)
 
 The chemical substances indicated, it will be seen, are precisely those constituents of meteorites which are volatilised at the lowest temperatures, namely, manganese, magnesium, and lead. Besides these there are probably hydrogen and hydrocarbon, besides possibly other compounds of carbon which, when rendered incandescent, give the carbon flutings.
 
@@ -1148,7 +1150,7 @@ If, in discussing Gyllenskiöld's observations, we limit ourselves to those case
 
 The following tables contain all the observations in which not more than four lines were recorded. The probable origin of each line is also stated. Some of the lines have been arranged in different columns, as the discussion has suggested.
 
-[Fig. 16. --- Map showing probable Origin of the Spectrum of the Aurora.]()
+[Fig. 16. --- Map showing probable Origin of the Spectrum of the Aurora.](https://cdn.solaranamnesis.com/Lockyer/Fig-16.jpeg)
 
 |      |      |      |      |          |      |       |      |       |       |       |       |      |       |       |      |                                  |
 |------|------|------|------|----------|------|-------|------|-------|-------|-------|-------|------|-------|-------|------|----------------------------------|
@@ -1319,7 +1321,7 @@ In experiments with large air vacuum tubes the _lines_ of nitrogen are never see
 
 The forked lightning discharge can be imitated by a jar spark, or by the spark from an electrical machine, and the brightest lines in the spectra, as we have seen, are identical.
 
-[Fig. 17. --- Map showing the Sequence of Spectra in Electrical Discharges of gradually increasing Intensities through the Atmosphere, the feebler Discharges taking place in the rarefied Regions impregnated with Meteoritic Dust. (The thick white horizontal line indicates that no observations were made in that region.)]()
+[Fig. 17. --- Map showing the Sequence of Spectra in Electrical Discharges of gradually increasing Intensities through the Atmosphere, the feebler Discharges taking place in the rarefied Regions impregnated with Meteoritic Dust. (The thick white horizontal line indicates that no observations were made in that region.)](https://cdn.solaranamnesis.com/Lockyer/Fig-17.jpeg)
 
 Fig. 17 shows the various spectra of air charged with meteoritic dust when illuminated by electrical discharges of gradually increasing intensities. The lowest temperature of all gives the Mn fluting at 558. With the first increase in intensity the iron fluting (615) is at times momentarily added, then magnesium, lead, thallium, and carbon until there is a complete spectrum. The next stage of increasing intensity is that observed by Schuster, in which magnesium is represented by _b_. Then comes Vogel's spectrum, entirely without manganese, but with _b_, Thallium (535), Hydrogen (F, 486), Carbon band (468-474), and Nitrogen (500). Schuster did not make observations beyond 500, so that the continuity in that region is apparently broken.
 
@@ -1373,19 +1375,21 @@ We read ---
 
 The considerable distance from land at which we find cosmic particles in greatest abundance in deep-sea deposits, eliminates at once objections which might be raised with respect to metallic particles found in the neighbourhood of inhabited countries. On the other hand, the form and character of the spherules of extra-terrestrial origin are essentially different from those collected near manufacturing centres. These magnetic spherules have never elongated necks or a cracked surface, like those derived from furnaces, with which we have carefully compared them. Neither are the magnetic spherules with a metallic centre comparable either in their form or structure to those particles of native iron which have been described in the eruptive rocks, especially in the basaltic rocks of the north of Ireland, of Iceland, _etc._
 
-[Fig. 18. --- Section of Ocean showing Red Clays at Depths of 3000 Fathoms (18,000 feet).]()
+[Fig. 18. --- Section of Ocean showing Red Clays at Depths of 3000 Fathoms (18,000 feet).](https://cdn.solaranamnesis.com/Lockyer/Fig-18.jpeg)
 
 Messrs. Murray and Rénard then state on what they rely in support of their view that many of the particles thus obtained from great depths are of cosmic origin ---
 
 If we plunge a magnet into an oceanic deposit, especially a red clay from the central parts of the Pacific, we extract particles, some of which are magnetite from volcanic rocks, and to which vitreous matters are often attached; others again are quite isolated, and differ in most of their properties from the former. The latter are generally round, measuring hardly 0.2 mm.; generally they are smaller, their surface is quite covered with a brilliant black coating, having all the properties of magnetic oxide of iron; often there may be noticed upon them cup-like depressions clearly marked. If we break down these spherules in an agate mortar, the brilliant black coating easily falls away, and reveals white or grey metallic malleable nuclei, which may be beaten out by the pestle into thin lamellae This metallic centre, when treated with an acidulated solution of sulphate of copper, immediately assumes a coppery coat, thus showing that it consists of native iron. But there are some malleable metallic nuclei extracted from the spherules which do not give this reaction --- they do not take the copper coating. Chemical reaction shows that they contain cobalt and nickel; very probably they constitute an alloy of iron and these two metals, such as is often found in meteorites, and whose presence in large quantities hinders the production of the coppery coating on the iron. G. Rose has shown that this coating of black oxide of iron is found on the periphery of meteorites of native iron, and its presence is readily understood when we admit their cosmic origin. Indeed these meteoric particles of native iron, in their transit through the air, must undergo combustion, and, like small portions of iron from a smith's anvil, be transformed either entirely or at the surface only into magnetic oxide, and in this latter case the nucleus is protected from further oxidation by the coating which thus covers it.
 
-[Fig. 19. --- Black Spherule with Metallic Nucleus (60:1). This spherule, covered with a coating of black shining magnetite, represents the most frequent shape. The depression here shown is often found at the surface of these spherules. From 2375 fathoms, South Pacific.]()
+[Fig. 19. --- Black Spherule with Metallic Nucleus (60:1). This spherule, covered with a coating of black shining magnetite, represents the most frequent shape. The depression here shown is often found at the surface of these spherules. From 2375 fathoms, South Pacific.](https://cdn.solaranamnesis.com/Lockyer/Fig-19.jpeg)
 
-[Fig. 20. --- Black Spherule with Metallic Nucleus (60:1). The black external coating of magnetic oxide has been broken away to show the metallic centre, represented by the clear part at the centre. From 3150 fathoms, Atlantic.]()
+[Fig. 20. --- Black Spherule with Metallic Nucleus (60:1). The black external coating of magnetic oxide has been broken away to show the metallic centre, represented by the clear part at the centre. From 3150 fathoms, Atlantic.](https://cdn.solaranamnesis.com/Lockyer/Fig-20.jpeg)
 
 We are next shown that these metallic chondroi occur with stony chondroi, so that if the interpretation of a cosmic origin for the magnetic spherules with a metallic centre be not considered established in a manner absolutely beyond question, it almost becomes so when we take into account their association with the silicate spherules, never found in rocks of a terrestrial origin. These are thus described ---
 
 Among the fragments attracted by the magnet in deep-sea deposits, we distinguish granules slightly larger than the spherules with the shining black coating above described. These are yellowish-brown, with a bronze-like lustre, and under the microscope it is noticed that the surface, instead of being quite smooth, is grooved by thin lamellæ. In size they never exceed a millimetre --- generally they are about 0.5 millimetre in diameter; they are never perfect spheres, as in the case of the black spherules with a metallic centre; and sometimes a depression more or less marked is to be observed in the periphery. When examined by the microscope, we observe that the lamellæ which compose them are applied the one against the other, and have a radial eccentric disposition. It is the leafy radial structure (_radialblättrig_), like that of the _chondres_ of bronzite, which predominates in our preparations. We have observed much less rarely the serial structure of the _chondres_ with olivine, and indeed there is some doubt about the indications of this last type of structure. Fig. 21 shows the characters and texture of one of these spherules magnified twenty-five diameters.
+
+[Fig. 21. --- Spherule of Bronzite (25:1) from 3500 fathoms in the Central South Pacific, showing many of the peculiarities belonging to _chondroi_ of bronzite or enstatite.](https://cdn.solaranamnesis.com/Lockyer/Fig-21.jpeg)
 
 It is worthy of remark that, associated with these chondroi in the red muds at the greatest depths in the ocean, are found manganese nodules in enormous numbers. If a section be made of one of these, a number of concentric layers will be observed arranged around a central nucleus --- the same as in a urinary calculus. When the peroxide of manganese is removed by strong hydrochloric acid, there remains a clayey skeleton which still more strongly resembles a urinary calculus, according to Mr. Murray.
 
@@ -1470,7 +1474,7 @@ Still Olmsted did not accept the view that the falling stars were of the same na
 
 The most salient fact, noticed during the subsequent display in 1866, even by those who did not recognise its significance, was that all the meteors seemed to come from the same region of the sky. Among all those seen by myself from 11 P. M. on Tuesday, 13th November, till 2 A. M. on Wednesday, 14th November, two only were exceptions to the general direction. In fact, there was a region in which the meteors appeared trainless, and shone out for a moment like so many stars, because they were directly approaching us. Near this spot they were so numerous, and all so foreshortened, and for the most part faint, that the sky at times put on almost a phosphorescent appearance. As the eye travelled from this region the flights became longer, those, as a rule, being longest which first made their appearance overhead, or which trended westward. Now, if the paths of all had been projected backwards, they would have intersected in one region, and that region the one in which the most foreshortened ones were seen. So decidedly did this fact come out that there were moments in which the meteors belted the sky like the meridians on a terrestrial globe, the pole of the globe being represented by a point in the constellation Leo. In fact, they all seemed to _radiate_ from that point, and _radiant point_, as we have seen, is precisely the name given to it by astronomers. _Vanishing point_, if the bull were permissible, is a term which would represent the fact rather than the appearance, which is an effect of perspective; and hence we gather that the paths of the meteors are parallel, or nearly so, and that they diverge therefore from a definite place in the sky. The point from which they proceed in the case of the swarm we are now considering lies in the sickle of Leo, situated in longitude 142° and latitude 8° 30′ N., according to Professor Newton. These meteors are called Leonids.
 
-[Fig. 22. --- The Radiant Point of the November Meteors.]()
+[Fig. 22. --- The Radiant Point of the November Meteors.](https://cdn.solaranamnesis.com/Lockyer/Fig-22.jpeg)
 
 [Fig. 23. --- Radiant Point of Long Duration (October-November), Denning.]()
 
