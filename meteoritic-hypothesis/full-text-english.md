@@ -1476,7 +1476,7 @@ The most salient fact, noticed during the subsequent display in 1866, even by th
 
 [Fig. 22. --- The Radiant Point of the November Meteors.](https://cdn.solaranamnesis.com/Lockyer/Fig-22.jpeg)
 
-[Fig. 23. --- Radiant Point of Long Duration (October-November), Denning.]()
+[Fig. 23. --- Radiant Point of Long Duration (October-November), Denning.](https://cdn.solaranamnesis.com/Lockyer/Fig-23.jpeg)
 
 Meteor showers are generally of short duration, but Mr. Denning has shown that there are cases in which falling stars emanate from the same part of the sky for long periods of time.
 
@@ -1506,7 +1506,7 @@ Meteors which appear singly and occasionally are called sporadic meteors, but in
 
 From 1833-1863 evidence was rapidly accumulated indicating that a very large proportion of the shooting-stars observed were not sporadic, but really systematic --- that is to say, that at certain periods of the year meteors might be expected to diverge from radiant points in those particular parts of the sky, and in greater numbers from those parts than from elsewhere.
 
-[Fig. 24. --- Position of the Long-Duration Radiant among the Stars.]()
+[Fig. 24. --- Position of the Long-Duration Radiant among the Stars.](https://cdn.solaranamnesis.com/Lockyer/Fig-24.jpeg)
 
 During these years a considerable number of radiant points had been made out, and therefore the existence of a considerable number of streams or swarms had been suggested if not established. In 1863 Professor H. A. Newton used these facts to strengthen the cosmical hypothesis.
 
@@ -1632,7 +1632,7 @@ Combining these facts, Bompas explained the results on the principle that if the
 
 Before we proceed to show the bearing of this matter, a word must be said with regard to the actual conditions under which these bodies reach us from space, and how their fall upon the earth and their appearance in the heavens, even in the case of no fall, have been investigated.
 
-[Fig. 25. --- Diagram showing why more Falling Stars are seen after Midnight.]()
+[Fig. 25. --- Diagram showing why more Falling Stars are seen after Midnight.](https://cdn.solaranamnesis.com/Lockyer/Fig-25.jpeg)
 
 To approach the proof of the cosmical hypothesis afforded by these observations, we may begin by supposing the earth at rest. If the movements of the cosmical particles are in all directions, they will fall equally on all parts of the earth, and even the earth's rotation will make no difference. But if we assume the earth's movement in its orbit to be much more rapid than the movements of the meteorites, it is clear that its forward half will receive blows while the hinder half cannot.
 
