@@ -2408,7 +2408,7 @@ Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.
 
 *) _Monthly Notices_, vol. 39. p. 420.
 
-[Fig. 51. --- Diagram showing the Result of the Integration of Hot Carbon Radiation and the Absorption of Manganese and Lead, compared with Comet 1 1868.]()
+[Fig. 51. --- Diagram showing the Result of the Integration of Hot Carbon Radiation and the Absorption of Manganese and Lead, compared with Comet 1 1868.](https://cdn.solaranamnesis.com/Lockyer/Fig-51.jpeg)
 
 It is important to note, as a test of the validity of this explanation, that the lead fluting never occurs without the manganese one, otherwise we should get two bright maxima, one at 564 and the other at 546.
 
@@ -2418,7 +2418,7 @@ _Carbon Absorption._
 
 There are a few cases in which we probably have to deal with comparatively feeble manganese absorption, together with the absorption of cool carbon masking the radiation of hot carbon. Here both the hot carbon flutings are affected, instead of one as in the previous cases. With regard to the 564 fluting, we have the cool carbon absorption fluting at 560.7, masking the second maximum of the hot carbon fluting at 564, and the manganese fluting at 558 dimming the first maximum. The result is a band with two maxima as shown in Fig. 52, one of these being at 564 and the other at 554 (the third maximum of the hot carbon flutings), the latter being the brighter.
 
-[Fig. 52. --- Map showing the Result of the Integration of Hot Carbon Radiation and the Absorption of Cool Carbon and Manganese, compared with Coggia's Comet, 1874.]()
+[Fig. 52. --- Map showing the Result of the Integration of Hot Carbon Radiation and the Absorption of Cool Carbon and Manganese, compared with Coggia's Comet, 1874.](https://cdn.solaranamnesis.com/Lockyer/Fig-52.jpeg)
 
 With regard to the other hot carbon fluting at 517, we have the cool carbon absorption masking the first maximum, and we get the apparently paradoxical result of the second maximum of the fluting being brighter than the first, as shown in the figure.
 
@@ -2546,7 +2546,7 @@ _The Perihelion Conditions of Comet Wells._
 
 Again, in Comet Wells almost the same phenomena were exhibited as in the Great Comet of 1882. In this case the perihelion passage occurred under such conditions that the spectrum of the comet could not be satisfactorily observed on account of the interference of daylight. Detailed observations, however, were made when the comet was near perihelion and its temperature sufficiently high to give bright lines. On 28th May (perihelion passage, 10th June) the spectrum was observed by Copeland, who noted the presence of the D lines of sodium, and other lines at 558, 513, 503, 467, 451, and 426.  The bright line at 55 was in all probability the remnant of the manganese fluting at 558, and that at 503 the remnant of the magnesium fluting at 500.  Two carbon flutings, 517 and 468-474, are indicated by the brightenings at 513 and 467, the former being the second maximum of the fluting at 517. The line at 426 is most likely the strong _line_ of carbon at 426, which only appears at a high temperature. No origin has yet been assigned to the line at 451. Fig. 54 shows how the spectrum can be closely approximated to by integrating the lines of sodium and carbon, and the flutings of carbon, manganese, and magnesium.
 
-[Fig. 53. --- Map showing the probable Origin of the Spectrum of the Great Comet of 1882 when near Perihelion.]()
+[Fig. 53. --- Map showing the probable Origin of the Spectrum of the Great Comet of 1882 when near Perihelion.](https://cdn.solaranamnesis.com/Lockyer/Fig-53.jpeg)
 
 The spectrum was again observed by Copeland on 31st May,* when the comet was slightly hotter, and the phenomena were somewhat different. The following table gives the bright lines and bands (with their probable origins):---
 
@@ -2573,9 +2573,9 @@ Fig. 55 shows how the spectrum of the Comet, on 31st May, can be very closely im
 
 In both cases the low temperature fluting of magnesium was recorded; it probably had its origin in some cool part of the comet which was projected on the slit at the same time as the nucleus.
 
-[Fig. 54. --- Map showing the probable Origin of the Spectrum of Well's Comet on 28th May 1882 (P. P. 10th June).]()
+[Fig. 54. --- Map showing the probable Origin of the Spectrum of Well's Comet on 28th May 1882 (P. P. 10th June).](https://cdn.solaranamnesis.com/Lockyer/Fig-54.jpeg)
 
-[Fig. 55. --- Map showing the probable Origin of the Spectrum of Well's Comet on 31st May 1882 (P. P. 10th June).]()
+[Fig. 55. --- Map showing the probable Origin of the Spectrum of Well's Comet on 31st May 1882 (P. P. 10th June).](https://cdn.solaranamnesis.com/Lockyer/Fig-55.jpeg)
 
 ### Chapter 19. Some Cometary Biographies.
 
@@ -2795,7 +2795,7 @@ _Sequence of Spectral Changes._
 
 The first visible stage in the spectrum of a comet is that in which a single line is visible; relying on the position given by Dr. Huggins, this may with great probability be attributed to the radiation of magnesium. The next is that in which this line is replaced wholly or partially by the spectrum of cool carbon. The line 521, also seen in the spectrum of magnesium, is then added, and cool carbon is replaced by hot carbon. The radiation of manganese (558) and sometimes of lead (546) follow. Absorption phenomena next appear; manganese 558 and lead 546 being indicated by their masking effect upon the citron band of carbon. The absorption band of iron is also sometimes present at this stage, at which also the group of carbon flutings which I have called carbon B probably also makes its appearance. As the temperature increases still further, magnesium is represented by _b_, and lines of iron appear; this takes place when the comet is at or near perihelion. At this point the repellent action of the sun upon the comet is most effective, and if the vapours are driven off in the line of sight with sufficient velocity, the bright lines will suffer displacement. A double set of phenomena will thus be presented; there will be radiation lines of one wavelength from the vapours thus driven off, and absorption lines of a different wavelength from the vapours surrounding the meteorites in the head.
 
-[Fig. 56. --- Diagram showing the Sequence of Phenomena in the Spectrum of a Comet. The Spectrum at the lowest Temperature is shown on the lowest Horizon, and the probable Origins of the Lines observed are indicated at the side.]()
+[Fig. 56. --- Diagram showing the Sequence of Phenomena in the Spectrum of a Comet. The Spectrum at the lowest Temperature is shown on the lowest Horizon, and the probable Origins of the Lines observed are indicated at the side.](https://cdn.solaranamnesis.com/Lockyer/Fig-56.jpeg)
 
 As the comet recedes from perihelion, these changes take place in inverse order.
 
@@ -2830,17 +2830,17 @@ Mn absorption|Indicated by masking|Comet 3 1881|June 28, 1881|June 16, 1881|...|
 
 In the case of Encke's Comet, 1871 (p. p., 28th December), as the comet approached perihelion, hot carbon radiation was succeeded by the integrated radiations of hot carbon and manganese, and this again by the integration of hot carbon radiation and manganese absorption as shown in Fig. 57.
 
-[Fig. 57. --- Encke's Comet (P. P., 28th Dec. 1871).]()
+[Fig. 57. --- Encke's Comet (P. P., 28th Dec. 1871).](https://cdn.solaranamnesis.com/Lockyer/Fig-57.jpeg)
 
 The slight variations, as shown in the positions of the green band (517), are assumed to be due to errors of observation. As I have already explained, the apparent position of the blue band depends upon temperature, the point of maximum luminosity varying between 468 and 474.
 
 The case of Comet 3 1881 (Fig. 58), is a little more complicated, but the general result is the same, namely, that radiation- succeed absorption-phenomena as the comet recedes from perihelion. Twelve days after perihelion passage, the spectrum of the comet consisted of the integrated spectra of hot carbon radiation, and the absorption of cool carbon and manganese, as indicated by the masking of the second and the dimming of the first maximum of the citron fluting (see Fig. 58). A month later still, the absorption bands disappeared, and the spectrum of the comet consisted of the integration of hot carbon, manganese, and lead radiations. On both occasions the blue band had a maximum at 468.
 
-[Fig. 58. --- Diagram showing the Spectrum of Comet 3 1881, on 28th June and 27th July, showing that Absorption occurs nearer to Perihelion than Radiation.]()
+[Fig. 58. --- Diagram showing the Spectrum of Comet 3 1881, on 28th June and 27th July, showing that Absorption occurs nearer to Perihelion than Radiation.](https://cdn.solaranamnesis.com/Lockyer/Fig-58.jpeg)
 
 In the Great Comet of 1882 we had, as it cooled, a good example of the passage of the spectrum from that of manganese and hot carbon radiation to that of hot carbon alone. The spectrum recorded by Copeland on 22d October showed the first condition, and the observations of Gothard between 1st November and 18th November showed the second (see Fig. 59).
 
-[Fig. 59. --- Diagram showing the Spectrum of the Great Comet of 1882 at different Dates.]()
+[Fig. 59. --- Diagram showing the Spectrum of the Great Comet of 1882 at different Dates.](https://cdn.solaranamnesis.com/Lockyer/Fig-59.jpeg)
 
 This sequence may not have been apparent in some comets for two reasons: in the first place, a complication is introduced by the unequal displacements of the bands at different times, due to motion in the line of sight which is variable, and is sometimes very great. Many apparently faulty observations are probably to be accounted for in this way.
 
@@ -3897,7 +3897,7 @@ The air spark so far employed was that obtained by using a small jar; the nitrog
 
 Four prisms and an observing telescope magnifying about thirty times were first used with the new conditions, and it was then found that the magnesium fluting was a little less refrangible than the nitrogen line. In this case the magnesium spectrum was obtained by burning magnesium in front of the bulb, and the non-coincidence with the nitrogen line was put beyond doubt by observing the two spectra simultaneously. This was further confirmed with the Rowland grating, the magnifying power employed being about fifty-five times. Comparisons with the solar spectrum were then made, with the result shown in Fig. 60.
 
-[Fig. 60. --- Comparison of the Spectra of Magnesium, Nitrogen, Lead, and Sun. Mg(1) and N(1) are as observed with a wide slit. (The scale is that of Rowland's photographic map.)]()
+[Fig. 60. --- Comparison of the Spectra of Magnesium, Nitrogen, Lead, and Sun. Mg(1) and N(1) are as observed with a wide slit. (The scale is that of Rowland's photographic map.)](https://cdn.solaranamnesis.com/Lockyer/Fig-60.jpeg)
 
 The solar spectrum shown in the drawing is from an enlargement of Rowland's map of the region in question, and the positions of the fluting of magnesium and the lines of nitrogen and lead are as determined with four prisms and confirmed with the Rowland, which differs from Ångström's scale by one division; _e. g._ 5007.5 on Rowland's scale is equivalent to 5006.5 on Ångström's. (This difference was determined by a comparison of twelve lines of iron mapped by Thalén with the corresponding solar lines shown in Rowland's map.) Two spectra of nitrogen are shown in the map: the first one, that seen when the small jar was used and the slit was rather wide; and the second, that seen with the jar spark in rarefied air and the slit as narrow as possible. In the first case the lines are very broad and begin to fade away rather suddenly on both sides. Two spectra of magnesium are also shown --- one with the slit wide, and the other with it narrow.
 
@@ -3940,7 +3940,7 @@ _November 28._ --- The observations of the Orion nebula were repeated with simil
 
 Arrangements had been made during the day for burning magnesium, so as to get parallel rays from it. The method is shown in Fig. 61, and consists of a collimator placed in front of the object-glass. When burning the magnesium, a card, with a hole in the centre of the same diameter as the collimating lens, was placed in front of the 10-inch object-glass to keep out stray light. At the spirit-lamp end of the tube was a piece of tinfoil with a pin-hole at the centre. The image of this was focussed on the slit of the Steinheil, and when the magnesium was burning the spectrum was well seen.
 
-[Fig. 61. --- Arrangement of Apparatus for Observing the Spectra of the Heavenly Bodies by the Use of the Siderostat. The 10-inch object-glass is supported on an adjustable stand between the siderostat and the spectroscope, the collimator of which is directed accurately to the centre of the mirror. The small collimator between the object-glass and the siderostat is for obtaining comparison spectra either from the flame of a spirit-lamp of from the electric spark. The wires leading to the spark-stand pass through an opening in the side of the hut containing the spectroscope and the induction-coil.]()
+[Fig. 61. --- Arrangement of Apparatus for Observing the Spectra of the Heavenly Bodies by the Use of the Siderostat. The 10-inch object-glass is supported on an adjustable stand between the siderostat and the spectroscope, the collimator of which is directed accurately to the centre of the mirror. The small collimator between the object-glass and the siderostat is for obtaining comparison spectra either from the flame of a spirit-lamp of from the electric spark. The wires leading to the spark-stand pass through an opening in the side of the hut containing the spectroscope and the induction-coil.](https://cdn.solaranamnesis.com/Lockyer/Fig-61.jpeg)
 
 _November 29._ --- During the day the siderostat was put in order. The position of the collimator of the Steinheil was tested by opening the slit very wide, and burning magnesium at the centre of the siderostat mirror (the mirror being temporarily removed for this purpose). The image of the slit fell exactly in the centre of the collimating lens, so that no alteration was necessary. An observation was also made of the displacement of the magnesium fluting, brought about by moving the spirit-lamp in which the magnesium was burned away from the centre of the mirror. It was found that if the lamp were moved more than 2 inches on either side the spectrum ceased to be visible. Between the two extreme positions (_i. e._ 2 inches on each side of the centre) the displacement produced was about one-third of the distance between the first and second maxima of the magnesium fluting.
 
@@ -3952,7 +3952,7 @@ The reflecting eye-piece which was used to act as a finder was the ordinary one 
 
 No work could be done in the observatory this evening on account of fog.
 
-[Fig. 62. --- Plan of Arrangements of Siderostat, Refractor, and Spectroscope. A. Siderostat mirror; B. 10-inch object-glass; C. Spectroscope; D. Collimator; E. Spark-stand; F. Induction coil; G. Removable eye-piece of refractor; H. Lamp for illuminating micrometre; K. Side of the dark hut; L. Door of hut.]()
+[Fig. 62. --- Plan of Arrangements of Siderostat, Refractor, and Spectroscope. A. Siderostat mirror; B. 10-inch object-glass; C. Spectroscope; D. Collimator; E. Spark-stand; F. Induction coil; G. Removable eye-piece of refractor; H. Lamp for illuminating micrometre; K. Side of the dark hut; L. Door of hut.](https://cdn.solaranamnesis.com/Lockyer/Fig-62.jpeg)
 
 _November 30._ --- Commenced work by adjusting the object-glass and the collimator in front of it. The accuracy of this adjustment was checked by a comparison of _b_ in the spectrum of the Moon with _b_ in the spectrum of magnesium burning behind the secondary collimator. There was perfect coincidence between the lines. Four prisms were used for the comparison, and the centre of the Moon's disc was thrown on the slit. Everything being now in perfect adjustment, the nebula was turned to, and three good comparisons made of the chief line and the magnesium fluting, the magnesium being burned behind the secondary collimator. The pointer was displaced and readjusted in each observation. In each case the coincidence with the least refrangible maximum appeared perfect. These observations were made by Mr. Fowler and Lieutenant Bacon. In order to further test the result obtained, Mr. Fowler put the pointer of the micrometre exactly on the nebula line, and left it for Lieutenant Bacon to say how its position was with respect to magnesium; again it, was perfectly coincident. Lieutenant Bacon made three independent comparisons, the position of the pointer being changed each time, and twice found coincidences with the least refrangible maximum, whilst once the nebula line appeared to be on the right-hand edge of the same maximum. Mr. Gregory also made one comparison which confirmed the above results.
 
@@ -4070,7 +4070,7 @@ I have more recently observed the spectrum of the nebula in Orion with my 30-inc
 
 This was confirmed by Messrs. Fowler and Baxandall at Kensington, with the 10-inch equatorial on 31st October and 1st November 1889, and again by Mr. Fowler, with the 30-inch, on 2d November. It may be noted also that I got momentary glimpses of many bright lines between F and G on 31st October. Messrs. Fowler and Coppen have since made some very careful observations of the Ring nebula in Lyra, and also record the chief line as having a fringe on the more refrangible side. A line in the neighbourhood of _b_ was suspected; this may turn out to be the carbon fluting near 517: the absence of the hydrogen line in the 10-inch was important as indicating that the nebula is in an advanced stage of condensation, approaching that of the nebula in Andromeda.
 
-[Fig. 63. --- Diagram showing the Appearance of the Three Principal Lines in the Spectrum of the Nebula in Orion as observed in the Westgate 30-inch Reflector.]()
+[Fig. 63. --- Diagram showing the Appearance of the Three Principal Lines in the Spectrum of the Nebula in Orion as observed in the Westgate 30-inch Reflector.](https://cdn.solaranamnesis.com/Lockyer/Fig-63.jpeg)
 
 In still more recent observations with a siderostat the chief line was noted by Mr. Fowler and Lieutenant Bacon to have a decided fringe on the more refrangible side.
 
@@ -4176,7 +4176,7 @@ When we come to deal with the more regular forms, we find that they may be gener
 
 The recent advances in nebular photography, chiefly in the hands of Messrs. Common and Roberts in our own country, and the Brothers Henry in France, render it certain that in a few years' time the subject-matter of this chapter will be treated with much more fulness; mere guesses and glimpses will be replaced by autobiographical imperishable records which cannot err.
 
-[Plate 2. --- The Great Nebula in Orion. Photographed by Mr. Roberts, F. R. S., February 4, 1889.]()
+[Plate 2. --- The Great Nebula in Orion. Photographed by Mr. Roberts, F. R. S., February 4, 1889.](https://cdn.solaranamnesis.com/Lockyer/Plate-2.jpeg)
 
 _Globular Nebulæ._
 
@@ -4212,7 +4212,7 @@ Such a collision surface, as I use the term, is presented to us during a meteori
 
 I append a diagram, Fig. 64, which shows how, if we thus assume movement round a common centre of gravity in a mass of meteorites, one of the conditions of movement being that the periastron distance shall be somewhat considerable, the mechanism which produces the appearance of a planetary nebula is at once made apparent. The diagram shows the appearance on the supposition that the conditions of all the orbits with reference to the major axis shall be nearly identical, but the appearances would not be very greatly altered if we take the more probable case, in which there will be plus and minus values.
 
-[Fig. 64. --- Suggested Origin of the Appearance presented by a Planetary Nebula. The luminosity is due to the collisions occurring along the sphere of intersection of the elliptic orbits of the meteorites. The left-hand diagram is a cross-section of the meteoric system, and the right-hand one shows the appearance of the collision shell as seen from a point outside.]()
+[Fig. 64. --- Suggested Origin of the Appearance presented by a Planetary Nebula. The luminosity is due to the collisions occurring along the sphere of intersection of the elliptic orbits of the meteorites. The left-hand diagram is a cross-section of the meteoric system, and the right-hand one shows the appearance of the collision shell as seen from a point outside.](https://cdn.solaranamnesis.com/Lockyer/Fig-64.jpeg)
 
 _Globular Nebulæ showing Condensation until finally a Nebulous Star is reached._
 
@@ -4222,7 +4222,7 @@ To explain these forms we have only to consider what will happen to the meteorit
 
 In consequence of the collisions the orbits will have a tendency to get more and more elliptic, while the pericentric distance will at the same time be reduced; the swarm will, in consequence of this action, gradually brighten towards the centre through collisions being possible nearer the centre, and ultimately we shall have nebulæ with a distinct nucleus, the nucleus then representing the _locus_ of most collisions. This brightness may be sudden in certain spherical surfaces, or quite gradual, according to the collision conditions in each swarm.
 
-[Fig. 65. --- Suggestion as to the Origin of a Globular Nebula with a Brighter Central Portion. As in the former case, the luminosity of the fainter portion is due to the collisions which occur along the sphere of intersection represented by the larger circle. After collision the meteorites will travel in new orbits, and there will be an additional sphere of intersection, represented by the smaller circle. The left-hand diagram is a cross-section, and the right-hand one represents the appearance of the two collision shells as seen from a point outside.]()
+[Fig. 65. --- Suggestion as to the Origin of a Globular Nebula with a Brighter Central Portion. As in the former case, the luminosity of the fainter portion is due to the collisions which occur along the sphere of intersection represented by the larger circle. After collision the meteorites will travel in new orbits, and there will be an additional sphere of intersection, represented by the smaller circle. The left-hand diagram is a cross-section, and the right-hand one represents the appearance of the two collision shells as seen from a point outside.](https://cdn.solaranamnesis.com/Lockyer/Fig-65.jpeg)
 
 The final stage will be the formation of a nebulous star.
 
@@ -4232,7 +4232,7 @@ In such meteor swarms as those we have considered, it must be that rotation is, 
 
 If we consider this matter in a general light, it appears that every figure which is not already globular must have eccentric nebulous matter, which, in its endeavour to come to the centre, will either dislodge some nebulosity which is already deposited, or slide upon it sideways, and in both cases produce a circular motion; so that, in fact, we can hardly suppose a possible production of a globular form without a subsequent revolution of nebulous matter, which in the end may settle in a regular rotation about some fixed axis.
 
-[Fig. 66. --- Suggestion as to the Origin of a Nebulous Star. The orbits of the inner set of meteorites are very elliptic, so that the shell of intersection appears almost as a point. As in the previous cases, the left-hand diagram represents the meteoric systems in section, and the right-hand one the appearance from a point outside.]()
+[Fig. 66. --- Suggestion as to the Origin of a Nebulous Star. The orbits of the inner set of meteorites are very elliptic, so that the shell of intersection appears almost as a point. As in the previous cases, the left-hand diagram represents the meteoric systems in section, and the right-hand one the appearance from a point outside.](https://cdn.solaranamnesis.com/Lockyer/Fig-66.jpeg)
 
 Given, then, a globular swarm with a rotation around an axis, we have to discuss the phenomena produced by collisions under a new set of circumstances.
 
@@ -4246,7 +4246,7 @@ _Spiral Nebulæ._
 
 Next let us suppose such a system as this invaded from various parts of space by other swarms which feel its attraction and have their paths deflected: we shall have on the general background of the symmetrically rotating nebula, which may almost be invisible in consequence of its constituent meteorites all travelling the same way and with nearly equal velocities, curves indicating the regions along which the entrance of the new swarm is interfering with the movements of the old one; if they enter in excess from any direction, we shall have the appearance of broken rings or spirals.
 
-[Plate 3. --- The Nebula of Andromeda, showing surrounding Spirals and Secondary Swarms. Photographed by Mr. Roberts, F. R. S., December 29, 1888.]()
+[Plate 3. --- The Nebula of Andromeda, showing surrounding Spirals and Secondary Swarms. Photographed by Mr. Roberts, F. R. S., December 29, 1888.](https://cdn.solaranamnesis.com/Lockyer/Plate-3.jpeg)
 
 This I suggested in 1887. Various parabolic currents* will indicate the regions where most collisions are possible, and even absence of luminosity in the centre would by no means demonstrate the absence of meteorites there.
 
