@@ -2341,7 +2341,7 @@ Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.
 
 * _Copernicus_, vol. 2. p. 225.
 
-*) Ibid. p. 228.
+*) _Ibid._ p. 228.
 
 ### Chapter 17. The Spectra of Comets immediately preceding Perihelion.
 
