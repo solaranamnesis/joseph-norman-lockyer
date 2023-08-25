@@ -4268,7 +4268,9 @@ If we consider the former case, it is clear that the collision region will be in
 
 The angle of the fan, and the distance to which the collisions are valid, will depend upon the velocity of the condensed swarm.
 
-[Plate 4. --- The Nebulæ in Canes Venatici (M51) and Ursa Major (M81). Photographed by Mr. Roberts, F. R. S.]()
+[Plate 4. --- The Nebulæ in Ursa Major (M81). Photographed by Mr. Roberts, F. R. S.](https://cdn.solaranamnesis.com/Lockyer/Plate-4a.jpeg)
+
+[Plate 4. --- The Nebulæ in Canes Venatici (M51). Photographed by Mr. Roberts, F. R. S.](https://cdn.solaranamnesis.com/Lockyer/Plate-4b.jpeg)
 
 ## Section 2. The Stars.
 
@@ -4304,7 +4306,7 @@ In these researches Fraunhofer was followed by Rutherfurd, who, in the year 1863
 
 *) Silliman's _Journal_, vol. 35. p. 71.
 
-[Plate 5. --- Photographs of Stellar Spectra (Henry Draper Memorial), showing Distended Hydrogen Absorption Lines, Bright Lines and Fluting...]()
+[Plate 5. --- Photographs of Stellar Spectra (Henry Draper Memorial), showing Distended Hydrogen Absorption Lines, Bright Lines and Fluting...](https://cdn.solaranamnesis.com/Lockyer/Plate-5.jpeg)
 
 The star spectra present such varieties that it is difficult to point out any mode of classification. For the present, I divide them into three groups:--- First, those having many lines and bands, and mostly resembling the sun, _viz._ Capella, β Geminorum, α Orionis, Aldebaran, γ Leonis, Arcturus, and β Pegasi. These are all reddish or golden stars. The second group, of which Sirius is the type, presents spectra wholly unlike that of the sun, arid are white stars. The third group, comprising α Virginis, Rigel, _etc._, are also white stars, but show no lines; perhaps they contain no mineral substance, or are incandescent without flame.
 
@@ -4825,7 +4827,7 @@ In order to bring these results in a definite form before my own mind, I prepare
 
 We had condensing swarms of meteorites on the ascending-arm; globes of meteoritic vapours produced, as the final result of condensation, at the top; and cooling globes of gas, with finally the formation of a crust on the other arm. To state this conclusion in greater detail: On the arm of the curve representing increasing temperature, we shall have at various heights those aggregations which give us indications of a gradually increasing temperature brought about by collisions, beginning with meteorites as widely separated as they can be to _keep up_ any luminosity at all, and finally vaporous condensations due to gravity. At the top of such a curve we shall of course have that condition in which the highest temperature must be assumed to exist. This is brought about by the final change of all the motions of a swarm into heat. In a letter to M. Dumas in the year 1872, I suggested that possibly the simplification of the spectrum of a star might be associated with the highest temperature of the vapour, and that idea seems to have been accepted by other observers since that time. We shall have then stars of Vogel's Class 1 at the top of the temperature curve. On the arm of the curve descending from stars of the first class to those in which we get first vaporous combination --- those bodies in which the absorption of compound molecules is indicated, without any radiation, and then ultimately the formation of a crust due to the gradual cooling of the mass, which in time produces dark bodies like, say, the companion to Sirius or our own earth. On this arm the stars of Class 3_b_ of Vogel must undoubtedly be placed.
 
-[Fig. 67. --- Temperature Curve (provisional).]()
+[Fig. 67. --- Temperature Curve (provisional).](https://cdn.solaranamnesis.com/Lockyer/Fig-67.jpeg)
 
 I do not suppose that there will be any difficulty in recognising that if the nebulæ, stars with bright lines, and stars of the present Class 3_a_ and 3_b_ are constituted as I state them, all the hottest stars and those more closely resembling the sun in structure, must find places on the temperature curve pretty much as I have suggested; the origin of these groups being, first, still further condensation, then the condition of maximum temperature, and finally the formation of a photosphere and crust.
 
@@ -4833,7 +4835,7 @@ But here a very interesting question arises. Speaking roughly, it may be said th
 
 In these extreme cases the differentiation between the two groups was comparatively easy; but in the case of those stars which are a little less hot than the hottest, whether they are getting hotter or cooler, the spectral difference cannot nearly be so well marked, as both classes will have line spectra. But it is obvious that if we take two points near the top of the curve, we shall have very nearly the same temperature of the atmosphere, by which I mean the temperature of the layers in either case which are most effective in producing the phenomena of absorption. To take a concrete case --- Stars of the second class are obviously, by the consent of all, of a lower temperature than stars of the first class: on which side, therefore, of the curve must they be placed? Or, to take a more concrete case still --- Our sun is a star of the second class: on which arm of the curve must we place the sun?
 
-[Plate 6. --- Comparison of Spectra of Sun and Meteorites. 1st Strip K (left) to λ 422 (right); 2d Strip G (left) to F (right).]()
+[Plate 6. --- Comparison of Spectra of Sun and Meteorites. 1st Strip K (left) to λ 422 (right); 2d Strip G (left) to F (right).](https://cdn.solaranamnesis.com/Lockyer/Plate-6.jpeg)
 
 Vogel, and others before him, working on the assumption that all the heavenly bodies were reducing their temperature, practically included all stars between the hottest and the coldest in one class (Class 2_a_ of Vogel), and he held that all stars in this class were cooling; but if the hypothesis on which we are working be true, it is imperative that these bodies should be resolvable into two groups, one increasing and one decreasing in temperature, with spectra proper to each. One spectrum will represent the phenomenon of decreasing temperature of the absorbing layers, while the other series will represent the phenomenon of increasing temperature. On the ascending side of the curve the varying volatilities of the meteoritic constituents of the swarms brought out by successively higher temperatures are in question, whilst on the descending side of the curve we have to deal with successive chemical combinations, brought about by a fall of temperature in a gaseous mass.
 
@@ -4853,7 +4855,7 @@ The great distinction drawn between the first group and the second is that evide
 
 The passage from the second group to the third brings us to those bodies of increasing temperature, in which carbon radiation and fluting absorption have given place to line absorption.
 
-[Fig. 63. --- Temperature Curve showing proposed New Groups.]()
+[Fig. 68. --- Temperature Curve showing proposed New Groups.](https://cdn.solaranamnesis.com/Lockyer/Fig-68.jpeg)
 
 The earlier bodies contain the line absorption of those substances of which we get a paramount fluting absorption in the prior group. The absorption of hydrogen will also increase while the other diminishes.
 
@@ -4955,7 +4957,7 @@ _γ Argus._ --- R. A. 8 h. 5 m. 56 s., Dec. --- 46° 59.5′. Respighi* and myse
 
 *) Respighi's observations are given in _Comptes Rendus_, vol. 74. p. 516; Ellery 's results are given in a letter to _The Observatory_, vol. 2. p. 418; Copeland's are published in _Copernicus_, vol. 3. p. 204.
 
-[Fig. 69. --- (γ Argus). Map showing the Probable Origin of the Spectrum of γ Argus.]()
+[Fig. 69. --- (γ Argus). Map showing the Probable Origin of the Spectrum of γ Argus.](https://cdn.solaranamnesis.com/Lockyer/Fig-69.jpeg)
 
 Copeland examined and mapped the spectrum of this star while in the Andes in 1883. His wavelengths are 580.9, 566.8, 464.6, and a fainter line at 590. The continuous spectrum extends from 420 to 675, the lines being seen bright on this, but no mention is made by either Ellery or Copeland of absorption of any kind. The bright lines at 590 and 566.8 are most probably the lines of sodium, 5890-95 and 5687; the 580.9 line is probably the strongest low temperature line of iron 579; and the 468 (464.6 Copeland) is due to the carbon fluting, which has its maximum intensity at 468, the other carbon flutings at 517 and 564 being rendered invisible to Copeland by the bright continuous spectrum, although Ellery's measurement of 564.8 is most probably the carbon band at that point. The 517 carbon may have been seen by Ellery, for although no measurements are given he saw other bright lines or spaces. The dark band 474-486 seen in the Cygnus stars, Argelander-Oeltzen 17681, and Lalande 13412, due to the shortness of the continuous spectrum and the appearance of the carbon band beyond the blue end, is not seen in this star, because it has a long continuous spectrum.
 
@@ -4965,7 +4967,7 @@ _Argelander-Oeltzen 17681._ --- Two observers have examined and mapped the spect
 
 Vogel's strongest line is at 581. This Pickering measures as 580-585, evidently when using a wide slit, while in a later account of his observations he fixes the wavelength at 580. The line is probably 579, the strongest line of iron at a low temperature. Vogel mentions a bright band extending from 470 to 461, with a maximum between these limits. Pickering measures this as commencing at 473. This band is evidently the bright band of carbon commencing at 474, with a maximum about 468, as observed and photographed at Kensington. Between this band and 486 Vogel has shown a dark band in the spectrum. This appearance is due not to any absorption, but to the continuous spectrum being short, ending evidently at 486, while the bright carbon appearing beyond this in the blue leaves an apparent absorption band due to absence of radiation.
 
-[Fig. 70. --- Map showing the Probable Origin of the Spectrum of Argelander-Oeltzen 17681.]()
+[Fig. 70. --- Map showing the Probable Origin of the Spectrum of Argelander-Oeltzen 17681.](https://cdn.solaranamnesis.com/Lockyer/Fig-70.jpeg)
 
 Vogel has not noticed any other bright lines, but Pickering "suspected" a brightening at 540. This would be the only line of manganese which appears in the Bunsen burner. Vogel may have noticed this line and yet not given any wavelength of it in his list, just as he indicates one bright line in 2d Cygnus, and two bright lines in 3d Cygnus, in his light curves of those stars, without mentioning them in any list of bright lines observed. Pickering suspected the presence of several other lines, but was unable to obtain any measurements of them.*
 
@@ -4977,7 +4979,7 @@ Vogel gives a sketch of the spectrum as well as a list of wavelengths. He mentio
 
 The bright part of the spectrum extending from 473 towards the blue, with its maximum at 468, is, I would again suggest, the carbon band appearing beyond the continuous spectrum, the rest of the carbon being cut out by the continuous spectrum, although 564 asserts itself by a brightening of the spectrum at that wavelength in Vogel's sketch, and by a rise in his light curve. The line at 540 is the only line of manganese visible at the temperature of the Bunsen burner, while the 581 measurement of Vogel is in all probability the 579 line, the strongest line of iron visible at low temperatures.
 
-[Fig. 71. --- Map showing the Probable Origin of the Spectrum of Lalande 13412.]()
+[Fig. 71. --- Map showing the Probable Origin of the Spectrum of Lalande 13412.](https://cdn.solaranamnesis.com/Lockyer/Fig-71.jpeg)
 
 In this star, therefore, we have continuous spectrum from the meteorites, and carbon bands, one of them appearing beyond the continuous spectrum in the blue as a bright band; bright lines of hydrogen, manganese, and iron being superposed on both. There is no absorption of any kind, the apparent dark band being due to defect of radiation, as in Argelander-Oeltzen 17681.*
 
@@ -4989,7 +4991,7 @@ Dr. Vogel, of Potsdam, examined the spectrum of this star, and has published his
 
 The sketch confirms these lines, while the light curve adds three others to them at wavelengths 507, 527, and 558. He also gives an absorption band between the 486 line and 470 band, and in his sketch gives a darkening on the blue side of 570, this being also indicated in the light curve.  These dark spaces agree with the dark spaces observed by Messrs. Wolf and Rayet.
 
-[Fig. 72. --- Map showing the Probable Origins of the Spectrum of Wolf and Rayet's First Star in Cygnus.]()
+[Fig. 72. --- Map showing the Probable Origins of the Spectrum of Wolf and Rayet's First Star in Cygnus.](https://cdn.solaranamnesis.com/Lockyer/Fig-72.jpeg)
 
 The bright band, with its maximum at 468, is the bright carbon fluting commencing at 474, and extending towards the blue, with its maximum at 468, as photographed at Kensington, and the dark space between this and the 486 line is not due to absorption of the light from the meteorites by any vapour around them, but rather to the absence of any radiation except that from the meteorites themselves at this part of the spectrum.
 
@@ -5001,7 +5003,7 @@ This star, therefore, gives a spectrum, which is short and faintly continuous, d
 
 *) Wolf and Rayet's discovery of bright lines is recorded in _Comptes Rendus_, vol. 65. p. 292, and confirmed in vol. 68. p. 1470, vol. 69. pp. 39 and 163. Vogel's observations are given in the _Publicationen des Astrophysikalischen Observatoriums zu Potsdam_, vol. 4., No. 14, p. 17, and shown in a sketch at the end of that number.
 
-[Fig. 73. --- Map showing the Probable Origin of the Spectrum of Wolf and Rayet's Second Star in Cygnus.]()
+[Fig. 73. --- Map showing the Probable Origin of the Spectrum of Wolf and Rayet's Second Star in Cygnus.](https://cdn.solaranamnesis.com/Lockyer/Fig-73.jpeg)
 
 _2d Cygnus._ --- B. D. +35°, No. 4013. --- Messrs. Wolf and Rayet, in 1867, first observed the spectrum of this star, and measured the positions of the bright lines. Micrometre readings and reference lines are given by them, from which a wavelength curve has been constructed. The wavelengths of the bright lines in the star thus ascertained are: 581 (γ), 573 (β), 540 (δ), and 470 (α); the relative intensities being shown by the Greek letters. They state: "La ligne β est suivie d'un espace obscur; uii autre espace très-sombre précède α."
 
@@ -5011,7 +5013,7 @@ The wavelengths given by Vogel are 582 and 570, and a band with its brightest pa
 
 The line at 540 is the only line of manganese visible in the Bunsen burner, and the 580 line is the strongest low-temperature iron line. The 570 line is most probably the green sodium line 569, the absence of the yellow sodium being explained by the half and half absorption and radiation mentioned in the discussion of the causes which mask and prevent the appearance of the lines in a spectrum.
 
-[Fig. 74. --- Map showing the Probable Origin of the Spectrum of Wolf and Rayet's Third Star in Cygnus.]()
+[Fig. 74. --- Map showing the Probable Origin of the Spectrum of Wolf and Rayet's Third Star in Cygnus.](https://cdn.solaranamnesis.com/Lockyer/Fig-74.jpeg)
 
 The line at 636 is in the red just at the end of the continuous spectrum, and as yet no origin has been found for it, although it has been observed as a bright line in the Limerick meteorite at the temperature of the oxyhydrogen blowpipe.
 
@@ -5040,7 +5042,7 @@ Vogel,* on 19th June 1872, observed a bright line in the greenish-blue 486, and 
 
 *) _Both. Beob._, Heft 2, p. 29.
 
-[Fig. 75. --- (γ Cassiopeiæ). Map showing the Probable Origin of the Spectrum of γ Cassiopeiæ.]()
+[Fig. 75. --- (γ Cassiopeiæ). Map showing the Probable Origin of the Spectrum of γ Cassiopeiæ.](https://cdn.solaranamnesis.com/Lockyer/Fig-75.jpeg)
 
 Konkoly* examined γ Cass. (and β Lyræ) repeatedly between 1874 and 1883 without seeing bright lines; Gothard repeatedly examined both stars after the autumn of 1881, but saw no trace of bright lines until 1883.
 
@@ -5148,7 +5150,7 @@ There is also another important matter to be borne in mind. As these spectra are
 
 If any bright or dark flutings occur in the same region of the spectrum, when the spaces are greatest, the radiation effect will be stronger, and the absorption fluting will be "masked"; where they are least the radiation itself will be masked. This reasoning not only applies to flutings but to lines also.
 
-[Fig. 76. --- Diagram showing how an Absorption Fluting varies in Width according to the Quantity of Absorbing Substance present.]()
+[Fig. 76. --- Diagram showing how an Absorption Fluting varies in Width according to the Quantity of Absorbing Substance present.](https://cdn.solaranamnesis.com/Lockyer/Fig-76.jpeg)
 
 _The Radiation Flutings._
 
@@ -5164,7 +5166,7 @@ If this explanation of the rigidity of the less refrangible edge may be accepted
 
 The fluting at 517 is the chief radiation fluting of carbon. The next more refrangible one, which would be most easily seen, as the continuous spectrum would be less bright in the blue, has its less refrangible and brightest edge at 474.
 
-[Fig. 77. --- Diagram showing the Variation in Width of a Bright Fluting and the Consequent Variation in Width of the Contrast Band at the Fainter Edge.]()
+[Fig. 77. --- Diagram showing the Variation in Width of a Bright Fluting and the Consequent Variation in Width of the Contrast Band at the Fainter Edge.](https://cdn.solaranamnesis.com/Lockyer/Fig-77.jpeg)
 
 This in all probability has been seen by Dunér, though, as before stated, there is here a discrepancy between his maps and his text. It lies between his dark bands 9 and 10, the measurements of which are as follows:---
 
@@ -5386,7 +5388,7 @@ _Manganese._ --- The two chief flutings of manganese are at 558 and 586, the for
 
 _Barium._ --- The spectrum of barium consists of a set of flutings extending the whole length of the spectrum, and standing out on this as a background are three bright bands; the brightest band is at 515, the second is at 525, and the third, a broader band, is about 485. The _second_ band is recorded as an absorption band in Dunér's stars, the apparent absence of the _first_ band being due to the masking effect of the bright carbon at 517. The third band at 485 probably forms a portion of band 9. A fourth band, at 533, and the three brightest flutings at 602, 635, and 648 are also seen in α Orionis.
 
-[Fig. 78. --- Diagram showing the Effects of Variations in Width of the Flutings of Carbon upon the Integrated Spectra of Carbon Radiation and Magnesium and Manganese Absorption, as they appear in Different Species of Bodies of Group 2.]()
+[Fig. 78. --- Diagram showing the Effects of Variations in Width of the Flutings of Carbon upon the Integrated Spectra of Carbon Radiation and Magnesium and Manganese Absorption, as they appear in Different Species of Bodies of Group 2.](https://cdn.solaranamnesis.com/Lockyer/Fig-78.jpeg)
 
 _Chromium._ --- The flutings of chromium do not form portions of the ten principal bands of Dunér, but the brightest are seen in α Orionis. The brightest fluting is at 580, and this forms band 1; the second, at 557, is masked by the manganese fluting at 558, and the third at 536 is seen as line 2. The chromium triplet about 520, which is visible in the Bunsen, is seen as line 3.
 
@@ -5408,7 +5410,7 @@ Sp\. 4. Characteristics: Appearance of lead(1) 546, _i. e._ band 5. This, if pre
 
 Sp\. 5. Characteristics: Manganese(1) is now unmasked. The bands now visible are 2, 3, 4, 5, 7, and 8, the two latter still being the widest and darkest, because they are essentially low-temperature phenomena.
 
-[Plate 7. --- Map showing the Spectra of the Various Species of the Bodies of Group 2, and the Probable Origin of the Bands. The carbon fluting are widest in the first species, and gradually narrow until, in the last species, only a trace of 517 remains. The length of the continuous spectrum gradually increases as the carbon flutings narrow. The "carbon B" fluting, and the hydrocarbon fluting at 431, are only present in species 8 to 12.]()
+[Plate 7. --- Map showing the Spectra of the Various Species of the Bodies of Group 2, and the Probable Origin of the Bands. The carbon fluting are widest in the first species, and gradually narrow until, in the last species, only a trace of 517 remains. The length of the continuous spectrum gradually increases as the carbon flutings narrow. The "carbon B" fluting, and the hydrocarbon fluting at 431, are only present in species 8 to 12.](https://cdn.solaranamnesis.com/Lockyer/Plate-7.jpeg)
 
 Sp\. 6. Characteristics: Band 6, _i. e._ barium(2), 525, is now added. The first band of barium at 515 is masked by the bright carbon at 517. The bands now visible are 2-8, 7 and 8 still being widest and darkest. They will all be pretty wide, and they will be dark because the continuous spectrum will be feebly developed.
 
@@ -5514,7 +5516,7 @@ _α Aquilæ._ --- All lines very faint except those of hydrogen. F and G very th
 
 _α Lyræ._ --- All the lines except those of hydrogen are exceedingly faint. F is very strong, but G is not quite so thick, _b_ and D are fine lines, and about equal in intensity. The trio is undoubtedly present, as also the lines near 546, 558, and 579.
 
-[Fig. 79. --- Map showing the Spectra of some of the Stars of Group 3, and of α Ceti and α Lyræ, arranged in Order of Temperature.]()
+[Fig. 79. --- Map showing the Spectra of some of the Stars of Group 3, and of α Ceti and α Lyræ, arranged in Order of Temperature.](https://cdn.solaranamnesis.com/Lockyer/Fig-79.jpeg)
 
 The results of the observations which have been referred to are embodied in Fig. 79. The star at the lowest temperature is on the lowest horizon, and the one at the highest temperature is on the top horizon. The thicknesses of the lines have been greatly exaggerated in the diagram, in order to render the variations more obvious.
 
@@ -5654,7 +5656,7 @@ I find that the best way of dealing with this question is to represent the life 
 
 The form of the light curve, which represents the effect of increase and decrease of temperature, will probably be something like Fig. 80.
 
-[Fig. 80. --- Form of Light Curve.]()
+[Fig. 80. --- Form of Light Curve.](https://cdn.solaranamnesis.com/Lockyer/Fig-80.jpeg)
 
 We should expect the curve to be somewhat similar to the light curves of the regular variables of Group 2, where the increase in luminosity is due to the collision of two meteor-swarms. Here there is a rapid rise to maximum, and a steadier fall to minimum. This is confirmed by the fact that there is apparently a greater number of stars of Group 5 than of Group 3, though on this point I cannot yet speak with any certainty. If this should turn out to be so, the fact would appear to indicate that the time of existence of a body as a star of Group 5 is probably longer than the time during which it exists as a condensed meteor-swarm under the conditions of Group 3. During its existence as an uncondensed swarm, however, the increase of luminosity of the swarm will be very steady; hence there will first of all be a gradual increase of luminosity; this will be followed by a rapid rise to maximum, and afterwards a steady fall, until finally all luminosity disappears. The light curves being of this form, if we begin with two uncondensed swarms of equal masses and conditions, the curve for each will be the same in length and in the point of maximum luminosity. It will be a neck-and-neck race, and we shall have equal brilliancy, similar colour and spectrum throughout. Such stars I call Class 1.
 
