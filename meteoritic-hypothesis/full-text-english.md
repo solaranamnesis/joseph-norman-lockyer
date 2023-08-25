@@ -5725,7 +5725,7 @@ _Binary Stars, Class 2. --- Equal Magnitudes and Similar Colours (Yellow)._
 
 The following list contains those binary stars in which both components are yellow and of nearly equal magnitudes.  If both components shall be found to have identical spectra, thus placing them in the same group, a point which their colour leaves indeterminate, their "life curves" will be coincident. If one is found to belong to Group 3, however, and the other to Group 5, they can still be represented by two curves beginning at the same point, but with the ascending side of one intersecting the descending side of the other, as in Fig. 81. In the former case the masses of the two components would evidently be equal, or nearly so, while in the latter case one would be considerably larger than the other. Hence, in all cases where the components are yellow and of nearly equal magnitudes, we are justified in regarding them as having possibly condensed from the same nebulosity.
 
-[Fig. 81. --- Forms of Light Curves (Class 2).]()
+[Fig. 81. --- Forms of Light Curves (Class 2).](https://cdn.solaranamnesis.com/Lockyer/Fig-81.jpeg)
 
 Table 2. --- Binary Stars, Class 2.  
 | Smyth’s No. | Name.             | Magnitudes. | Colours.                    |
@@ -5747,7 +5747,7 @@ _Binary Stars, Class 3. --- Equal or Nearly Equal Magnitudes, one Star being Blu
 
 There is a considerable number of binary stars in which the magnitudes of the components do not differ very much, but where one star is blue. If we take these blue stars as belonging to Group 1, we shall have an average case represented by Fig. 82, both curves starting at the same point. From this point of view the companion which has the smaller magnitude has the greater mass, and the system is young.
 
-[Fig. 82. --- Forms of Light Curves (Class 3).]()
+[Fig. 82. --- Forms of Light Curves (Class 3).](https://cdn.solaranamnesis.com/Lockyer/Fig-82.jpeg)
 
 If these curves are a fair representation of binary stars of this class, it is clear that we ought to find the primaries in every case, white or yellow. This is a severe test, but yet on referring to the following table, which is a list of such binary stars, it will be seen that there is not a single case in which the primary is not white or yellow:---
 
@@ -5818,13 +5818,13 @@ Table 4. --- Binary Stars, Class 4.
 | 1550        | ξ Pegasi        | 5 ; 15      | Pale yellow ; Blue            |
 | 1567        | π Cephei        | 5 ; 10      | Deep yellow ; Purple          |
 
-[Fig. 83. --- Forms of Light Curves (Class 4).]()
+[Fig. 83. --- Forms of Light Curves (Class 4).](https://cdn.solaranamnesis.com/Lockyer/Fig-83.jpeg)
 
 _Binary Stars, Class 5. --- Unequal Magnitudes, the fainter Star being Red._
 
 There are a few binary stars in which the companion is red. The red component has probably a smaller mass than the primary, and is, consequently, further advanced along the temperature curve. Fig. 84 represents an average case of such a binary star; both curves starting at the same point.
 
-[Fig. 84. --- Forms of Light Curves (Class 5).]()
+[Fig. 84. --- Forms of Light Curves (Class 5).](https://cdn.solaranamnesis.com/Lockyer/Fig-84.jpeg)
 
 We have here again a severe test, for if these curves represent anything like the truth, the primaries ought in every case to be white or yellow. On referring to the list it will be seen that this condition is satisfied in every case.
 
@@ -6020,19 +6020,19 @@ Anything which in the normal minimum condition of light-equilibrium will increas
 
 We may consider three cases of revolution. Taking that first in order which will give us the greatest light range, we find that this obviously will occur in those systems in which the orbits are most elliptic and the periastric distances least.
 
-[Fig. 85. --- Explanation of the Variability of Bodies of Groups 1 and 2. 1. Maximum variation. The ellipse represents the orbit of the smaller swarm, which revolves round the larger. The orbit of the revolving swarm is very elliptical, so that at periastron the number of collisions is enormously increased.]()
+[Fig. 85. --- Explanation of the Variability of Bodies of Groups 1 and 2. 1. Maximum variation. The ellipse represents the orbit of the smaller swarm, which revolves round the larger. The orbit of the revolving swarm is very elliptical, so that at periastron the number of collisions is enormously increased.](https://cdn.solaranamnesis.com/Lockyer/Fig-85.jpeg)
 
 On the other hand, a mean ellipticity will give us a mean range.
 
 In these two cases, in order to account for the greatest difference in luminosity at periastron passage, we have supposed the minor swarm to be only involved in the larger one during a part of its revolution, but we can easily conceive a condition of things in which its orbit is so nearly circular that it is almost entirely involved in the larger swarm. Under these conditions, collisions would occur in every part of the orbit, and they would only be more numerous at periastron in the more condensed central part of the swarm, and it is to this that I ascribe the origin of the phenomena in those systems --- small in number --- in which the variation of light is very far below the normal range, one or two magnitudes instead of six or seven.
 
-[Fig. 86. --- Explanation of the Variability of Bodies of Groups 1 and 2. 2. Medium variation. In this case there will be a greater number of collisions at periastron than at other parts of the orbit. The variation in the light, however, will not be very great under the conditions represented, as the revolving swarm never gets very near the middle of the central one.]()
+[Fig. 86. --- Explanation of the Variability of Bodies of Groups 1 and 2. 2. Medium variation. In this case there will be a greater number of collisions at periastron than at other parts of the orbit. The variation in the light, however, will not be very great under the conditions represented, as the revolving swarm never gets very near the middle of the central one.](https://cdn.solaranamnesis.com/Lockyer/Fig-86.jpeg)
 
 Now it is at once obvious that we should get more variability in these early groups than in any of the more condensed ones, for the reason that in the latter we require the conditions either that the plane of revolution should pass through the earth, or that the light of the central star shall be relatively dim.
 
 This point is best studied in relation to Group 2.
 
-[Fig. 87. --- Explanation of the Variability of Bodies of Groups 1 and 2. 3. Minimum variation. Under the conditions shown, the smaller swarm will never be entirely out of the larger one, and at periastron the number of collisions will not be very greatly increased. Consequently, the variation in the amount of light given out will be small.]()
+[Fig. 87. --- Explanation of the Variability of Bodies of Groups 1 and 2. 3. Minimum variation. Under the conditions shown, the smaller swarm will never be entirely out of the larger one, and at periastron the number of collisions will not be very greatly increased. Consequently, the variation in the amount of light given out will be small.](https://cdn.solaranamnesis.com/Lockyer/Fig-87.jpeg)
 
 The total number of stars included in Argelander's Catalogue, which deals generally with stars down to the ninth magnitude, but in which, however, are many stars between the ninth and tenth, is 324,118. The most complete catalogue of variables (without distinction) that we have has been compiled by Mr. Gore, and published in the _Proceedings of the Royal Irish Academy_ (Series 2, vol. 4., No. 2, July 1884, pp. 150-163). I find 191 known variables are given; of these 111 are in the northern hemisphere and 80 in the southern hemisphere.
 
@@ -6068,11 +6068,11 @@ Another star of Group 1, η Argus, is also remarkable from the fact that its lig
 
 This star is in the southern hemisphere, and during the last twenty or thirty years a considerable discussion has been going on among astronomers as to whether the surrounding nebula is or is not changing its position with regard to the star in question, which has a bright-line spectrum like β Lyræ, and a period not of thirteen days, but of seventy years. The light varies from the sixth to the first magnitude.
 
-[Fig. 88. --- Light Curve of β Lyræ.]()
+[Fig. 88. --- Light Curve of β Lyræ.](https://cdn.solaranamnesis.com/Lockyer/Fig-88.jpeg)
 
 Leaving Group 1 and coming to Group 2 there is one star, Mira Ceti, whose variations in light intensity may be taken as characteristic. The history of the discovery of this star's variability has already been given, and from the light curve it will be seen that what happens to it in just a little less than a year is this. First, it is of the second magnitude, and then in about eighty days it descends to the tenth, and, so far as observations with ordinary instruments go, it is invisible. In about another hundred days it again becomes visible as a star of the tenth magnitude. It then increases its light to the second magnitude, and begins the story over again. But sometimes at the maximum its brilliancy is not quite constant. That is to say, sometimes it goes nearer the first magnitude than the second. What happens to the light of the star below the tenth magnitude it is impossible to say. Whether it follows more nearly either of the dotted curves in the diagram is not known. Below the tenth magnitude no observations have been made, because it is very difficult to observe a star under those conditions. What one knows is that it remains invisible for about 140 days or something like that, and then it begins its cycle over again.
 
-[Fig. 89. --- Light Curve of Mira.]()
+[Fig. 89. --- Light Curve of Mira.](https://cdn.solaranamnesis.com/Lockyer/Fig-89.jpeg)
 
 I owe to the kindness of Mr. Knott the opportunity of studying several light curves of "stars" of this group, and they seem to entirely justify the explanation which I have put forward. It is necessary, however, that the curves should be somewhat carefully considered, because in some cases the period of the minimum is extremely small, as if the secondary body scarcely left the atmosphere of the primary one but was always at work. But when we come to examine the shape of the curves more carefully, what we find is that the rise to maximum is extremely rapid; in the case of U Geminorum, for instance, there is a rise of five magnitudes in a day and a half; whereas the fall to minimum is relatively slow. The possible explanation of this is that the rise of the curve gives us the first sudden luminosity due to the collisions of the swarms, while the descent indicates to us the gradual toning down of the disturbance. If it be considered fair to make the descending curve from the maximum exactly symmetrical with the ascending one on the assumption that the immediate effect produced is absolutely instantaneous, then we find in all cases that I have so far studied that the star would continue for a considerable time at its minimum.
 
@@ -6084,13 +6084,13 @@ This body, which is always visible in our latitudes, well illustrates this class
 
 There is another star very like this --- a star which is in 81° N. declination, No. 25 in Argelander's Catalogue. The difference between Algol and this is that the rise and fall are a little more rapid. Its light is feeble for about the same time as Argol, but the light curve is flat at the bottom, by which I mean that, instead ot going suddenly down and coming suddenly up again, it stops at its least luminosity for some little time.
 
-[Fig. 90. --- Light Curve of Algol (Pickering).]()
+[Fig. 90. --- Light Curve of Algol (Pickering).](https://cdn.solaranamnesis.com/Lockyer/Fig-90.jpeg)
 
 Professor Pickering* has demonstrated by photographs of the spectra of Algol that Goodricke's explanation of its periodical variability is correct. Let this diagram represent in section and plan a large star A giving out light, and B, C, D, E, F different positions of a dark body revolving in an orbit round the central star. If we take a section, so that the star and its satellite are represented as they really are in the plane which joins the earth and the star, we see that in one part of the revolution of the dark body it eclipses the light body. A further investigation of those conditions in the case of the second star has shown that there must be a total eclipse, and therefore Professor Pickering draws the conclusion that in the former case the light of the body which revolves round the central one may be considered as _nil_ --- that is to say, that it is a dark body; but that in the case of the star D. 81° N. 25 there must be luminosity from the star which eclipses the other. And a very beautiful justification of this view has recently been noted, because, although there is no change in the spectrum of Algol, there is a considerable change in the spectrum of the star, the light curve of which is flat at bottom, showing that probably the companion has an absorbing action of some kind on the light of the central star passing through it or its surroundings. The light practically changes very much as our sunlight would change if it had to pass through the atmosphere of another sun somewhat like itself coming between us.
 
 *) _Proc. Amer. Acad. Sci._, vol. 16. p. 17.
 
-[Fig. 91. --- Plan and Section of the Orbit of the Companion of Algol (Pickering).]()
+[Fig. 91. --- Plan and Section of the Orbit of the Companion of Algol (Pickering).](https://cdn.solaranamnesis.com/Lockyer/Fig-91.jpeg)
 
 In Group 6 we again have a new condition. In these stars the light is relatively faint, and the variation would seem to be due to swarms of meteorites moving round a _dim_ or _nearly dark_ body, the maximum light occurring at periastron, when the tidal action in the swarm is greatest; in consequence of this dimness the addition of the light of what we, with our solar conditions, should term a large comet, would make a great difference in the total radiation. We must expect considerable similarity between the variability phenomena of Groups 2 and 6: this subject will be discussed when the details of Group 2 have been further considered.
 
@@ -6485,7 +6485,7 @@ The blackness of the spaces between the bright flutings showed that there could 
 
 The mean spectrum of Mira is that of a star like β Pegasi, which I have shown to consist of bright carbon flutings, and dark flutings of magnesium, manganese, iron, lead, and barium. In β Pegasi, as in Mira under mean conditions, the carbon is somewhat faint, but in α Herculis it is very bright. The general effect of the conditions of maximum of Mira, therefore, seems to be that it changes its spectrum from one like that of β Pegasi to one like that of α Herculis. In variable stars of this class the proof is now complete that the increase of luminosity is accompanied by cometary conditions, and that it is due to the increased radiation of carbon.
 
-[Fig. 92. --- Comparison of the Spectrum of Mira with that of β Pegasi and Encke's Comet.]()
+[Fig. 92. --- Comparison of the Spectrum of Mira with that of β Pegasi and Encke's Comet.](https://cdn.solaranamnesis.com/Lockyer/Fig-92.jpeg)
 
 In the accompanying woodcut the spectrum of Mira is compared with that of β Pegasi and Encke's comet. In some comets the carbon fluting is cut off at 546, exactly as it is in Mira. These observations of Mira, and others which Mr. Fowler and myself have made on other stars with Bunsen comparisons, entirely justify the conclusion drawn by Dr. Copeland from his work on U Orionis (when it was thought to be a Nova), that bright flutings of carbon were in question in that star, although that conclusion has been contested.
 
@@ -6564,15 +6564,15 @@ Here, instead of a nebula, dim owing to absence of collisions brought about by d
 
 We first consider the action of two subsidiary swarms, one producing more light with a short period, the other less light with a period say fifteen times longer. In fact, we have one comet with an orbit of great eccentricity and short period, and another of small eccentricity and long period. We will assume the periastra to be coincident.
 
-[Fig. 93. --- Hypothetical Light-Curve in Light-Units.]()
+[Fig. 93. --- Hypothetical Light-Curve in Light-Units.](https://cdn.solaranamnesis.com/Lockyer/Fig-93and94.jpeg)
 
-[Fig. 94. --- Hypothetical Light-Curve in Magnitudes.]()
+[Fig. 94. --- Hypothetical Light-Curve in Magnitudes.](https://cdn.solaranamnesis.com/Lockyer/Fig-93and94.jpeg)
 
 As the light is generally feeble, we may take the constant luminosity of the star as of the twelfth magnitude, and that it is raised to the eighth magnitude by the added light of the swarms at perihelion.  We have then a difference of four magnitudes.
 
-[Fig. 95. --- Hypothetical Curve in Light-Units.]()
+[Fig. 95. --- Hypothetical Curve in Light-Units.](https://cdn.solaranamnesis.com/Lockyer/Fig-95.jpeg)
 
-[Fig. 96. --- Hypothetical Curve in Magnitudes.]()
+[Fig. 96. --- Hypothetical Curve in Magnitudes.](https://cdn.solaranamnesis.com/Lockyer/Fig-96.jpeg)
 
 Proceeding as before we have ---
 
@@ -6622,7 +6622,7 @@ On the hypothesis a _perfectly_ constant period can only occur in the case of th
 
 Nor is this the only variation which depends upon the central body. In the absence of knowledge in each case, we must assume that the structure of the central swarm resembles that of those which have been examined in Andromeda, Ursa Major, and Canes Venatici --- that is, _the meteoritic density will vary locally_ (S Aquilæ), and some of the observations made may be explained on the supposition that the subsidiary swarm breaks into regions in which the density is suddenly increased, as if we were noting the result of a ring being pierced (R Aurigæ).
 
-[Fig. 97. --- Light-Curve of U Cygni, showing Mr. Knott's actual Observations.]()
+[Fig. 97. --- Light-Curve of U Cygni, showing Mr. Knott's actual Observations.](https://cdn.solaranamnesis.com/Lockyer/Fig-97.jpeg)
 
 We have only to look at Mr. Roberts's photograph of the nebula in Andromeda, and consider under what different conditions a secondary swarm might reach the same periastric distance if there were any rotation in the nebula or any movement of the nodes, to recognise the importance of taking the above points into consideration.
 
@@ -6652,13 +6652,13 @@ In the hypothetical curves I have already given, I have dealt with simple cases.
 
 I append (Figs. 98-101) some hypothetical curves worked out both in light-units and magnitudes, the conditions being stated for each. The paucity of actual light-curves available prevents any inquiry as to the stars in which the conditions here imagined actually exist, but in the absence of such knowledge it is still easy to gather that different periods separating maxima, secondary minima of unequal periods, and great variations in the rise to and fall from maximum, instead of necessarily being the result of "irregularity," are all demanded by the most perfect regularity, provided we have more than one swarm to deal with under conditions anything like those employed in the hypothetical curves above given.
 
-[Fig. 98. --- Periods 2 to 1: Apastra Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+[Fig. 98. --- Periods 2 to 1: Apastra Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.](https://cdn.solaranamnesis.com/Lockyer/Fig-98.jpeg)
 
-[Fig. 99. --- Periods 2 to 1: Apastra not Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+[Fig. 99. --- Periods 2 to 1: Apastra not Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.](https://cdn.solaranamnesis.com/Lockyer/Fig-99.jpeg)
 
-[Fig. 100. --- Periods 5 to 3: Periastra Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+[Fig. 100. --- Periods 5 to 3: Periastra Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.](https://cdn.solaranamnesis.com/Lockyer/Fig-100.jpeg)
 
-[Fig. 101. --- Periods 5 to 3: Apastra not Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.]()
+[Fig. 101. --- Periods 5 to 3: Apastra not Coincident. _a._ Principal swarm. _b._ Subsidiary swarm. _c._ Result in added light-units. _d._ Result in added magnitudes.](https://cdn.solaranamnesis.com/Lockyer/Fig-101.jpeg)
 
 If there is anything of value in what I have advanced, it is quite clear that the observations of variable stars and variable star catalogues require considerable revision. First, arrangements should be made with the observatories of America and India so that the observations of a certain number of stars in the northern hemisphere should be taken as continuously as possible. The relative brightening of the bright carbon flutings in stars of Groups 1 and 2, and the paling of the dark carbon flutings in Group 6, should be spectroscopically watched in each case.
 
