@@ -301,7 +301,7 @@ Meteorites
 
 This brings us to consider the chemistry of these messengers from the celestial spaces.
 
-# Chapter 3. The Chemistry of Meteorites.
+## Chapter 3. The Chemistry of Meteorites.
 
 We have seen that the main difference between the specimens of these bodies which have been collected is that some of them are mainly iron, some of them are mainly stone; and that there is a passage between these two conditions represented by falls in which we have a paste of iron including stony fragments.
 
