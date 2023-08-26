@@ -328,7 +328,7 @@ Sulphur
 Cobalt  
 Silicon  
 Copper*  
-Phosphorus  
+Phosphorus;  
 
 *) With regard to the presence of cobalt and copper, Dr. L. Smith says (_Mineralogy and Chemistry_, p. 352): "In every analysis that I have made of meteoric irons (over one hundred different specimens) cobalt has been invariably found, along with a minute quantity of copper." --- Flight, _History of Meteorites_, p. 164.
 
@@ -339,7 +339,7 @@ Chromium Sodium
 Tin Potassium  
 Arsenic Strontium  
 Antimony Titanium  
-Chlorine Nitrogen  
+Chlorine Nitrogen.  
 
 Of these elementary bodies only hydrogen, nitrogen, and carbon occur in an elementary condition. Hydrogen and nitrogen are asserted to be occluded as gases in the stones. Carbon exists both in the form of graphite and diamond.
 
@@ -364,7 +364,7 @@ Some carbonaceous stones are dark grey in colour, have little lustre, and are so
 
 *) Flight, _op. cit._ p. 211.
 
-Various alloys of nickel and iron also occur; those which play the most important part have, according to Meunier, the following composition:---
+Various _alloys_ of nickel and iron also occur; those which play the most important part have, according to Meunier, the following composition:---
 
 |Density.|Formula.  
 Tænite|7.380|Fe6Ni  
