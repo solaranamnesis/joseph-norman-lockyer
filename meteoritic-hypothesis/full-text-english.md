@@ -3292,7 +3292,7 @@ About the Year 1661 another of this sort was discovered (if I mistake not) by Bu
 
 The Third is near the Ecliptick between the Head and Bow of Sagittary, not far from the point of the Winter Solstice. This it seems was found in the Year 1665, by a German Gentleman, M. F. Abraham Ihle, whilst he attended the Motion of Saturn then near his Aphelion. This is small but very luminous, and emits a ray like the former. Its Place at this time is ♑︎ 4° 1/2 with about half a Degree South Lat.
 
-A fourth was found by M. Edm. Halley in the Year 1677, when he was making the Catalogue of the Southern Stars. It is in the Centaur, that which Ptolemy calls [GREEK], which he names in dorso Equino Nebula, and is Bayer's ω. It is in appearance between the fourth and fifth Magnitude, and emits but a small Light for its breadth, and is without a radiant Beam: this never rises in England, but at this time its Place is ♏︎ 5° 3/4 with 35° 1/5 South Lat.
+A fourth was found by M. Edm. Halley in the Year 1677, when he was making the Catalogue of the Southern Stars. It is in the Centaur, that which Ptolemy calls ὁ ἐπὶ τῆς τοῦ νώτου ἐκφύσεως, which he names in dorso Equino Nebula, and is Bayer's ω. It is in appearance between the fourth and fifth Magnitude, and emits but a small Light for its breadth, and is without a radiant Beam: this never rises in England, but at this time its Place is ♏︎ 5° 3/4 with 35° 1/5 South Lat.
 
 A Fifth was discovered by Mr. G. Kirch in the Year 1681, preceding the Eight Foot of Antinous: It is of its self but a small obscure Spot, but has a Star that shines through it, which makes it the more luminous. The Longitude of this is at present ♑︎ 9° circiter, with 17° 1/6 North Latitude.
 
