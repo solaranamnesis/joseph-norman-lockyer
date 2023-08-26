@@ -5122,7 +5122,7 @@ The conclusion which has been arrived at after a careful consideration of these 
 
 With regard to the line in 2d and 3d Cygnus at 636, there is an element of doubt as to the true position. Vogel does not give the wavelength in his list of lines, neither does he show it in his sketch of the spectrum, but he indicates its position on the light curve, and from this a curve had to be drawn and the wavelength ascertained as nearly as possible. Vogel suggests the line may be the hydrogen C line, but this seems very improbable, since F is absent; and although F is frequently recorded in bright-line stars without C, in no case is C given without F. It may be the C line is seen clearly because there is no continuous spectrum near it, while F is not visible on account of the bright spectrum around it.
 
-The above stars are not the only ones with bright lines in the constellation Cygnus. Professor Pickering gives the following additional information:---
+The above stars are not the only ones with bright lines in the constellation Cygnus. Professor Pickering gives the following additional information:---*
 
 *) _Nature_, vol. 34. p. 439, 1886.
 
