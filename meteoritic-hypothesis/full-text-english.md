@@ -2805,7 +2805,7 @@ The map (Fig. 56) represents the sequence which the discussion has shown to be t
 12\. Great Comet 1882; Copeland.  
 11\. Comet _b_ 1881; Huggins.  
 10\. Comet 1 1882; Vogel.  
-9\. Comet 1 1868;Huggins.  
+9\. Comet 1 1868; Huggins.  
 8\. Coggia's Comet 1874; Vogel.  
 7\. Comet 3 1868; Huggins.  
 6\. Comet 3 1881; Copeland.  
