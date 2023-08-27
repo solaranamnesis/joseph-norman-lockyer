@@ -1642,7 +1642,7 @@ Under these circumstances the earth in movement in its orbit, at the rate of abo
 
 If these meteoritic bodies are equally distributed and are going in the same direction as the earth, but moving more quickly, they would follow and catch the earth; if they were travelling in the same direction as the earth, but more slowly, we should overtake them, and the two sides of the earth separated by a plane at right angles to the tangent to the part of the orbit along which it is moving at the time (see Fig. 25) would experience a different condition. One side would be bombarded by the greater number of meteorites in the former case, while in the latter the forward half only would be affected. The assumption, however, is that they are travelling in all directions; hence the numbers which fall on the front hemisphere compared with those that fall on the opposite one --- in other words, the numbers seen at sunrise as compared with those seen at sunset --- must depend wholly on the velocity of the earth as compared with the mean velocity of the meteorites.
 
-The point of space towards which the earth is travelling at any moment, shown in Fig. 25, has been called "the apex of the earth's way"•; the point of space it is leaving the "anti-apex."*
+The point of space towards which the earth is travelling at any moment, shown in Fig. 25, has been called "the apex of the earth's way"; the point of space it is leaving the "anti-apex."*
 
 *) These terms were suggested by Professor Pritchard. In 1866 Schiaparelli suggested _point de mire_. Quite recently, Professor Newton, of Yale, has suggested "goal" and "quit."
 
