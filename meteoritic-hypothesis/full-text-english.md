@@ -738,6 +738,8 @@ If the temperature of the meteoritic particles be kept sufficiently low, we see 
 
 If under similar conditions the temperature is increased, the spectrum of carbon begins to be visible, indicating that, associated with the hydrogen, there is some compound (or compounds) of carbon in the meteorite which requires a higher temperature to bring it out, but which is displayed when that higher temperature is employed. The carbonaceous structure of some meteorites has already been determined on other grounds.
 
+[Fig. 9. --- Arrangement of Apparatus for observing Glow Spectra of Meteorites.](https://cdn.solaranamnesis.com/Lockyer/Fig-9.jpeg)
+
 If we carry the heating a little further still, and, instead of leaving the particles relatively cold and dark while the current is passing, we apply a higher temperature outside the tube by means of the Bunsen burner, then we get the luminous vapours of some constituents of the meteorite added to the spectra of hydrogen and carbon.
 
 What luminous vapours do we get first, and which last? The experiment is a very interesting one, and may certainly be carried on in a tube such as that described until a pretty considerable development of the spectrum is obtained. When particles of a meteorite are treated in this way the first substance which, after the hydrogen and carbon, makes itself obviously visible is magnesium derived from the olivine, that substance which exists in the greatest quantity in the stones, and in the schreibersite which exists in the irons.
