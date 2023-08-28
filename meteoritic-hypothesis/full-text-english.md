@@ -6616,6 +6616,7 @@ R Leonis Minoris
 R Ursæ Majoris  
 R Corvi  
 W Cygni  
+Group not yet determined.  
 S Cassiopeiæ  
 R Arietis  
 R Orionis  
