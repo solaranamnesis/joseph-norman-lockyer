@@ -6199,7 +6199,11 @@ On Chandler's colour scale 0 corresponds to pure white, 1 to white very slightly
 
 The colour notation employed by Dunér is as follows ---
 
-Rrrj|Almost absolute red.  Rrj|Red-yellow foncé.  Rj|Red-yellow.  Jr|Yellow-red.  Jjr|Clear yellow-red.
+Rrrj|Almost absolute red.  
+Rrj|Red-yellow foncé.  
+Rj|Red-yellow.  
+Jr|Yellow-red.  
+Jjr|Clear yellow-red.
 
 In order to bring these data in relation to the various species, I give with each variable the number expressing the species to which it belongs. In some cases the details have not been sufficient to assign the star to a definite species, but have been enough to determine whether it was near the first (Species 1) or the last (Species 15). In such cases the words "early" or "late" are appended. Where the species of a star is doubtful, the word "indeterminate" expresses that fact.
 
