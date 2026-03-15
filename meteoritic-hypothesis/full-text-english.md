@@ -1120,6 +1120,10 @@ Excluding for the present Gyllenskiöld's observations, the general results arri
 
 *) This means brightest fluting.
 
+*) This means brightest fluting.
+
+*) This means brightest fluting.
+
 *) Origin not determined, but the line is seen in the spectrum of the Limerick meteorite.
 
 [Fig. 15. --- Map showing the Sequence of Spectra in a Large Air-Vacuum Tube as the Pressure is reduced.](https://cdn.solaranamnesis.com/Lockyer/Fig-15.jpeg)
@@ -1547,6 +1551,8 @@ Year.|Day on which the star-shower was seen.|Paris dates and hours.* d. h.
 1863-1868|November 14|13 14  
 
 *) H. A. Newton, _Bul. Ac. R. Belg._, 17. No. 6.
+
+*) In many countries the change from old to new style was made in this interval, commencing from 1582 in Spain, Portugal, and Italy.
 
 *) In many countries the change from old to new style was made in this interval, commencing from 1582 in Spain, Portugal, and Italy.
 
@@ -3509,7 +3515,8 @@ In the spectrum of the Dumbbell nebula in Vulpecula Dr. Huggins only saw one bri
 The Andromeda nebula and its bright companion were also observed. Both these objects gave exactly similar spectra, of which the following is Dr. Huggins's description:* "The spectrum appears to end abruptly in the orange, and throughout its length is not uniform, but is evidently crossed either by lines of absorption or by bright lines." But there were no indications of the bright lines that had been seen in the other nebulæ.
 
 *) _Ibid._ p. 441.
- From these observations Dr. Huggins concluded* that nebulæ, which gave a spectrum of bright lines, could not be regarded as aggregations of suns. In his words: "We have in these objects to do no longer with a special modification only of our own type of suns, but find ourselves in the presence of objects possessing a distinct and peculiar plan of structure."
+
+From these observations Dr. Huggins concluded* that nebulæ, which gave a spectrum of bright lines, could not be regarded as aggregations of suns. In his words: "We have in these objects to do no longer with a special modification only of our own type of suns, but find ourselves in the presence of objects possessing a distinct and peculiar plan of structure."
 
 *) _Ibid._ p. 442.
 
@@ -5037,7 +5044,6 @@ In this star, therefore, we have continuous spectrum from the meteorites; carbon
 
 *) Vogel's results are given in the _Publicationen des Astrophysikalischen Observatoriums zu Potsdam_, vol. 4., No. 14, p. 19.
 
-
 _γ Cassiopeiæ._ --- Secchi at the very commencement of his work at stellar spectra noticed the bright lines in the spectrum of this star. He records the presence of bright lines of hydrogen and of the bright D3 line.*
 
 *) _Bull. Météorol. du Collège Romain_, 31st August 1866, p. 108.
@@ -6046,11 +6052,11 @@ The number of objects of Group 2 observed by Dunér, and recorded in his admirab
 
 Further, while by the hypothesis there is no limit to the increase of luminosity, the variability presented by these objects is remarkable for its great range. The light may be stated in the most general terms to vary about six magnitudes --- from the sixth to the twelfth. This, I think, is a fair average; sometimes a difference of eight magnitudes has been observed; the small number of cases with a smaller variation I shall refer to afterwards. A variation of six magnitudes means roughly that the variable at its maximum is somewhere about 250 times brighter than at its minimum; a variation of eight magnitudes means that it is 1600 times* brighter at maximum than minimum.
 
-*) These values are obtained by the formula L(m) = (2.512)^n * L(m+n).  
+*) These values are obtained by the formula L(m) = (2.512)^n × L(m+n).  
 For differences of 5, 6, 7, and 8 mag we get  
-L(m) = 100.02 * L(m+5)  = 251.24 * L(m+6)  
-= 631.11 * L(m+7)  
-= 1585.35 * L(m+8)  
+L(m) = 100.02 × L(m+5)  = 251.24 × L(m+6)  
+= 631.11 × L(m+7)  
+= 1585.35 × L(m+8)  
 L(m) = light of a star of magnitude m.  
 L(m+n) = light of a star n magnitudes fainter.
 
@@ -6519,23 +6525,23 @@ It is very important that I should point out that for this method of direct inte
 
 Taking the light of a star of magnitude m as a unit, and using the formula ---
 
-L(m-n) = (2.512)^n * L(m),
+L(m-n) = (2.512)^n × L(m),
 
 in which L(m) represents the light of a star of magnitude _m_ and L(m-n) the light of a star _n_ magnitude brighter, we get ---
 
-L(m-1) = 2.51 * L(m)  
-L(m-2) = 6.31 * L(m)  
-L(m-3) = 15.85 * L(m)  
-L(m-4) = 39.78 * L(m)  
-L(m-5) = 100.02 * L(m).
+L(m-1) = 2.51 × L(m)  
+L(m-2) = 6.31 × L(m)  
+L(m-3) = 15.85 × L(m)  
+L(m-4) = 39.78 × L(m)  
+L(m-5) = 100.02 × L(m).
 
 The amount of light to be added for the different magnitudes will, therefore, be as follows ---
 
-Addition for one magnitude = (2.51 - 1) * L(m) = 1.51 * L(m)  
-Addition for the next magnitude = (6.31 - 2.51) * L(m) = 3.80 * L(m)  
-Addition for the next magnitude = (15.85 - 6.31) * L(m) = 9.54 * L(m)  
-Addition for the next magnitude = (39.78 - 15.85) * L(m) = 23.93 * L(m)  
-Addition for the next magnitude = (100.02 - 39.78) * L(m) = 60.24 * L(m)  
+Addition for one magnitude = (2.51 - 1) × L(m) = 1.51 × L(m)  
+Addition for the next magnitude = (6.31 - 2.51) × L(m) = 3.80 × L(m)  
+Addition for the next magnitude = (15.85 - 6.31) × L(m) = 9.54 × L(m)  
+Addition for the next magnitude = (39.78 - 15.85) × L(m) = 23.93 × L(m)  
+Addition for the next magnitude = (100.02 - 39.78) × L(m) = 60.24 × L(m)  
 
 It is obvious that these figures are in the same proportion to each other as the numbers representing the light of stars of different magnitudes, and if in our diagrams we take a certain length of line to represent the added light equivalent to one magnitude, about 2 1/2 times this will represent the added light for the next magnitude, and each succeeding magnitude will be represented by a line 2 1/2 times as long as the preceding one. A scale of this kind must be adopted in integrating the effects of two sources of added light for the reason already stated. Thus, while the amount of light to be added to a sixth magnitude star, to take an instance, to increase it to the fifth is 1 1/2 units, the number of the same units to be added to a fourth magnitude star to make it a third is 9 1/2. Hence 1 1/2 units, which raise a star of the sixth to the fifth magnitude --- that is, one whole magnitude --- would only increase a fourth magnitude star by about one-sixth of a magnitude.
 
