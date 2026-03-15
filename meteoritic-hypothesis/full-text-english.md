@@ -2325,7 +2325,7 @@ Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.
 558|Winnecke's 1877|Copeland*|May 5, 1877|Apr. 17, 1877|0.007753  
 557|Great Comet of 1882|Copeland*|Oct. 22, 23|Sept. 17, 1882|0.9499  
 
-* _Bothk. Beob._, vol. 1. p. 60.
+*) _Bothk. Beob._, vol. 1. p. 60.
 
 *) _Ibid._, p. 61.
 
@@ -2347,7 +2347,7 @@ Wavelengths.|Name of Comet.|Observer.|Date of Observation.|P. P.|P. D.
 563, 556, 546|Comet 3 1881|Copeland*|July 27|June 16, 1881|0.7345  
 561, 557, 544|Comet 4 1881|Copeland*|August 22|August 22|0.6311
 
-* _Copernicus_, vol. 2. p. 225.
+*) _Copernicus_, vol. 2. p. 225.
 
 *) _Ibid._ p. 228.
 
